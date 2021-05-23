@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Chinese website title...</title>
+    <link>https://examplesite.org/zh/categories/</link>
+    <description>Recent content in Categories on Chinese website title...</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>zh-Hans</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    
+	    <atom:link href="https://examplesite.org/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
