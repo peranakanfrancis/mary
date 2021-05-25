@@ -15,7 +15,7 @@ day_night = true
 font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "The Church of Holy Name of Mary Permatang Tinggi is where anyone can be transformed by the story of Jesus. Come worship Jesus with us, you may come in as a stranger but you’ll leave as family."
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
@@ -53,13 +53,13 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
-address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+email = "info@churchofholymary.com"
+phone = "+6045887799"
+address = "Jalan Besar, Permatang Tinggi, 14000 Bukit Mertajam, Pulau Pinang  ([Locate with Google Maps](https://goo.gl/maps/KrdspqMCE5Ph75Qe7))"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00"""
+office_hours = """Tuesday - Sunday 10AM to 5PM // <br>
+                  Closed on Monday"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com"
@@ -67,10 +67,10 @@ appointment_url = "https://calendly.com"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  {icon = "facebook-f", icon_pack = "fab", name = "Join FB Group", link = "https://www.facebook.com/groups/226337511747"},
+  {icon = "facebook-messenger", icon_pack = "fab", name = "Like FB Page", link = "https://www.facebook.com/messages/t/210084349040246"},
+  {icon = "google", icon_pack = "fab", name = "Locate on Google Maps", link = "https://goo.gl/maps/KrdspqMCE5Ph75Qe7"},
+  {icon = "whatsapp", icon_pack = "fab", name = "Send us WhatsApp", link = "https://wa.link/sfi0w8"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
@@ -90,9 +90,10 @@ contact_links = [
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
 map = 2
-map_api_key = "AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-latitude = "37.4275"
-longitude = "-122.1697"
+map_api_key = "AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ" #2
+# map_api_key = "AIzaSyDWCflAaXImeZKEr_K4texSH6sB_QIVQyY" #1
+latitude = "5.2947"
+longitude = "100.4795"
 zoom = 15
 
 ############################
@@ -154,7 +155,7 @@ sharing = true
   #   0: No search engine
   #   1: academia (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 0
+  engine = 1
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.

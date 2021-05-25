@@ -2,614 +2,574 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.org/zh/courses/example/example1/</loc>
+    <loc>https://mary2.netlify.app/zh/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/courses/example/example1/"
+                href="https://mary2.netlify.app/courses/example/example1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/courses/example/example1/"
+                href="https://mary2.netlify.app/zh/courses/example/example1/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/courses/example.1/example3/</loc>
+    <loc>https://mary2.netlify.app/zh/courses/example.1/example3/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/courses/example.1/example3/"
+                href="https://mary2.netlify.app/courses/example.1/example3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/courses/example.1/example3/"
+                href="https://mary2.netlify.app/zh/courses/example.1/example3/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/courses/example.2/example3/</loc>
+    <loc>https://mary2.netlify.app/zh/courses/example.2/example3/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/courses/example.2/example3/"
+                href="https://mary2.netlify.app/courses/example.2/example3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/courses/example.2/example3/"
+                href="https://mary2.netlify.app/zh/courses/example.2/example3/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/courses/example.1/</loc>
+    <loc>https://mary2.netlify.app/zh/courses/example.1/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/courses/example.1/"
+                href="https://mary2.netlify.app/courses/example.1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/courses/example.1/"
+                href="https://mary2.netlify.app/zh/courses/example.1/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/courses/example.2/</loc>
+    <loc>https://mary2.netlify.app/zh/courses/example.2/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/courses/example.2/"
+                href="https://mary2.netlify.app/courses/example.2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/courses/example.2/"
+                href="https://mary2.netlify.app/zh/courses/example.2/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/courses/example/</loc>
+    <loc>https://mary2.netlify.app/zh/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/courses/example/"
+                href="https://mary2.netlify.app/courses/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/courses/example/"
+                href="https://mary2.netlify.app/zh/courses/example/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/courses/example.2/example4/</loc>
+    <loc>https://mary2.netlify.app/zh/courses/example.2/example4/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/courses/example.2/example4/"
+                href="https://mary2.netlify.app/courses/example.2/example4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/courses/example.2/example4/"
+                href="https://mary2.netlify.app/zh/courses/example.2/example4/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/courses/example/example2/</loc>
+    <loc>https://mary2.netlify.app/zh/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/courses/example/example2/"
+                href="https://mary2.netlify.app/courses/example/example2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/courses/example/example2/"
+                href="https://mary2.netlify.app/zh/courses/example/example2/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/courses/example.1/example4/</loc>
+    <loc>https://mary2.netlify.app/zh/courses/example.1/example4/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/courses/example.1/example4/"
+                href="https://mary2.netlify.app/courses/example.1/example4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/courses/example.1/example4/"
+                href="https://mary2.netlify.app/zh/courses/example.1/example4/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/</loc>
+    <loc>https://mary2.netlify.app/zh/talk/coding/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/"
+                href="https://mary2.netlify.app/talk/coding/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/"
+                href="https://mary2.netlify.app/zh/talk/coding/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/talk/coding/</loc>
+    <loc>https://mary2.netlify.app/zh/talk/qualitative/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/talk/coding/"
+                href="https://mary2.netlify.app/talk/qualitative/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/talk/coding/"
+                href="https://mary2.netlify.app/zh/talk/qualitative/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/talk/qualitative/</loc>
+    <loc>https://mary2.netlify.app/zh/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/talk/qualitative/"
+                href="https://mary2.netlify.app/talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/talk/qualitative/"
+                href="https://mary2.netlify.app/zh/talk/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/talk/</loc>
+    <loc>https://mary2.netlify.app/zh/talk/synthesizing/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/talk/"
+                href="https://mary2.netlify.app/talk/synthesizing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/talk/"
+                href="https://mary2.netlify.app/zh/talk/synthesizing/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/talk/synthesizing/</loc>
+    <loc>https://mary2.netlify.app/zh/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/talk/synthesizing/"
+                href="https://mary2.netlify.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/talk/synthesizing/"
+                href="https://mary2.netlify.app/zh/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/courses/</loc>
+    <loc>https://mary2.netlify.app/zh/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/courses/"
+                href="https://mary2.netlify.app/courses/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/courses/"
+                href="https://mary2.netlify.app/zh/courses/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/authors/admin/</loc>
+    <loc>https://mary2.netlify.app/zh/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/authors/admin/"
+                href="https://mary2.netlify.app/authors/admin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/authors/admin/"
+                href="https://mary2.netlify.app/zh/authors/admin/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/publication_types/3/</loc>
+    <loc>https://mary2.netlify.app/zh/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://examplesite.org/publication_types/3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://examplesite.org/zh/publication_types/3/"
-                />
   </url><url>
-    <loc>https://examplesite.org/zh/publication/preprint/</loc>
+    <loc>https://mary2.netlify.app/zh/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://examplesite.org/publication/preprint/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://examplesite.org/zh/publication/preprint/"
-                />
   </url><url>
-    <loc>https://examplesite.org/zh/authors/</loc>
+    <loc>https://mary2.netlify.app/zh/authors/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/authors/"
+                href="https://mary2.netlify.app/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/authors/"
+                href="https://mary2.netlify.app/zh/authors/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/publication_types/</loc>
+    <loc>https://mary2.netlify.app/zh/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/publication_types/"
+                href="https://mary2.netlify.app/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/publication_types/"
+                href="https://mary2.netlify.app/zh/publication_types/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/publication/</loc>
+    <loc>https://mary2.netlify.app/zh/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/publication/"
+                href="https://mary2.netlify.app/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/publication/"
+                href="https://mary2.netlify.app/zh/publication/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/tags/source-themes/</loc>
+    <loc>https://mary2.netlify.app/zh/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/tags/source-themes/"
+                href="https://mary2.netlify.app/tags/source-themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/tags/source-themes/"
+                href="https://mary2.netlify.app/zh/tags/source-themes/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/tags/</loc>
+    <loc>https://mary2.netlify.app/zh/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/tags/"
+                href="https://mary2.netlify.app/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/tags/"
+                href="https://mary2.netlify.app/zh/tags/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/post/jupyter/</loc>
+    <loc>https://mary2.netlify.app/zh/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/post/jupyter/"
+                href="https://mary2.netlify.app/post/jupyter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/post/jupyter/"
+                href="https://mary2.netlify.app/zh/post/jupyter/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/post/</loc>
+    <loc>https://mary2.netlify.app/zh/post/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/post/"
+                href="https://mary2.netlify.app/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/post/"
+                href="https://mary2.netlify.app/zh/post/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/slides/</loc>
+    <loc>https://mary2.netlify.app/zh/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/slides/"
+                href="https://mary2.netlify.app/slides/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/slides/"
+                href="https://mary2.netlify.app/zh/slides/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/slides/example/</loc>
+    <loc>https://mary2.netlify.app/zh/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/slides/example/"
+                href="https://mary2.netlify.app/slides/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/slides/example/"
+                href="https://mary2.netlify.app/zh/slides/example/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/project/artificial-intelligence/</loc>
+    <loc>https://mary2.netlify.app/zh/project/artificial-intelligence/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/project/artificial-intelligence/"
+                href="https://mary2.netlify.app/project/artificial-intelligence/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/project/artificial-intelligence/"
+                href="https://mary2.netlify.app/zh/project/artificial-intelligence/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/tags/deep-learning/</loc>
+    <loc>https://mary2.netlify.app/zh/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/tags/deep-learning/"
+                href="https://mary2.netlify.app/tags/deep-learning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/tags/deep-learning/"
+                href="https://mary2.netlify.app/zh/tags/deep-learning/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/project/deep-learning/</loc>
+    <loc>https://mary2.netlify.app/zh/project/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/project/deep-learning/"
+                href="https://mary2.netlify.app/project/deep-learning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/project/deep-learning/"
+                href="https://mary2.netlify.app/zh/project/deep-learning/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/tags/demo/</loc>
+    <loc>https://mary2.netlify.app/zh/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/tags/demo/"
+                href="https://mary2.netlify.app/tags/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/tags/demo/"
+                href="https://mary2.netlify.app/zh/tags/demo/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/project/external-project/</loc>
+    <loc>https://mary2.netlify.app/zh/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/project/external-project/"
+                href="https://mary2.netlify.app/project/external-project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/project/external-project/"
+                href="https://mary2.netlify.app/zh/project/external-project/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/tags/human/</loc>
+    <loc>https://mary2.netlify.app/zh/tags/human/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/tags/human/"
+                href="https://mary2.netlify.app/tags/human/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/tags/human/"
+                href="https://mary2.netlify.app/zh/tags/human/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/project/internal-project/</loc>
+    <loc>https://mary2.netlify.app/zh/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/project/internal-project/"
+                href="https://mary2.netlify.app/project/internal-project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/project/internal-project/"
+                href="https://mary2.netlify.app/zh/project/internal-project/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/project/</loc>
+    <loc>https://mary2.netlify.app/zh/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/project/"
+                href="https://mary2.netlify.app/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/project/"
+                href="https://mary2.netlify.app/zh/project/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/project/robotics/</loc>
+    <loc>https://mary2.netlify.app/zh/project/robotics/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/project/robotics/"
+                href="https://mary2.netlify.app/project/robotics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/project/robotics/"
+                href="https://mary2.netlify.app/zh/project/robotics/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/tags/robotics/</loc>
+    <loc>https://mary2.netlify.app/zh/tags/robotics/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/tags/robotics/"
+                href="https://mary2.netlify.app/tags/robotics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/tags/robotics/"
+                href="https://mary2.netlify.app/zh/tags/robotics/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/project/skin-cancer-ai/</loc>
+    <loc>https://mary2.netlify.app/zh/project/skin-cancer-ai/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/project/skin-cancer-ai/"
+                href="https://mary2.netlify.app/project/skin-cancer-ai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/project/skin-cancer-ai/"
+                href="https://mary2.netlify.app/zh/project/skin-cancer-ai/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/post/snail/</loc>
+    <loc>https://mary2.netlify.app/zh/post/snail/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/post/snail/"
+                href="https://mary2.netlify.app/post/snail/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/post/snail/"
+                href="https://mary2.netlify.app/zh/post/snail/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/tags/academia/</loc>
+    <loc>https://mary2.netlify.app/zh/tags/academia/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/tags/academia/"
+                href="https://mary2.netlify.app/tags/academia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/tags/academia/"
+                href="https://mary2.netlify.app/zh/tags/academia/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/post/getting-started/</loc>
+    <loc>https://mary2.netlify.app/zh/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/post/getting-started/"
+                href="https://mary2.netlify.app/post/getting-started/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/post/getting-started/"
+                href="https://mary2.netlify.app/zh/post/getting-started/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/publication_types/2/</loc>
+    <loc>https://mary2.netlify.app/zh/publication_types/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/publication_types/2/"
+                href="https://mary2.netlify.app/publication_types/2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/publication_types/2/"
+                href="https://mary2.netlify.app/zh/publication_types/2/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/publication/journal-article/</loc>
+    <loc>https://mary2.netlify.app/zh/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/publication/journal-article/"
+                href="https://mary2.netlify.app/publication/journal-article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/publication/journal-article/"
+                href="https://mary2.netlify.app/zh/publication/journal-article/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/authors/robert-ford/</loc>
+    <loc>https://mary2.netlify.app/zh/authors/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/authors/robert-ford/"
+                href="https://mary2.netlify.app/authors/robert-ford/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/authors/robert-ford/"
+                href="https://mary2.netlify.app/zh/authors/robert-ford/"
                 />
   </url><url>
-    <loc>https://examplesite.org/zh/publication_types/1/</loc>
+    <loc>https://mary2.netlify.app/zh/publication_types/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://examplesite.org/publication_types/1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://examplesite.org/zh/publication_types/1/"
-                />
   </url><url>
-    <loc>https://examplesite.org/zh/publication/conference-paper/</loc>
+    <loc>https://mary2.netlify.app/zh/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://examplesite.org/publication/conference-paper/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://examplesite.org/zh/publication/conference-paper/"
-                />
   </url><url>
-    <loc>https://examplesite.org/zh/categories/</loc>
+    <loc>https://mary2.netlify.app/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.org/categories/"
+                href="https://mary2.netlify.app/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://examplesite.org/zh/categories/"
+                href="https://mary2.netlify.app/zh/categories/"
                 />
   </url>
 </urlset>

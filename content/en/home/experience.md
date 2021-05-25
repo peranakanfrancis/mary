@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
-subtitle = "PREVIOUS ASSOCIATIONS THAT HELPED TO GATHER EXPERIENCE"
+title = "Diocesan Priesthood, Brothers & Sisters"
+subtitle = "For many are called, but few are chosen. - Matthew 22:14"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "May 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -18,36 +18,36 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "REV FR LOUIS LOI"
+  company = "Penang Major Seminary"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Professed 2018"
+  date_start = "2021-03-25"
   date_end = ""
   description = """
   Responsibilities include:
-  
+
   * Analysing
   * Modelling
   * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "SISTER ELIZABETH"
+  company = "Franciscan Missionaries Of The Divine Motherhood (FMDM)"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Professed 1992"
+  date_start = "2020-01-01"
+  date_end = ""
+  description = """Taught RCIA and community service."""
 
-[[experience]]
-  title = "Professor"
-  company = "University Y"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = "2016-12-30"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-  
+# [[experience]]
+#  title = "Professor"
+#  company = "University Y"
+#  company_url = ""
+#  location = "California"
+#  date_start = "2017-01-01"
+#  date_end = "2016-12-30"
+#  description = """Taught electronic engineering and researched semiconductor physics."""
+
 +++

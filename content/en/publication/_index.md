@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Story of The Church of Holy Name of Mary
 
 # View.
 #   1 = List

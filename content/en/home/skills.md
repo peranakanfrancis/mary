@@ -5,37 +5,37 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
-subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
+title = "Fundraising for New Church"
+subtitle = "Ninety years later activity centre, to cater for an even larger community that is expected to expand further due to the housing developments and the new township that is emerging in area close to the parish. [DONATE HERE](#)"
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "chart-line"
+  icon = "search-dollar"
   icon_pack = "fas"
-  name = "Analysis"
-  parcent = "90%"
-  
+  name = "Total Estimated RM6.8M"
+  parcent = "100%"
+
 [[feature]]
-  icon = "user-secret"
+  icon = "piggy-bank"
   icon_pack = "fas"
-  name = "Leadership"
-  parcent = "80%"  
-  
+  name = "Raised more than RM3.4M"
+  parcent = "60%"  
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "hand-holding-usd"
   icon_pack = "fas"
-  name = "Photography"
-  parcent = "70%"
-  
+  name = "Amount needed RM1.4M"
+  parcent = "10%"
+
 [[feature]]
-  icon = "searchengin"
-  icon_pack = "fab"
-  name = "Research"
-  parcent = "95%"
+  icon = "church"
+  icon_pack = "fas"
+  name = "Funded from Penang Diocesan RM2M"
+  parcent = "100%"
 
 +++

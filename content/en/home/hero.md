@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Academia"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "user-2.jpg"
+hero_media = "home/banner.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -18,11 +18,11 @@ hero_media = "user-2.jpg"
 
   # Background color.
   color = "#fff"
-  
+
   # Background gradient.
   # gradient_start = "#4bb4e3"
   # gradient_end = "#000"
-  
+
   # Background image.
   # image = ""  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -34,14 +34,17 @@ hero_media = "user-2.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [btn]
-  url = "/authors/admin"
-  label = "Know more"
-  
+  url = "#"
+  label = "Mass Registration "
+
 [btn_alt]
-  url = "#contact"
-  label = "Contact me"
+  url = "#"
+  label = "Mass Offering"
 
 +++
-## My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
+## The angel went to her and said, Greetings, you who are highly favored! The Lord is with you. **- Luke 1:28**
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+Welcome to ***The Church of The Holy Name of Mary***. We are located short distance from Penang-Kuala Lumpur North-South Expressway in Permatang Tinggi.
+
+
+Over 1700 families strong, our parish serves the small town in Central Seberang Perai District and the surrounding area. In addition to Daily Mass and the Sacraments, we offer all sacraments and outreach ministries.  Come explore who we are and what we have to offer to help you grow in holiness and your Catholic faith.
