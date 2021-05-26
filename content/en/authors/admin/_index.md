@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "About us"
+name: "The Church of Holy Name of Mary"
 avatar_image: "home/church4.jpg"
 # Username (this should match the folder name)
 authors:
@@ -14,11 +14,11 @@ btn:
 superuser: true
 
 # Role/position
-role: Parish
+role: Parish church
 
 # Organizations/Affiliations
 organizations:
-- name: The Church of Holy Name of Mary Permatang Tinggi
+- name: Permatang Tinggi
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

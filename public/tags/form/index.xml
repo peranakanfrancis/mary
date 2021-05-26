@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Form on Church of Holy Name of Mary</title>
+    <link>https://mary2.netlify.app/tags/form/</link>
+    <description>Recent content in Form on Church of Holy Name of Mary</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year} The Church of Holy Name of Mary Permatang Tinggi</copyright>
+    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://mary2.netlify.app/tags/form/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Online Donation Form</title>
+      <link>https://mary2.netlify.app/project/donation-form/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mary2.netlify.app/project/donation-form/</guid>
+      <description>&lt;h4 id=&#34;payment-method&#34;&gt;Payment method&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Credit card&lt;/li&gt;
+&lt;li&gt;Debit card&lt;/li&gt;
+&lt;li&gt;Google Pay&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;div id=&#34;CustomDonationsForm&#34;&gt;&lt;/div&gt;
+
+&lt;script&gt;
+  var LoadCDScripts = function () {
+    var cdscript = document.createElement(&#39;script&#39;);
+    cdscript.onerror = function (e) {
+        document.head.removeChild(this);
+        setTimeout(LoadCDScripts, 1750);
+    };
+    cdscript.onload = function () {
+        CustomDonations.BuildForm({
+        account: &#39;4ae5828a-7f44-4536-9244-00e00978bd10&#39;,
+        form: &#39;e3f769bb-1da2-4c91-bfcd-c59227944c91&#39;,
+        allocation: null,  
+        memberId: null,  
+        apiVersion: &#39;v1&#39;,
+        interval: null,  
+        loadingText: &#39;Loading Secure Form...&#39;,
+                paymentVersion: 1,
+        baseUrl: &#39;https://api.customdonations.com&#39;,
+        mode: &#39;live&#39;,  
+      });
+    };
+    cdscript.src = &#34;https://api.customdonations.com/v1/js/form-builder.min.js?v=&#34; + new Date().getTime();
+    document.head.appendChild(cdscript);
+  }
+  LoadCDScripts();
+&lt;/script&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

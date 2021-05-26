@@ -19,7 +19,8 @@
       
       <guid>https://mary2.netlify.app/zh/project/fundraising-for-new-church/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;你们岂不知为圣事劳碌的就吃殿中的物麽？伺候祭坛的就分领坛上的物麽？主也是这样命定，叫传福音的靠着福音养生。-【1哥林多前书 9：13-14&lt;/p&gt;
+&lt;p&gt;你们岂不知为圣事劳碌的就吃殿中的物麽？伺候祭坛的就分领坛上的物麽？主也是这样命定，叫传福音的靠着福音养生。-【1哥林多前书 9：13-14
+&lt;a href=&#34;../donation-form&#34;&gt;线上捐钱&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;峇冬丁宜圣母圣名堂开教已有百余年的历史,目前原有的教堂建立至今也有90年。时代的变迁,人事的变更,峇冬丁圣母圣登名堂依然扮演着照顾教徒们灵修生活的重要角色。&lt;/p&gt;
 &lt;p&gt;根据记录,峇都交弯是天主教在威省的起源地,天主教在威省的历史可追溯回大约190年前。1830年,从中国南来的天主教徒在峇都交弯落脚,教徒以农业种植为生,并在峇都交弯兴建第一座教堂,以及两所男校女校。后来因其它地区也开始开垦农地,一些教徒开始向外迁移,在1809年,天主教信仰传播到峇冬丁宜新村村。&lt;/p&gt;
@@ -119,37 +120,6 @@
 
   
 &lt;/div&gt;
-&lt;h3 id=&#34;线上捐款-行用卡银行卡谷歌付款&#34;&gt;线上捐款 （行用卡、银行卡、谷歌付款）&lt;/h3&gt;
-&lt;p&gt;原有的教堂已经无法容纳日益增多的教友，弥撒主日有许多教友只能在教堂外参与，所以我们需要各方面的筹款助建新的教堂。&lt;/p&gt;
-&lt;div id=&#34;CustomDonationsForm&#34;&gt;&lt;/div&gt;
-
-&lt;script&gt;
-  var LoadCDScripts = function () {
-    var cdscript = document.createElement(&#39;script&#39;);
-    cdscript.onerror = function (e) {
-        document.head.removeChild(this);
-        setTimeout(LoadCDScripts, 1750);
-    };
-    cdscript.onload = function () {
-        CustomDonations.BuildForm({
-        account: &#39;4ae5828a-7f44-4536-9244-00e00978bd10&#39;,
-        form: &#39;e3f769bb-1da2-4c91-bfcd-c59227944c91&#39;,
-        allocation: null,  
-        memberId: null,  
-        apiVersion: &#39;v1&#39;,
-        interval: null,  
-        loadingText: &#39;Loading Secure Form...&#39;,
-                paymentVersion: 1,
-        baseUrl: &#39;https://api.customdonations.com&#39;,
-        mode: &#39;live&#39;,  
-      });
-    };
-    cdscript.src = &#34;https://api.customdonations.com/v1/js/form-builder.min.js?v=&#34; + new Date().getTime();
-    document.head.appendChild(cdscript);
-  }
-  LoadCDScripts();
-&lt;/script&gt;
-
 </description>
     </item>
     

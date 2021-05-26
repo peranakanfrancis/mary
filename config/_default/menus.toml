@@ -14,7 +14,7 @@
   weight = 20
 
 [[main]]
-  name = "Sacraments"
+  name = "Topics"
   url = "#projects"
   weight = 30
 
@@ -33,15 +33,45 @@
   url = "#contact"
   weight = 60
 
-#[[main]]
-#  name = "dropdown"
-#  url = "#"
-#  hasChildren = true
+[[main]]
+  name = "Sacraments"
+  url = "sacraments"
+  hasChildren = true
 
-#[[main]]
-#  parent = "dropdown"
-#  name = "dropdown 1"
-#  url = "#"
+[[main]]
+  parent = "Sacraments"
+  name = "Baptism"
+  url = "sacraments/baptism"
+
+[[main]]
+  parent = "Sacraments"
+  name = "Communion"
+  url = "sacraments/communion"
+
+[[main]]
+  parent = "Sacraments"
+  name = "Confirmation"
+  url = "sacraments/confirmation"
+
+[[main]]
+  parent = "Sacraments"
+  name = "Matrimony"
+  url = "sacraments/matrimony"
+
+[[main]]
+  parent = "Sacraments"
+  name = "Reconciliation"
+  url = "sacraments/reconcialition"
+
+[[main]]
+  parent = "Sacraments"
+  name = "Anoiting"
+  url = "sacraments/anoiting"
+
+[[main]]
+  parent = "Sacraments"
+  name = "Holy Orders"
+  url = "sacraments/holy-orders"
 
 #[[main]]
 #  parent = "dropdown"

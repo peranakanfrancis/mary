@@ -1,6 +1,6 @@
 ---
 title: Fundraising for New Church
-summary: The church can no longer accommodate the increasing number of church members. Many church members can only participate outside of the church on Sunday Mass, therefore we need your kind support of fund-raising to help build a new church.
+summary: Parents' Day Fundraising Dinner has successfully launched and collected about RM2.1 millions.
 tags:
 - Fundraising
 date: "2021-05-25T00:00:00Z"
@@ -14,6 +14,7 @@ image:
 ---
 
 > Don't you realize that those who work in the temple get their meals from the offerings brought to the temple? And those who serve at the altar get a share of the sacrificial offerings. - [1 Corinthians 9:13]
+[Make Donation Here](../donation-form)
 
 ### Speech from Penang RT REV Dato Sebastian Francis DD Bishop
 Greetings in the Lord !
@@ -30,11 +31,4 @@ making the parent day fundraising dinner on 17.6.2018 a great success.
 Thank you. May God Bless You.
 
 
-
 {{< gallery >}}
-
-### Make a donation
-
-The church can no longer accommodate the increasing number of church members. Many church members can only participate outside of the church on Sunday Mass, therefore we need your kind support of fund-raising to help build a new church.
-
-{{< donation >}}

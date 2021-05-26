@@ -5,10 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Sacraments"
-subtitle = """
-The Sacraments are God’s action which He shows us the love that He gives for his sons and daughters. All them are established by God, and that is why He is the person who celebrates the Sacraments through different ways.
-"""
+title = "Topics"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -21,35 +19,27 @@ The Sacraments are God’s action which He shows us the love that He gives for h
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
 
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+  filter_default = 1
 
   [[content.filter_button]]
-    name = "Baptism"
-    tag = "Baptism"
+    name = "All"
+    tag = "*"
 
   [[content.filter_button]]
-    name = "Confirmation"
-    tag = "Confirmation"
+    name = "Sacraments"
+    tag = "sacraments"
 
   [[content.filter_button]]
-    name = "Communion"
-    tag = "Communion"
+    name = "Ministries"
+    tag = "ministry"
 
   [[content.filter_button]]
-    name = "Anoiting of The Sick"
-    tag = "Anoiting"
+    name = "Fundraising"
+    tag = "Fundraising"
 
   [[content.filter_button]]
-    name = "Reconciliation"
-    tag = "Reconciliation"
-
-  [[content.filter_button]]
-    name = "Marriage"
-    tag = "Marriage"
-
-  [[content.filter_button]]
-    name = "Holy Orders"
-    tag = "Holy Orders"
+    name = "Business"
+    tag = "business"
 
 
 [design]

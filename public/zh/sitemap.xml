@@ -4,120 +4,30 @@
   <url>
     <loc>https://mary2.netlify.app/zh/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mary2.netlify.app/courses/example/example1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://mary2.netlify.app/zh/courses/example/example1/"
-                />
   </url><url>
     <loc>https://mary2.netlify.app/zh/courses/example.1/example3/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mary2.netlify.app/courses/example.1/example3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://mary2.netlify.app/zh/courses/example.1/example3/"
-                />
   </url><url>
     <loc>https://mary2.netlify.app/zh/courses/example.2/example3/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mary2.netlify.app/courses/example.2/example3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://mary2.netlify.app/zh/courses/example.2/example3/"
-                />
   </url><url>
     <loc>https://mary2.netlify.app/zh/courses/example.1/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mary2.netlify.app/courses/example.1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://mary2.netlify.app/zh/courses/example.1/"
-                />
   </url><url>
     <loc>https://mary2.netlify.app/zh/courses/example.2/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mary2.netlify.app/courses/example.2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://mary2.netlify.app/zh/courses/example.2/"
-                />
   </url><url>
     <loc>https://mary2.netlify.app/zh/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mary2.netlify.app/courses/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://mary2.netlify.app/zh/courses/example/"
-                />
   </url><url>
     <loc>https://mary2.netlify.app/zh/courses/example.2/example4/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mary2.netlify.app/courses/example.2/example4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://mary2.netlify.app/zh/courses/example.2/example4/"
-                />
   </url><url>
     <loc>https://mary2.netlify.app/zh/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mary2.netlify.app/courses/example/example2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://mary2.netlify.app/zh/courses/example/example2/"
-                />
   </url><url>
     <loc>https://mary2.netlify.app/zh/courses/example.1/example4/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mary2.netlify.app/courses/example.1/example4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://mary2.netlify.app/zh/courses/example.1/example4/"
-                />
   </url><url>
     <loc>https://mary2.netlify.app/zh/talk/coding/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
@@ -184,6 +94,9 @@
                 href="https://mary2.netlify.app/zh/"
                 />
   </url><url>
+    <loc>https://mary2.netlify.app/zh/tags/fundrasing/</loc>
+    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mary2.netlify.app/zh/project/</loc>
     <lastmod>2021-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -226,18 +139,21 @@
     <loc>https://mary2.netlify.app/zh/tags/%E5%BB%BA%E6%96%B0%E5%A0%82%E5%8B%9F%E6%AC%BE/</loc>
     <lastmod>2021-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mary2.netlify.app/zh/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://mary2.netlify.app/zh/project/donation-form/</loc>
+    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mary2.netlify.app/courses/"
+                href="https://mary2.netlify.app/project/donation-form/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://mary2.netlify.app/zh/courses/"
+                href="https://mary2.netlify.app/zh/project/donation-form/"
                 />
+  </url><url>
+    <loc>https://mary2.netlify.app/zh/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://mary2.netlify.app/zh/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
@@ -299,16 +215,6 @@
   </url><url>
     <loc>https://mary2.netlify.app/zh/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mary2.netlify.app/tags/source-themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://mary2.netlify.app/zh/tags/source-themes/"
-                />
   </url><url>
     <loc>https://mary2.netlify.app/zh/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
@@ -399,19 +305,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://mary2.netlify.app/zh/tags/demo/"
-                />
-  </url><url>
-    <loc>https://mary2.netlify.app/zh/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mary2.netlify.app/project/external-project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://mary2.netlify.app/zh/project/external-project/"
                 />
   </url><url>
     <loc>https://mary2.netlify.app/zh/tags/human/</loc>
@@ -520,42 +413,12 @@
   </url><url>
     <loc>https://mary2.netlify.app/zh/publication_types/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mary2.netlify.app/publication_types/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://mary2.netlify.app/zh/publication_types/2/"
-                />
   </url><url>
     <loc>https://mary2.netlify.app/zh/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mary2.netlify.app/publication/journal-article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://mary2.netlify.app/zh/publication/journal-article/"
-                />
   </url><url>
     <loc>https://mary2.netlify.app/zh/authors/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mary2.netlify.app/authors/robert-ford/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://mary2.netlify.app/zh/authors/robert-ford/"
-                />
   </url><url>
     <loc>https://mary2.netlify.app/zh/publication_types/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>

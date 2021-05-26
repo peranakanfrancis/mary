@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Our Story"
+title = "About us"
 subtitle = "The Church of Holy Name of Mary is where anyone can be transformed by the story of Jesus. Come worship Jesus with us, you may come in as a stranger but you’ll leave as family."
 
 [content]
