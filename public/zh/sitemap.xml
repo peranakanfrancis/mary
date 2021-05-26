@@ -184,6 +184,48 @@
                 href="https://mary2.netlify.app/zh/"
                 />
   </url><url>
+    <loc>https://mary2.netlify.app/zh/project/</loc>
+    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mary2.netlify.app/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://mary2.netlify.app/zh/project/"
+                />
+  </url><url>
+    <loc>https://mary2.netlify.app/zh/tags/</loc>
+    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mary2.netlify.app/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://mary2.netlify.app/zh/tags/"
+                />
+  </url><url>
+    <loc>https://mary2.netlify.app/zh/project/fundraising-for-new-church/</loc>
+    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mary2.netlify.app/project/fundraising-for-new-church/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://mary2.netlify.app/zh/project/fundraising-for-new-church/"
+                />
+  </url><url>
+    <loc>https://mary2.netlify.app/zh/tags/%E5%BB%BA%E6%96%B0%E5%A0%82%E5%8B%9F%E6%AC%BE/</loc>
+    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mary2.netlify.app/zh/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -268,19 +310,6 @@
                 href="https://mary2.netlify.app/zh/tags/source-themes/"
                 />
   </url><url>
-    <loc>https://mary2.netlify.app/zh/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mary2.netlify.app/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://mary2.netlify.app/zh/tags/"
-                />
-  </url><url>
     <loc>https://mary2.netlify.app/zh/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -331,19 +360,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://mary2.netlify.app/zh/slides/example/"
-                />
-  </url><url>
-    <loc>https://mary2.netlify.app/zh/project/artificial-intelligence/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mary2.netlify.app/project/artificial-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://mary2.netlify.app/zh/project/artificial-intelligence/"
                 />
   </url><url>
     <loc>https://mary2.netlify.app/zh/tags/deep-learning/</loc>
@@ -424,17 +440,17 @@
                 href="https://mary2.netlify.app/zh/project/internal-project/"
                 />
   </url><url>
-    <loc>https://mary2.netlify.app/zh/project/</loc>
+    <loc>https://mary2.netlify.app/zh/tags/robotics/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mary2.netlify.app/project/"
+                href="https://mary2.netlify.app/tags/robotics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://mary2.netlify.app/zh/project/"
+                href="https://mary2.netlify.app/zh/tags/robotics/"
                 />
   </url><url>
     <loc>https://mary2.netlify.app/zh/project/robotics/</loc>
@@ -448,19 +464,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://mary2.netlify.app/zh/project/robotics/"
-                />
-  </url><url>
-    <loc>https://mary2.netlify.app/zh/tags/robotics/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mary2.netlify.app/tags/robotics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://mary2.netlify.app/zh/tags/robotics/"
                 />
   </url><url>
     <loc>https://mary2.netlify.app/zh/project/skin-cancer-ai/</loc>
