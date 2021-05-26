@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academia"
+title = "Welcome to The Church of Holy Name of Mary Permatang Tinggi"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "home/banner.png"
@@ -35,10 +35,10 @@ hero_media = "home/banner.png"
 #   Remove a link/note by deleting a cta/note block.
 [btn]
   url = "#"
-  label = "Mass Registration "
+  label = "Mass Registration"
 
 [btn_alt]
-  url = "#"
+  url = "project/mass-offering-form"
   label = "Mass Offering"
 
 +++

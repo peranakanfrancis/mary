@@ -27,7 +27,7 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Sacraments"
-    tag = "sacraments"
+    tag = "Sacraments"
 
   [[content.filter_button]]
     name = "Ministries"
