@@ -9,7 +9,7 @@ weight = 60  # Order that this section will appear.
 
 title = "Recent Posts"
 subtitle = """
-Our everyday lives are full of stories! How is God using the events of your life to teach you and those around you about who he is and how he is calling you to holiness? 
+Our everyday lives are full of stories! How is God using the events of your life to teach you and those around you about who he is and how he is calling you to holiness?
 """
 
 [content]

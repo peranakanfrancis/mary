@@ -8,7 +8,7 @@ tags: []
 categories: []
 date: "2019-02-05T00:00:00Z"
 featured: false
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -116,4 +116,4 @@ Open `index.md` in your text editor and edit the title etc. in the [front matter
 
 To set a [featured image](https://sourcethemes.com/academic/docs/managing-content/#featured-image), place an image named `featured` into your post's folder.
 
-For other tips, such as using math, see the guide on [writing content with academia](https://sourcethemes.com/academic/docs/writing-markdown-latex/). 
+For other tips, such as using math, see the guide on [writing content with academia](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

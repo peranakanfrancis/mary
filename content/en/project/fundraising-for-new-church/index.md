@@ -19,7 +19,7 @@ image:
 ### Speech from Penang RT REV Dato Sebastian Francis DD Bishop
 Greetings in the Lord !
 
-With joy and gratitude in our hearts, I invite you to join me in thanking the MEP Priests who journeyed with the communityof Permatang Tinggi from 1893 to 1914. The present Church of the Holy Name of Mary, Permatang Tinggi was built in 1928 during the tenure of Fr. Michael Seet, the first local priest, who served in the parish from 1914 to 1919, and again from 1921 to 1937. Ninety years later activity centre, to cater for an even larger community that is expected to expand further due to the housing developments and the new township that is emerging in areas close to the parish.
+With joy and gratitude in our hearts, I invite you to join me in thanking the MEP Priests who journeyed with the community of Permatang Tinggi from 1893 to 1914. The present Church of the Holy Name of Mary, Permatang Tinggi was built in 1928 during the tenure of Fr. Michael Seet, the first local priest, who served in the parish from 1914 to 1919, and again from 1921 to 1937. Ninety years later activity centre, to cater for an even larger community that is expected to expand further due to the housing developments and the new township that is emerging in areas close to the parish.
 
 I express my sincere thanks to you, the parishioners of the Church of the Holy Name of Mary, Permatang Tinggi, for your continuous efforts and generous contribution through your active participation and organization for the several fundraising activities throughout the year. You have raised more than RM3.4 million as of July 2018, for this project that is estimated to be RM6.8 million. I grant you my blessings as you continue to do the good works that you do in making this prohect a reality.
 

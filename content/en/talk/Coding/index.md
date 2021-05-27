@@ -13,7 +13,7 @@ date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2030-01-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -40,7 +40,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: 
+slides:
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

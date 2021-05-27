@@ -7,7 +7,7 @@ authors:
 - admin
 # resume download button
 btn:
-- url : ""
+- url : "publication/century-celebration"
   label : "Read more"
 
 # Is this the primary user of the site?
