@@ -48,30 +48,30 @@
   name = "Communion"
   url = "sacraments/communion"
 
-[[main]]
-  parent = "Sacraments"
-  name = "Confirmation"
-  url = "sacraments/confirmation"
+#[[main]]
+#  parent = "Sacraments"
+#  name = "Confirmation"
+#  url = "sacraments/confirmation"
+
+#[[main]]
+#  parent = "Sacraments"
+#  name = "Matrimony"
+#  url = "sacraments/matrimony"
+
+#[[main]]
+#  parent = "Sacraments"
+#  name = "Reconciliation"
+#  url = "sacraments/reconciliation"
 
 [[main]]
   parent = "Sacraments"
-  name = "Matrimony"
-  url = "sacraments/matrimony"
+  name = "Anointing"
+  url = "sacraments/anointing"
 
-[[main]]
-  parent = "Sacraments"
-  name = "Reconciliation"
-  url = "sacraments/reconcialition"
-
-[[main]]
-  parent = "Sacraments"
-  name = "Anoiting"
-  url = "sacraments/anoiting"
-
-[[main]]
-  parent = "Sacraments"
-  name = "Holy Orders"
-  url = "sacraments/holy-orders"
+#[[main]]
+#  parent = "Sacraments"
+#  name = "Holy Orders"
+#  url = "sacraments/holy-orders"
 
 #[[main]]
 #  parent = "dropdown"

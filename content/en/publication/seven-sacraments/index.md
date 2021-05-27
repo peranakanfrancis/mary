@@ -37,9 +37,9 @@ links:
  - name: "Communion"
    url: "sacraments/communion"
  - name: "Reconciliation"
-   url: "sacraments/reconcialition"
- - name: "Anoiting"
-   url: "sacraments/anoiting"
+   url: "sacraments/reconcilition"
+ - name: "Anointing"
+   url: "sacraments/anointing"
  - name: "Matrimony"
    url: "sacraments/matrimony"
  - name: "Holy Orders"
@@ -86,15 +86,17 @@ projects: []
 ---
 
 {{< youtube r2zKHSi54Uc >}}
+### What are the seven sacraments?
+The seven sacraments are [baptism](sacraments/baptism), [confirmation](sacraments/confirmation), [communion](sacraments/communion), [reconciliation](sacraments/reconciliation), [anointing](sacraments/anointing), [matrimony](sacraments/matrimony) and [holy orders](sacraments/holy-orders). They are divided into three categories: ***sacraments of initiatio*n**, ***sacraments of healing*** and ***sacraments of communion & mission***.
 
 ### Where did the sacraments originate?
 In the Bible, Christ gives his followers clear instructions on how to administer and receive each of the sacraments. This is seen through his work with the Apostles, healing the sick, parables, giving his body and blood to nourish our souls and forgiving sinners. The Church administers these holy sacraments as instructed, in order for all to worship God and receive His salvation.
 
 
-### The Sacraments of Initiation
+### 1. The Sacraments of Initiation
 The three sacraments of initiation are baptism, confirmation and Eucharist. Each is meant to strengthen your faith and forge a deeper relationship with God. Baptism frees you from original sin, confirmation strengthens your faith and Eucharist allows you to taste the body and blood of eternal life and be reminded of Christ’s love and sacrifice.
 
-#### 1. Baptism
+#### Baptism
 
 Baptism is the first sacrament where you become united with Christ and the Church – no other sacrament can be received without it. A priest performs this rite by immersing the baptismal candidate into water, therefore cleansing their original sin through water and the word. The candidate traditionally wears white garments, a candle is lit and they are anointed with sacred chrism. This is the first step in your relationship with God and Christ. Usually this takes place when the candidate is a baby, however, it’s never too late and you’re never too old to begin your journey with God. It’s common to have a baptism celebration with friends and family afterwards and give the child baptism keepsakes that will help them grow in their faith.
 
@@ -105,7 +107,7 @@ Baptism is the first sacrament where you become united with Christ and the Churc
 
 > And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house. And he took them the same hour of the night, and washed their stripes; and was baptized, he and all his, straightway. Acts 16:31, 33
 
-#### 2. Confirmation
+#### Confirmation
 
 This is the sacrament that follows Baptism as part of the initiation process with God and the Church, where the candidate receives the gift of the Holy Spirit and continues their journey with Christ. During Confirmation, the candidate is anointed on the forehead with chrism by a bishop. Since baptism typically happens when the candidate is a baby, confirmation is a great way for an older child to acknowledge that they still want to continue their journey with God and grow their relationship with Him. Celebrate your child’s confirmation by giving them a Bible with meaningful verses highlighted or cross as a daily reminder of God’s love.
 
@@ -115,7 +117,7 @@ This is the sacrament that follows Baptism as part of the initiation process wit
 
 > When Jesus spoke again to the people, he said, “I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.” John 8:12
 
-#### 3. Communion
+#### Communion
 
 Communion (or Eucharist) means thanksgiving. This is when Christ’s body and blood are offered and then received by the parishioner in the form of bread and wine. Christ during the Last Supper broke bread, ate it, gave it to his disciples and told them to eat it. Now the priest, through the words of consecration, blesses and administers the Holy Communion during every mass to remind followers that they are one with Christ. Food and drink nourishes our bodies ‒- Christ’s blood and body nourishes us spiritually.
 
@@ -147,9 +149,9 @@ This sacrament is only bestowed upon those who are seriously ill or suffering, w
 > And they cast out many demons and anointed with oil many who were sick and healed them.  Mark 6:13
 This was to fulfill what was spoken by the prophet Isaiah: “He took our illnesses and bore our diseases.”  Matthew 8:17
 
-#### 5. The Sacraments of Service
+#### 5. The Sacraments of Communion & Mission
 
-Through marriage and the holy orders, couples and the clergy promise to serve and build up the church community.
+Through matrimony and the holy orders, couples and the clergy promise to serve and build up the church community.
 
 #### Matrimony
 Matrimony (or Marriage) isn’t just a union between man and wife. The devotion husband and wife have to each other, and to Christ, mirrors Christ’s love and service to the church. Through marriage, a couple promises to help build each other up in faith, serve each other and the church and be faithful to each other until death.
