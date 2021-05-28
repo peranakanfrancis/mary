@@ -39,7 +39,7 @@ links:
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-# url_video: ''
+url_video: 'https://www.facebook.com/210084349040246/videos/1591770704204930'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

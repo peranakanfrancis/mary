@@ -21,6 +21,8 @@ Greetings in the Lord !
 
 With joy and gratitude in our hearts, I invite you to join me in thanking the MEP Priests who journeyed with the community of Permatang Tinggi from 1893 to 1914. The present Church of the Holy Name of Mary, Permatang Tinggi was built in 1928 during the tenure of Fr. Michael Seet, the first local priest, who served in the parish from 1914 to 1919, and again from 1921 to 1937. Ninety years later activity centre, to cater for an even larger community that is expected to expand further due to the housing developments and the new township that is emerging in areas close to the parish.
 
+{{< gallery >}}
+
 I express my sincere thanks to you, the parishioners of the Church of the Holy Name of Mary, Permatang Tinggi, for your continuous efforts and generous contribution through your active participation and organization for the several fundraising activities throughout the year. You have raised more than RM3.4 million as of July 2018, for this project that is estimated to be RM6.8 million. I grant you my blessings as you continue to do the good works that you do in making this prohect a reality.
 
 As each one of us, through the waters of Baptism are called to be the Living Body of Christ, may we be faithful and committed Missionary Disciples of Joy, Mercy and Hope by being a Creative, Inclusive and Bridge-Building Church, following the humble and holy example of Mary, our Mother. May God continue to shower His abundant blessings upon you.
@@ -30,5 +32,5 @@ making the parent day fundraising dinner on 17.6.2018 a great success.
 
 Thank you. May God Bless You.
 
-
-{{< gallery >}}
+### Media
+{{< fundraising-for-new-church-video >}}

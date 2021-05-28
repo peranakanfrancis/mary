@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Support on Church of Holy Name of Mary</title><link>https://mary2.netlify.app/tags/support/</link><description>Recent content in Support on Church of Holy Name of Mary</description><generator>Source Themes academia (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright &amp;copy; {year} The Church of Holy Name of Mary Permatang Tinggi</copyright><lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mary2.netlify.app/tags/support/index.xml" rel="self" type="application/rss+xml"/><item><title>Mass Offering</title><link>https://mary2.netlify.app/project/mass-offering-form/</link><pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate><guid>https://mary2.netlify.app/project/mass-offering-form/</guid><description>&lt;h3 id="make-a-mass-offer">Make a Mass Offer&lt;/h3>
 &lt;p>The Church considers the Mass the greatest possible prayer of intercession because it is the perfect offering of Christ to the Father by making present the Paschal Mystery of His death and resurrection. It is a longstanding tradition in the Church that a Priest may be requested to offer a Mass for a specific intention, even when one cannot be physically present at the Mass.&lt;/p>
 &lt;ul>
-&lt;li>You may submit the mass offering request form securely online with *&lt;em>&lt;strong>Stripe online payment&lt;/strong>&lt;/em>.&lt;/li>
+&lt;li>You may submit the mass offering request form securely online with [ˆ1]Stripe online payment.&lt;/li>
 &lt;li>Or fill in the form &lt;a href="https://forms.gle/Rdt16hMQpCxBWVuX9">here&lt;/a> and attach a banking slip.&lt;/li>
 &lt;li>Otherwise, please walk in to the parish office to have your mass offering handled by our admin office.&lt;/li>
 &lt;/ul>
@@ -48,7 +48,7 @@ document.head.appendChild(cdscript);
 LoadCDScripts();
 &lt;/script>
 &lt;hr>
-&lt;p>*&lt;em>&lt;strong>Your payment will be processed by Stripe, who collects, uses and processes your information, including payment information, in accordance with their privacy policies. Legal basis for processing: necessary to perform a contract (Article 6(1)(b) of the General Data Protection Regulation).&lt;/strong>&lt;/em>&lt;/p></description></item><item><title>Online Mass Offering Form</title><link>https://mary2.netlify.app/project/donation-form/</link><pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate><guid>https://mary2.netlify.app/project/donation-form/</guid><description>&lt;h4 id="payment-method">Payment method&lt;/h4>
+&lt;p>[ˆ1]: Your payment will be processed by Stripe, who collects, uses and processes your information, including payment information, in accordance with their privacy policies. Legal basis for processing: necessary to perform a contract (Article 6(1)(b) of the General Data Protection Regulation).&lt;/p></description></item><item><title>Online Mass Offering Form</title><link>https://mary2.netlify.app/project/donation-form/</link><pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate><guid>https://mary2.netlify.app/project/donation-form/</guid><description>&lt;h4 id="payment-method">Payment method&lt;/h4>
 &lt;ul>
 &lt;li>Credit card&lt;/li>
 &lt;li>Debit card&lt;/li>

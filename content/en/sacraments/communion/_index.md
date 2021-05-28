@@ -71,13 +71,13 @@ There are three sacraments that are the foundation of Christian life. These sacr
 First Communion is the first time the Eucharist, Christ’s Body and Blood, is received after the Sacrament of Baptism and Confirmation have been received. Through the priest’s holy prayers, bread and wine becomes the Body and Blood of Christ. After the First Communion, we are able to continually receive the sacrament. Whenever we receive Holy Communion (Eucharist) in mass, we are receiving the Sacrament of the Eucharist. In receiving the Body and Blood of Christ and participating in mass continually, we become united in one body with the Church.
 
 
-### First Communion at Church of The Holy Name of Mary
+### Communion for children
 Our First Holy Communion is designed as a faith journey for children between the age of five to nine years old, and their parents to take part in it together. First Holy Communion preparation begins two years earlier, and concludes with First Holy Communion Mass in 20th October 2021.
 
 For your child to receive First Holy Communion, he or she must be enrolled in our Religious Education classes. Our Religious Education class registration for 2020 is now closed. Please check back in September 2021 for registration for the 2021 class.
 
-### Rite of Christian Initiation of Adults (RCIA)
-If you’re an adult seeking to receive your First Holy Communion or thinking about becoming a Catholic, your next step is [RCIA](rite-of-christian-initiation-of-adults.md).
+### Communion for Adult
+If you’re an adult seeking to receive your First Holy Communion or thinking about becoming a Catholic, your next step is [RCIA](rite-of-christian-initiation-of-adults).
 
 ### Preparation for Persons with Disabilities (OKU)
 Church of The Holy Name of Mary and the Diocese of Penang understand that all Catholics have the right to participate in the sacraments. If you have a loved one (no matter what their age or disability is) who needs to prepare for any of the sacraments, please contact Father Louis at [+6045887799](tel:+6045887799) or book an appointment.
