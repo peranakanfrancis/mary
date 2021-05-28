@@ -23,10 +23,9 @@ First, you need to find out which Parish do you belong to? Then follow the steps
 - The CMPC programme takes 6 weeks ( 1 ½ - 2 months). You should aim to complete your CMPC Session at least 6 months before the date of your wedding, so register as soon as you can.
 - Take your CMPC Certificate with all the other documents to the Parish Office for the next step.
 
-
-### 2. If you do not belong to SFX Parish
+### 2. If you do not belong to Church of Holy Name Mary Parish
 - Return to your designated Parish and if you choose to get married there then visit your home Parish office and enquire about their procedures.
-- If you choose to get married in SFX visit your designated home Parish Office to obtain a letter from your Parish Priest to this effect. Than continue with Step 1 (i) above.
+- If you choose to get married in Church of Holy Name Mary visit your designated home Parish Office to obtain a letter from your Parish Priest to this effect. Than continue with Step 1 (i) above.
 
 ### 3. Documents to prepare
 - Updated Baptism and Confirmation Certificate (6 months validity)
@@ -40,7 +39,6 @@ First, you need to find out which Parish do you belong to? Then follow the steps
 - Pre- Nuptial Inquiry with priest
 - Civil Marriage registry
 - Witness IC copies (preferably parents but not parents)
-
 
 ### 5. Church arrangements
 - Rehearsal

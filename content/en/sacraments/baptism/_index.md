@@ -31,5 +31,11 @@ There are three sacraments that are the foundation of Christian life. These sacr
 
 Holy Baptism is the first step to becoming a member of Christ and the Church. It is the basis of the whole Christian life, the gateway to life in the Spirit, and the door which gives access to the other sacraments. Through Baptism we are freed from sin and reborn as sons and daughters of God; we become members of Christ, are incorporated into the Church and made sharers in her mission…” (Catechism of the Catholic Church, 1213). We receive new life through baptism, washing away original sin and personal sins. This is represented by pouring of water over the head by a priest. The newly baptized receives grace and sealed with a permanent spiritual mark. Therefore, baptism can only be celebrated once.
 
+### Baptism for Adult
+If you’re an adult seeking Baptism or thinking about becoming a christian, your next step is [Rite of Christian Initiation of Adults (RCIA)](rcia).
+
+```
+TODO
 ### Baptism in the Church
-Church of The Holy Name of Mary offers both [baby](baptism-for-baby) and [adult/family](baptism-for-adult) baptisms. To get started, please fill out the [baptism inquiry form](baptism-form) and our respective ministry will reach out to you.
+Church of The Holy Name of Mary offers both [baby](baptism-for-baby) and [adult/family](rcia) baptisms. To get started, please fill out the [baptism inquiry form](baptism-form) and our respective ministry will reach out to you.
+```

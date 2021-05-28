@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   communion:
     name: Communion
-    weight: 1
+    weight: 3
 
 ## Flexibility
 

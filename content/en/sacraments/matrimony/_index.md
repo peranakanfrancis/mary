@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   matrimony:
     name: Matrimony
-    weight: 1
+    weight: 3
 ---
 
 {{< figure src="/img/sacraments/matrimony/matrimony.jpg" >}}

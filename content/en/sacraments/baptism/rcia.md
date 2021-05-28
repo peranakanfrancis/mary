@@ -1,6 +1,6 @@
 ---
-title: Baptism for Adult
-linktitle: Baptism for Adult
+title: Rite of Christian Initiation of Adults (RCIA)
+linktitle: Rite of Christian Initiation of Adults (RCIA)
 toc: true
 type: docs
 date: "2021-05-25T00:00:00+01:00"
@@ -8,16 +8,13 @@ draft: false
 menu:
   baptism:
     parent: Baptism
-    weight: 2
+    weight: 4
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+weight: 4
 ---
 
-### Overview
-If you’re an adult seeking Baptism or thinking about becoming a christian, your next step is Rite of Christian Initiation of Adults (RCIA).
-
-### Rite of Christian Initiation of Adults (RCIA)
+### What is Rite of Christian Initiation of Adults (RCIA)
 The RCIA is a journey, set forth by the universal Church, for adult inquirers (seekers of faith) who desire to know and follow Jesus Christ and to become a member of the Catholic Church. The Rite prepares the adult inquirers with the aim to receive the Sacraments of Initiation – Baptism, Confirmation and the Eucharist.
 
 ### For whom is RCIA intended?
@@ -31,8 +28,8 @@ The RCIA is a journey, set forth by the universal Church, for adult inquirers (s
 * Venue: ZOOM Conferencing
 
 ### How do I register for RCIA?
-* Kindly register online here.
-& Completing hard copies of the form (available from Parish Office) and returning the completed forms to the Parish Office.
+- Kindly register online [here](#).
+- or completing hard copies of the form (available from Parish Office) and returning the completed forms to the Parish Office.
 
 ### How does RCIA work?
 RCIA is a spiritual journey of faith. It is an exploration into the unknown that requires courage, persistence, and commitment. Rest assured, as St Augustine of Hippo puts it wonderfully, “To fall in love with God is the greatest romance; to seek him the greatest adventure; to find him, the greatest human achievement”.

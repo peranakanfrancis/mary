@@ -8,10 +8,10 @@ draft: false
 menu:
   baptism:
     parent: Baptism
-    weight: 3
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 2
 ---
 ### Overview
 There are three sacraments that are the foundation of Christian life. These sacraments are: Baptism, Confirmation, and Eucharist. They are given in this order to bring about the full initiation of the new Christian life. These three sacraments together are called the Sacraments of Initiation.

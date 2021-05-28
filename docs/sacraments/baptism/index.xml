@@ -16,35 +16,9 @@
 &lt;/ul>
 &lt;figure>
 &lt;img src="https://mary2.netlify.app/img/sacraments/baptism/baptism2.jpg" >
-&lt;/figure></description></item><item><title>Apply for Baptism</title><link>https://mary2.netlify.app/sacraments/baptism/baptism-form/</link><pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate><guid>https://mary2.netlify.app/sacraments/baptism/baptism-form/</guid><description>&lt;div id="CustomDonationsForm">&lt;/div>
-&lt;script>
-var LoadCDScripts = function () {
-var cdscript = document.createElement('script');
-cdscript.onerror = function (e) {
-document.head.removeChild(this);
-setTimeout(LoadCDScripts, 1750);
-};
-cdscript.onload = function () {
-CustomDonations.BuildForm({
-account: '4ae5828a-7f44-4536-9244-00e00978bd10',
-form: 'fb61d83b-6717-45ba-a766-74418e95b28b',
-allocation: null,
-memberId: null,
-apiVersion: 'v1',
-interval: null,
-loadingText: 'Loading Secure Form...',
-paymentVersion: 1,
-baseUrl: 'https://api.customdonations.com',
-mode: 'live',
-});
-};
-cdscript.src = "https://api.customdonations.com/v1/js/form-builder.min.js?v=" + new Date().getTime();
-document.head.appendChild(cdscript);
-}
-LoadCDScripts();
-&lt;/script></description></item><item><title>Baptism for Adult</title><link>https://mary2.netlify.app/sacraments/baptism/baptism-for-adult/</link><pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate><guid>https://mary2.netlify.app/sacraments/baptism/baptism-for-adult/</guid><description>&lt;h3 id="overview">Overview&lt;/h3>
-&lt;p>If you’re an adult seeking Baptism or thinking about becoming a christian, your next step is Rite of Christian Initiation of Adults (RCIA).&lt;/p>
-&lt;h3 id="rite-of-christian-initiation-of-adults-rcia">Rite of Christian Initiation of Adults (RCIA)&lt;/h3>
+&lt;/figure></description></item><item><title>Application for Baptism (Baby)</title><link>https://mary2.netlify.app/sacraments/baptism/apply-for-baptism/</link><pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate><guid>https://mary2.netlify.app/sacraments/baptism/apply-for-baptism/</guid><description>&lt;pre>&lt;code>TODO
+- form for baptism
+&lt;/code>&lt;/pre></description></item><item><title>Rite of Christian Initiation of Adults (RCIA)</title><link>https://mary2.netlify.app/sacraments/baptism/rcia/</link><pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate><guid>https://mary2.netlify.app/sacraments/baptism/rcia/</guid><description>&lt;h3 id="what-is-rite-of-christian-initiation-of-adults-rcia">What is Rite of Christian Initiation of Adults (RCIA)&lt;/h3>
 &lt;p>The RCIA is a journey, set forth by the universal Church, for adult inquirers (seekers of faith) who desire to know and follow Jesus Christ and to become a member of the Catholic Church. The Rite prepares the adult inquirers with the aim to receive the Sacraments of Initiation – Baptism, Confirmation and the Eucharist.&lt;/p>
 &lt;h3 id="for-whom-is-rcia-intended">For whom is RCIA intended?&lt;/h3>
 &lt;ul>
@@ -60,8 +34,8 @@ LoadCDScripts();
 &lt;/ul>
 &lt;h3 id="how-do-i-register-for-rcia">How do I register for RCIA?&lt;/h3>
 &lt;ul>
-&lt;li>Kindly register online here.
-&amp;amp; Completing hard copies of the form (available from Parish Office) and returning the completed forms to the Parish Office.&lt;/li>
+&lt;li>Kindly register online &lt;a href="#">here&lt;/a>.&lt;/li>
+&lt;li>or completing hard copies of the form (available from Parish Office) and returning the completed forms to the Parish Office.&lt;/li>
 &lt;/ul>
 &lt;h3 id="how-does-rcia-work">How does RCIA work?&lt;/h3>
 &lt;p>RCIA is a spiritual journey of faith. It is an exploration into the unknown that requires courage, persistence, and commitment. Rest assured, as St Augustine of Hippo puts it wonderfully, “To fall in love with God is the greatest romance; to seek him the greatest adventure; to find him, the greatest human achievement”.&lt;/p>
@@ -81,4 +55,6 @@ LoadCDScripts();
 &lt;p>Godparent/Sponsor journey with the you by attending the weekly RCIA sessions and also the rites that come with it, and he (or she) should care for you spiritual growth. Together with your Godparent/Sponsor, you discern your readiness to receive the Sacraments of Initiation (Baptism, Confirmation, and the Eucharist). Godparent/Sponsor should always be there to inspire, motivate, guide, and pray for you.&lt;/p>
 &lt;figure>
 &lt;img src="https://mary2.netlify.app/img/sacraments/baptism/baptism3.jpg" >
-&lt;/figure></description></item></channel></rss>
+&lt;/figure></description></item><item><title>Application for RCIA</title><link>https://mary2.netlify.app/sacraments/baptism/apply-for-rcia/</link><pubDate>Tue, 25 May 2021 00:00:00 +0100</pubDate><guid>https://mary2.netlify.app/sacraments/baptism/apply-for-rcia/</guid><description>&lt;pre>&lt;code>TODO
+- application form
+&lt;/code>&lt;/pre></description></item></channel></rss>

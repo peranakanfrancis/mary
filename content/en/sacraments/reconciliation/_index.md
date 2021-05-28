@@ -1,14 +1,14 @@
 ---
 # Course title, summary, and position.
-linktitle: An Example Course
-summary: Learn how to use Academia's docs layout for publishing online courses, software documentation, and tutorials.
+linktitle: Reconciliation
+summary: Because of human weakness, the baptised often do not live up to their dignity as sons and daughters of God. The Sacrament of Reconciliation celebrates the forgiveness and mercy of God as the sinner humbly acknowledges and confesses his or her sins. The Sacrament also repairs or reestablishes a person’s unity with and membership in the Church. The priest represents both God and the Church, and speaks the consoling words of absolution in the name of both.
 weight: 1
 
 # Page metadata.
-title: Overview 3
-date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
-draft: true  # Is this a draft? true/false
+title: Reconciliation
+date: "2021-05-25T00:00:00Z"
+lastmod: "2021-05-25T00:00:00Z"
+draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
@@ -17,46 +17,33 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   reconciliation:
-    name: Overview 3
+    name: Reconciliation
     weight: 3
 ---
 
-## Flexibility
+{{< figure src="/img/sacraments/reconciliation/reconciliation.jpg" >}}
 
-This feature can be used for publishing content such as:
+> #### 19 Repent, then, and turn to God, so that your sins may be wiped out, that times of refreshing may come from the Lord. - Acts 3:19
 
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
+### What is Reconciliation?
+Because of human weakness, the baptised often do not live up to their dignity as sons and daughters of God. The Sacrament of Reconciliation celebrates the forgiveness and mercy of God as the sinner humbly acknowledges and confesses his or her sins. The Sacrament also repairs or reestablishes a person’s unity with and membership in the Church. The priest represents both God and the Church, and speaks the consoling words of absolution in the name of both.
 
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
+### Five Steps for Reconciliation
+These are the five steps to reconciliation:
+1. **Introspection**: examine our conscience with a prayerful heart and see how we have hurt others in our thoughts, words, and actions.
+2. **Contrition**: admit and have remorse for your sins
+3. **Change**: decide not to commit these sins again.
+4. **Confession**: Forgiveness-confess to a priest and receive absolution
+5. **Penance**: Do the penance that the priest gives you.
 
-## Delete tutorials
-
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
-
-## Update site menu
-
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
-
-For example, if you delete this folder, you can remove the following from your menu configuration:
-
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
 ```
+TODO
+### Confession Schedule
+Confessions are held every half an hour before every Mass on Sundays and evening Mass on Saturdays. For the most up to date information, visit our Mass Schedule or [Bulletin](../../#home).
 
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
 
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
+### Sacramental Prep
+Reconciliation preparation begins with First Holy Communion Camp, normally two to three weeks before the conclusion of First Holy Communion Mass for the children, on 20th October 2021.
+
+To receive First Reconciliation, your child must be enrolled in Religious Education classes and First Holy Communion (FHC) Camp. Our Religious Education class registration for 2021 is now closed. Please check back in September 2021 for registration for the 2022 class.
 ```
-
-## Update the docs menu
-
-If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.

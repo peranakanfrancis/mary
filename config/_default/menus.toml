@@ -68,10 +68,10 @@
   name = "Anointing"
   url = "sacraments/anointing"
 
-#[[main]]
-#  parent = "Sacraments"
-#  name = "Holy Orders"
-#  url = "sacraments/holy-orders"
+[[main]]
+  parent = "Sacraments"
+  name = "Holy Orders"
+  url = "sacraments/holy-orders"
 
 #[[main]]
 #  parent = "dropdown"

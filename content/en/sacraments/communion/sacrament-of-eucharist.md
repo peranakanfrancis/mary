@@ -8,10 +8,10 @@ draft: false
 menu:
   communion:
     parent: Communion
-    weight: 1
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 2
 ---
 
 > Jesus said to them, ‘Amen, amen, I say to you, unless you eat the flesh of the Son of Man and drink his blood, you do not have life within you.’ - John 6:53

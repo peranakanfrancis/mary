@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   confirmation:
     name: Confirmation
-    weight: 1
+    weight: 3
 ---
 
 {{< figure src="/img/sacraments/confirmation/confirmation.jpg" >}}
