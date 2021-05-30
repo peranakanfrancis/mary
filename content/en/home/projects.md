@@ -30,8 +30,12 @@ subtitle = ""
     tag = "Sacraments"
 
   [[content.filter_button]]
+    name = "Mass"
+    tag = "Mass"
+
+  [[content.filter_button]]
     name = "Ministries"
-    tag = "ministry"
+    tag = "Ministry"
 
   [[content.filter_button]]
     name = "Fundraising"
@@ -40,7 +44,6 @@ subtitle = ""
   [[content.filter_button]]
     name = "Business"
     tag = "business"
-
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

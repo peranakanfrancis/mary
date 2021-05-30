@@ -16,9 +16,6 @@ weight: 1
 
 > #### And he said to them, “Follow me, and I will make you fish for people. -  Matthew 4:19"
 
-### What is the Sacrament of Holy Orders?
-Those who receive the sacrament of Holy Orders — as a deacon, priest or bishop — are consecrated in Christ’s name “to feed the Church by the word and grace of God.” These servants of God are ordained and given a special role in carrying out Christ’s mission and help Christians imitate Christ’s mission of love and justice. These roles include representing Christ, proclaim the Word of God, community building, missionary work, being servants, advocates for the poor, share Catholic social teachings, evangelize, and be witnesses of God. Priests and Bishops preside at Eucharist.
-
 Having served as a vocation director for 12 years, I have heard most of the excuses for not answering a vocational call. Let me share a few.
 
 - One of my favourites is, “I’m not worthy.” Or from a parent, “He’s not worthy.” My favourite response was, “You are (or he is) not, so get over it.” This always stopped the conversation in its tracks, but I was partly serious in my answer. None of us, including Jorge Bergoglio, is worthy of the priesthood. It is a gift from God. And what a gift it is! All we can do is marvel that the Lord is generous and loving enough to let us share in his priesthood.
