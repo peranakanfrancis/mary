@@ -26,13 +26,13 @@ image:
   focal_point: Smart
 
 links:
-- icon: fa-calender-week
+- icon: clock
   icon_pack: fas
   name: Schedule
   url: http://www.ceepenang.org/schedule.html
-- icon: fa-file-download
+- icon: file-download
   icon_pack: fas
-  name: Registration Form
+  name: Download Form
   url: "form/ee/CEERegistrationForm_20210108.doc"
 #url_code: ""
 #url_pdf: ""
@@ -79,3 +79,5 @@ links:
 2. Application forms can also be obtained from our Parish office or directly download [here](form/ee/CEERegistrationForm_20191212.doc).
 
 3. For registration, please contact the registration couple **Nicholas-Christine** [017-5959790](tel:+60175959790); for general inquiries, please contact the coordinating couple **Bart-Angie** [017-5900978](+60175900978).
+
+{{< figure src="/img/talk/catholic-engage-encounter-penang.jpg" >}}

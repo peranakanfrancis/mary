@@ -38,7 +38,7 @@ hero_media = "home/banner.png"
   label = "Mass Registration"
 
 [btn_alt]
-  url = "project/mass-offering-form"
+  url = "https://forms.gle/jMCZfq49UwWKYDa88"
   label = "Mass Offering"
 
 +++

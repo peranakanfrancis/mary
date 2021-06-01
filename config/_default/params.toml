@@ -11,7 +11,7 @@ color_theme = "default"
 day_night = true
 
 # Font style.
-#   Choose from `default`, `classic`, or `playfair`.
+#   Choose from `default`, `classic`, or `rose`.
 font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.

@@ -32,30 +32,33 @@ interests:
 - Confirmation
 - Communion
 - Reconciliation
-- Anoiting
+- Anointing
 - Marriage
 - Holy Orders
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: St Mary Magdalena Chapel
+    institution: Permatang Tinggi village
+    year: 1954
+  - course: St Joseph Chapel
+    institution: Juru village
+    year: 1975
+  - course: St Anne Chapel
+    institution: Valdor village
+    year: 1952
+  - course: St Paul The Hermit Chapel
+    institution: Valdor estate
+    year: 1953
 
 # Social/academia Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: facebook
+- icon: facebook-f
   icon_pack: fab
-  link: 'https://www.facebook.com/groups/226337511747'  # For a direct email link, use "mailto:test@example.org".
+  link: https://www.facebook.com/groups/226337511747  # For a direct email link, use "mailto:test@example.org".
 - icon: facebook-messenger
   icon_pack: fab
   link: hhttps://www.facebook.com/messages/t/210084349040246
@@ -76,17 +79,19 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-# user_groups:
+#user_groups:
 # - Researchers
 # - Visitors
 ---
 
 The Church of Holy Name of Mary has existed for more than 127 years. It was built by Fr. Michael Seet in over 3 years period with overwhelming support and cooperation from the parishioners.
 
-> #### "The LORD, the God of heaven, has given me all the kingdoms of the earth and he has appointed me to build a temple for him at Jerusalem in Judah. Any of his people among you may go up, and may the LORD their God be with them." **- 2 Chronicles 36:23**
-
-
 The church was based on Gothic architecture design originated from France which often features spires, pinnacles, decorative sculptures, large windows which have tracery such as rose window and window with stained glass. A characteristic of Gothic Church is its height, the verticality suggesting an aspiration to Heaven.
 
-
 All the main building structures were built and designed locally such as the spire, unique spiral staircase, the tracery pattern ceiling and the rose windows. The bell tower together with the spire is 90 feet high. The spire was constructed with hard wood and plank. The asbestos ceiling was painted with distemper of different colours.
+
+### Chapels
+- [St Mary Magdalena Chapel, Permatang Tinggi](project/st-mary-magdalena-chapel)
+- [St Joseph Chapel, Juru](project/st-joseph-chapel)
+- [St Anne Chapel, Valdor](project/st-anne-chapel)
+- [St Paul The Hermit Chapel, Valdor Estate](project/st-paul-the-hermit-chapel)

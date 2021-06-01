@@ -26,20 +26,34 @@ date_format = "May 2006"
   date_end = ""
   description = """
   Responsibilities include:
+  - celebrates daily Mass
+  - hears confessions every week
+  - gives marriage counseling
+  - provides prenuptial counseling
+  - gives spiritual direction
+  - anoints and visits shut-ins and the sick in hospitals and nursing homes
+  - teaches catechism to children and adults
+  - baptizes
+  - witnesses marriages
+  - performs funerals and burials
+  - attends numerous parish and diocesan meetings
+  - prays privately every day
+  - does spiritual and theological reading
+  - and finds time to relax now and then with family and friends.
 
-  * Analysing
-  * Modelling
-  * Deploying
+  And once a year, he’s expected to make a five-day retreat in addition to doing his regular spiritual direction and daily prayer. Yeah, busy job.
   """
 
 [[experience]]
   title = "SISTER ELIZABATH"
   company = "Infant Jesus Sister"
-  company_url = ""
+  company_url = "https://www.infantjesussisters.org/malaysia"
   location = "Permatang Tinggi"
   date_start = "2020-01-01"
   date_end = ""
-  description = """Taught RCIA and community service."""
+  description = """
+  The IJS Sisters desire is to make Jesus Christ known and loved through a variety of ministries which continue to evolve according to the needs in each country. Their particular focus is to reach out to those who are most in need. At present IJS Sisters involvements include ministry to children and young people; support of migrants and the education of their children; working with prisoners and their families; teaching children with speech and hearing disabilities; providing riding for disabled children and young people.
+  """
 
 # [[experience]]
 #  title = "Professor"

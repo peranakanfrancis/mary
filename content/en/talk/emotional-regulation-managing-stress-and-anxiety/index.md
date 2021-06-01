@@ -71,3 +71,4 @@ math: false
 
 # Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
 ---
+{{< figure src="/img/talk/emotional-regulation-managing-stress-and-anxiety.jpg" >}}

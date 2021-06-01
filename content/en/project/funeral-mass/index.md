@@ -1,5 +1,5 @@
 ---
-title: Funeral
+title: Funeral Mass
 summary: Jesus told her, “I am the resurrection and the life. Anyone who believes in me will live, even after dying. Everyone who lives in me and believes in me will never ever die. - John 11:25-26
 tags:
 - Mass

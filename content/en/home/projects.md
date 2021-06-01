@@ -33,9 +33,9 @@ subtitle = ""
     name = "Mass"
     tag = "Mass"
 
-  [[content.filter_button]]
-    name = "Ministries"
-    tag = "Ministry"
+#  [[content.filter_button]]
+#    name = "Ministries"
+#    tag = "Ministry"
 
   [[content.filter_button]]
     name = "Fundraising"
