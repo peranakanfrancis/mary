@@ -14,7 +14,68 @@
   title = "峇冬丁宜圣母圣名堂"
 [zh.params]
   description = "欢迎来到圣母圣名堂！ 我们的教堂坐落在巴冬丁宜，距离居林、爪义、武吉淡文南北大道不远。"
+
 [[zh.menu.main]]
-  name = "关于我们"
+  name = "首页"
   url = "#about"
-  weight = 1
+  weight = 10
+
+[[zh.menu.main]]
+  name = "帖子"
+  url = "#posts"
+  weight = 20
+
+[[zh.menu.main]]
+  name = "精选"
+  url = "#projects"
+  weight = 30
+
+[[zh.menu.main]]
+  name = "关于"
+  url = "#publications"
+  weight = 40
+
+[[zh.menu.main]]
+  name = "联络"
+  url = "#contact"
+  weight = 60
+
+[[zh.menu.main]]
+  name = "教会圣事"
+  url = "sacraments"
+  hasChildren = true
+
+[[zh.menu.main]]
+  parent = "教会圣事"
+  name = "领洗圣事"
+  url = "sacraments/baptism"
+
+[[zh.menu.main]]
+  parent = "教会圣事"
+  name = "圣体圣事"
+  url = "sacraments/communion"
+
+[[zh.menu.main]]
+  parent = "教会圣事"
+  name = "坚振圣事"
+  url = "sacraments/confirmation"
+
+[[zh.menu.main]]
+  parent = "教会圣事"
+  name = "婚姻圣事"
+  url = "sacraments/matrimony"
+
+[[zh.menu.main]]
+  parent = "教会圣事"
+  name = "和好圣事"
+  url = "sacraments/reconciliation"
+
+[[zh.menu.main]]
+  parent = "教会圣事"
+  name = "病人傅油"
+  url = "sacraments/anointing"
+
+[[zh.menu.main]]
+  parent = "教会圣事"
+  name = "圣秩圣事"
+  url = "sacraments/holy-orders"

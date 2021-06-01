@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academia"
+title = "欢迎来到峇冬丁宜圣母圣名堂"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "user-2.jpg"
+hero_media = "home/banner.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -18,11 +18,11 @@ hero_media = "user-2.jpg"
 
   # Background color.
   color = "#fff"
-  
+
   # Background gradient.
   # gradient_start = "#4bb4e3"
   # gradient_end = "#000"
-  
+
   # Background image.
   # image = ""  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -34,14 +34,16 @@ hero_media = "user-2.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [btn]
-  url = "/authors/admin"
-  label = "Know more"
-  
+  url = "#"
+  label = "登记弥撒"
+
 [btn_alt]
-  url = "#contact"
-  label = "Contact me"
+  url = "https://forms.gle/jMCZfq49UwWKYDa88"
+  label = "奉献弥撒"
 
 +++
-## My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
+## 天使进去，对他说：蒙大恩的女子，我问你安，主和你同在了！**-【路加福音 1：28】**
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+欢迎来到***峇冬丁宜圣母圣名堂***！ 我们的教堂坐落在巴冬丁宜，距离居林、爪义、武吉淡文南北大道不远。
+
+我们的教区有1700多个家庭，为威中、威南和周边地区的小镇提供服务。 除了每日弥撒和圣礼外，我们还提供教会圣事及事奉善会服务。 您可以来探索我们的教会，以及让教会提供给您以帮助您在圣洁和天主教的信仰中成长。"

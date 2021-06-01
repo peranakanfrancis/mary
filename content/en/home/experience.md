@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Diocesan Priesthood, Brothers & Sisters"
-subtitle = "For many are called, but few are chosen. - Matthew 22:14"
+subtitle = "For many are called, but few are chosen. **- [Matthew 22:14]**"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -48,7 +48,7 @@ date_format = "May 2006"
   title = "SISTER ELIZABATH"
   company = "Infant Jesus Sister"
   company_url = "https://www.infantjesussisters.org/malaysia"
-  location = "Permatang Tinggi"
+  location = "Melaka"
   date_start = "2020-01-01"
   date_end = ""
   description = """

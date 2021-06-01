@@ -2,10 +2,10 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Fundraising"
+title = "Progress of Fundraising for New Church"
 subtitle = "To cater for an even larger community that is expected to expand further due to the housing developments and the new township that is emerging in area close to the parish. ([Read more](project/fundraising-for-new-church))"
 
 # Showcase personal skills or business features.

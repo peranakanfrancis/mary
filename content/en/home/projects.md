@@ -33,17 +33,17 @@ subtitle = ""
     name = "Mass"
     tag = "Mass"
 
-#  [[content.filter_button]]
-#    name = "Ministries"
-#    tag = "Ministry"
+  [[content.filter_button]]
+    name = "Ministries"
+    tag = "Ministries"
 
   [[content.filter_button]]
     name = "Fundraising"
     tag = "Fundraising"
 
   [[content.filter_button]]
-    name = "Business"
-    tag = "business"
+    name = "Business & Rental"
+    tag = "Business"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

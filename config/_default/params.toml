@@ -55,7 +55,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "info@churchofholymary.com"
 phone = "+6045887799"
-address = "Jalan Besar, Permatang Tinggi, 14000 Bukit Mertajam, Pulau Pinang  ([Locate with Google Maps](https://goo.gl/maps/KrdspqMCE5Ph75Qe7))"
+address = "Jalan Besar, Permatang Tinggi, 14000 Bukit Mertajam, Pulau Pinang  ([Google Maps](https://goo.gl/maps/KrdspqMCE5Ph75Qe7))"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Tuesday - Sunday 10AM to 5PM // <br>
