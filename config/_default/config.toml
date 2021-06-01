@@ -3,7 +3,6 @@
 #
 # This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
-publishDir = "docs"
 # Title of your site
 title = "Church of Holy Name of Mary"
 
@@ -19,7 +18,7 @@ copyright = "Copyright &copy; {year} The Church of Holy Name of Mary Permatang T
 googleAnalytics = ""
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "churchofholymary"
 
 ############################
 ## Advanced options below ##
@@ -33,8 +32,8 @@ enableGitInfo = false
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
-hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
-defaultContentLanguageInSubdir = false
+hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
+defaultContentLanguageInSubdir = true
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
 paginate = 10  # Number of items per page in paginated lists.
