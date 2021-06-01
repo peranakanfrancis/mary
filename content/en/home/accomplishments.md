@@ -21,45 +21,24 @@ time_format ="3:04 PM"
 
 
 [[item]]
-  organization = "MJD Counselling Ministry"
-  organization_url = "https://www.facebook.com/MJDCounsellingMinistry/"
-  title = "Emotional Regulation - Managing Stress and Anxiety"
-  url = "https://cutt.ly/Vnelj0J"
-  certificate_url = "https://docs.google.com/forms/d/147MPcy-v84-jXKwwSoYszHQxwy5zL3NtPAuH4NpaH0I/viewform?edit_requested=true"
-  date_start = "2021-06-06"
-  date_end = ""
-  description = "MJD Counselling Ministry invites you to a webinar on **Emotional Regulation - Managing Stress and Anxiety** with Dr Valerie Jaques& Rev Joseph Heng via Zoom."
+  organization = ""
+  organization_url = ""
+  title = "Weekly Bulletin (17-23 May 2021)"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/10yrcBpEp4poKeATEI4CSp5_1yCCiQH3M/view?usp=sharing"
+  date_start = "2021-05-17"
+  date_end = "2021-05-23"
+  description = "May the precious blood of our Lord Jesus Christ protect us Corona Virus. Stay Safe and stay healthy."
 
-
-#  [[item]]
-#    organization = ""
-#    organization_url = ""
-#    title = "Weekly Bulletin (31/5/21 - 30/5/21) "
-#    url = ""
-#    certificate_url = "#"
-#    date_start = "2021-05-31"
-#    date_end = "2021-06-06"
-#    description = "May the precious blood of our Lord Jesus Christ protect us Corona Virus. Stay Safe and stay healthy."
-
-#  [[item]]
-#    organization = ""
-#    organization_url = ""
-#    title = "Weekly Bulletin (24-30 May 2021) "
-#    url = ""
-#    certificate_url = "#"
-#    date_start = "2021-05-24"
-#    date_end = "2021-05-30"
-#    description = "May the precious blood of our Lord Jesus Christ protect us Corona Virus. Stay Safe and stay healthy."
-
-  [[item]]
-    organization = ""
-    organization_url = ""
-    title = "Weekly Bulletin (17-23 May 2021) "
-    url = ""
-    certificate_url = "https://drive.google.com/file/d/10yrcBpEp4poKeATEI4CSp5_1yCCiQH3M/view?usp=sharing"
-    date_start = "2021-05-17"
-    date_end = "2021-05-23"
-    description = "May the precious blood of our Lord Jesus Christ protect us Corona Virus. Stay Safe and stay healthy."
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Weekly Bulletin (30 May - 5 Jun 2021)"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/10yrcBpEp4poKeATEI4CSp5_1yCCiQH3M/view?usp=sharing"
+  date_start = "2021-05-30"
+  date_end = "2021-06-05"
+  description = "May the precious blood of our Lord Jesus Christ protect us Corona Virus. Stay Safe and stay healthy."
 
 # [[item]]
 #  organization = "DataCamp"

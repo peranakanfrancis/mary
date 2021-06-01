@@ -29,15 +29,15 @@ time_format ="3:04 PM"
   date_end = "2021-06-05"
   description = "愿主耶稣的宝血覆盖下你和我免受新冠肺炎感染。愿大家平安，健康。"
 
-  [[item]]
-    organization = ""
-    organization_url = ""
-    title = "每周堂讯 (5月24日 - 30日)"
-    url = ""
-    certificate_url = "https://drive.google.com/file/d/10yrcBpEp4poKeATEI4CSp5_1yCCiQH3M/view?usp=sharing"
-    date_start = "2021-05-24"
-    date_end = "2021-05-30"
-    description = "愿主耶稣的宝血覆盖下你和我免受新冠肺炎感染。愿大家平安，健康。"
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "每周堂讯 (5月24日 - 30日)"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/10yrcBpEp4poKeATEI4CSp5_1yCCiQH3M/view?usp=sharing"
+  date_start = "2021-05-24"
+  date_end = "2021-05-30"
+  description = "愿主耶稣的宝血覆盖下你和我免受新冠肺炎感染。愿大家平安，健康。"
 
 #[[item]]
 #  organization = "MJD Counselling Ministry"

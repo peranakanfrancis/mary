@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 # Title of your site
 title = "Church of Holy Name of Mary"
-
+publishDir = "docs"
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseURL = "https://mary2.netlify.app"
