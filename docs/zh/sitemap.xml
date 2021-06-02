@@ -445,6 +445,41 @@
                 href="https://mary2.netlify.app/zh/tags/zoom/"
                 />
   </url><url>
+    <loc>https://mary2.netlify.app/zh/categories/</loc>
+    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mary2.netlify.app/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://mary2.netlify.app/zh/categories/"
+                />
+  </url><url>
+    <loc>https://mary2.netlify.app/zh/post/</loc>
+    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mary2.netlify.app/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://mary2.netlify.app/zh/post/"
+                />
+  </url><url>
+    <loc>https://mary2.netlify.app/zh/tags/%E5%8F%8D%E7%9C%81/</loc>
+    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mary2.netlify.app/zh/categories/%E5%9C%A3%E8%A8%80/</loc>
+    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mary2.netlify.app/zh/post/mark-1218-27/</loc>
+    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mary2.netlify.app/zh/sacraments/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -851,22 +886,6 @@
     <loc>https://mary2.netlify.app/zh/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://mary2.netlify.app/zh/post/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mary2.netlify.app/zh/post/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mary2.netlify.app/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://mary2.netlify.app/zh/post/"
-                />
-  </url><url>
     <loc>https://mary2.netlify.app/zh/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -906,15 +925,6 @@
                 href="https://mary2.netlify.app/zh/privacy/"
                 />
   </url><url>
-    <loc>https://mary2.netlify.app/zh/post/snail/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mary2.netlify.app/zh/tags/academia/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mary2.netlify.app/zh/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mary2.netlify.app/zh/authors/admin/</loc>
     <xhtml:link
                 rel="alternate"
@@ -949,18 +959,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://mary2.netlify.app/zh/project/sacraments-to-baptism/"
-                />
-  </url><url>
-    <loc>https://mary2.netlify.app/zh/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mary2.netlify.app/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://mary2.netlify.app/zh/categories/"
                 />
   </url><url>
     <loc>https://mary2.netlify.app/zh/church-chapel/</loc>

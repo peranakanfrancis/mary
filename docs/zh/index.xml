@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Posts</title>
+      <link>https://mary2.netlify.app/zh/post/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mary2.netlify.app/zh/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sacraments</title>
       <link>https://mary2.netlify.app/zh/sacraments/</link>
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
@@ -63,15 +72,6 @@
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
       <guid>https://mary2.netlify.app/zh/courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://mary2.netlify.app/zh/post/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mary2.netlify.app/zh/post/</guid>
       <description></description>
     </item>
     

@@ -7,9 +7,19 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>zh-Hans</language>
     <copyright>Copyright &amp;copy; {year} The Church of Holy Name of Mary Permatang Tinggi</copyright>
+    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://mary2.netlify.app/zh/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>圣言</title>
+      <link>https://mary2.netlify.app/zh/categories/%E5%9C%A3%E8%A8%80/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mary2.netlify.app/zh/categories/%E5%9C%A3%E8%A8%80/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
