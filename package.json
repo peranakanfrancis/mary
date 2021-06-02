@@ -1,5 +1,9 @@
 {
   "dependencies": {
     "plyr": "^3.6.8"
+  },
+  "scripts": {
+    "build": "hugo --minify --gc",
+    "serve": "hugo serve --cleanDestinationDir --gc"
   }
 }
