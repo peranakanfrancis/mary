@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Welcome to The Church of Holy Name of Mary Permatang Tinggi"
+title = "Welcome to Church of The Holy Name of Mary Permatang Tinggi"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "home/banner.png"
@@ -42,9 +42,9 @@ hero_media = "home/banner.png"
   label = "Mass Offering"
 
 +++
-## The angel went to her and said, Greetings, you who are highly favored! The Lord is with you. **- Luke 1:28**
+## And coming to her, he said, "Hail, favored one! The Lord is with you." **- Luke 1:28**
 
-Welcome to ***The Church of The Holy Name of Mary***. We are located short distance from Penang-Kuala Lumpur North-South Expressway in Permatang Tinggi.
+Welcome to **Church of The Holy Name of Mary**. We are located short distance from Penang-Kuala Lumpur North-South Expressway in Permatang Tinggi.
 
 
-Over 1700 families strong, our parish serves the small town in Central Seberang Perai District and the surrounding area. In addition to Daily Mass and the Sacraments, we offer all sacraments and outreach ministries.  Come explore who we are and what we have to offer to help you grow in holiness and your Catholic faith.
+Over 2000 families strong, our parish serves the small town in Central Seberang Perai District and the surrounding area. In addition to Daily Mass and the Sacraments, we offer all sacraments and outreach ministries.  Come explore who we are and what we have to offer to help you grow in holiness and your Catholic faith.

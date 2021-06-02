@@ -1,5 +1,5 @@
 ---
-title: St Mary Magdalena Chapel at Permatang Tinggi Village
+title: St Anne Chapel at Valdor Village
 summary:
 tags:
 - Chapel
@@ -12,6 +12,4 @@ image:
   caption:
   focal_point: Smart
 ---
-These were over 80 Catholic families in Permatang Tinggi New Village during the Emergency. In 1954, Fr. Thomas Chin built a small chapel. As the chapel was too small for the increasing number of parishioners. It was rebuilt into a bigger chapel with the parishioners donations and government fund. The blessing of the New Chapel was officiated by Bishop Gregory Yong on 16 September 1969.
-
-1986, Fr. John Hsiong built a bell tower, the balance of money was used to renovate the altar and purchase of new pews. Annual feast day is on 22 July.
+St. Anne Chapel was built on 1952 during the Emergency Act by Fr. Anthony Khow. Feast day is on 26 July and it is always celebrated a week later due to similar celebration in Bukit Mertajam.
