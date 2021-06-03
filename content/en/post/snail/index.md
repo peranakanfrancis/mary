@@ -16,7 +16,7 @@ draft: true
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption:
   focal_point: ""
   preview_only: false
 
@@ -28,31 +28,31 @@ image:
 projects: []
 
 # Set captions for image gallery.
-gallery_item:
-- album: gallery
-  caption: Default
-  image: theme-default.png
-- album: gallery
-  caption: Ocean
-  image: theme-ocean.png
-- album: gallery
-  caption: Forest
-  image: theme-forest.png
-- album: gallery
-  caption: Dark
-  image: theme-dark.png
-- album: gallery
-  caption: Apogee
-  image: theme-apogee.png
-- album: gallery
-  caption: 1950s
-  image: theme-1950s.png
-- album: gallery
-  caption: Coffee theme with Playfair font
-  image: theme-coffee-playfair.png
-- album: gallery
-  caption: Strawberry
-  image: theme-strawberry.png
+#gallery_item:
+#- album: gallery
+#  caption: Default
+#  image: theme-default.png
+#- album: gallery
+#  caption: Ocean
+#  image: theme-ocean.png
+#- album: gallery
+#  caption: Forest
+#  image: theme-forest.png
+#- album: gallery
+#  caption: Dark
+#  image: theme-dark.png
+#- album: gallery
+#  caption: Apogee
+#  image: theme-apogee.png
+#- album: gallery
+#  caption: 1950s
+#  image: theme-1950s.png
+#- album: gallery
+#  caption: Coffee theme with Playfair font
+#  image: theme-coffee-playfair.png
+#- album: gallery
+#  caption: Strawberry
+#  image: theme-strawberry.png
 ---
 
 **Create a free website with academia using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
