@@ -1,5 +1,5 @@
 ---
-title: "Main events from 1893 -1993"
+title: "峇冬丁宜圣母圣名堂历史(1838 -1993)"
 authors:
 - admin
 date: "2021-05-25T00:00:00Z"
@@ -18,16 +18,25 @@ publication_types: []
 publication: ""
 publication_short: ""
 
-abstract: The Holy Name of Mary Church existed more than 127 years. It was built by Fr. Michael Seet in over 3 years period with overwhelming support and cooperation from the parishioners.
+abstract: 峇冬丁宜圣母圣名堂已有一百二十七多年的历史,它是由薛麦克神父花了三年多的时间建筑。当年建筑圣堂时, 教友全部参与工作,出钱出力, 充分表现合作的精神。
 
 # Summary. An optional shortened abstract.
-summary: The Holy Name of Mary Church existed more than 127 years. It was built by Fr. Michael Seet in over 3 years period with overwhelming support and cooperation from the parishioners.
+summary: 峇冬丁宜圣母圣名堂已有一百二十七多年的历史, 它是由薛麦克神父花了三年多的时间建筑。当年建筑圣堂时, 教友全部参与工作,出钱出力, 充分表现合作的精神。
 
 tags:
 - History
 featured: true
 
 links:
+- name: 圣玛达肋纳公所，峇冬丁宜村
+  url: project/st-mary-magdalena-chapel
+- name: 圣若瑟公所，柔府村
+  url: project/st-joheph-chapel
+- name: 圣亚纳公所，华都村
+  url: project/st-anne-chapel
+- name: 圣保禄隐修公所，华都园
+  url: project/st-paul-the-hermit-chapel
+
 #- name: Custom Link
 #  url: http://example.org
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
@@ -42,7 +51,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Fr Michael Seet Silver Jubilee Celebration in 1936'
+  caption: 1936年薛麦克神父发愿银庆
   focal_point: ""
   preview_only: true
 
@@ -62,102 +71,99 @@ projects:
 # slides: example
 ---
 
-#### Main Events Of The History Of Our Church
+### 峇冬丁宜圣母圣名堂历史
 1.
-* The history of the parish of the Holy Name of Mary finds its origin from the Catholic Church of St. John the Baptist in Batu Kawan. When a good number of Chinese and Indians settled down there for agricultural purposes, the priests from the Assumption Church, Pulau Pinang, came to look after their spiritual and material needs, The records of Baptism, Marriage, Confirmation and burial of St. John the Baptist Church in Batu Kawan, records, the parish of St. John the Baptist was established from 1838 - 1890, a total of 52 are kept in the archives of Permatang Tinggi parish. According to the earliest and the latest records, the parish of St. John the Baptist was established from 1838 - 1890, a total of 52 years of missionary works in Batu Kawan.
-* In the year 1846, Rev. Fr. Couellon built St. John the Baptist Church in Batu Kawan, for years of missionary works in Batu Kawan. the service of the Catholics there well as to reach the whole of Province Wellesley. He even Batu Kawan were destroyed by pests, the Catholics have lost confidence and started to move learned Tamil in order to preach the Good News to them. Later the agricultural products of out of Batu Kawan; some to Cherok Tok Kun (Bukit Mertajam), some to Machang Bubok (Pagar Tras), some to Permatang Tinggi. So the priests also followed them to these places, where they built Chapels, doctrine houses, which became the earliest places of worship for these Catholics.
+* 峇冬丁宜圣母圣名堂的历史, 是由峇都交湾天主教圣若翰堂开始。当时有众多华人和印度人来到那里, 从事农业, 槟城升天堂的神父便前来为他们服务, 圣若翰堂的领洗、婚配、坚振及疾葬礼记录都保存在峇冬丁宜圣堂。据最早的记录到最后的记录是1838 - 1890,共有五十二年。
 
-2. In the year 1850, Fr. Tisserang was transferred from Singapore to the North, and he brought with him the Minor Seminary, know as St. Mary's College, which he set up in Singapore, to Matang Tinggi, where it functioned for about ten years. He put up a big house of 2 storeys, upstairs were the quarters for the priests and seminarians, downstairs were the classroom and doctrine house. On both sides of the house there were school buildings, one for the girls, the other for the boys. Later on one became the quarters for the teachers and the Catechist, where children from far away places used to dwell on great feast days, or to
-learn catechism. All expenses were met by the parish under the care of the Catechist. In the year 1859, Fr. Pierre, passing through Permatang Tinggi found about 100 Catholics living there, and their crops being destroyed by pests.
+* 1846年葛伦神父(FR. Couellon)在峇都教湾建了一间圣若翰堂,以照顾本地教友,并作为向威省发展的根据地。他更学会了淡米尔文;开始向印度人传教。
 
-3. According to the Baptism record, on September 10th, 1893, Fr. Bouheret baptised the first child in Permatang Tinggi. This is the earliest record of the parish of the Holy Name of Mary. Let us take this date as the birthday of this parish.
+* 后来峇都交湾的农作物受到害虫侵蚀,教友们都逐渐向外地求发展,有些来到大山脚(直落卓坤),有些去到峇颜特拉(马章武莫),更有些来到峇冬丁宜。神父们也前来为他们服务,同时建立传教中心,这些就成了这三地教友最早的会所。
 
-4. In the same year, Fr. Bouheret managed to get 700 acres of land in Jawi for the people to develop. About 50 Catholics responded to this plan. In the year 1900 Fr. Bouheret died a sudden death and was buried in the Catholic Cemetery behind the Church, and Fr. Bes from Bukit Mertajam took charge of Permatang Tinggi. In 1902 he constructed a small chapel in Permatang Tinggi. In 1902 he constructed the small chapel of The Holy Family in Jawi for the Catholics there. The year 1905 saw the Baptism of 25 people in that chapel. According to sayings of the people, each Catholic could get 15 acres of land for cultivation.
+2. 1850年德塞郎神父(Fr. Tisserang)由新加坡调来峇冬丁宜, 他也把他成立的圣玛利小修院迁来, 在这里开办了整十个年头。他建立了一座双层大屋,上面是神父和修士居住下面是讲道所和课室。南北更建了两座房屋, 充作学校, 一男一女 - 后来改为宿舍(Guru 屋)让远地的儿童(远至高渊、槟城)寄宿、读书、读道理。一切开销由教堂负责, 省吃俭用, 由专门的道理老师负责照顾和教导。
+
+3. 1859年毕尔神父(Fr. Pierre)来到峇冬丁宜, 他发现约有百位教友住在那里, 他们的农作物被害虫侵蚀。根据圣堂领洗部记录:1893 年九月十日布赫来神父(Fr. Bouheret)在峇冬丁宜, 为第一位教友儿童施行洗礼。这是峇冬丁宜圣母圣名堂最早的记录, 我们姑且把它算为这个堂区的生日。
+
+4. 1893年布神父在爪夷(Jam)申请到七百英亩土地供教友发展, 大约有五十位教友参加这个计划。1900 年布神父遽然去世, 并埋葬在本堂圣山。而住在大山脚的马神父(Fr. Bes)乃兼管峇冬丁宜教堂。1902年他在爪夷建立了一座小教堂, 供四周教友祈祷和参加弥撒用, 并向四周教外人士传扬福音。1905年一记录, 叙述有25人在那里领洗。后来这些土地都分给教友们。（据说入教者可得15 亩)。
+
 
 5.
-* Fr. Maury was transferred to Permatang Tinggi in 1909 and was succeeded by Fr. Bechera in 1911. Three years later, Fr. Michael Seet became the parish priest. He left Permatang Tinggi in 1919 and two years later, he returned to be the parish priest until 1937, for about 20 years. This is the longest serving record in the history of the parish. During his tenure, the present Church of the Holy Name of Mary was established in 1928; it stands erect by the side of North - South Highway, beautiful and majestic for about 61 years; very strong except the steeple which is in need of repairs. Fr. Seet found time to visit the Catholics in Alor Star, Changlun, Kulim & Junjong. This is the mo prosperous peaceful time in the history of the parish.
-* Most of the Catholics are farmers, living simple life and hard working, but very strong in faith, very dedicated and cooperative, In spite of the difficulties in transport, they walked from Jawi, Junjong, Bukit Teh etc. to attend Sunday Mass. When someone died, they hand-carried the coffin to the Church. They were so wonderfully united and cooperative. Sundays, which was so precious for the Catholics. Some of them had to walk tens of miles, The priest then, had to be in charge of three parishes, there was only a Mass on every three coming down from the hills by feet, yet they were careful about their dresses : long pants, shoes for men; no shorts were allowed.
-* All women had to cover their heads during Mass, like in the time of St. Paul.
-* For the midnight Mass on Christmas Eve, Catholics coming to church had to tie coconut leaves into bundles and leave them along the road under the trees. When they return home, they will light up these as torches to help them to see their way home.
-* During the time of Fr. Michael Seet, all the works were done by the priest with the help of the catechist. In spite of the organisation of the Catholic Action as a consultative body, all decisions were done by the priest. For the construction of the parish church, all Catholics took part, either by offering cash or labour: carrying water from the rivers transporting sands, laying bricks etc. There was a strong sense of unity and cooperation.
-* For the opening of the Church, a hundred over seminarians and professors from the College General in Penang, took part in the solemn celebrations, which was very rare to see in those days. In 1927, Santa Maria School was officially opened with three classes ranging from Standard 1 - 6; The headmaster of the school from then until now were Mr. Loh Tao Yuan, Mr. Wong Ching Shan, Mr. Choo Kuek Soo, J. Baptist and Mr. Lim Yoon Hock.
-* There was a full time catechist, living at the end of the school building, to look after the needs of the Catholics.
+* 1909年墨立神父(Fr. Maury)被调来管理峇冬丁宜,1911年柏柴拉神父继位:1914 年薛麦克神父(3) Sect)正式来此视事,他在1919年离开峇冬丁宜,而于1921年再次前来掌管教务, 直到1937年,将近十余年, 是居留最久的一位本堂神父。他在任內, 于1928年兴建了现在的这座圣母圣名堂, 雄伟壮丽,至今已有六十年的历史, 除了钟楼尖塔外, 其他部分仍然坚固, 雄伟的直立在南大道旁边。薛神父在任时, 是本圣堂最发达和安定时期。当时的教友多以种植为生, 住在园丘內, 生活虽清苦, 但他们的信德都很坚强、很热心、很合作。当时的交通很不方便, 没有车辆, 只靠两条腿。虽远在爪夷、三巴央、茶山(茶山只有5家教友), 也一样走路到教堂参加弥撒。有教友去世时,他们从远处抬着棺木走到圣堂来,合作精可敬可佩。
+* 那时候, 神父要管理三个教堂, 三个主日才有一台弥撒。所以弥撒为他们来说是多么可贵。有者步行几十里路, 下山来参与, 而且着讲究,男的长裤、大衣、皮鞋(不准穿短裤), 女的一定要盖头巾。
+* 若遇夜晚有弥撒(如圣诞节)。教友在沿途中, 先把柳叶绑成一束束, 放在树下, 等回家时就利用这些柳叶火炬, 点燃照明回家的路。
+* 薛神父时期:工作多由神父一手包办, 道理老师协助。虽有成立「公教进行会」的组织, 只给神父咨询意见。
+* 建筑圣堂时, 教友全部参与工作, 有钱出钱, 有力出力。从河里挑水、打沙、敲砖等工作, 充分表现合作的精神。
+* 圣堂开幕时, 槟城大修院, 有一百多位修生, 神父们, 前来参加场面盛大热烈。
+* 1927年, 圣母玛利亚学校创立, 共有三班学生, 分为六年级。一位全职传道员, 居住在学校的一端, 为本地教友服务。历任校长为罗道云、黄静山、朱若翰(朱国书)、林运福。
 
 6.
-* During the Second World War the church was badly affected! The Japanese occupied the whole of Malaya. It was so unsafe in the cities, a good number of priests came to live in the parish as refugees. Fr. Anthony Khaw was in charge of the parish from 1949 - 1952. During this time (1952) he built the St. Anne chapel in Valdor Village. The Santa Maria School was forced to close down because of the emergency laws. New villages were set up against the spread of communism; a new school was put up by the Goverment in Permatang Tinggi New Village, where there were eighty Catholic families.
-* In 1954 Fr. Thomas Chin built a small chapel and the priest's quarters there, and began to celebrate Mass in Chinese. In 1969, he managed to put up the present St. Magdalena's chapel and the presbytery near the Holy Name of Mary church. After Fr. Michael Seet, Fr. Thomas Chin was the second longest serving parish priest; from 1952 - 1955, 1959 - 1970.
-* During the time of Emergency, a part of the church land was acquired by the Goverment to built the police station, which later was turned into a home for the aged.
+* 第二次世界大战, 教堂受影响很大, 日本人占领马来亚, 市区内很混乱, 有不少神父、修士逃来本圣堂避难。
+* 1949 - 1952 年许安东神父管理本堂, 他在1952 年四月在华都村建立了圣妇亚纳小圣堂。因为紧急法令的施行, 圣母玛利亚学校被迫关闭。政府成立峇冬丁宜村, 建立学校, 将人民集中, 新村内将近有八十多家教友。1954年陈芳荣神父(Fr. Thomas Chia) 在新村建立了一间小教堂和神父住屋, 并开始以华文举行弥撒。1969年陈神父重建了圣女玛达肋纳圣堂; 同年又建立了圣母圣名堂的神父住屋。陈神父是管理本圣堂最长久的第二位神父，他的住期是1952 - 1955; 1959 - 1970。
+* 在移民时期,政府曾徵用本堂一部分土地,建警察局。(现为老人院)
 
 
-7.
-* In 1970, Fr. Joseph Liu was posted to this parish and he continued the works of Fr. Thomas Chin and built the St. Joseph's Chapel in Juru Village for the pastoral needs of the Catholics there. In 1978 he organised the Golden Jubilee celebrations of the Parish Church with a great procession through the village. He also repaired the chapel in Valdor, and engaged a lady catechist to teach catechism in the new villages.
-* The Catholics here are mostly Teochew, educated in Mandarin, with 50 families of Indian educated in English. Mandarin is used mainly in church services, with one Mass in Tamil on Third Sunday, one Mass in English on the 4th Sunday of each month.
+7. 1970年刘若石神父接掌本堂教务, 他曾继续陈芳榮神父的努力。在柔府村建立了一所圣若瑟小圣堂, 以照顾当地教友。1978年他领导教友庆祝圣母圣名堂五十金庆。教会比薛神父时期更繁荣和进步。绝大部分教友接受华文教育, 中间有一小部分受淡米尔文和英文教育。教会内习惯用华文, 但其他语文小组也受到照顾。
 
+8. 1984年熊光发神父调来本堂, 他曾改良圣堂的祭台, 拆掉圣堂两旁的门亭,而用其原料兴建了一座圣母亭。他也计划建立一座礼堂, 供教友集会、讲习之用, 但不幸染上癌症, 于1987年五月卅一日逝世, 安葬于本堂的坟场。
 
-8. In 1984 Fr. John Hiong was sent by the Bishop to take over from Fr. Martin Lam. He build a Shrine in honour of Our Lady at the back of the church. He also tried to put up a altered the main altar, dismantled the two side wings of the church and used the pillars simple hall for the use of the parishioners. Unfortunately, he contracted the horrible decease. of cancer, and died on the 31st May, 1987. He was buried in the Catholic cemetary behind the priest house.
+9. 1987年康福堂副主教继態光发神父之位领导本堂教友,由两位大修院修士的帮助,调查了教友戶口, 同时, 按照教区的计划, 努力推行堂区革新, 并且提议修建礼堂以及发展圣堂的土地。由于神父短缺, 他也帮助三巴央和马章武莫的教友服务。更设法解決华都村和华都园教堂土地的问题。这期间, 成立了教理小组, 同时也购买了一架电脑来协助处理堂区革新的文件,和收集本堂的各种资料。
 
+10. 本堂自成立以来,共有以下神父和修会的圣召:
+- 一位教区司锋:陈汉忠神父。
+- 七位圣母会修士和一位学生。
+- 八位圣婴会修女。
+- 二位主母济传教会修女。
+- 一位加诺撒修女会初学生。
 
-9. In 1987 Fr. Raphael Kang succeeded Fr. John Hiong to look after the parish of The Holy Name of Mary. Through the help of two seminarians, Bro. Michael Cheah and Bro E. Benedict, he updated the parish census, and following the diocesan option, started the Renewed Parish Project. He proposed to go on with the project of setting up hall, and proposed to develop the church land for a housing project. Because of the shortage of priests he also helped to serve the Catholics in Machang Bubok and Junjong regularly. He also tries to solve the problem of the Church in Valdor Village. During his time, the liturgical, Catechetical, and Finance/Development committees were set up, and personal computer set was purchased for storing data and manage various parish documents.
+11. 本堂教友, 由于传统习惯, 具有服从的美德, 但缺乏自动的精神, 一切事情都信赖顺从神父,一切活动都要神父亲自推动才能进行。碰到一位魄力大, 推动力与组织力强并能与教友打成一片的神父, 教友就活跃起来, 信德日增, 热心团结合作, 否则就意气消沉。
 
+因此,教会不能全面发展。梵二大公会议后, 教会鼓励教友养成自动自发的精神, 革除完全依赖神父的习惯, 而能自动地、积极地参与堂区的活动,这才是基督徒的真正精神 - 因为教会是我们的 - 我们是教会。
 
-10. From the beginning until now there were 18 parishioners who followed God's call to join priesthood or Religious Life:
-- 1 Diocesan priest: Fr. Paul Chin of Sungai Bakap;
-- 7 Marist Brothers' including one Novice
-- 8 Infant Jesus Sisters;
-- 2 Franciscan Missionaries of The Divine Motherhood Sisters;
-- 1 Canossian Novice.
-
-
-11.
-* The parishioners, following the traditional spirit of the pre-Vatican Church, are very obedient and respectful to the priests, leaving everything in their hands, and lacking in the spirit of initiative and active participation. Nothing can get their support unless initiated by the Parish priest. When there is a priest who is full of energy and a good leader, they will be active in Church works and full of piety and cooperation, otherwise they remain quiet and inactive. So the parish is unable to develop consistently.
-* After the Second Vatican Council, the Church invites all Catholics to foster the spirit of initiative, and rid themselves of the total dependence on the clergy, be actively involve in parish life, this is the true Christian spirit. Through Baptism all Catholic became active parts of the Body of Christ, that is the Church. So the Church is ours; and we are the Church.
 
 {{< gallery >}}
 
-#### History in summary
+### 历史总结
 {{< table table_class="table table-hover table-borderless" thead_class="table-info" >}}
 
-| YEARS | MAIN EVENTS OF THE PARISH FROM 1893-1993 |
+| 年份 | 峇冬丁宜圣母圣名堂百年大事录 |
 |-------|------------------------------------------|
-| 1893 | Rev. Fr. P. Bouheret baptised the first child in Permatang Tinggi on 10 September |
-| 1893 | It also marked the birth of this parish, Church of the Holy Name of Mary. |
-| 1900 | Rev. Fr. P. Bouheret died and was buried in the Parish Cemetary. |
-| 1902 | Rev. Fr. J. Bes constructed the small chapel of the Holy Family in Jawi. |
-| 1927 | Rev. Fr. Michael Seet established Saint Mary Chinese Primary School. |
-| 1928 | Rev. Fr. Seet constructed the present Church of the Holy Name of Mary. |
-| 1952 | Due to emergency laws, residents were moved to new village and the Saint Mary School was forced to .down |
-|  | St. Anne Chapel in Valdor Village was built by Rev. Fr. Anthony Khaw. |
-| 1954 | Rev. Fr. Thomas Chin built a small chapel in Permatang Tinggi Village and began to celebrate Mass in Chinese. |
-| 1966 | The establishment of Parish Council and the first Chairman was Mr. Lim Onn Hock. |
-| 1969 | Rev. Fr. Thomas Chin rebuilt the present St. Mary Magdalena Chapel in Permatang Tinggi Village and also the present Presbytery near the Church. |
-|  | On July 1969, the German Brother that offering medical service in Permatang Tinggi Village was transferred to St. Mary Hospital in Ipoh. |
-|  | Blessing of St. Mary Magdalena Chapel was celebrated by the Most Rev. Gregory Yong, Bishop of Penang on 16 September 1969. |
-|  | Final Religious Profession of Bro. Joachim Heng on 22 December 1969. |
-| 1970 | Rev. Fr. Joseph Liu took over as parish priest. |
-| 1972 | Final Religious Profession of Bro. John Heng. |
-| 1973 | Ordination of Rev. Fr. Paul Chin on 25 February 1973, first Diocesan Priest from the parish. |
-| 1974 | Rev. Fr. Paul Chin replaced the access stairway with asphalt driveway while on temporary assignment. |
-| 1975 | Rev. Fr. Liu built St. Joseph Chapel in Juru Village and was blessed by the Most Rev. Bishop Yong on 13 April 1975. |
-| 1978 | Parish celebrated the Golden Jubilee of the Church on 17 September 1978. |
-|  | Mr. Lim Onn Hock was conferred the Gold Award & Honorary Member of Marist Brother by the Holy Father in recognition of his long and excellent service to the church on 17 September 1978. |
-|  | Final religious Profession of Bro. Paul Ching on December. |
-| 1980 | Retirement of Rev. Fr. Liu. He was succeeded by Rev. Martin Lam. |
-| 1982 | Final Religious Profession of Sister Annette Heng on 12 September 1982. |
-| 1983 | The parish was named a pilgrimage church in HOLY YEAR of Redemption. |
-|1984 | Rev. Fr. John Hiong took over as parish priest. |
-|  | Final Religious Profession of Sr. Rosaland Lim on 4 February 1984. |
-|  |Final Religious Profession of Bro Thomas Chin on 14 April 1984. |
-|  |Arrival of Statute of OUR LADY of FATIMA and a procession was held on 5 June 1984 at Permatang Tinggi Village. |
-| 1987 | Rev. Fr. Hiong died of cancer on 31 May 1987. |
-|  | On 3 June 1987, a funeral Mass was held for late Fr. Hiong and the church was packed with about 3000 congregations including Archbishop of Kuala Lumpur, Bishop of  Penang, Bishop of Malacca & Johor and many priests, brothers, sisters and Catholics. |
-|  | Rev. Mgr. Raphael Kang took over as parish priest on 1 June 1987. |
-|  | Silver Jubilee Celebration for Bro. John Heng on 27 September 1987. |
-| 1988 | Parish Celebrated the 60th Anniversary of the Church on 1 November 1988. |
-| 1989 | Diaconate Ordination of Michael Cheah on 13 April 1989. |
-| 1990 | Launching of Renewed Parish Project on 15 April 1990. |
-|  | Final Religious Profession of Bro. John Tan and Silver Jubilee Celebration for Bro. Joachim Heng on 4 November 1990. |
-|  | 1993 Ground-breaking Ceremony for the Parish Multi-Purpose Hall on 16 May 1993. |
-|  | Final Religious Profession of Bro. Teoh, FMS on 22 June 1993. |
-|  | Parish Centenary Celebration on 12 September 1993. |
+| 1893 | (11.9.1893)布赫来神父(Fr. Boaheret)为本堂第一位儿童行洗礼。|
+| 1893 | 它也标志着这个教区 — 圣母圣名堂的诞生。 |
+| 1900 | 布赫来神父逝世,葬于本堂坟场。|
+| 1902 | 马神父(Fr. Bes)在爪夷建立一座小教堂。 |
+| 1927 | 薛麦克神父(Fr. Michael Sheet)创立圣母玛利亚华文小学。 |
+| 1928 | (2.11.1928)薛神父建立圣母圣名堂大教堂 |
+| 1952 | 紧急法令, 居民迁至新村,圣玛利亚学校关闭。 |
+|  | 许安东神父(Fr. Anthony Khor)建立华都村圣亚纳小圣堂。 |
+| 1954 | 陈芳荣神父(FT. Thomas Chin)在峇冬丁宜村建小教堂。陈神父开始以华语作弥撒。 |
+| 1966 | 堂区理事会成立。林运福任主席。 |
+| 1969 | 陈芳荣神父重建峇冬丁宜村圣堂及神父楼。 |
+|  | (7月) - 在峇冬丁宜村施诊施药的德国修士离开本堂至怡保圣玛利亚医院。 |
+|  | (16.9.1969) - 圣玛达肋纳圣堂由槟城杨主教主持祝圣典礼。 |
+|  | (22.12.1969) - 王喜添修士宣发终身愿。 |
+| 1970 | 刘若石神父(Fr. Joseph Liu)任本堂。 |
+| 1972 | 王喜顺修士发终身圣愿。 |
+| 1973 | (25.2.1973)陈汉忠神父晋升品。 |
+| 1974 | 刘神父渡假。陈汉忠神父(Fr. Paul Ching)暂代本堂。陈神父拆除大圣堂石级改建公路。 |
+| 1975 | (13.4.1975)刘神父建柔府村圣若瑟小圣堂,杨主教祝圣。 |
+| 1978 | (17.9.1978)大圣堂庆祝建堂50 周年金庆。 |
+|  | (17.9.1978)林运福兄弟荣膺教宗封赐长期卓越服务有全章及圣母会名誉会士。 |
+|  | (12 月)陈顺南修士发终身圣愿。 |
+| 1980 | 刘神父退休,林炳权神父(Fr. Martin Lam)接任本堂。 |
+| 1982 | (12.9.1982)王美爱修女发终身永愿。 |
+| 1983 | “救赎圣年”,本堂为朝圣圣堂之一。 |
+|1984 | 熊光发神父(Fr. John Hiong)继任本堂。 |
+|  | (4.2.1984)林修女(Sr. Rosaland Lim)宣发终身圣愿。 |
+|  | (14.4.1984)陈汉蛮修士宣发永愿。 |
+|  | (5.6.1984)法蒂玛圣母像驾临,巡行峇冬丁宜村。 |
+| 1987 | (31.5.87)能神父蒙主恩召。于3.6.87 在本堂举行隆重疾葬礼。吉隆坡总主教,模区薛主教,中柔曾主教亲临主持。出席的神父、修士、修女、教友等将近3千人,盛况空前。|
+|  | (1.6.87)康福堂副主教继任本堂司铎。 |
+|  | (27.9.87)王喜顺修士发愿银庆。 |
+| 1988 | (1.11.1988)大圣堂庆祝建堂60周年。 |
+| 1989 | (13.4.1989)谢福华神父(Fr. Michael Cheah)晋升六品。 |
+| 1990 | (15.4.1990)堂区革新正式开始。 |
+|  | (4.11.1990)陈武安修士发终身愿。王喜添修士发愿银庆。 |
+|  | (16.5.1993)礼堂举行动土礼。 |
+|  | (22.6.1993)赵通强修士宣发终身永。 |
+|  | (12.9.1993)庆祝开教百周年纪念。 |
 
 {{< /table >}}

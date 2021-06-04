@@ -1,5 +1,5 @@
 ---
-title: St Mary Magdalena Chapel at Permatang Tinggi Village
+title: 圣玛达肋纳公所，峇冬丁宜村
 summary:
 tags:
 - Chapel
@@ -12,6 +12,6 @@ image:
   caption:
   focal_point: Smart
 ---
-These were over 80 Catholic families in Permatang Tinggi New Village during the Emergency. In 1954, Fr. Thomas Chin built a small chapel. As the chapel was too small for the increasing number of parishioners. It was rebuilt into a bigger chapel with the parishioners donations and government fund. The blessing of the New Chapel was officiated by Bishop Gregory Yong on 16 September 1969.
+一九五二年,英政府施行紧急法令, 人民被集中在各新村。当时峇冬丁宜村内有八十多家教友, 陈芳榮神父於一九五四年在村内建立一间公所和神父住屋, 方便教友参与弥撒及祈祷。六十年代初期, 陈芳榮神父再出任本堂神父。由于旧公所太窄小, 无法容纳日渐增加的教友, 于是改建一间更大型公所。经过向政府申请拨款(大约获得一万余元)及教友热心捐助, 终于建成耗资三万元左右的圣玛达肋纳公所。并於一九六九年九月十六日由槟区杨主教主持祝圣典礼。
 
-1986, Fr. John Hsiong built a bell tower, the balance of money was used to renovate the altar and purchase of new pews. Annual feast day is on 22 July.
+一九八六年, 熊光发神父兴建一座九千余元钟楼, 以取代简陋的木架钟楼。熊神父也把当时捐助钟楼剩余费用装修公所内祭台及增添长木材。此公所每年七月廿二日庆祝主保节。

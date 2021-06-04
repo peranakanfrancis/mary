@@ -69,7 +69,7 @@
 - id: book_appointment
   translation: 预约
 - id: abstract
-  translation: 摘要
+  translation: 前言
 - id: publication
   translation: 出版物
 - id: publication_type

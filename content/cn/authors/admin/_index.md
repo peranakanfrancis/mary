@@ -8,7 +8,7 @@ authors:
 # resume download button
 btn:
 - url : "publication/century-celebration"
-  label : "教堂历史"
+  label : "教堂的故事"
 
 # Is this the primary user of the site?
 superuser: true

@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "建新堂筹款进展"
-subtitle = "为了迎合更大的社区，由于地方的发展和临近教区的新城镇的出现，预计教会社区将进一步扩大。 ([了解更多](project/fundraising-for-new-church))"
+subtitle = "为了迎合更大的社区，由于地方的发展和临近教区的新城镇的出现，预计教会社区将进一步扩大。 ([了解详情](project/fundraising-for-new-church))"
 
 # Showcase personal skills or business features.
 #

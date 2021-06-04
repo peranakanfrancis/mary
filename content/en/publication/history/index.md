@@ -28,6 +28,15 @@ tags:
 featured: true
 
 links:
+- name: St Mary Magdalena Chapel, Permatang Tinggi
+  url: project/st-mary-magdalena-chapel
+- name: St Joseph Chapel, Juru
+  url: project/st-joheph-chapel
+- name: St Anne Chapel, Valdor
+  url: project/st-anne-chapel
+- name: St Paul The Hermit Chapel, Valdor Estate
+  url: project/st-paul-the-hermit-chapel
+
 #- name: Custom Link
 #  url: http://example.org
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
@@ -62,7 +71,7 @@ projects:
 # slides: example
 ---
 
-#### Main Events Of The History Of Our Church
+### Main Events Of The History Of Our Church
 1.
 * The history of the parish of the Holy Name of Mary finds its origin from the Catholic Church of St. John the Baptist in Batu Kawan. When a good number of Chinese and Indians settled down there for agricultural purposes, the priests from the Assumption Church, Pulau Pinang, came to look after their spiritual and material needs, The records of Baptism, Marriage, Confirmation and burial of St. John the Baptist Church in Batu Kawan, records, the parish of St. John the Baptist was established from 1838 - 1890, a total of 52 are kept in the archives of Permatang Tinggi parish. According to the earliest and the latest records, the parish of St. John the Baptist was established from 1838 - 1890, a total of 52 years of missionary works in Batu Kawan.
 * In the year 1846, Rev. Fr. Couellon built St. John the Baptist Church in Batu Kawan, for years of missionary works in Batu Kawan. the service of the Catholics there well as to reach the whole of Province Wellesley. He even Batu Kawan were destroyed by pests, the Catholics have lost confidence and started to move learned Tamil in order to preach the Good News to them. Later the agricultural products of out of Batu Kawan; some to Cherok Tok Kun (Bukit Mertajam), some to Machang Bubok (Pagar Tras), some to Permatang Tinggi. So the priests also followed them to these places, where they built Chapels, doctrine houses, which became the earliest places of worship for these Catholics.
@@ -114,7 +123,7 @@ learn catechism. All expenses were met by the parish under the care of the Catec
 
 {{< gallery >}}
 
-#### History in summary
+### History in summary
 {{< table table_class="table table-hover table-borderless" thead_class="table-info" >}}
 
 | YEARS | MAIN EVENTS OF THE PARISH FROM 1893-1993 |
@@ -146,8 +155,8 @@ learn catechism. All expenses were met by the parish under the care of the Catec
 | 1983 | The parish was named a pilgrimage church in HOLY YEAR of Redemption. |
 |1984 | Rev. Fr. John Hiong took over as parish priest. |
 |  | Final Religious Profession of Sr. Rosaland Lim on 4 February 1984. |
-|  |Final Religious Profession of Bro Thomas Chin on 14 April 1984. |
-|  |Arrival of Statute of OUR LADY of FATIMA and a procession was held on 5 June 1984 at Permatang Tinggi Village. |
+|  | Final Religious Profession of Bro Thomas Chin on 14 April 1984. |
+|  | Arrival of Statute of OUR LADY of FATIMA and a procession was held on 5 June 1984 at Permatang Tinggi Village. |
 | 1987 | Rev. Fr. Hiong died of cancer on 31 May 1987. |
 |  | On 3 June 1987, a funeral Mass was held for late Fr. Hiong and the church was packed with about 3000 congregations including Archbishop of Kuala Lumpur, Bishop of  Penang, Bishop of Malacca & Johor and many priests, brothers, sisters and Catholics. |
 |  | Rev. Mgr. Raphael Kang took over as parish priest on 1 June 1987. |

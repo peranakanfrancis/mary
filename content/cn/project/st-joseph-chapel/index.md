@@ -1,5 +1,5 @@
 ---
-title: St Joseph Chapel at Juru Village
+title: 圣若瑟公所，柔府村
 summary:
 tags:
 - Chapel
@@ -12,4 +12,4 @@ image:
   caption:
   focal_point: Smart
 ---
-St. Joseph chapel was built by Fr. Joseph Liu and blessed by Bishop Gregory Yong on 13 April 1975. Annual feast day is on 1 May.
+圣若瑟公所由刘若石神父建立, 并於一九七五年四月十三日由槟区杨主教祝圣。每年五月一日庆祝主保日。此公所也是本堂第九区教友集会祈祷, 举行弥撒场所。

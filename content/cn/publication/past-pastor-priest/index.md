@@ -1,5 +1,5 @@
 ---
-title: "Past Parish Priest"
+title: "教堂历代神父"
 authors:
 - admin
 date: "2021-05-25T00:00:00Z"
@@ -15,13 +15,13 @@ publishDate: "2021-05-26T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Century Celebration of The Parish Souvenir Magazine 1893 - 1993"
-publication_short: "Thanking the MEP Priests who journeyed with the community of Permatang Tinggi from 1893 until present day."
+publication: "庆祝开教百周年纪念特刊"
+publication_short: "感谢从1893年至今与峇冬丁宜及附近社区一起成长度过的神父们。"
 
-abstract: Pastors of The Church of Holy Name of Mary Permatang Tinggi. Thanking the MEP Priests who journeyed with the community of Permatang Tinggi from 1893 until present day.
+abstract: 感谢从1893年至今与峇冬丁宜及附近社区一起成长度过的神父们。这是我们教堂的历代神父表。
 
 # Summary. An optional shortened abstract.
-summary: Pastors of The Church of Holy Name of Mary Permatang Tinggi
+summary: 感谢从1893年至今与峇冬丁宜及附近社区一起成长度过的神父们。这是我们教堂的历代神父表。
 
 tags:
 - History
@@ -42,7 +42,7 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: The Opening Ceremony of the Church on 1.11.1928. Fr. Michael Seet, Bishop Dovals, some Priest and all Parishioners, in front of the newly built and blessed Church, Permatang Tinggi
+  caption: 一九二八年十一月一日,圣母圣名堂开幕礼, 薛神父、华主教、其他神父及全体教友合影
   focal_point: ""
   preview_only: false
 
@@ -73,7 +73,7 @@ projects: []
 
 {{< table table_class="table table-hover" thead_class="table-info" >}}
 
-| # | 司铎/PRIEST | DIOCESAN PRIESTHOOD | YEARS OF SERVICES |
+| # | 名字 | 司铎 | 服务年份 |
 |---|-----|---------|------------------|
 | 1 | 布赫来神父 | REV FR. P. BOUHERET | 10.09.1893 - 03.06.1900 |
 | 2 | 麦斯神父 | REV. FR. J. BES | 09.12.1900 - 19.03.1905|

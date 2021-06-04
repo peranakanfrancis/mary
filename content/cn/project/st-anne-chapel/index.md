@@ -1,5 +1,5 @@
 ---
-title: St Anne Chapel at Valdor Village
+title: 圣亚纳公所，华都村
 summary:
 tags:
 - Chapel
@@ -12,4 +12,4 @@ image:
   caption:
   focal_point: Smart
 ---
-St. Anne Chapel was built on 1952 during the Emergency Act by Fr. Anthony Khow. Feast day is on 26 July and it is always celebrated a week later due to similar celebration in Bukit Mertajam.
+圣亚纳公所在一九五二年緊急法令时期, 由许安东神父兴建。每年七月廿六日是它的主保日, 由于大山脚圣亚纳堂也同时庆祝, 每年都押后一个星期举行。此公所也是本堂第十二区教友集会祈禱及举行弥撒场所。

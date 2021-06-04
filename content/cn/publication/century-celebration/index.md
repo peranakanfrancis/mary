@@ -1,5 +1,5 @@
 ---
-title: "History of more than 127 years"
+title: "教堂的故事"
 authors:
 - admin
 date: "2021-05-25T00:00:00Z"
@@ -18,19 +18,19 @@ publication_types: []
 publication: ""
 publication_short: ""
 
-abstract: For today we come before You, to dedicate to Your Lasting service this house of prayer, this temple of worship, this home of which we are nourished by your word and sacraments.
+abstract: 今天我们来到祢面前，将这座祈祷之家、这座礼拜圣殿、这座我们因祢的圣言和圣事所滋养的家园，为奉献我们服务于主的爱。
 
 # Summary. An optional shortened abstract.
-summary: For today we come before You, to dedicate to Your Lasting service this house of prayer, this temple of worship, this home of which we are nourished by your word and sacraments.
+summary: 今天我们来到祢面前，将这座祈祷之家、这座礼拜圣殿、这座我们因祢的圣言和圣事所滋养的家园，为奉献我们服务于主的爱。
 
 tags:
 - History
 featured: true
 
 links:
-- name: Donation Form
+- name: 网上筹款
   url: project/donation-form
-- name: Fundrasing Celebration 2018
+- name: 同心协力建新堂晚宴2018
   url: project/fundraising-for-new-church
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: '#'
@@ -44,7 +44,7 @@ url_video: 'https://www.facebook.com/210084349040246/videos/1591770704204930'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: "Old Church in 1928"
+  caption: "1928年老教堂"
   focal_point: ""
   preview_only: false
 
@@ -63,22 +63,20 @@ projects:
 # slides: "example"
 ---
 
-#### The “Architect” of the Church of Holy Name of Mary
-Fr. Michael Seet A Swee, born in 1883, was the “architect” who built the church of Holy Name of Mary, Permatang Tinggi. He ordained a priest in 1911 at Batu Gajah. He was the parish priest of the church of Holy Name of Mary in 1914-1919 and 1921-1937. He died in 18.6.1946. According to his memoir, he stepped out in faith to build the church with only $7000 in hands. From the parishioners of Permatang Tinggi he raised $2012. He reached out as far as Bangkok to raise $1779 and Singapore $10219. The parishioners of Permatang Tinggi contributed 400 days of labour, 10 days each family. The whole church was built with cement bricks which were made on the spot with the sand found here. The stained glass windows of St. Anne and St Joachim and the 6 statues on the pillars were re-cycle items taken from the church of the Assumption, Penang. The Statue of Our Lady of Immaculate Conception above the high altar was taken from former old church. Fr. Michael Seet only bought the statues of Sacret Heart, St. Joseph and the Blessed Virgin Mary (Black Madona). The total cost of building the church was $21816.64. Fr. Michael Seet was very proud that Andrew Teoh Yew Chye could construct the Rose Windows, the High Altar and the spiral staircase.
+### 圣母圣名堂的建筑师
+薛麦克神父生于1883年,他是圣母圣名堂的”建筑师”。他于1911年在华都牙也被祝圣为神父。他是圣母圣名堂1914-1919和1921-1937 本堂神父。他死于 18.6.1946 。根据他的回忆录, 他凭着手上仅有的$7000, 就充满信心筹备建堂。峇冬丁宜的教友只等到$2012。他也成功向远至曼谷和新加坡等到$1779 和$10219。峇冬丁宜的教友也贡献了400天的建筑劳工, 或是每家庭10 天。教堂是用石灰砖所建成。石灰砖是就地取的沙所做成。圣堂内的圣妇亚纳和圣若亚敬的彩色玻璃, 以及六个石灰的圣像是取自槟城的复活堂。在祭台上面的圣母无染原罪圣像是取自旧圣堂。薛麦克神父只买了圣心, 圣若瑟和黑圣母圣像。建堂一共用了$21816.64 薛麦克神父对赵有才先生有能力建造玫瑰大圆窗, 高祭台和旋转楼梯感到非常骄傲。
 
-The bells, Do (Andretta), Mi (Carolina) and So (Attonia), were sponsored ($750) by Chan Tek Yee from Singapore. Fr. Michael Seet wished that his successor could buy the other Re and Fa bells when the parish is able to. Then on the feast days beautiful harmony could be heard.
+教堂的三个大钟都有命名。它们是新加坡的 Chan Tek Yee 所捐献。薛麦克神父希望在经济的允许下, 后人可购买另两个不同音调的大钟, 这样在庆典之日就可听到美丽的钟声旋律。
 
-#### The Church Builder
-
-The late Teoh Yew Chye was the contractor of the Church of Holy Name of Mary at Permatang Tinggi in 1928 when he was just 23 years old. The then Bishop was so impressed with his work and recommended him to build churches in Butterworth and Taiping, IJ Sisters convent schools in Tanah Rata, BM, SG Petani and La Salle Brother schools in Teluk Intan, St Xavier's Branch School in Penang and large extension of St Michael Institution, Ipoh.
-
-
-#### The Church Architecture
-The Church of Holy Name of Mary was based on Gothic architecture design originated from France which often features spires, pinnacles, decorative sculptures, large windows which have tracery such as rose window and window with stained glass. A characteristic of Gothic Church is its height, the verticality suggesting an aspiration to Heaven. All the main building structures were built and designed locally such as the spire, unique spiral staircase, the tracery pattern ceiling and the rose windows. The bell tower together with the spire is 90 feet high. The spire was constructed with hard wood and plank. The asbestos ceiling was painted with distemper of different colours.
+### 当年建堂工臣
+已故赵有才是峇冬丁宜1928年建堂督工, 他当时只有23岁。当时的主教对他的成就非常赞赏, 就推荐他建了北海和太平的教堂和修女学校,其中有金马伦高原、大山脚、双溪大年、槟城、 安顺及怡保的教会学校。
 
 
-#### 35th Anniversary of the Dedication of Church of Holy Name of Mary
-The Holy Name of Mary Church has existed for 85 years. It was built by Fr. Michael Seet in over 3 years period with overwhelming support from parishioners. The Church Opening ceremony was on 1.11.1928 with Fr Michael Seet Bishop Dovals, priests and all parishioners. Photo below shows the original stairway which has been replaced by tarmac access.
+### 教堂的建造设计
+圣母圣名堂是依据法国歌德式的设计所建成。歌德式的教堂通常有尖塔, 尖端, 精工的圣像, 有花纹的大窗口有如玫瑰窗口和彩色玻璃窗, 歌德式教堂的特色是它的耸立的高度代表到达天堂的愿望。所有的圣堂的构造都是本地设计和建造的, 比如那尖塔, 独特的旋转阶梯, 印有花纹的天花板以及玫瑰大圆窗。钟楼和尖塔共有九十尺高。它是用硬木和木板块建成。天花板是用胶性彩色涂上去的。
 
+
+### 圣母圣名堂35周年庆典
+圣母圣名堂已有127年的历史。她是由薛麦克神父花三年多的时间建成。当年建筑圣堂时, 教友全部参与工作, 出钱出力, 充分表现合作的精神。
 
 {{< gallery >}}

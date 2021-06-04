@@ -1,5 +1,5 @@
 ---
-title: St Paul The Hermit Chapel at Valdor Estate
+title: 圣保禄隐修公所，华都园
 summary:
 tags:
 - Chapel
@@ -12,4 +12,5 @@ image:
   caption:
   focal_point: Smart
 ---
-It started during the construction of Estate Workers' Quarter on 1953, some Tamil speaking parishioners placed a statue of St. Paul the Hermit at near by rubber estate. A shed was erected during 1970s. It is a hope if every parishioners in Valdor Estate that a chapel be built in the area.
+一九五三年, 英政府兴建园丘工人住宅区。当时印裔教友在附近廠國內安放圣保禄像来保护他们。随后意七十年代修建一座小亭安放圣像。八十年代,
+ 教友开始在每年二十, 大率庆祝主保日, 才使更多教方法及参与。华都园教友展望将来能兴意一座公所。
