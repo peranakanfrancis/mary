@@ -31,7 +31,7 @@ links:
 - name: St Mary Magdalena Chapel, Permatang Tinggi
   url: /en/project/st-mary-magdalena-chapel
 - name: St Joseph Chapel, Juru
-  url: /en/project/st-joheph-chapel
+  url: /en/project/st-joseph-chapel
 - name: St Anne Chapel, Valdor
   url: /en/project/st-anne-chapel
 - name: St Paul The Hermit Chapel, Valdor Estate
