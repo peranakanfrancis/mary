@@ -1,9 +1,9 @@
 ---
-title: Baptism
-summary: Go therefore and make disciples of all nations, baptising them in the name of the Father and of the Son and of the Holy Spirit, - Matthew 28:19
+title: 领洗圣事
+summary: 所以你们要去使万民成为门徒，因父及子及圣神之名给他们授洗。 - 玛窦福音28:19
 
 tags:
-- Sacraments
+- 教会圣事
 date: "2021-05-275T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

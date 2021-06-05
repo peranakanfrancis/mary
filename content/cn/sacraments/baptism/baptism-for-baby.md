@@ -1,32 +1,79 @@
 ---
-title: Baptism for Baby
-linktitle: Baptism for Baby
+title: 婴孩/儿童洗礼
+linktitle: 婴孩/儿童洗礼
 toc: true
 type: docs
 date: "2021-05-25T00:00:00+01:00"
 draft: false
 menu:
   baptism:
-    parent: Baptism
+    parent: 领洗圣事
     weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
 ---
-### Overview
-There are three sacraments that are the foundation of Christian life. These sacraments are: Baptism, Confirmation, and Eucharist. They are given in this order to bring about the full initiation of the new Christian life. These three sacraments together are called the Sacraments of Initiation.
+### 圣洗圣事─新生命的诞生
+在耕莘医院，每当有婴儿出生，医院都会透过扩音器，在布拉姆斯摇篮曲的乐声中，向大家宣布这个好消息。用这种方式欢迎新生命来到世界，真是美妙。我们能很自然地体会生命的价值及可贵。如果人是这样地庆祝新生命,我们可能想像当人领受圣洗圣事诞生於天主的大家庭──教会，并分享天主神圣的生命时，天主会有多欢欣？以人的本性,庆祝婴儿的诞生；教会则以属神的礼仪──圣洗圣事,来庆祝我们在主内、在教会内的新生命。
 
-Holy Baptism is the first step to becoming a member of Christ and the Church. It is the basis of the whole Christian life, the gateway to life in the Spirit, and the door which gives access to the other sacraments. Through Baptism we are freed from sin and reborn as sons and daughters of God; we become members of Christ, are incorporated into the Church and made sharers in her mission…” (Catechism of the Catholic Church, 1213). We receive new life through baptism, washing away original sin and personal sins. This is represented by pouring of water over the head by a priest. The newly baptized receives grace and sealed with a permanent spiritual mark. Therefore, baptism can only be celebrated once.
+入门圣事包括圣洗圣事、坚振圣事及圣体圣事。圣洗圣事是入门圣事中所举行的第一件圣事。透过此一圣事，我们分享天主圣叁的生命。教会代表天主接纳我们，因为从我们受孕的那一刻起，天主就先爱了我们。
 
-### Application package
-1. Baptism Application Form
-2. Birth Certificate
-3. Parent Workshop - An information session for priest to introduce Parents and God-Parents the meaning of the Holy Sacrament of Baptism and the Baptism Process.
-4. The date of workshop will be one week prior to the Baptism. You will be notified after submit your application package.
+「神圣的洗礼是整个基督徒生活的基础，是在圣神内得到生命的必经之路，也是获得其他圣事之门」。
 
-### Notes
-* Date: Twice Per Year (Easter Sunday and Holy Family Sunday)，
-* Time: During 3PM Sunday Mass after Homily
-* Registration: Please Submit Application package 3 weeks prior to the Date.)
+### 什麽是圣洗圣事？
 
-{{< figure src="/img/sacraments/baptism/baptism2.jpg" >}}
+「圣洗」这个字的希腊文baptizein， 意思是「没入」或是「浸入」。这个字也指出初期教会施行圣洗圣事的方式:领受圣洗者,走进圣洗池内，全身浸入水中;然後再从水池的另一边走出。这种洗礼方式表示领洗者衷心相信圣洗圣事的实际意义。他以投入水中的行动，表明死於罪恶；又以从水中走出,表明复活成新人。这个动作不但象徵、也实际让领洗者参与了耶稣基督的死亡与复活。也由於圣洗圣事有耶稣基督死亡和复活的外貌，因此复活前夕是领受此一圣事最合适的时间。
+
+从十三世纪起，举行洗礼时，主礼以在候洗者头上倒叁次水，取代全身受浸的方式，今天教会决定恢复从教会初期即采用的全身受浸的方式。
+
+### 圣洗的恩宠
+藉着水的洗礼，一个人的生命有了如下的改变，而且这改变是永远不会撤回的。
+ - 他变成了新的受造物
+ 受过洗的人得到重生，成为天主的义子。他 死於旧日习於犯罪的生命，进入新的生命─在天主带领下的充满恩宠的生命。
+ - 他由天主所赐神圣的恩宠，成为圣的，是天主圣神的宫殿
+ 新领洗者领受傅油，表示接受天恩圣神。他得到天主的恩宠，能对天主怀着信、望、爱之心，又能在圣神的激励下生活及行动；更
+ 到所需的恩宠，藉着各种德行，使自己更为美善。 天主在人领洗时所白白赐予的恩宠，永远不会作废。「圣洗圣事在基督徒身上留下了不可磨灭的精神印记，表示他属於基督。任何罪恶也消除不了这个印记」。但是我们有选择的自由，我们可以对天主所给的恩宠不作任何回应。
+ - 他所有的罪过都得到了赦免，包括原罪和本罪
+ 圣洗圣事消除了原罪带来的後果，而最严重的後果就是与天主分离！「获得重生的人，任何妨碍他进入天主国度的阻碍都不再存在，不论那是亚当带来的原罪，或是自身的本罪，或是犯罪所产生的後果」。 但圣洗圣事不会撤消因罪过而带来的现世的後果，例如生病、痛苦和死亡，却会向我们保证，透过此一圣事，我们可分享基督战胜世俗邪恶的胜利。天主的仁慈和救恩的爱远胜过罪恶的力量。 在圣洗圣事中所使用的水，更进一步地强调了「远离罪恶奴役」的思想。正如旧约时代的以色列人通过红海，从奴隶之身进入了新生命；我们也藉着圣洗圣事的圣水，通过罪恶而进入新生命。
+ - 他成为基督身体的肢体，并加入了信友组成的教会
+ 圣洗圣事不是一件个人的圣事，而是团体的圣事。此圣事不但给予我们在天主内的新生命，也将我们与基督徒团体结合。「圣洗圣事使我们成为基督奥体的一员。因此我们彼此成为肢体」。
+ - 他因圣洗圣事而分担基督司祭、先知和君王的职务
+ 在每一种盟约式的关系中，双方都要履行某些承诺并善尽某些责任。同样的，凡是领受圣洗圣事的人，不但分享基督所赐的许多恩赐，也必须担负起身为基督徒应尽的责任。他们受召来参与「天主子民应有的使徒及传教工作」。
+
+ 基督徒因基督之名敬拜天主，而分担耶稣的司祭职；他听从并宣扬福音，而分担基督的先知职；他为那些有需要的人服务，而分担基督的君王职。
+
+### 圣洗圣事的必要
+天主教会教导我们，圣洗圣事为得救恩是必须的。这个教导来自耶稣基督本身（若3:5）。 「对於那些听到了福音的宣讲，也有机会要求领受此一圣事的人来说，圣洗对於他们的得救,是必要的」。
+
+因此，凡是听过基督的福音，也了解圣洗的必要性的人，领受圣洗圣事就成为一种责任。如果明知此一圣事的重要性，又拒绝领受此圣事，就是犯了反对天主的大罪。
+
+一个人虽然不认识耶稣基督，也不了解或相信领受圣洗的必要，但他若过着善良正义的生活，那麽这人并不需要领受圣洗圣事才能得救。新编《天主教教理》也表达了类似的看法：「任何人若不认识基督的福音，但仍追求真理，并按照个人的了解，来遵行上主的旨意，那麽他就可以得救」。在这种情况下，我们可以假设，如果这人有机会认识基督，也有机会了解圣洗的必要性，他会愿意接受圣洗圣事。这就叫做愿洗。
+
+慕道者若在领洗前去世，即使他们还来不及领受此一圣事，也会因为有领洗的意愿而得救。另外还有一种洗礼叫做血洗。就是那些虽未接受圣洗圣事，但却为了信仰的缘故而致命的人，他们已因为基督,并与基督同死,而领受了此一圣事。
+
+我们都知道天主的仁慈，也知道他渴望所有人都能得救(玛18:14)，因此我们相信没有领洗而早夭的儿童，必定也能得救。但这并不表示我们可以偷懒，而不积极带领儿童及男女老少来到天主面前，接受洗礼。
+
+### 圣洗圣事只是一个开始
+如果有人问你：「你是什麽时候领洗的？」你很容易回答这问题，只要说出自己领洗的日期即可。但是若有人问你：「你今天如何过你的领洗生活？」也许你就得叁思之後，才答得出来了。我们往往会把自己的领洗当成一个发生在从前某一时刻，如今已成过去的事件。但领洗并不是神父在我们额头倒了水之後就结束了。「领洗」在我们身上烙下了印记，表示我们终身都要做天主的使徒，终身与主同行。正如婴儿不会在诞生之後就停止成长，领过洗的基督徒也要按他领洗时所作的承诺而继续成长。在每年复活节的礼仪中，教会都邀请我们重发领洗誓愿，就是为了提醒我们这一点。
+
+每一次我们拒绝罪恶，对需要帮助的人伸出援手，为贫困的人祈祷、捐献，参加敬拜天主的礼仪，为最小的兄弟姊妹服务....时，我们就是在实践我们领洗时的承诺。这样，我们在基督内的新生命,在现世中真正成为实实在在的生命;我们的生命也就肯定了我们的领洗誓愿：成为世上的光。
+
+### 结论
+藉着洗礼，我们脱离了罪恶，成为天主的义子女，并且分享他神性的生命。圣洗圣事是在教会内与基督订立终身盟约的一个开始，也是我们在入门过程中所领受的第一个圣事。教会教导我们，圣洗圣事为得救是必需的。非基督徒也能藉着愿洗或血洗，得到圣洗圣事的恩宠。在圣洗圣事中，我们分享基督的逾越奥迹。
+
+「难道你们不知道：我们受过洗归於基督耶稣的人，就是受洗归於他的死亡吗？我们藉着洗礼已归於死亡与他同葬了，为的是基督怎样藉着父的光荣，从死者中复活了，我们也怎样在新生活中度生。如果我们藉着同他相似的死亡，已与他结合，也要藉着同他相似的复活与他结合。」 (罗六3-5)
+
+### 婴孩洗礼申请须知 （七岁以下之婴幼儿）
+1. 申请表格
+2. 抱生纸
+3. 讲习 - 由神父向父母及代父母讲习婴孩领洗的义意，及领洗过程的介绍。
+4. 时间将会安排在领洗前一周，届时另行通知。
+5. 日期 - 每年两次（复活节及圣家节，即圣诞节之后的第一个主日）
+6. 时间 - 主日下午三点弥撒于神父讲道之后
+7. 报名 - 请提早三周前，呈交完整报名资料
+
+
+### 儿童领洗 （七岁至十七岁青少年）
+* 报名 - 通过注册教理班参加儿童慕道班
+
+{{< figure src="/img/sacraments/baptism/baptism4.jpg" >}}

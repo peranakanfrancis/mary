@@ -24,7 +24,7 @@ abstract: 感谢从1893年至今与峇冬丁宜及附近社区一起成长度过
 summary: 感谢从1893年至今与峇冬丁宜及附近社区一起成长度过的神父们。这是我们教堂的历代神父表。
 
 tags:
-- History
+- 历史
 featured: false
 
 # links:

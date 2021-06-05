@@ -23,7 +23,7 @@ abstract:
 summary: "新约圣事是由基督建立的，共有七件，就是圣洗、坚振、圣体、和好、病人傅油、圣秩以及婚姻。七件圣事涉及基督徒生命中的所有阶段，以及一切重要时刻：它们产生、滋长、治愈基督徒的信仰生命，并赋予使命。这样，自然生命的各阶段与灵性生命的各阶段之间，有着某些类似之处。"
 
 tags:
-- Sacraments
+- 教会圣事
 featured: true
 
 links:
@@ -33,7 +33,7 @@ links:
    url: "sacraments/confirmation"
  - name: "圣体"
    url: "sacraments/communion"
- - name: "和好圣事"
+ - name: "和好/忏悔"
    url: "sacraments/reconcilition"
  - name: "病人傅油"
    url: "sacraments/anointing"

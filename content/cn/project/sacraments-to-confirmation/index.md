@@ -1,8 +1,8 @@
 ---
-title: Confirmation
-summary: All of them were filled with the Holy Spirit and began to speak in other languages, as the Spirit gave them ability. - Acts 2:4
+title: 坚振圣事
+summary: 众人都充满了圣神，照圣神赐给他们的话，说起外方话来 - 宗徒大事录 2:4
 tags:
-- Sacraments
+- 教会圣事
 date: "2021-05-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

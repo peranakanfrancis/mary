@@ -2,7 +2,7 @@
 title: 圣保禄隐修公所，华都园
 summary:
 tags:
-- Chapel
+- 公所
 date: "2021-05-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

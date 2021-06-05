@@ -18,15 +18,16 @@ There are three sacraments that are the foundation of Christian life. These sacr
 
 Holy Baptism is the first step to becoming a member of Christ and the Church. It is the basis of the whole Christian life, the gateway to life in the Spirit, and the door which gives access to the other sacraments. Through Baptism we are freed from sin and reborn as sons and daughters of God; we become members of Christ, are incorporated into the Church and made sharers in her mission…” (Catechism of the Catholic Church, 1213). We receive new life through baptism, washing away original sin and personal sins. This is represented by pouring of water over the head by a priest. The newly baptized receives grace and sealed with a permanent spiritual mark. Therefore, baptism can only be celebrated once.
 
-### Application package
+### Application package for Baby Baptism (New Born ~ 6 Years Old)
 1. Baptism Application Form
 2. Birth Certificate
 3. Parent Workshop - An information session for priest to introduce Parents and God-Parents the meaning of the Holy Sacrament of Baptism and the Baptism Process.
 4. The date of workshop will be one week prior to the Baptism. You will be notified after submit your application package.
+5. Date: Twice Per Year (Easter Sunday and Holy Family Sunday)，
+6. Time: During 3PM Sunday Mass after Homily
+7. Registration: Please Submit Application package 3 weeks prior to the Date.)
 
-### Notes
-* Date: Twice Per Year (Easter Sunday and Holy Family Sunday)，
-* Time: During 3PM Sunday Mass after Homily
-* Registration: Please Submit Application package 3 weeks prior to the Date.)
+### Children Baptism (7 ~ 17 Years Old)
+* Registration - Through registration for RCIA for Children.
 
-{{< figure src="/img/sacraments/baptism/baptism2.jpg" >}}
+{{< figure src="/img/sacraments/baptism/baptism4.jpg" >}}

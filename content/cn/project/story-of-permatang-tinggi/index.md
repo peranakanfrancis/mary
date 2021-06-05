@@ -2,7 +2,7 @@
 title: 峇冬丁宜新村的故事
 summary:
 tags:
-- History
+- 历史
 date: "2021-05-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

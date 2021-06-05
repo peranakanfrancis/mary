@@ -2,7 +2,7 @@
 title: 圣亚纳公所，华都村
 summary:
 tags:
-- Chapel
+- 公所
 date: "2021-05-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

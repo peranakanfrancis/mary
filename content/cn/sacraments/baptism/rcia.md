@@ -1,61 +1,74 @@
 ---
-title: Rite of Christian Initiation of Adults (RCIA)
-linktitle: Rite of Christian Initiation of Adults (RCIA)
+title: 成人慕道班 (RCIA)
+linktitle: 成人慕道班 (RCIA)
 toc: true
 type: docs
 date: "2021-05-25T00:00:00+01:00"
 draft: false
 menu:
   baptism:
-    parent: Baptism
+    parent: 领洗圣事
     weight: 4
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 4
 ---
 
-### What is Rite of Christian Initiation of Adults (RCIA)
-The RCIA is a journey, set forth by the universal Church, for adult inquirers (seekers of faith) who desire to know and follow Jesus Christ and to become a member of the Catholic Church. The Rite prepares the adult inquirers with the aim to receive the Sacraments of Initiation – Baptism, Confirmation and the Eucharist.
+### 什么是成人慕道班？
+-  慕道班是一个由那些愿意认识耶稣，跟随耶稣的兄弟姐妹所组成的团体。
+-  慕道班是一个团体，不是一个班级，成员有教友及慕道者。大家一起正视人生，渴慕真理，追求圣道，走信仰的旅程。
+-  慕道班的宗旨是帮助教外朋友认识、接受与跟随基督；并认识与归属天主教大家庭，参与教会的生活。
 
-### For whom is RCIA intended?
-* Adults who are not baptised.
-* Adults who were baptised in another non-Catholic Christian tradition.
-* Baptised adult Catholics who have not completed the Sacraments of Confirmation and Holy Eucharist.
+### 参加慕道班的目的是什么？
+- 参加慕道班可以和许多教会内的兄弟姐妹一起在团体的生活中慕道,分享信仰，分享生活。
+- 在团体的分享中去认识信仰，活出一个更自由、更丰盛、更有意义的生活。
 
-### When will the new intake for 2020/2021 commence?
-* Date: Sunday, 23 August 2021
-* Time: 2.00pm-5:00pm
-* Venue: ZOOM Conferencing
+### 慕道班的过程需要多长的时间呢？
+整个慕道的过程所需要的时间大约一年，在这段时间内，希望参加者对天主教的信仰有一个完整的认识。
 
-### How do I register for RCIA?
-- Kindly register online [here](#).
-- or completing hard copies of the form (available from Parish Office) and returning the completed forms to the Parish Office.
+### 慕道班用什么方式进行？
+- 慕道班每星期聚会一次，每次约两小时，由神父或讲员负责讲解天主教的道理。参加者共同讨论分享，互相学习，一起探索生命的意义与价值。
+- 慕道过程中也举办一些康乐的活动，促进彼此的友谊。
+- 疫情期间也会通过Zoom授课。
 
-### How does RCIA work?
-RCIA is a spiritual journey of faith. It is an exploration into the unknown that requires courage, persistence, and commitment. Rest assured, as St Augustine of Hippo puts it wonderfully, “To fall in love with God is the greatest romance; to seek him the greatest adventure; to find him, the greatest human achievement”.
+### 谁可以参加呢？
+凡年龄十六岁以上的教外朋友，都可以报名参加。
 
-RCIA is a spiritual journey of conversion and renewal of both heart and mind. We are informed, formed, and transformed through Jesus, with Jesus, and in Jesus. No one who sincerely comes to Jesus is not changed.
+### 教友可以参加吗？
+教友可以陪同员或再慕道者的身份参加，一方面可以增进个人对天主教信仰的认识；另一方面，通过生活见证，也可以协助慕道者信德的成长。
 
-The RCIA journey is communal and not individual. It is a journey which is never meant to be taken alone. The formation process takes place within the context of the community itself. The inquirers pray with the community and are prayerfully supported by it; they reflect on the Catholic faith within the context of the community, and they experience what it means to be a Catholic.
+### 非教友参加慕道班后一定要领洗吗？
+参加慕道班是为认识天主和教会，领洗与否，完全是参加者的自由选择。　
 
-### What is expected of me?
-A desire to learn about the Catholic faith, and a certain level of commitment is expected in attending the 2-hour weekly session. Attendance is expected at the rites that comes with the journey as well.
+### 成人入门圣事预备阶段培育过程表
+慕道班可被形容为一个信仰的旅程，整个过程分四个阶段：
 
-Ask questions. Ask any and all questions regarding your concerns about the faith.
+{{< table table_class="table table-hover" thead_class="table-info" >}}
 
-Spend time in prayer daily and to read materials handed out at each session. The Catholic Church is very rich in her teachings and practices, and it takes a lifetime to continually conform yourself to God.
+| 培育阶段 | 培育阶段的活动与礼仪 | 参与者名称 |
+|---------|-------------------|----------|
+| 问道期 | 非正式地参与感恩圣事 | |
+| | 收录礼：授圣经；登记成为正式慕道者 | |
+| | 探讨一般人生问题；学习以基督的角度去看事物；初步皈化。| 问道者 |
+| 求道期（慕道期） | 参与信友团体的祈祷 ｜ 求道者（慕道者） |
+| | 正式地参与感恩圣事但不参与圣祭礼 | |
+| | 短式驱邪和傅油礼 | |
+| | 覆手祝福礼 | |
+| | **遣使礼**：派遣慕道者参与甄选礼 | |
+| | **甄选礼**：登记姓名，录取成为“候洗者” | |
+| | 愿意加入教会团体，在基督内改变生活；初步学习读经、体验祈祷生活；在教会引导下，按部就班去慕道，认识自己所希望分享的救恩奥迹。 | |
+| 明道期 (净化与光照期) | 第一次恳祷礼（考核礼） | |
+| | 第二次恳祷礼 | |
+| | 第三次恳祷礼 | |
+| | 授信经 | |
+| | 授天主经 | |
+| | 最后准备礼 | |
+| | 更积极的祈祷与自省。考查自己是否愿意弃绝罪恶，接受基督为救主。祈求脱离黑暗与罪恶的势力。坚定信念，努力追随基督的福音。 | |
+| | **领入门圣事**：成为天主的子女，教会的一分子。 | 候洗者 |
+| 习道期（释奥期) | 感恩圣事 | |
+| | 堂区组织 | |
+| (成长期） | 在完整的教会生活中体验逾越奥迹，经验上主的临在，加深对信仰、教会、世界的认识。为基督作证。 | 新教友 |
 
-Last but not least, be open. Come with an open mind and heart. Be open and you will be surprised by God and the splendour of truth in the Catholic Church.
-
-### My schedule doesn’t permit me to attend all the sessions on a weekly basis. What shall I do?
-Replacement classes will be held for those who are not able to make it for the particular session.
-
-### I hear that I need a Godparent/Sponsor in order to become a Catholic. What is a Sponsor?
-A Godparent/Sponsor is a baptised, confirmed, and practising Catholic, at least 16 years old, who acts as a spiritual companion and is willing to support as you in this RCIA journey, and serves as a spiritual mentor throughout your life.
-
-If you know of someone who meets the above criteria, you can approach them to be your Godparent/Sponsor. If you don’t, the RCIA team will try to help you find a Godparent/Sponsor.
-
-### What does the Godparent/Sponsor do?
-Godparent/Sponsor journey with the you by attending the weekly RCIA sessions and also the rites that come with it, and he (or she) should care for you spiritual growth. Together with your Godparent/Sponsor, you discern your readiness to receive the Sacraments of Initiation (Baptism, Confirmation, and the Eucharist). Godparent/Sponsor should always be there to inspire, motivate, guide, and pray for you.
+{{< /table >}}
 
 {{< figure src="/img/sacraments/baptism/baptism3.jpg" >}}
