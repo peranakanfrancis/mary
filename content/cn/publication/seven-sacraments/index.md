@@ -28,19 +28,19 @@ featured: true
 
 links:
  - name: "领洗"
-   url: "sacraments/baptism"
+   url: "/zh/sacraments/baptism"
  - name: "坚振"
-   url: "sacraments/confirmation"
+   url: "/zh/sacraments/confirmation"
  - name: "圣体"
-   url: "sacraments/communion"
+   url: "/zh/sacraments/communion"
  - name: "和好/忏悔"
    url: "sacraments/reconcilition"
  - name: "病人傅油"
-   url: "sacraments/anointing"
+   url: "/zh/sacraments/anointing"
  - name: "婚姻"
-   url: "sacraments/matrimony"
+   url: "/zh/sacraments/matrimony"
  - name: "圣秩"
-   url: "sacraments/holy-orders"
+   url: "/zh/sacraments/holy-orders"
 # url_pdf: 'img/sacraments/seven-sacraments.pdf'
 # url_code: ''
 # url_dataset: ''

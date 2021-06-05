@@ -29,13 +29,13 @@ featured: true
 
 links:
 - name: St Mary Magdalena Chapel, Permatang Tinggi
-  url: project/st-mary-magdalena-chapel
+  url: /en/project/st-mary-magdalena-chapel
 - name: St Joseph Chapel, Juru
-  url: project/st-joheph-chapel
+  url: /en/project/st-joheph-chapel
 - name: St Anne Chapel, Valdor
-  url: project/st-anne-chapel
+  url: /en/project/st-anne-chapel
 - name: St Paul The Hermit Chapel, Valdor Estate
-  url: project/st-paul-the-hermit-chapel
+  url: /en/project/st-paul-the-hermit-chapel
 
 #- name: Custom Link
 #  url: http://example.org

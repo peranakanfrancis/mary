@@ -29,9 +29,9 @@ featured: true
 
 links:
 - name: 网上筹款
-  url: project/donation-form
+  url: /zh/project/donation-form
 - name: 同心协力建新堂晚宴2018
-  url: project/fundraising-for-new-church
+  url: /zh/project/fundraising-for-new-church
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: '#'
 # url_dataset: '#'

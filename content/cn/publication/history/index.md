@@ -29,13 +29,13 @@ featured: true
 
 links:
 - name: 圣玛达肋纳公所，峇冬丁宜村
-  url: project/st-mary-magdalena-chapel
+  url: /zh/project/st-mary-magdalena-chapel
 - name: 圣若瑟公所，柔府村
-  url: project/st-joheph-chapel
+  url: /zh/project/st-joheph-chapel
 - name: 圣亚纳公所，华都村
-  url: project/st-anne-chapel
+  url: /zh/project/st-anne-chapel
 - name: 圣保禄隐修公所，华都园
-  url: project/st-paul-the-hermit-chapel
+  url: /zh/project/st-paul-the-hermit-chapel
 
 #- name: Custom Link
 #  url: http://example.org

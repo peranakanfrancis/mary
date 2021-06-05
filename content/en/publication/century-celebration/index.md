@@ -29,9 +29,9 @@ featured: true
 
 links:
 - name: Donation Form
-  url: project/donation-form
+  url: /en/project/donation-form
 - name: Fundrasing Celebration 2018
-  url: project/fundraising-for-new-church
+  url: /en/project/fundraising-for-new-church
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: '#'
 # url_dataset: '#'

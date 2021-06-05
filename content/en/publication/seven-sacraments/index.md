@@ -31,19 +31,19 @@ featured: true
 
 links:
  - name: "Baptism"
-   url: "sacraments/baptism"
+   url: "/en/sacraments/baptism"
  - name: "Confirmation"
-   url: "sacraments/confirmation"
+   url: "/en/sacraments/confirmation"
  - name: "Communion"
-   url: "sacraments/communion"
+   url: "/en/sacraments/communion"
  - name: "Reconciliation"
-   url: "sacraments/reconcilition"
+   url: "/en/sacraments/reconcilition"
  - name: "Anointing"
-   url: "sacraments/anointing"
+   url: "/en/sacraments/anointing"
  - name: "Matrimony"
-   url: "sacraments/matrimony"
+   url: "/en/sacraments/matrimony"
  - name: "Holy Orders"
-   url: "sacraments/holy-orders"
+   url: "/en/sacraments/holy-orders"
 # url_pdf: 'img/sacraments/seven-sacraments.pdf'
 # url_code: ''
 # url_dataset: ''
