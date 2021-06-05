@@ -1,11 +1,12 @@
 ---
 # Course title, summary, and position.
-linktitle: Anoiting
-summary: In the course of life, humans suffer from illnesses of body, mind and spirit. The Sacrament of Anointing confers the healing touch of God on the sick and forgives sin. Sometimes the sacrament restores a person to full health. Sometimes it prepares a person to accept the reality of death, which is a necessary part of human life. In the case of imminent death, the Eucharist is offered as Viaticum, food for the journey to the Father.
+linktitle: 傅油圣事
+summary: 教会从基督的手中，领受了「治好病人」的任务(玛十8)。基督愿意教会透过照顾病人、陪伴病人、为病人代祷，努力实践这项任务。因此，在教会的七件圣事中，基督亲自建立的病人傅油圣事(参阅谷六13，14-15)，是专为坚强及安慰那些忍受病苦的人而设立的。
+
 weight: 1
 
 # Page metadata.
-title: Anoiting
+title: 傅油圣事
 date: "2021-05-26T00:00:00Z"
 lastmod: "2021-05-26T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,20 +18,25 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   anointing:
-    name: Anointing
+    name: 傅油圣事
     weight: 1
 ---
 
 {{< figure src="/img/sacraments/anointing/anointing.jpg" >}}
 
-> #### "Are any among you sick? They should call for the elders of the church and have them pray over them, anointing them with oil in the name of the Lord. - James 5:14"
+> #### "你们中间有病了的呢，他就该请教会的长老来；他们可以奉主的名用油抹他，为他祷告。 - 雅各书 5:14"
 
-### What is Anointing of the Sick?
-The Anointing of the Sick is given to the sick and those who are about to depart from this life. This Sacrament unites the suffering of an ill person with that of Christ. It enables forgiveness of their sins, comfort in their suffering, and restores the spirit. For the dying person, the sacrament is for the preparation for the passing over to eternal life.
+### 什么是傅油圣事？
+傅油圣事是天主教、东正教和一些新教教会的圣事。
 
+这圣事的旧称临终圣事或终傅圣事由12世纪末起在西方天主教会使用，直到梵蒂冈第二届大公会议废止。
 
-The Sacrament is administered by a priest or bishop. A penitential rite followed by the Liturgy of the Word opens the celebration. Scripture awakens the faith of the sick and family members and friends to pray to Christ for the strength of his Holy Spirit. The priest lays his hands on the head of the sick person. He then proceeds to anoint, with the blessed Oil of the Sick, the forehead and hands of the sick person (in the Roman Rite). He accompanies these acts with the words, “Through this holy anointing may the Lord in his love and mercy help you with the grace of the Holy Spirit. May the Lord who frees you from sin save you and raise you up” (CCC, no. 1513) Holy Communion may be offered to the dying person.
+傅油圣事依据的主要圣经经文为「你们中间有患病的吗？他该请教会的长老们来；他们该为他祈祷，因主的名给他傅油：出于信德的祈祷，必救那病人，主必使他起来；并且如果他犯了罪，也必得蒙赦免。」（雅各伯书5章14,15节）
 
+这圣事给予病人属灵的帮助和安慰，并完好的属灵健康，包括因为病重信徒的罪得赦免。天主教会基督徒认为，有的时候圣事会带来奇迹治愈。傅油的意思是以油涂抹，所使用是橄榄油。在天主教会，通常这油（病人油，oleum infirmorum）已由主教在圣周四的圣油弥撒中祝圣。
 
-### To Receive Anointing of the Sick
-If you or someone you know are sick and would like to receive the Sacrament of the Anointing of the Sick, please contact our parish Father Louis at [+6045887799](tel:+6045887799) or book an appointment as soon as possible. There is no need to wait until the point of death if the illness is serious. The Sacrament may be repeated if the person recovers and becomes ill again, or if the person’s condition worsens.
+这圣事可以为个人需要进行，也可以集体进行。天主教堂区通常一年会举行一至两次集体的病人傅油圣事，而这多是在弥撒中举行。
+
+如果这圣事是为个人的话，司铎会在简短仪式中施行，如果时间环境许可会举行简短礼仪。病人傅油圣事经常与其他圣事一同施行，如忏悔礼和领圣体。若果没有即时生命危险，其次序是忏悔礼，傅油礼，然后领圣体。司铎也可能会施行使徒赦罪(Apostolic Pardon，奉教宗名义施行)，尤其是有生命危险的病人。
+
+现时傅油圣事由司铎主持。司铎以已祝圣的油在病人的额头画十字，并念：「借此神圣傅油，愿无限仁慈的主，以圣神的恩宠助佑你」然后又以油在病人手掌画十字，并念：「他既赦免你的罪，愿他拯救你，使你振作起来。」

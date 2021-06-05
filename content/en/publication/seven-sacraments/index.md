@@ -85,7 +85,6 @@ projects: []
 # Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 ---
 
-{{< youtube r2zKHSi54Uc >}}
 ### What are the seven sacraments?
 The seven sacraments are [baptism](sacraments/baptism), [confirmation](sacraments/confirmation), [communion](sacraments/communion), [reconciliation](sacraments/reconciliation), [anointing](sacraments/anointing), [matrimony](sacraments/matrimony) and [holy orders](sacraments/holy-orders). They are divided into three categories: ***sacraments of initiatio*n**, ***sacraments of healing*** and ***sacraments of communion & mission***.
 
