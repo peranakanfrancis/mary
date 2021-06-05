@@ -22,6 +22,17 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
+  title = "来自雷神父的通告"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1fqDbVXJsjRam9RfkP1Xo9XorxhNMBulQ/view?usp=sharing"
+  date_start = "2021-06-04"
+  date_end = ""
+  description = "今天教会庆祝基督圣体圣血节，它提醒我们在弥撒中所领受的圣体圣事，每一次当我们领了圣体圣血，我们与主建立新的盟约。"
+
+
+[[item]]
+  organization = ""
+  organization_url = ""
   title = "每周堂讯 (5月30日 - 6月5日)"
   url = ""
   certificate_url = "https://drive.google.com/file/d/10yrcBpEp4poKeATEI4CSp5_1yCCiQH3M/view?usp=sharing"

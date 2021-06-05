@@ -19,6 +19,16 @@ time_format ="3:04 PM"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Annoucement from Father Louis"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1fp7bBamxXQaalQ1_0wq37ceAVHLQxtLx/view?usp=sharing"
+  date_start = "2021-06-04"
+  date_end = ""
+  description = "Today we the church celebrate the Solemnity of The Body and Blood of our Lord Jesus Christ (Corpus Christ)."
+
 
 [[item]]
   organization = ""
