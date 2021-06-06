@@ -1,49 +1,68 @@
 ---
-title: Funeral Mass Costing & Checklist
-linktitle: Funeral Mass Costing & Checklist
+title: 殡葬弥撒价钱表及筹备
+linktitle: 殡葬弥撒价钱表及筹备
 toc: true
 type: docs
 date: "2021-05-25T00:00:00+01:00"
 draft: false
 menu:
   funeral:
-    parent: Funeral Rites
+    parent: 殡葬弥撒
     weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
 ---
 
-### Costing
+### 弥撒费用
 
 {{< table table_class="table table-hover table-borderless" thead_class="table-info" >}}
 
-| # | ITEM | CHARGES (RM) |
+| # | 项目 | 费用 (RM) |
 |---|------|--------------|
-| 1 | Mass | 50.00 |
-| 2 | Father | 50.00 |
-| 3 | Commentator | 20.00 |
-| 4 | Readers | 10.00 |
-| 5 | Sacristan | 40.00 |
-| 6 | Pianist | 20.00 |
-| 7 | Altar Server (1) | 10.00 |
-| 8 | Altar Server (2) | 10.00 |
-| 9 | Cemetery Gardener | 20.00 |
+| 1 | 弥撒 | 50.00 |
+| 2 | 神父 | 50.00 |
+| 3 | 领经员 | 20.00 |
+| 4 | 读经员 | 10.00 |
+| 5 | 管堂 | 40.00 |
+| 6 | 琴师 | 20.00 |
+| 7 | 辅祭员 (1) | 10.00 |
+| 8 | 辅祭员 (2) | 10.00 |
+| 9 | 诸圣园园丁 | 20.00 |
 
 {{< /table>}}
 
-### Notes
-1. The area leader is required to bring the banner to the deceased house; together with the church representative to pay last respect to the deceased and finally return the banner to the parish clerk.
+#### 另注
+- 各地区基信团领袖需负责把祭旗带去丧家; 并在亡者出殡时连同堂区代表一起向亡者致敬, 同时负责把祭旗交回给书记。
+- 地区领袖也要负责把丧家所乐捐或其他费用的收据交回给丧家。
+- 至于挖墓穴事项, 请联络诸圣园园丁汪逸福弟兄[+6045871690](tel:6045871690) 或交由残仪馆包办。
+- 殡葬弥撒礼仪前必须把 Sin Kematian 和 Datar Kematian/ Permit Mengubur 呈交予圣堂书记或神父, 否则恕不接受埋于诸圣园。
+- 凡欲做墓碑的丧家,必须缴交抵押金 RM600.00 予圣堂书, 直到工程完毕; 经过诸圣园园丁检视后, 肯定工程范围都已处理清洁, 此抵押金才可拿回。
 
-2. The area leader is responsible to hand over the official receipts on donation or payment made to
+---
 
-3. For digging works, you may contact the gardener of the grave yard, Mr Joseph Wang » 04-5871690
-or may hand over to work to outsiders.
+### 墓地收费
+1. 圣母圣名堂教友
+{{< table table_class="table table-hover table-borderless" thead_class="table-info" >}}
 
-4. Official doucment such as Sijil Kemation and Daftar Kemation /Permit Mengubur from the concerned
-authority must be submitted to our parish clerk or priest prior to funeral mass/service, failing which,
-no burial works is allowed at the grave yard
+| # | 类别 | 费用 (RM) |
+|---|-----|-----------|
+| **圣母圣名堂教友** | 华人坟场 | 每墓穴征收五百元正 (RM500) |
+| | 印度人坟场 | 每墓穴征收五百元正 (RM500) |
+| | 旧墓穴 | 每墓穴征收五百元正 (RM500) |
+| | 双人墓穴 | 每墓穴征收一千五百元正 (RM1500) |
+| |  未滿十二岁者 | 墓地免费 (但须葬于儿童坟场) |
+| **本堂教友在外地居住的至亲** | | 每墓穴征收两千元正。 (RM2000) |
+| | | 双人墓穴征收四千元正 (RM4000) |
+| **外地教友**(不鼓励) | | 每墓穴征收一千元正 (RM1000) |
+| | | 双人墓穴征收甘千元正 (RM2000) |
 
-5. Prior to any work done on tombstone, the deceased family is required to pay RM500.00 as deposit
-to parish clerk. After all the necessary work is completed, the caretaker of the grave yard will inspect
-and upon satisifying that all cleaning works is properly done, then deposit will be refunded.
+{{< /table >}}
+
+***上述收费须于埋葬前还清。(不包括挖穴工资)***
+
+#### 另注
+- 押底金: 承建坟墓者应缴纳五百元(RM2000)拥底金,并签署一份同意书。承建坟墓者应遵守本堂坟场规章,并于完工后清理周围一切废物,否则押底金将被没收。
+- 违例处罚: 凡建造不符合规定之坟墓,该承包商将不获在诸圣园承包建筑工程。
+- 所有坟场账目与款项交由堂区财政组保管。
+- 本规章若有未尽善之处,堂区牧灵理事会有权修订墓地规章及墓地收

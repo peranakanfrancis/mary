@@ -1,6 +1,6 @@
 ---
 title: Fundraising for New Church
-summary: Parents' Day Fundraising Dinner has successfully launched and collected about RM2.1 millions.
+summary: Why do we need a new church? The original church can no longer accommodate the increasing number of church members, and many church members can only participate outside the church on Sunday Mass.
 tags:
 - Fundraising
 date: "2021-05-25T00:00:00Z"
@@ -13,7 +13,8 @@ image:
   focal_point: Smart
 ---
 
-> Don't you realize that those who work in the temple get their meals from the offerings brought to the temple? And those who serve at the altar get a share of the sacrificial offerings. - [1 Corinthians 9:13]
+> Don't you realize that those who work in the temple get their meals from the offerings brought to the temple? And those who serve at the altar get a share of the sacrificial offerings. **- [1 Corinthians 9:13]**
+
 [Make Donation Here](../donation-form)
 
 ### Speech from Penang RT REV Dato Sebastian Francis DD Bishop

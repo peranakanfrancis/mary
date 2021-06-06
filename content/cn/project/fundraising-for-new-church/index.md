@@ -1,36 +1,35 @@
 ---
-title: Fundraising for New Church
-summary: Parents' Day Fundraising Dinner has successfully launched and collected about RM2.1 millions.
+title: 同心协力建新堂
+summary: 为什么我们需要新教堂？原有的教堂已经无法容纳日益增多的教友，弥撒主日有许多的教友只能在教堂外参与。
 tags:
-- Fundraising
+- 筹款
 date: "2021-05-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link:
 
 image:
-  caption: Prototype of Building Design
+  caption: 新教堂的设计图
   focal_point: Smart
 ---
 
-> Don't you realize that those who work in the temple get their meals from the offerings brought to the temple? And those who serve at the altar get a share of the sacrificial offerings. - [1 Corinthians 9:13]
-[Make Donation Here](../donation-form)
+> 你们岂不知为圣事劳碌的，就吃殿中的物吗？伺候祭坛的，就分领坛上的物吗？ **-【哥林多前书 9：13】**
 
-### Speech from Penang RT REV Dato Sebastian Francis DD Bishop
-Greetings in the Lord !
+[线上捐钱](../donation-form)
 
-With joy and gratitude in our hearts, I invite you to join me in thanking the MEP Priests who journeyed with the community of Permatang Tinggi from 1893 to 1914. The present Church of the Holy Name of Mary, Permatang Tinggi was built in 1928 during the tenure of Fr. Michael Seet, the first local priest, who served in the parish from 1914 to 1919, and again from 1921 to 1937. Ninety years later activity centre, to cater for an even larger community that is expected to expand further due to the housing developments and the new township that is emerging in areas close to the parish.
+### 槟城首席部长曹观友
+峇冬丁宜圣母圣名堂开教已有百余年的历史, 目前原有的教堂建立至今也有90年。时代的变迁, 人事的变更, 峇冬丁圣母圣登名堂依然扮演着照顾教徒们灵修生活的重要角色。
+
+根据记录, 峇都交弯是天主教在威省的起源地, 天主教在威省的历史可追溯回大约190年前。1830年, 从中国南来的天主教徒在峇都交弯落脚,教徒以农业种植为生, 并在峇都交弯兴建第一座教堂, 以及两所男校女校。后来因其它地区也开始开垦农地, 一些教徒开始向外迁移, 在1809年, 天主教信仰传播到峇冬丁宜新村村。
+
+多年以来, 华都新村教徒、柔府新村教徒皆附属于峇冬丁宜圣母圣名堂堂区。由于周围环境不断发展, 很多住宅花园在附近林立, 致使堂口人数也逐年增加。故, 建设一座新教堂以容纳更多的教友是和适宜的。
 
 {{< gallery >}}
 
-I express my sincere thanks to you, the parishioners of the Church of the Holy Name of Mary, Permatang Tinggi, for your continuous efforts and generous contribution through your active participation and organization for the several fundraising activities throughout the year. You have raised more than RM3.4 million as of July 2018, for this project that is estimated to be RM6.8 million. I grant you my blessings as you continue to do the good works that you do in making this prohect a reality.
+### 大会主席刘荣庆
+接下陆陆续续还会进行大小活动, 为实现600万令吉建新堂的经费。新堂将建于现有的教堂毗邻, 建议中的新圣堂设计是采用圣经旧约中帐篷的概念, 规模估计可容纳1500人, 旦新建完成, 众教友们便可以一起进入天主的圣所来瞻仰, 朝拜, 赞美天主。
 
-As each one of us, through the waters of Baptism are called to be the Living Body of Christ, may we be faithful and committed Missionary Disciples of Joy, Mercy and Hope by being a Creative, Inclusive and Bridge-Building Church, following the humble and holy example of Mary, our Mother. May God continue to shower His abundant blessings upon you.
-
-I thank all of you for donating generously to help us to build our new church. And I thank Anna Khor, the general affairs of the parent day fundraising dinner, members of the committee and all who contribute in
-making the parent day fundraising dinner on 17.6.2018 a great success.
-
-Thank you. May God Bless You.
+但愿在我们有生之年, 我们不忘记在我们能力之內为在世上建立天主的圣殿付出一分力量, 不断的为此工程祈禱, 求仁慈的天主施恩, 使之早日实现。在这一切当中, 个人也经历天主的美善, 仁慈。愿天主赐福于大家, 继续在岗位上努力不放弃, 合一的一起同心协力建新堂!
 
 ### Media
-{{< fundraising-for-new-church-video >}}
+{{< youtube tuJsjXCAJHY >}}

@@ -1,9 +1,9 @@
 ---
-title: Online Mass Offering Form
-summary: The church can no longer accommodate the increasing number of church members. Many church members can only participate outside of the church on Sunday Mass, therefore we need your kind support of fund-raising to help build a new church.
+title: Online Donation for Building a New Church
+summary:
 tags:
 - Support
-date: "2021-05-25T00:00:00Z"
+date: "2031-05-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link:

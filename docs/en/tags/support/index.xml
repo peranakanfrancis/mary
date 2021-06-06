@@ -48,37 +48,4 @@ document.head.appendChild(cdscript);
 LoadCDScripts();
 &lt;/script>
 &lt;hr>
-&lt;p>[ˆ1]: Your payment will be processed by Stripe, who collects, uses and processes your information, including payment information, in accordance with their privacy policies. Legal basis for processing: necessary to perform a contract (Article 6(1)(b) of the General Data Protection Regulation).&lt;/p></description></item><item><title>Online Mass Offering Form</title><link>https://mary2.netlify.app/en/project/donation-form/</link><pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate><guid>https://mary2.netlify.app/en/project/donation-form/</guid><description>&lt;h4 id="payment-method">Payment method&lt;/h4>
-&lt;ul>
-&lt;li>Credit card&lt;/li>
-&lt;li>Debit card&lt;/li>
-&lt;li>Google Pay&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;div id="CustomDonationsForm">&lt;/div>
-&lt;script>
-var LoadCDScripts = function () {
-var cdscript = document.createElement('script');
-cdscript.onerror = function (e) {
-document.head.removeChild(this);
-setTimeout(LoadCDScripts, 1750);
-};
-cdscript.onload = function () {
-CustomDonations.BuildForm({
-account: '4ae5828a-7f44-4536-9244-00e00978bd10',
-form: 'e3f769bb-1da2-4c91-bfcd-c59227944c91',
-allocation: null,
-memberId: null,
-apiVersion: 'v1',
-interval: null,
-loadingText: 'Loading Secure Form...',
-paymentVersion: 1,
-baseUrl: 'https://api.customdonations.com',
-mode: 'live',
-});
-};
-cdscript.src = "https://api.customdonations.com/v1/js/form-builder.min.js?v=" + new Date().getTime();
-document.head.appendChild(cdscript);
-}
-LoadCDScripts();
-&lt;/script></description></item></channel></rss>
+&lt;p>[ˆ1]: Your payment will be processed by Stripe, who collects, uses and processes your information, including payment information, in accordance with their privacy policies. Legal basis for processing: necessary to perform a contract (Article 6(1)(b) of the General Data Protection Regulation).&lt;/p></description></item></channel></rss>
