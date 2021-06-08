@@ -1,81 +1,80 @@
 ---
-title: Marriage Mass Costing & Checklist
-linktitle: Marriage Mass Costing & Checklist
+title: 婚姻弥撒价钱表及准备
+linktitle: 婚姻弥撒价钱表及准备
 toc: true
 type: docs
-date: "2019-05-05T00:00:00+01:00"
+date: "2021-05-25T00:00:00+01:00"
 draft: false
 menu:
   matrimony:
-    parent: Marriage
+    parent: 婚姻
     weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 3
 ---
 
-### Plan for Your Wedding
-First, you need to find out which Parish do you belong to? Then follow the steps below:
+### 1. 计划你的婚礼
+首先，您需要找出您属于哪个教区？ 然后按照以下步骤操作：
+- 请[下载](tak/catholic-engage-encounter-penang)并填写天主教婚前课程 Catholic Engege Encounter (CEE)
+- 准备必要的文件并与本堂神父预约看文件
+- 等待CEE协调员安排您的CEE课程。
+- CEE课程需要3天。您应该争取在婚礼日期前至少6个月完成您的CEE课程，因此请尽快注册。
+- 将您的CEE证书和所有其他文件带到本堂办公室进行下一步。
 
-### 1. Please get a copy of the Catholic Engege Encounter (CEE) form [here](tak/catholic-engage-encounter-penang)
-- Prepare the necessary documents and make an appointment to see the Parish Priest with the documents
-- Wait for the CEE Coordinator to arrange your CEE Sessions.
-- The CEE programme takes 3 days. You should aim to complete your CEE Session at least 6 months before the date of your wedding, so register as soon as you can.
-- Take your CEE Certificate with all the other documents to the Parish Office for the next step.
+### 2. 如果您不属于圣母圣名堂教区的教友
+- 返回您指定的教区，如果您选择在那里结婚，请访问您所在的教区办公室并询问他们的程序。
+- 如果您选择在圣母圣名堂结婚，请访问您所属于的教区办公室，以获取您教区神父的信函。 然后继续上面的步骤 1 (i)。
 
-### 2. If you do not belong to Church of Holy Name Mary Parish
-- Return to your designated Parish and if you choose to get married there then visit your home Parish office and enquire about their procedures.
-- If you choose to get married in Church of Holy Name Mary visit your designated home Parish Office to obtain a letter from your Parish Priest to this effect. Than continue with Step 1 (i) above.
+### 3. 准备文件
+- 洗礼证书
+- 身份证或护照(外国人).
+- 抱生纸
+- 婚姻法庭
+- 注册证书
+- 证婚人
 
-### 3. Documents to prepare
-- Baptism Certificate
-- IC or Passport (foreigner).
-- Birth certificate
-- Marriage Court
-- Register Certificate
-- Witness
+### 4. 教区办公室将就以下安排向您提供建议
+- 与本堂神父的婚前咨询
+- 民事婚姻登记处
+- 证婚人身份证
 
-### 4. The parish office will advise you on the following arrangements:
-- Pre-Nuptial Inquiry with priest
-- Civil Marriage registry
-- Witness IC copies
+### 5. 教堂安排
+- 排演
+- 弥撒小册子
+- 插花/其他装饰
+- 歌咏团
+- 辅祭员
+- 投影机（slides）
+- 新娘装束
 
-### 5. Church arrangements
-- Rehearsal
-- Mass booklets
-- Flower arrangements/other decoration
-- Choir
-- Servers
-- Projection
-- Bride’s attire
-
-### 6. Cost of Marriage Mass
+### 6. 结婚弥撒的费用
 
 {{< table table_class="table table-hover table-borderless" thead_class="table-info" >}}
 
-| # | ITEM | CHARGES (RM) |
+| # | 项目 | 费用 (RM) |
 |---|------|--------------|
-| 1 | Mass | 50.00 |
-| 2 | Father | 50.00 |
-| 3 | Commentator | 20.00 |
-| 4 | Readers | 10.00 |
-| 5 | Sacristan | 40.00 |
-| 6 | Choir | 40.00 |
-| 7 | Pianist | 20.00 |
-| 8 | Altar Server (1) | 10.00 |
-| 9 | Altar Server (2) | 10.00 |
-| 10 | Computer | 20.00 |
+| 1 | 弥撒 | 50.00 |
+| 2 | 神父 | 50.00 |
+| 3 | 领经员 | 20.00 |
+| 4 | 读经员 | 10.00 |
+| 5 | 管堂 | 40.00 |
+| 6 | 歌咏团 | 40.00 |
+| 7 | 琴师 | 20.00 |
+| 8 | 辅祭员 (1) | 10.00 |
+| 9 | 辅祭员 (2) | 10.00 |
+| 10 | 电脑 | 20.00 |
 
 {{< /table>}}
 
-### 7. Cost of Church Flower Decoration
+### 7. 教堂花饰费用
 
- {{< table table_class="table table-hover table-borderless" thead_class="table-info" >}}
+{{< table table_class="table table-hover table-borderless" thead_class="table-info" >}}
 
- | OPTION | ITEM | CHARGES (RM) |
- |--------|------|--------------|
- | 1 | Altar | 300.00 |
- | 2 | Altar + Chair | 450.00 |
- | 3 | Altar + Chair + Arch | 550.00 |
+ | # | 项目 | 费用 (RM) |
+ |---|-----|-----------|
+ | 1 | 祭台 | 300.00 |
+ | 2 | 祭台 + 椅子 | 450.00 |
+ | 3 | 祭台 + 椅子 + 幸福门 | 550.00 |
 
 {{< /table >}}

@@ -80,4 +80,4 @@ For your child to receive First Holy Communion, he or she must be enrolled in ou
 If you’re an adult seeking to receive your First Holy Communion or thinking about becoming a Catholic, your next step is [RCIA](rite-of-christian-initiation-of-adults).
 
 ### Preparation for Persons with Disabilities (OKU)
-Church of The Holy Name of Mary and the Diocese of Penang understand that all Catholics have the right to participate in the sacraments. If you have a loved one (no matter what their age or disability is) who needs to prepare for any of the sacraments, please contact Father Louis at [+6045887799](tel:+6045887799) or book an appointment.
+Church of The Holy Name of Mary understand that all Catholics have the right to participate in the sacraments. If you have a loved one (no matter what their age or disability is) who needs to prepare for any of the sacraments, please contact Father Louis at [+6045887799](tel:+6045887799) to book an appointment.

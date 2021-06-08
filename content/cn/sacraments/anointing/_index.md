@@ -1,12 +1,12 @@
 ---
 # Course title, summary, and position.
-linktitle: 傅油圣事
+linktitle: 病人傅油
 summary: 教会从基督的手中，领受了「治好病人」的任务(玛十8)。基督愿意教会透过照顾病人、陪伴病人、为病人代祷，努力实践这项任务。因此，在教会的七件圣事中，基督亲自建立的病人傅油圣事(参阅谷六13，14-15)，是专为坚强及安慰那些忍受病苦的人而设立的。
 
 weight: 1
 
 # Page metadata.
-title: 傅油圣事
+title: 病人傅油
 date: "2021-05-26T00:00:00Z"
 lastmod: "2021-05-26T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   anointing:
-    name: 傅油圣事
+    name: 病人傅油
     weight: 1
 ---
 
@@ -26,8 +26,8 @@ menu:
 
 > #### "你们中间有病了的呢，他就该请教会的长老来；他们可以奉主的名用油抹他，为他祷告。 - 雅各书 5:14"
 
-### 什么是傅油圣事？
-傅油圣事是天主教、东正教和一些新教教会的圣事。
+### 什么是病人傅油圣事？
+病人傅油是天主教、东正教和一些新教教会的圣事。
 
 这圣事的旧称临终圣事或终傅圣事由12世纪末起在西方天主教会使用，直到梵蒂冈第二届大公会议废止。
 

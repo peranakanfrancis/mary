@@ -1,13 +1,13 @@
 ---
-title: 病人傅油
-linktitle: 病人傅油
+title: 傅油圣事
+linktitle: 傅油圣事
 toc: true
 type: docs
 date: "2021-05-25T00:00:00+01:00"
 draft: false
 menu:
   anointing:
-    parent: 傅油圣事
+    parent: 病人傅油
     weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)

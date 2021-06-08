@@ -23,7 +23,7 @@ menu:
 
 {{< figure src="/img/sacraments/confirmation/confirmation.jpg" >}}
 
-> #### "All of them were filled with the Holy Spirit and began to speak in other languages, as the Spirit gave them ability. - Acts 2:4"
+> All of them were filled with the Holy Spirit and began to speak in other languages, as the Spirit gave them ability. - Acts 2:4
 
 There are three sacraments that are the foundation of Christian life. These sacraments are: [Baptism](sacraments/baptism), Confirmation, and [Communion](sacraments/communion). These three sacraments together are called the Sacraments of Initiation.
 
@@ -39,4 +39,4 @@ For secondary school students looking to prepare for the Sacrament of Confirmati
 ### Adult Confirmation
 If you’re an adult seeking Confirmation or thinking about becoming Catholic, your next step is Rite of Christian Initiation of Adults (RCIA).
 
-We have an [RCIA program](../communion/rite-of-christian-initiation-of-adults) for both Mandarin and English speaking adults led by our own adult leadership. Candidates can prepare for receiving the Sacrament of Confirmation as well as the Sacrament of Baptism and the Sacrament of Communion.
+We have an [RCIA program](rite-of-christian-initiation-of-adults) for both Mandarin and English speaking adults led by our own adult leadership. Candidates can prepare for receiving the Sacrament of Confirmation as well as the Sacrament of Baptism and the Sacrament of Communion.

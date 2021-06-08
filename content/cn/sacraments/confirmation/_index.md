@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Confirmation
-summary: As one grows and matures in a natural family, so the Sacrament of Confirmation assists a person as he or she matures in the faith. God supports his son or daughter through the strengths of the Holy Spirit, and makes it possible for the person to witness to the faith through word and example. Confirmation makes a person a partner with God in the spreading of the Word.
+linktitle: 坚振
+summary: 坚振圣事满全圣洗的恩宠。它是赋予圣神的圣事，使我们更深入地扎根於天父和嗣子的神圣关系里，使我们更牢固地成为基督的肢体，与教会更结实地联系，更投入地分担教会的使命，帮助我们以言以行来见证基督徒的信仰。
 weight: 1
 
 # Page metadata.
-title: Confirmation
+title: 坚振
 date: "2021-05-26T00:00:00Z"
 lastmod: "2021-05-26T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,26 +17,59 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   confirmation:
-    name: Confirmation
-    weight: 3
+    name: 坚振
+    weight: 1
 ---
 
 {{< figure src="/img/sacraments/confirmation/confirmation.jpg" >}}
 
-> #### "All of them were filled with the Holy Spirit and began to speak in other languages, as the Spirit gave them ability. - Acts 2:4"
+> 众人都充满了圣神，照圣神赐给他们的话，说起外方话来。 **- 【宗徒大事录 2:4】**
 
-There are three sacraments that are the foundation of Christian life. These sacraments are: [Baptism](sacraments/baptism), Confirmation, and [Communion](sacraments/communion). These three sacraments together are called the Sacraments of Initiation.
+任何一个团体都有入团的条件。要加入某一社团或组织，必须经过一连串的入会仪式。例如想加入扶轮社，必须先参加开会叁次，再经过全体会员的同意；其他如加入童子军、狮子会等等，也都各有自己的入会仪式。这些入团的仪式，是为表示新加入者的慎重，也表示团体对新人的接纳和欢迎。同样的，由於成为一位基督徒不是只靠我们自己的能力，也需要天主和教会同道的帮助，因此在教会内，为成为天主教会内的一员，也需要一连串的入门仪式
 
-### Receive the Holy Spirit
-Confirmation is the strengthening of the relationship with God. It seals our life of faith with Christ. Therefore, confirmation can only be celebrated once. It strengthens the Gifts of the Holy Spirit such as, wisdom, understanding, counsel, fortitude, knowledge, piety, and fear of the Lord, and the confirmed is able to be better witnesses of Christ.
+### 什麽是坚振圣事？
+坚振圣事加强领洗时的初步承诺，赋予圣神，使基督徒能完全生活出领洗时的奉献。
 
-As one grows and matures in a natural family, so the Sacrament of Confirmation assists a person as he or she matures in the faith. God supports his son or daughter through the strengths of the Holy Spirit, and makes it possible for the person to witness to the faith through word and example. Confirmation makes a person a partner with God in the spreading of the Word.
+新编《天主教教理》如此解释坚振圣事：
+- 「坚振圣事满全圣洗的恩宠。它是赋予圣神的圣事，使我们更深入地扎根於天父和嗣子的神圣关系里，使我们更牢固地成为基督的肢体，与教会更结实地联系，更投入地分担教会的使命，帮助我们以言以行来见证基督徒的信仰。」
 
+- 坚振圣事满全圣洗的恩宠。这句话的另一个说法就是，坚振是圣洗的印记。这是一种古代的习俗。在过去，士兵会印上长官的印记，奴隶则印上主人的印记。这印记表示他们属於某人。官员也在文件上封以官印，证明这文件确实出自他本人之手。在坚振圣事中，基督徒则盖上了圣神的印记。「天主在我们身上盖了印，并在我们心里赐下圣神作为抵押」(格後一21-22)。他们再一次把自己献身於基督徒的召叫，而这召叫是从领洗时开始的。「这圣神的印记表示我们完全属於基督，表示我们已经登记，要永远事奉天主」。
 
-### High School Confirmation
-For secondary school students looking to prepare for the Sacrament of Confirmation, please fill out the the confirmation inquiry form and our respective coordinator will be in touch with you.
+### 坚振圣事不但表示确证圣洗圣事，也更增强圣洗的恩宠。
+它是赋予圣神的圣事。坚振圣事是庆祝天主赐予圣神的圣事。但是，圣洗圣事不也赋予圣神吗？既然如此，坚振圣事又有什麽特别呢？《宗徒大事录》第八章16-17节说得很清楚，教会从一开始就很明白，除了圣洗以外，天主还要赐给一样特别的礼物，即天主圣神。而「天主圣神」这样礼物就是我们所说的「坚振」。这礼物藉着覆手而传给我们。坚振圣事可以说是加强、加深这早在圣洗圣事时就已赐给我们的那些礼物的力量。
 
-### Adult Confirmation
-If you’re an adult seeking Confirmation or thinking about becoming Catholic, your next step is Rite of Christian Initiation of Adults (RCIA).
+那些礼物叫做圣神七恩，就是智慧、聪敏、超见、刚毅、明达、孝爱和敬畏。这圣神七恩是在依撒意亚先知书十一章第2节中最先提起的。依撒意亚先知书写於公元前第八世纪。当时依撒意亚先知预言一位默西亚(即傅过油者)即将来临。默西亚为了领导他的人民，要赐给他们一些特殊的恩赐。耶稣就完全具有这七种神恩。在五旬节那天，耶稣把这些恩赐给了所有人。
 
-We have an [RCIA program](../communion/rite-of-christian-initiation-of-adults) for both Mandarin and English speaking adults led by our own adult leadership. Candidates can prepare for receiving the Sacrament of Confirmation as well as the Sacrament of Baptism and the Sacrament of Communion.
+坚振圣事使我们更牢固地成为基督的肢体。领受坚振圣事的人要接受傅油，就像基督也曾接受傅油一样。「基督」(原希腊文)的意思就是「受傅者」。坚振圣事加强我们的力量，使我们的生活像是另一个基督。
+
+傅油就是主教用圣油-即圣化圣油-在领受坚振者的前额划十字。按圣经的传统，油代表喜乐、洁净、治愈、力和美。在圣事生活中，也有这所有的意义。在坚振圣事中，基督徒受傅以神恩，做为他们献身於基督的标记，这样他们的生活会散发出「基督的芳香」。
+
+在傅油之後，主教把双手按在领受坚振者的头上。在圣经时代，覆手象徵传递属神的能力，以实践一件使命、传递天主的祝福和保证，使这使命能够完成。
+
+坚振圣事使我们与教会更结实地连系，更投入地分担教会的使命。坚振圣事是庆祝天主的召叫及我们的答覆，愿去履行一件特定的任务，那就是在世界上推动教会的使命。在坚振时领受的圣神七恩，可以让天主教友成为基督徒团体中能结果实的成员。「藉着坚振圣事，[已领洗的人]更完美地与教会结合，并因为有天主圣神的特别力量而使生命更充实」。
+
+坚振圣事帮助我们见证基督徒的信仰。就像圣洗圣事的施行，不仅是为要领洗的个人，也是为整个教会团体而施行，这团体也因为天主恩宠而得益；同样的，在坚振圣事中，圣神七恩的赐予是为增强所有人的力量。尤其是「赐予圣神的特殊能力，使我们能以言以行真正为基督作证，而传扬和维护我们的信仰，公开而大胆地承认基督之名，并且绝不以十字架为耻」。
+
+领受坚振者为天主作证的言行，包括为正义与和平而努力、为无辜的生命执言、行事光明磊落、与他人研讨及分享自己的信仰。「藉着仁慈与有爱心的行为，我们实践了基督徒的使命，也把圣神所赐的七恩付诸实践，因为这七恩赐给我们的目的，就是为了要我们用在造福他人上面」。
+
+### 坚振圣事的举行
+坚振圣事只需领受一次，因为它在领受者身上印下了不可磨灭的属神印记。就像圣洗及圣秩圣事一样，也建立了与基督的永久关系。与天主的这种友谊是不能取消的。我们可以不按照所领受的恩宠生活，但是天主却不会收回他的话。因此我们身为传授教理的人，若遇到表示「自己过去是天主教友」的人，应该邀请他们重新过实质的信仰生活。说自己「过去是教友」，对天主来说是没有意义的。一个人一旦领过圣洗和坚振圣事，他就永远属於天主。
+
+坚振圣事在感恩祭中举行，这是很适当的，因为这样可以强调入门圣事间关系的密切。施行圣事者通常为主教。他的在场表示了教会团体与接受坚振圣事的基督徒之间，有密切的关系。
+
+在实行成人入教礼典的堂区，主教可把施行此圣事的任务交给堂区神父。在这种情况下，於复活前夕领受圣洗圣事的新教友，可以马上就接着领坚振圣事，然後在感恩祭中初领圣体。
+
+一名基督徒若处於生命垂危之际，那麽任何司铎都可以施行坚振圣事。「教会不希望她的任何一位子民，即使是最年幼的，在没有领受圣神所赐的七恩之前，就离开这个世界」。
+
+### 结论
+坚振圣事是入门圣事，因此它是一种「召叫」和「回答」的圣事，又是更进一步与基督徒团体结合的圣事。此圣事的目的是「带领基督徒与基督更密切地结合，也与天主圣神更加亲密」。
+
+坚振圣事是圣洗圣事的延续或印记，帮助我们把心思专注於使命的实践上，这也是我们领洗时的承诺。
+
+坚振圣事的象徵行动(傅油及覆手)祝圣了领受圣事者，也明显表示他是基督的作证者。由於每个人在跟他人见面时，对方第一眼看到的就是他的前额，因此领受坚振者在前额接受傅油，是深具意义的象徵动作。
+
+### 中学生坚振
+对于希望准备接受坚振圣事的中学生，请填写这份表格，教堂的协调员将与你联系。
+
+### 成人坚振
+如果你正寻求洗礼或是考虑成为基督徒的成年人，您的下一步是[成人慕道班 (RCIA)](rcia)。

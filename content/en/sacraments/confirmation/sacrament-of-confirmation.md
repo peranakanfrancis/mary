@@ -14,7 +14,7 @@ menu:
 weight: 2
 ---
 
-> And they were all filled with the Holy Spirit and began to speak with different tongues, as the Spirit was giving them the ability to speak out. - Acts 2:4
+> esus answered, “I am the way and the truth and the life. No one comes to the Father except through me. **- John 14:6**
 
 Just as Baptism gives new life, Eucharist nourishes life, and Reconciliation restores life when it is broken, Confirmation strengthens that life by the gifts of the Holy Spirit (cf. CCC 1285). It is about strengthening what God has given, and continues to give, to his sons and daughters (cf. CCC 1302-1303).
 

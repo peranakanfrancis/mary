@@ -47,4 +47,4 @@ Frequent use of the sacrament also helps us stay attuned to our spiritual lives.
 
 Making the Sacrament of Reconciliation a vibrant part of one’s spiritual life—especially if it hasn’t been such in quite a while—basically just requires the decision to begin again. Most priests would be willing to help someone back into the swing of things, knowing that the first time back could be a bit awkward.
 
-{{< figure src="/img/sacraments/reconciliation/reconciliation2.jpg" >}}
+{{< figure src="/img/sacraments/reconciliation/reconciliation.png" >}}

@@ -23,7 +23,7 @@ menu:
 
 {{< figure src="/img/sacraments/holyorders/holyorders.jpg" >}}
 
-> #### Keep watch over yourselves and over the whole flock of which the holy Spirit has appointed you overseers, in which you tend the church of God that he acquired with his own blood. - Acts 20:28
+> Keep watch over yourselves and over the whole flock of which the holy Spirit has appointed you overseers, in which you tend the church of God that he acquired with his own blood. - **Acts 20:28**
 
 ### A Life of Service
 Christ did not leave the Church without a sacrament of leadership and service. Through the various degrees of the Sacrament of Holy Orders, God raises up deacons, priests and bishops to serve, lead and govern the Church as a community of faith. As an ongoing sacrament, Holy Orders is God’s gift of assistance and strength for the preaching of the Word, the administration of the sacraments and the ministry of service leading to the holiness of all.

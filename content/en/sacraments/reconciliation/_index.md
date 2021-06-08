@@ -23,7 +23,7 @@ menu:
 
 {{< figure src="/img/sacraments/reconciliation/reconciliation.jpg" >}}
 
-> #### 19 Repent, then, and turn to God, so that your sins may be wiped out, that times of refreshing may come from the Lord. - Acts 3:19
+> Repent, then, and turn to God, so that your sins may be wiped out, that times of refreshing may come from the Lord. - Acts 3:19
 
 ### What is Reconciliation?
 Because of human weakness, the baptised often do not live up to their dignity as sons and daughters of God. The Sacrament of Reconciliation celebrates the forgiveness and mercy of God as the sinner humbly acknowledges and confesses his or her sins. The Sacrament also repairs or reestablishes a person’s unity with and membership in the Church. The priest represents both God and the Church, and speaks the consoling words of absolution in the name of both.
@@ -35,15 +35,3 @@ These are the five steps to reconciliation:
 3. **Change**: decide not to commit these sins again.
 4. **Confession**: Forgiveness-confess to a priest and receive absolution
 5. **Penance**: Do the penance that the priest gives you.
-
-```
-TODO
-### Confession Schedule
-Confessions are held every half an hour before every Mass on Sundays and evening Mass on Saturdays. For the most up to date information, visit our Mass Schedule or [Bulletin](../../#home).
-
-
-### Sacramental Prep
-Reconciliation preparation begins with First Holy Communion Camp, normally two to three weeks before the conclusion of First Holy Communion Mass for the children, on 20th October 2021.
-
-To receive First Reconciliation, your child must be enrolled in Religious Education classes and First Holy Communion (FHC) Camp. Our Religious Education class registration for 2021 is now closed. Please check back in September 2021 for registration for the 2022 class.
-```

@@ -4,7 +4,7 @@ linktitle: For Students Inquiry
 toc: true
 type: docs
 date: "2021-05-25T00:00:00+01:00"
-draft: false
+draft: true
 menu:
   confirmation:
     parent: Confirmation

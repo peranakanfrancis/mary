@@ -1,11 +1,12 @@
 ---
 # Course title, summary, and position.
-linktitle: Communion
-summary: No life flourishes without food and drink. Thus, the Eucharist offers the Body and Blood of Christ as food and drink for the spirit. As a ceremony, the Eucharist is both a meal that nourishes, as well as a sacrifice in which the death of Jesus is offered to the Father. The Eucharist is also the object of adoration among the faithful. Since the graces of all the other sacraments flow from the death and resurrection of Jesus, the Eucharist is considered the central sacrament of the Church.
+linktitle: 初领圣体
+summary: 感恩祭(圣体圣事)是教友生活的中心，也是整个教会生命的泉源、中心及高峰。感恩祭(圣体圣事)是最首要的圣事，其他的圣事都来自此一圣事，也都归向此一圣事。「基督临现於感恩(圣体)圣事的饼酒形内的方式是独一无二的。他提升感恩(圣体)圣事，便之超越其他圣 事，成为「灵性生活的圆满，和所有圣事的终向」。
+
 weight: 1
 
 # Page metadata.
-title: Communion
+title: 初领圣体
 date: "2021-05-25T00:00:00Z"
 lastmod: "2021-05-25T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,8 +18,8 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   communion:
-    name: Communion
-    weight: 3
+    name: 圣体
+    weight: 1
 
 ## Flexibility
 
@@ -63,21 +64,67 @@ menu:
 
 {{< figure src="/img/sacraments/communion/communion.jpg" >}}
 
-> #### "I am the living bread that came down from heaven. Whoever eats of this bread will live forever; and the bread that I will give for the life of the world is my flesh. -  John 6:51"
+> 我是从天上降下来生命的粮，人若吃这粮，就必永远活着。我所要赐的粮就是我的肉，为世人之生命所赐的。 **- 【约翰福音 6:51】**
 
-### What is the Communion?
-There are three sacraments that are the foundation of Christian life. These sacraments are: Baptism, Confirmation, and Eucharist. They are given in this order to bring about the full initiation of the new Christian life. These three sacraments together are called the Sacraments of Initiation.
+感恩祭(圣体圣事)是教友生活的中心，也是整个教会生命的泉源、中心及高峰。感恩祭(圣体圣事)是最首要的圣事，其他的圣事都来自此一圣事，也都归向此一圣事。「基督临现於感恩(圣体)圣事的饼酒形内的方式是独一无二的。他提升感恩(圣体)圣事，便之超越其他圣 事，成为「灵性生活的圆满，和所有圣事的终向」。
 
-First Communion is the first time the Eucharist, Christ’s Body and Blood, is received after the Sacrament of Baptism and Confirmation have been received. Through the priest’s holy prayers, bread and wine becomes the Body and Blood of Christ. After the First Communion, we are able to continually receive the sacrament. Whenever we receive Holy Communion (Eucharist) in mass, we are receiving the Sacrament of the Eucharist. In receiving the Body and Blood of Christ and participating in mass continually, we become united in one body with the Church.
+感恩祭(圣体圣事)是入门圣事的最後一个圣事，感恩祭(圣体圣事)使我们 教友成为教会中正式的一份子。感恩祭是我们敬拜天主的最高形式，也是我们 从天王那儿得到的最贵重的礼物。
 
+### 名虽异而实同
+除了「感恩祭」这名称外．教会对「於此一圣事还有许多种称呼。 「感恩祭」是表示信友团体聚在一起，同心合意地向复活的王．我们的造物者献上我们的感恩与赞美，因为他在耶稣身上行了奇妙的大事。 「爱之宴」这名称则强调此一圣事中信友分享一餐饭食的一面。不论在世界上那个地方，一起用餐都是一种友谊和相爱的表现。一起分享同样的食物和 饮料，表示大家的同心合意。新约中好几次提到耶稣与人一起用餐。这些场合都预示耶稣在受难前夕与门徒一起举行的圣餐。
 
-### Communion for children
-Our First Holy Communion is designed as a faith journey for children between the age of five to nine years old, and their parents to take part in it together. First Holy Communion preparation begins two years earlier, and concludes with First Holy Communion Mass in 20th October 2021.
+「弥撒」则是我们最常使用的名称。这原是拉丁名称，意思是「丢吧， 你受派遣前去。」这是传统的遣散仪式。这名称提醒我们，我们的使命是要 把我们接受的天主与他人分享，也把他的爱给予他人。我们为了他人的缘故而 牺牲自己时，就是效法耶稣为我们在十字架上牺牲自己的生命，而我们也就成 了他的体和血。
 
-For your child to receive First Holy Communion, he or she must be enrolled in our Religious Education classes. Our Religious Education class registration for 2020 is now closed. Please check back in September 2021 for registration for the 2021 class.
+### 感恩祭是基督的逾越祭叫献
+感恩祭是一种纪念性的餐食，纪念耶稣与他的们徒共享的最後晚餐。耶稣 有意在犹太人的逾越节建立圣体圣事。犹太人在每年一度的逾越节，纪念天主 的仁慈与忠信，因为天主把犹太人带离埃及，从被人奴役的情况下把他们救 出，并与他们订立盟约。逾越节是一个欢乐的场台，感谢天王所做的一切。耶 稣在最後晚餐时改变了这一餐的意义。他成为逾越羔羊，为所有的人牺牲。他 的死亡与复活要成为天王与人类订立新盟约的象徵。
 
-### Communion for Adult
-If you’re an adult seeking to receive your First Holy Communion or thinking about becoming a Catholic, your next step is [RCIA](rite-of-christian-initiation-of-adults).
+感恩祭与加略山一是同一的牺牲感恩祭是纪念基督的逾越。我们每次举行感恩祭时，就会想起耶稣用他的生命、死亡及复活为我们赢得的救恩。 我们用"纪念」这个名词时，不只是在回忆许久以前所发生的事，也在宣扬一件事事．即:这些救恩的事迹，也在今天彰显给我们。对犹太人来说，纪念一件事迹，例如出埃及，使这件事迹再度临在於现在。同样的，当教会庆祝感恩 祭时，天主在他的圣子耶稣身上所完成的救恩工作，从某方面来说，也呈现於现在，而目是非常真实的。
 
-### Preparation for Persons with Disabilities (OKU)
-Church of The Holy Name of Mary and the Diocese of Penang understand that all Catholics have the right to participate in the sacraments. If you have a loved one (no matter what their age or disability is) who needs to prepare for any of the sacraments, please contact Father Louis at [+6045887799](tel:+6045887799) or book an appointment.
+新编《天主教教理》中的解释更清楚，我在此引用其中的三段:
+- 感恩祭的礼仪是「纪念基督的逾越奥迹，这奥迹亦藉此而临现:基督在十字架上一次而为永远完成的祭献万古常新」。
+
+- 「基督的祭献和感恩祭的祭献是同一个祭献;只是祭献的方式不同而已」。「曾在十字架上献出了自己的耶稣基督，现在则藉着司祭在祭台上奉献自己。
+
+- 「在感恩(祭宴)中，基督所交付的身体，就是他在十字架上为我们所交付的身体;所交付的血，就是他『为大众顺流，以赦免罪过』的血。」。
+
+### 基督真的临在於圣体圣事中
+基督以多种方式临在於他的教会中。在他的圣言中、在圣经中、在聚集 的信徒中，他都与我们同在。「那里有两个或叁个人，因我的名字聚在一起， 我就在他们中间」(玛十八20)。基督也藉着引导教会的圣神、在每一样圣事 中、在代表天主的司祭身上、在彼此之间，特别是穷人、病人和坐监的人身上 (玛25：31-46)而临在。许多基督教的朋友也同样相信这一点。但是天主教会 的教导与其他基督教派有一点很大的差异。天主教友相信耶稣基督是真的临在 於饼酒的形象下。基督教的朋友却认为基督的临在只是象徵性的。天主教友听 了耶稣在最後晚餐时所说的话:「这是我的身体，这是我的血。」耶稣并不是 说: 「这饼是为使你们想到我的身体，这酒就好像是我的血。」而且很明确地 说: 「这就是我的体和血。」
+
+教会用「本质转化」一词来解释成圣体圣血的那一刻，那时司祭再度说出耶稣亲自说过的话:"这是我的身体，这是我的血，在那一刻，饼和酒完全转变成基督 - 那光荣复活基督的体和血。
+
+新编《天主教教理》告诉我们，当我们说耶稣以饼酒形「真正的临在」时，并不排除耶稣其他形式的临在，或说他的临在方式是「不真实的」，而 是说，因为耶稣在饼酒形下的临在是百分之百的临在，也就是说，那是实质的、事实上的临在;基督藉此使自己完全而整个地临在」。
+
+耶稣究竟是如何临在於祝圣过的饼酒中，仍是一个奥秘。但有三位大圣人提出了一些深入而可贵的见解，使我们能更深刻地了解此一奥秘。
+
+谈到祝圣饼酒时 望安博(St Ambrose)说:“基督的话，既然可以使那不存在的成为存在的，难道不能「改变」那些已经存在的东西，「成为」另 一种截然不同的存在吗?原来给予事物原来的本质，跟改变它们的本质，是一样惊人伟大的。”
+
+金口圣若望宣称:"使所奉献的(饼酒)成为基督体血的，不是人，而是那为我们钉死在十字架上的基督自己。司铎担任基督的角色，说出基督的这些话，然而，这些话的力量及恩宠，却是天主的。基督说:"这是我的身体。是这会学句话把奉献的物品(饼酒)转化[成了基督的体血]。」。
+
+圣济利禄(ST.Cyril)说:「不要问这事是否真实;而要以信德来接受救主的话，因为他是真理，他不会撒谎。」。
+
+一位现代神学家则是这样说明的:「天主真正的临在并不是魔术，而是天主圣言有效能力所产生的结果。天主当初创造天地时说: 『有光』，就有了光。任何东西，只要天主说一声，那东西就存在了。耶稣基督，降生成人的天主圣子，也具有同样的大能。当他说: 『复明吧!』『洁净了吧!』『女孩，你起来吧!』『你的罪已经赦免了!』『拿起你的担架，起来走吧』立刻就有了这样的结果。在感恩祭中，当司祭说:『这是我的身体』『这是我的血』时，这话也真有同样的权威」
+
+### 举行感恩祭的目的
+「感恩祭献的庆典，全是为指向信友藉着共融於(领受)主的体血，而与基督 亲密地结合。接受共融(领受主的体血)，就是接受基督;他为我们而牺牲自己。」
+
+### 经由感恩祭而得到的恩宠
+感恩祭还有一个名称，就是「至圣圣事」(Blessed Sacrament)，因为我们 经由参与感恩祭，会得到许多祝福。在此我不把这些祝福一一详细说明，只列出一个简单的大要，让你自己去探讨。新编《天主教教理》对这些都有很好的说明：
+- 感恩祭证明天主对我们延续不断的爱
+- 感恩祭能使我们记得并重演基督在十字架上的牺牲
+- 感恩祭增强我们与基督的结合
+- 感恩祭使我们脱离罪恶，涤净小罪，并保护我们，将来不致犯下大罪
+- 感恩祭提醒我们天主与人类所订立的爱的盟约，以及他要我们爱他人、服侍他人的诫命
+- 感恩祭司使天主教友的连系加强
+- 感恩祭是将来在天主内享受光荣的保证
+
+### 结论
+感恩祭是教会最完美的祈祷。新编《天主教教理》把感恩祭称做「救恩的 圣事」，是再合适不过了。在感恩祭中，我们与基督一起向天父献上感谢， 感谢他创造天地万物，也为天父在基督内完成的救恩而赞美天父。藉着仪式性的用资，感恩祭重新演出了「基督的爱」这最伟大的一幕 - 耶稣在十字架上奉献出他的生命。在感恩祭中，我们因领受基督的圣体和圣血，而受邀与基督成为一体;感恩祭结束时，我们并被派遣，去成为他人精神食粮和养分的来源。
+
+### 儿童初领圣体
+初领圣体是为5至9岁的孩子和他们的父母一起参加的信仰之旅而设计的。为了让您的孩子接初领受圣体，他或她必须参加我们的天主教要理班。我们2021年的要理班注册现已结束。请在2021年9月回来查看2022年课程的注册情况。
+
+### 成人初领圣体
+如果你正寻求初领圣体或是考虑成为基督徒的成年人，您的下一步是 [成人慕道班 (RCIA)](rcia).
+
+### 为残疾人士而做的初领圣体准备(OKU)
+圣母圣名堂明白所有天主教徒都有权参加圣礼。 如果您的亲人（无论他们的年龄或残疾情况如何）需要准备任何圣礼，请致电[+6045887799](tel:+6045887799)联系雷神父预约。
