@@ -18,7 +18,8 @@ copyright = "Copyright &copy; {year} Church of The Holy Name of Mary Permatang T
 googleAnalytics = ""
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = "churchofholymary"
+disqusShortname = ""
+#"churchofholymary"
 
 ############################
 ## Advanced options below ##
