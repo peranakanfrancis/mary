@@ -19,15 +19,16 @@ time_format ="3:04 PM"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
 [[item]]
   organization = ""
   organization_url = ""
-  title = "来自雷神父的通告"
+  title = "每周堂讯 (6月20日 - 6月27日)"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/1fqDbVXJsjRam9RfkP1Xo9XorxhNMBulQ/view?usp=sharing"
-  date_start = "2021-06-04"
-  date_end = ""
-  description = "今天教会庆祝基督圣体圣血节，它提醒我们在弥撒中所领受的圣体圣事，每一次当我们领了圣体圣血，我们与主建立新的盟约。"
+  certificate_url = "https://drive.google.com/file/d/1sILa0nw8EhYBQbcjcGU1ZOtV4w5MMcOQ/view?usp=sharing"
+  date_start = "2021-06-20"
+  date_end = "2021-06-27"
+  description = "雷神父及全体员工祝贺所有父亲：一个温馨，幸福及美好的父情节，天主保佑，平安喜乐，身心安康！"
 
 
 [[item]]

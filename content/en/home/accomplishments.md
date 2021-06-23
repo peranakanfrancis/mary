@@ -22,12 +22,12 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Annoucement from Father Louis"
+  title = "Weekly Bulletin (20-27 June 2021)"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/1fp7bBamxXQaalQ1_0wq37ceAVHLQxtLx/view?usp=sharing"
-  date_start = "2021-06-04"
-  date_end = ""
-  description = "Today we the church celebrate the Solemnity of The Body and Blood of our Lord Jesus Christ (Corpus Christ)."
+  certificate_url = "https://drive.google.com/file/d/1sILa0nw8EhYBQbcjcGU1ZOtV4w5MMcOQ/view?usp=sharing"
+  date_start = "2021-06-20"
+  date_end = "2021-06-27"
+  description = "Fr Louis and the staff would like to wish all fathers a warm, joyful an wonderful Father's day! May Go bless you and keep you in good health, peace and joy always!"
 
 
 [[item]]
