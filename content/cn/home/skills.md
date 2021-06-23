@@ -17,25 +17,24 @@ subtitle = "为了迎合更大的社区，由于地方的发展和临近教区�
 [[feature]]
   icon = "search-dollar"
   icon_pack = "fas"
-  name = "总估计建造价值马币680万令吉"
+  name = "总估计建造价值马币900万令吉"
   parcent = "100%"
 
 [[feature]]
   icon = "piggy-bank"
   icon_pack = "fas"
-  name = "目前已经筹获了马币340万令吉"
-  parcent = "60%"  
+  name = "目前已经筹获了马币400万令吉"
+  parcent = "45%"  
 
 [[feature]]
   icon = "hand-holding-usd"
   icon_pack = "fas"
-  name = "还欠缺金额马币140万令吉"
-  parcent = "10%"
+  name = "还欠缺金额马币200万令吉"
+  parcent = "25%"
 
 [[feature]]
   icon = "church"
   icon_pack = "fas"
-  name = "槟城总教区资助马币200万令吉"
-  parcent = "100%"
-
+  name = "槟城总教区资助马币300万令吉"
+  parcent = "30%"
 +++
