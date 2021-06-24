@@ -62,8 +62,7 @@ office_hours = """Tuesday - Sunday 10AM to 5PM // <br>
                   Closed on Monday"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://tinyletter.com/churchofholymary"
-# "https://calendly.com/francis-tch/appointment-with-church"
+appointment_url = "https://calendly.com/francis-tch/appointment-with-church"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.

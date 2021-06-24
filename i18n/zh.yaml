@@ -67,7 +67,7 @@
 - id: contact_send
   translation: 发送
 - id: book_appointment
-  translation: 订阅每日圣言/帖子更新通知
+  translation: 网上预约
 - id: abstract
   translation: 前言
 - id: publication
