@@ -37,8 +37,7 @@ weight: 2
 
 2. The area leader is responsible to hand over the official receipts on donation or payment made to
 
-3. For digging works, you may contact the gardener of the grave yard, Mr Joseph Wang » 04-5871690
-or may hand over to work to outsiders.
+3. For digging works, you may contact the gardener of the grave yard, Mr Joseph Wang at [04-5871690](tel:6045871690) or may hand over to work to outsiders.
 
 4. Official doucment such as Sijil Kemation and Daftar Kemation /Permit Mengubur from the concerned
 authority must be submitted to our parish clerk or priest prior to funeral mass/service, failing which,
