@@ -15,7 +15,7 @@ baseURL = "https://holynameofmarypt.com"
 copyright = "Copyright &copy; {year} Church of The Holy Name of Mary Permatang Tinggi"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "G-RXT55Q5HQG"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""

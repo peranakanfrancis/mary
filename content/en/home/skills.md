@@ -17,25 +17,25 @@ subtitle = "To cater for an even larger community that is expected to expand fur
 [[feature]]
   icon = "search-dollar"
   icon_pack = "fas"
-  name = "Total Estimated RM900 million"
+  name = "Total Estimated RM9 million"
   parcent = "100%"
 
 [[feature]]
   icon = "piggy-bank"
   icon_pack = "fas"
-  name = "Raised more than RM400 million"
+  name = "Raised more than RM4 million"
   parcent = "45%"  
 
 [[feature]]
   icon = "hand-holding-usd"
   icon_pack = "fas"
-  name = "Amount needed RM200 million"
+  name = "Amount needed RM2 million"
   parcent = "25%"
 
 [[feature]]
   icon = "church"
   icon_pack = "fas"
-  name = "Funded from Penang Diocesan RM300 million"
+  name = "Funded from Penang Diocesan RM3 million"
   parcent = "30%"
 
 +++
