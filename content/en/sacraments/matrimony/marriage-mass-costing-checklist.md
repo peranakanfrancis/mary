@@ -1,6 +1,6 @@
 ---
-title: Marriage Mass Costing & Checklist
-linktitle: Marriage Mass Costing & Checklist
+title: Preparation for Marriage Mass
+linktitle: Preparation for Marriage Mass
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
@@ -17,7 +17,7 @@ weight: 3
 ### Plan for Your Wedding
 First, you need to find out which Parish do you belong to? Then follow the steps below:
 
-### 1. Please get a copy of the Catholic Engege Encounter (CEE) form [here](tak/catholic-engage-encounter-penang)
+### 1. Please get a copy of the Catholic Engege Encounter (CEE) form [here](../../../talk/catholic-engage-encounter-penang)
 - Prepare the necessary documents and make an appointment to see the Parish Priest with the documents
 - Wait for the CEE Coordinator to arrange your CEE Sessions.
 - The CEE programme takes 3 days. You should aim to complete your CEE Session at least 6 months before the date of your wedding, so register as soon as you can.

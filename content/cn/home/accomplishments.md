@@ -19,6 +19,16 @@ time_format ="3:04 PM"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "每周堂讯 (6月27日 - 7月4日)"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/18BThu3mlypHCzzPAr5h0W4BTNvKX-5hN/view?usp=sharing"
+  date_start = "2021-06-27"
+  date_end = "2021-07-04"
+  description = " 教理老师在线培训。雷神父呼吁所有教理老师和那些 有兴趣者敬请一起来参与。"
+
 
 [[item]]
   organization = ""
@@ -29,27 +39,6 @@ time_format ="3:04 PM"
   date_start = "2021-06-20"
   date_end = "2021-06-27"
   description = "雷神父及全体员工祝贺所有父亲：一个温馨，幸福及美好的父情节，天主保佑，平安喜乐，身心安康！"
-
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "每周堂讯 (5月30日 - 6月5日)"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/10yrcBpEp4poKeATEI4CSp5_1yCCiQH3M/view?usp=sharing"
-  date_start = "2021-05-30"
-  date_end = "2021-06-05"
-  description = "愿主耶稣的宝血覆盖下你和我免受新冠肺炎感染。愿大家平安，健康。"
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "每周堂讯 (5月24日 - 30日)"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/10yrcBpEp4poKeATEI4CSp5_1yCCiQH3M/view?usp=sharing"
-  date_start = "2021-05-24"
-  date_end = "2021-05-30"
-  description = "愿主耶稣的宝血覆盖下你和我免受新冠肺炎感染。愿大家平安，健康。"
 
 #[[item]]
 #  organization = "MJD Counselling Ministry"

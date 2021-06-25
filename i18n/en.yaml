@@ -81,7 +81,7 @@
 # Accomplishments widget
 
 - id: see_certificate
-  translation: View
+  translation: View / Download
 
 # Experience widget
 
@@ -117,7 +117,7 @@
   translation: Send
 
 - id: book_appointment
-  translation: Book an appointment 
+  translation: Book an appointment
 
 # Publication/Talk details
 

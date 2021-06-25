@@ -1,6 +1,6 @@
 ---
-title: 婚姻弥撒价钱表及准备
-linktitle: 婚姻弥撒价钱表及准备
+title: 婚姻弥撒准备
+linktitle: 婚姻弥撒准备
 toc: true
 type: docs
 date: "2021-05-25T00:00:00+01:00"
@@ -16,7 +16,7 @@ weight: 3
 
 ### 1. 计划你的婚礼
 首先，您需要找出您属于哪个教区？ 然后按照以下步骤操作：
-- 请[下载](tak/catholic-engage-encounter-penang)并填写天主教婚前课程 Catholic Engege Encounter (CEE)
+- 请[下载](../../../talk/catholic-engage-encounter-penang)并填写天主教婚前课程 Catholic Engege Encounter (CEE)
 - 准备必要的文件并与本堂神父预约看文件
 - 等待CEE协调员安排您的CEE课程。
 - CEE课程需要3天。您应该争取在婚礼日期前至少6个月完成您的CEE课程，因此请尽快注册。

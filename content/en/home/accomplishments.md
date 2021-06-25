@@ -22,33 +22,24 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Weekly Bulletin (20-27 June 2021)"
+  title = "Weekly Bulletin (20/6 - 27/6)"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/18BThu3mlypHCzzPAr5h0W4BTNvKX-5hN/view?usp=sharing"
+  date_start = "2021-06-27"
+  date_end = "2021-07-04"
+  description = "Fr Louis calls on all catechism teachers and those who are interested to come and participate in online catechism training on Zoom。"
+
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Weekly Bulletin (20/6 - 27/6)"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1sILa0nw8EhYBQbcjcGU1ZOtV4w5MMcOQ/view?usp=sharing"
   date_start = "2021-06-20"
   date_end = "2021-06-27"
   description = "Fr Louis and the staff would like to wish all fathers a warm, joyful an wonderful Father's day! May Go bless you and keep you in good health, peace and joy always!"
 
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "Weekly Bulletin (17-23 May 2021)"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/10yrcBpEp4poKeATEI4CSp5_1yCCiQH3M/view?usp=sharing"
-  date_start = "2021-05-17"
-  date_end = "2021-05-23"
-  description = "May the precious blood of our Lord Jesus Christ protect us Corona Virus. Stay Safe and stay healthy."
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "Weekly Bulletin (30 May - 5 Jun 2021)"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/10yrcBpEp4poKeATEI4CSp5_1yCCiQH3M/view?usp=sharing"
-  date_start = "2021-05-30"
-  date_end = "2021-06-05"
-  description = "May the precious blood of our Lord Jesus Christ protect us Corona Virus. Stay Safe and stay healthy."
 
 # [[item]]
 #  organization = "DataCamp"
