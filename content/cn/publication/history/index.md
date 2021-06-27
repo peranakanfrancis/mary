@@ -37,8 +37,8 @@ links:
 - name: 圣保禄隐修公所，华都园
   url: /zh/project/st-paul-the-hermit-chapel
 
-#- name: Custom Link
-#  url: http://example.org
+- name: 峇冬丁宜百年历史
+  url: '/zh/project/story-of-permatang-tinggi'
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'

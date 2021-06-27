@@ -13,6 +13,8 @@ image:
   focal_point: Smart
 ---
 
+{{< gallery >}}
+
 #### Payment method
 * Credit card
 * Debit card
