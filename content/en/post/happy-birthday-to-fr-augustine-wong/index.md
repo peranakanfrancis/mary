@@ -1,7 +1,7 @@
 ---
-title: '黄炳隆神父74岁生日快乐！'
-subtitle: '生日祝福'
-summary: 他喜爱水果和园艺。 神父最仰慕的圣人是圣若望维亚纳.
+title: 'Happy 74th Birthday to Fr Augustine Wong'
+subtitle: 'Birthday wishes'
+summary: He loves fruits. He likes gardening and admires St John Vianney.
 authors:
 - admin
 tags:
