@@ -12,11 +12,11 @@ external_link:
 image:
   caption:
   focal_point: Smart
----
 
 ### Masses of the week
-- [10/7/2021 6PM Saturday Evening Mass (English)](https://forms.gle/Zp5nuuDFQDKeNmRA7)
+#- [10/7/2021 6PM Saturday Evening Mass (English)](https://forms.gle/Zp5nuuDFQDKeNmRA7)
 
-- [11/7/2021 830AM Sunday Morning Mass (Mandarin)](https://forms.gle/rcSvhGYUGmH51iGB7)
+#- [11/7/2021 830AM Sunday Morning Mass (Mandarin)](https://forms.gle/rcSvhGYUGmH51iGB7)
 
-- [11/7/2021 1030AM Sunday Tamil Mass ஞாயிற்றுக்கிழமை காலை நிறை (தமிழ்)](https://forms.gle/6B1JGpMWoYB7c4RK6)
+#- [11/7/2021 1030AM Sunday Tamil Mass ஞாயிற்றுக்கிழமை காலை நிறை (தமிழ்)](https://forms.gle/6B1JGpMWoYB7c4RK6)
+---

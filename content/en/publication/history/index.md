@@ -36,6 +36,8 @@ links:
   url: /en/project/st-anne-chapel
 - name: St Paul The Hermit Chapel, Valdor Estate
   url: /en/project/st-paul-the-hermit-chapel
+- name: Divine Mercy Chapel, Taman Merak
+  url: /en/project/divine-mercy-chapel
 
 #- name: Custom Link
 #  url: http://example.org

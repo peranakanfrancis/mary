@@ -36,6 +36,8 @@ links:
   url: /zh/project/st-anne-chapel
 - name: 圣保禄隐修公所，华都园
   url: /zh/project/st-paul-the-hermit-chapel
+- name: 耶稣圣心公所, 大发园
+  url: /zh/project/divine-mercy-chapel
 
 - name: 峇冬丁宜百年历史
   url: '/zh/project/story-of-permatang-tinggi'

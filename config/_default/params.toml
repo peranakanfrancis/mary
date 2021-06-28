@@ -58,7 +58,8 @@ phone = "+6045887799"
 address = "Jalan Besar, Permatang Tinggi, 14000 Bukit Mertajam, Pulau Pinang  ([Google Maps](https://goo.gl/maps/KrdspqMCE5Ph75Qe7))"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Tuesday - Sunday 10AM to 5PM // <br>
+office_hours = """Tuesday - Friday 10AM to 5PM, <br>
+                  Saturday - Sunday 10AM to 1PM, <br>
                   Closed on Monday"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
