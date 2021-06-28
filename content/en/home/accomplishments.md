@@ -27,7 +27,7 @@ time_format ="3:04 PM"
   certificate_url = "https://drive.google.com/file/d/1Pt2ASTTChYkOyxocOLTvXF03y-7Ud0N4/view?usp=sharing"
   date_start = "2021-06-27"
   date_end = "2021-07-04"
-  description = "Fr Louis calls on all catechism teachers and those who are interested to come and participate in online catechism training on Zoom。"
+  description = "Fr Louis calls on all catechism teachers and those who are interested to come and participate in online catechism training on Zoom."
 
 
 [[item]]

@@ -1,0 +1,23 @@
+<center>
+  {{ if eq .Site.Language.Lang "en" }}
+    <h3 style="color: #fb8373;">Comments</h3>
+    <p>Join the discussion.</p>
+  {{ else if eq .Site.Language.Lang "zh" }}
+    <h3 style="color: #fb8373;">评论区</h3>
+    <p>加入讨论</p>
+  {{ end }}
+</center>
+<div id="cusdis_thread"
+  data-host="https://cusdis.com"
+  data-app-id="65b67455-9388-48d4-bae3-e030f380a6c5"
+  data-page-id="{{ print .File.UniqueID .Site.Language.Lang }}"
+  data-page-url="{{ .Permalink }}"
+  data-page-title="{{ .Title }}"
+></div>
+{{ if eq .Site.Language.Lang "en" }}
+    <script defer src="https://cusdis.com/js/widget/lang/en.js"></script>
+{{ end }}
+{{ if eq .Site.Language.Lang "zh" }}
+    <script defer src="https://cusdis.com/js/widget/lang/zh-cn.js"></script>
+{{ end }}
+<script defer src="https://cusdis.com/js/cusdis.es.js"></script>
