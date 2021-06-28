@@ -29,7 +29,7 @@ links:
 - icon: file-download
   icon_pack: fas
   name: 表格下载
-  url: "#"
+  url: "http://www.holyspiritcathedral.com/wp-content/uploads/2018/05/EE-English.pdf"
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
