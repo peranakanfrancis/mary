@@ -18,7 +18,7 @@ date_format = "May 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "雷神父"
+  title = "雷文州神父"
   company = "教区神父"
   company_url = ""
   location = "峇冬丁宜"
@@ -45,7 +45,7 @@ date_format = "May 2006"
   """
 
 [[experience]]
-  title = "黄修女"
+  title = "黄玉馨修女"
   company = "圣婴会"
   company_url = "https://www.infantjesussisters.org/malaysia"
   location = "马六甲"
@@ -55,13 +55,5 @@ date_format = "May 2006"
   圣婴会的愿望是通过根据每个国家的需要不断发展的各种部委，让人们认识和喜爱耶稣基督。 他们的特点是与最需要帮助的人联系。 目前，圣婴会修女的工作包括儿童和青年事工； 移民人口及其子女的教育； 与囚犯及其家人合作； 教导有语言和听力障碍的儿童； 为残疾儿童和青少年提供服务。
   """
 
-# [[experience]]
-#  title = "Professor"
-#  company = "University Y"
-#  company_url = ""
-#  location = "California"
-#  date_start = "2017-01-01"
-#  date_end = "2016-12-30"
-#  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++

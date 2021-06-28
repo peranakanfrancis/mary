@@ -34,7 +34,7 @@ hero_media = "home/banner.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [btn]
-  url = "#"
+  url = "https://forms.gle/k1Yf7JCanc6PRRrt7"
   label = "Mass Registration"
 
 [btn_alt]

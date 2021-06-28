@@ -34,16 +34,16 @@ subtitle = ""
     tag = "弥撒"
 
   [[content.filter_button]]
+    name = "圣人"
+    tag = "圣人"
+
+  [[content.filter_button]]
     name = "事奉善事"
     tag = "事奉善事"
 
   [[content.filter_button]]
     name = "筹款"
     tag = "筹款"
-
-  [[content.filter_button]]
-    name = "商业出租"
-    tag = "商业出租"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

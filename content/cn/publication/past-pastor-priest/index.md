@@ -94,7 +94,7 @@ projects: []
 | 17 | 许安东神父 | REV. FR. ANTHONY KHAW | 26.09.1949 - 04.11.1952 |
 | 18 | 陈芳荣神父 | REV. FR. THOMAS CHIN | 22.11.1952 - 25.09.1955 |
 | 19 | 王伯多神父 | REV. FR. PETER WONG | 15.05.1955 - 21.04.1957 |
-| 20 | 能光发执事 | REV. FR. JOHN HIONG | 24.04.1957 - 31.01.1958 |
+| 20 | 熊光发执事 | REV. FR. JOHN HIONG | 24.04.1957 - 31.01.1958 |
 | 21 | 许化民神父 | REV. FR. PETER HSIN | 21.09.1957 - 04.07.1958 |
 | 22 | 徐连文神父 | REV. FR. PETER SU | 16.08.1958 - 03.01.1959 |
 | 23 | 陈芳荣神父 | REV. FR. THOMAS CHIN | 08.03.1959 - 22.11.1970 |
@@ -102,16 +102,16 @@ projects: []
 | 25 | 陈汉忠神父 | REV. FR. PAUL CHING | 05.05.1974 - 24.11.1974 |
 | 26 | 刘若石神父 | REV. FR. JOSEPH LIU | 12.01.1975 - 02.12.1979 |
 | 27 | 刘炳权神父 | REV. FR. MARTIN LAM | 17.02.1980 - 05.02.1984 |
-| 28 | 能光发神父 | REV. FR. JOHN HIONG | 16.02.1984 - 05.02.1987 |
+| 28 | 熊光发神父 | REV. FR. JOHN HIONG | 16.02.1984 - 05.02.1987 |
 | 29 | 康福堂副主教 | REV. MGR. RAPHAEL KANG | 11.03.1987 - SEPT.1996 |
 | 30 | 齐帝神父 | REV. FR. NELSON CHITTY | AUG.1995 - MAR.1996 |
 | 31 | 谢福华神父 | REV. FR. MICHAEL CHEAH | SEPT.1996 - FEB. 1998 |
 | 32 | 刘开祥神父 | REV. FR. STEPHEN LIEW | MAR. 1998 - JUN. 1999 |
 | 33 | 赵仲生神父 | REV. FR. FRANCIS CHAO | JULY 1999 - SEPT.2003 |
-| 34 | 悦恒力神父 | REV. FR. HENRY RAJOO | SEPT.2003 - 31.01.2005 |
+| 34 | 饶恒力神父 | REV. FR. HENRY RAJOO | SEPT.2003 - 31.01.2005 |
 | 35 | 刘开祥副主教 | REV. FR. MGR. STEPHEN LIEW | 01.02.2005 - OCT. 2010 |
 | 36 | 余金忠神父 | REV. FR. SIMON EE | 01.08.2005 - 31.12.2010 |
 | 37 | 黄炳隆神父 | REV. FR. AUGUSTINE WONG | JAN. 2011 - MAR. 2021 |
-| 38 |  雷神父 | FR. LOUIS | APR. 2021 - PRESENT |
+| 38 | 雷文州神父 | FR. LOUIS | APR. 2021 - PRESENT |
 
 {{</ table >}}
