@@ -12,4 +12,4 @@ image:
   caption:
   focal_point: Smart
 ---
-It started during the construction of Estate Workers' Quarter on 1953, some Tamil speaking parishioners placed a statue of St. Paul the Hermit at near by rubber estate. A shed was erected during 1970s. It is a hope if every parishioners in Valdor Estate that a chapel be built in the area.
+This chapel is a small shed with the statue of St. Paul the Hermit. Its construction dates back to 1953 during the time of the estate workers. It was at that time that the statue was placed in one of the sheds near the rubber estate. This shed served as a focal point for the spiritual activities among the estate workers. Although it is humble in it its origin, it serves the community well even till today.

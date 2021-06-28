@@ -12,6 +12,7 @@ image:
   caption:
   focal_point: Smart
 ---
-These were over 80 Catholic families in Permatang Tinggi New Village during the Emergency. In 1954, Fr. Thomas Chin built a small chapel. As the chapel was too small for the increasing number of parishioners. It was rebuilt into a bigger chapel with the parishioners donations and government fund. The blessing of the New Chapel was officiated by Bishop Gregory Yong on 16 September 1969.
-
-1986, Fr. John Hsiong built a bell tower, the balance of money was used to renovate the altar and purchase of new pews. Annual feast day is on 22 July.
+The chapel dates back to the 1950s. To cater to the spiritual needs of the parishioners, the Chapel of St. Mary Magdalene was constructed in early 1954. When the number of families living in the village grew, the first chapel was found to be too small and could not cope with the increasing number of families. Fr. Thomas Chin constructed a bigger chapel through donations from the parishioners as well as help from the government.
+Bishop Gregory Yong blessed the chapel on 16 September 1969. Additional renovations were done by the
+subsequent parish priests. Fr. John Hiong built the bell tower and did some renovations to the chapel and
+purchased new pews.

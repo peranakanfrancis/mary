@@ -12,4 +12,4 @@ image:
   caption:
   focal_point: Smart
 ---
-St. Joseph chapel was built by Fr. Joseph Liu and blessed by Bishop Gregory Yong on 13 April 1975. Annual feast day is on 1 May.
+Eight km away from the village of Permatang Tinggi, is Juru Village. Many Catholic families live here. To nurture their spiritual growth, a chapel was built so that masses could be celebrated on certain days of the month, especially during the feast day. Fr. Joseph Liu was instrumental in constructing this chapel, which was blessed by Rt. Rev. Bishop Gregory Yong.

@@ -50,6 +50,9 @@ education:
   - course: St Paul The Hermit Chapel
     institution: Valdor estate
     year: 1953
+  - course: Divine Mercy Chapel
+    institution: Taman Merak
+    year:
 
 # Social/academia Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -95,3 +98,4 @@ All the main building structures were built and designed locally such as the spi
 - [St Joseph Chapel, Juru](project/st-joseph-chapel)
 - [St Anne Chapel, Valdor](project/st-anne-chapel)
 - [St Paul The Hermit Chapel, Valdor Estate](project/st-paul-the-hermit-chapel)
+- [Divine Mercy Chapel, Taman Merak](project/divine-mercy-chapel)

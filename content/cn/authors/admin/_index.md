@@ -50,7 +50,10 @@ education:
   - course: 圣保禄隐修公所
     institution: 华都园
     year: 1953
-
+  - course: 耶稣圣心公所
+    institution: 大发园
+    year:
+    
 # Social/academia Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -95,3 +98,4 @@ email: "hnmptt1928@hotmail.co.uk"
 - [圣若瑟公所, 柔府村](project/st-joseph-chapel)
 - [圣亚纳公所, 华都村](project/st-anne-chapel)
 - [圣保禄隐修公所, 华都园](project/st-paul-the-hermit-chapel)
+- [耶稣圣心公所, 大发园](project/divine-mercy-chapel)
