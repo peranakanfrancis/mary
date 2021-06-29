@@ -39,8 +39,8 @@ links:
 - name: 耶稣圣心公所, 大发园
   url: /zh/project/divine-mercy-chapel
 
-- name: 峇冬丁宜百年历史
-  url: '/zh/project/story-of-permatang-tinggi'
+#- name: 峇冬丁宜百年历史
+#  url: '/zh/project/story-of-permatang-tinggi'
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'
