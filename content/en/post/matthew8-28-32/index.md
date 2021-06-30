@@ -1,6 +1,6 @@
 ---
 title: Matthew 8:28-32
-subtitle: Daily Bible Verse & Reflection
+subtitle: So, do you ask Jesus to leave, or allow Him to endear and embrace you?
 summary: So, do you ask Jesus to leave, or allow Him to endear and embrace you?
 authors:
 - admin

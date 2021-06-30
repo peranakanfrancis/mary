@@ -1,6 +1,6 @@
 ---
 title: Matthew 8:1-4
-subtitle: Daily Bible Verse & Reflection
+subtitle: Who cannot be moved by the words of Jesus below to a Benedictine mystic?
 summary: Who cannot be moved by the words of Jesus below to a Benedictine mystic?
 authors:
 - admin

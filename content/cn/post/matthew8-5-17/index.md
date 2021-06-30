@@ -1,6 +1,6 @@
 ---
 title: 马窦福音8:5-17
-subtitle: 每日圣言与反省
+subtitle: 我有这样的信德吗？
 summary: 我有这样的信德吗？
 authors:
 - admin

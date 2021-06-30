@@ -1,6 +1,6 @@
 ---
-title:  马窦福音6:7-15
-subtitle: 每日圣言与反省
+title: 马窦福音6:7-15
+subtitle: 我们今天愿意花多少时间来向阿爸父祈祷？
 summary: 我们今天愿意花多少时间来向阿爸父祈祷？
 authors:
 - admin

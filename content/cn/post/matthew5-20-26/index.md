@@ -1,6 +1,6 @@
 ---
-title:  马窦福音5:20-26
-subtitle: 每日圣言与反省
+title: 马窦福音5:20-26
+subtitle: 我愿意卸下仇恨的重担吗？
 summary: 我愿意卸下仇恨的重担吗？
 authors:
 - admin

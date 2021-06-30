@@ -1,6 +1,6 @@
 ---
 title: 马尔谷福音12:18-27
-subtitle: 每日圣言与反省
+subtitle: 我比撒杜塞人更认识天主及天国吗？
 summary: 我比撒杜塞人更认识天主及天国吗？
 authors:
 - admin

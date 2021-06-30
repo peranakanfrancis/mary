@@ -1,6 +1,6 @@
 ---
 title:  马窦福音5:33-37
-subtitle: 每日圣言与反省
+subtitle: 自问：我的言行是诚实可信的吗？
 summary: 自问：我的言行是诚实可信的吗？
 authors:
 - admin

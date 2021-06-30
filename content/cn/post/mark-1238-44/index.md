@@ -1,6 +1,6 @@
 ---
 title: 马尔谷福音12:38-44
-subtitle: 每日圣言与反省
+subtitle: 我是耶稣所说的哪一类人呢？
 summary: 我是耶稣所说的哪一类人呢？
 authors:
 - admin

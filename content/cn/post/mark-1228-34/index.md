@@ -1,6 +1,6 @@
 ---
 title: 马尔谷福音12:28-34
-subtitle: 每日圣言与反省
+subtitle: 我是如何活出「爱」的？
 summary: 我是如何活出「爱」的？
 authors:
 - admin

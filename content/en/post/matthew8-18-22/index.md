@@ -1,6 +1,6 @@
 ---
 title: Matthew 8:18-22
-subtitle: Daily Bible Verse & Reflection
+subtitle: Are you called to serve the Lord?
 summary: Are you called to serve the Lord?
 authors:
 - admin

@@ -1,6 +1,6 @@
 ---
-title:  马窦福音5:13-16
-subtitle: 每日圣言与反省
+title: 马窦福音5:13-16
+subtitle: 我今天准备如何发光？
 summary: 我今天准备如何发光？
 authors:
 - admin

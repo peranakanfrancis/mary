@@ -1,6 +1,6 @@
 ---
-title:  马窦福音5:17-19
-subtitle: 每日圣言与反省
+title: 马窦福音5:17-19
+subtitle: 我在生活中是如何遵守天主诫命的？
 summary: 我在生活中是如何遵守天主诫命的？
 authors:
 - admin

@@ -1,6 +1,6 @@
 ---
 title:  马窦福音8:1-4
-subtitle: 每日圣言与反省
+subtitle: 我愿意培养慈悲和怜悯之心帮助他们吗？
 summary: 我愿意培养慈悲和怜悯之心帮助他们吗？
 authors:
 - admin

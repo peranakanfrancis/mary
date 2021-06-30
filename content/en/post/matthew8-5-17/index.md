@@ -1,6 +1,6 @@
 ---
 title: Matthew 8:5-17
-subtitle: Daily Bible Verse & Reflection
+subtitle: Are you willing to suffer mockery or ridicule in the practice of your faith? And when you in need of help, do you approach the Lord Jesus with expectant faith and trust?
 summary: Are you willing to suffer mockery or ridicule in the practice of your faith? And when you in need of help, do you approach the Lord Jesus with expectant faith and trust?
 authors:
 - admin

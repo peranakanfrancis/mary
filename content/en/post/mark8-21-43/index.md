@@ -1,6 +1,6 @@
 ---
 title: Mark 8:21-43
-subtitle: Daily Bible Verse & Reflection
+subtitle: Your trust in Jesus is in direct proportion to your awareness of who He is and how much He has done for you.
 summary: Your trust in Jesus is in direct proportion to your awareness of who He is and how much He has done for you.
 authors:
 - admin

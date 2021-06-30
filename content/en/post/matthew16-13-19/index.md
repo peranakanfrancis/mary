@@ -1,6 +1,6 @@
 ---
 title: Matthew 16:13-19
-subtitle: Daily Bible Verse & Reflection
+subtitle: Why honor Saints Peter and Paul with a Solemnity?
 summary: Why honor Saints Peter and Paul with a Solemnity?
 authors:
 - admin

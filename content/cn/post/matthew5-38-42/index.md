@@ -1,6 +1,6 @@
 ---
 title:  马窦福音5:38-42
-subtitle: 每日圣言与反省
+subtitle: 我愿意按耶稣的话语去实行吗?
 summary: 我愿意按耶稣的话语去实行吗?
 authors:
 - admin
