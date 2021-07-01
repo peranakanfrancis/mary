@@ -4,7 +4,7 @@ subtitle: So, do you ask Jesus to leave, or allow Him to endear and embrace you?
 summary: So, do you ask Jesus to leave, or allow Him to endear and embrace you?
 authors:
 - admin
-tags: [Reflection]
+tags: ["Reflection", "Matthew"]
 categories: [Bible verse]
 date: "2021-06-30T00:00:00Z"
 featured: false

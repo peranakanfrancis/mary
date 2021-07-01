@@ -4,8 +4,7 @@ subtitle: 我是耶稣所说的哪一类人呢？
 summary: 我是耶稣所说的哪一类人呢？
 authors:
 - admin
-tags:
-- 反省
+tags: ["反省", "马尔谷"]
 categories: ["圣言"]
 date: "2021-06-05T00:00:00Z"
 lastmod: "2021-06-05T00:00:00Z"

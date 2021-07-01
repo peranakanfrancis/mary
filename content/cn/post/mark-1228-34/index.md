@@ -4,8 +4,7 @@ subtitle: 我是如何活出「爱」的？
 summary: 我是如何活出「爱」的？
 authors:
 - admin
-tags:
-- 反省
+tags: ["反省", "马尔谷"]
 categories: ["圣言"]
 date: "2021-06-03T00:00:00Z"
 lastmod: "2021-06-03T00:00:00Z"

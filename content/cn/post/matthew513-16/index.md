@@ -4,7 +4,7 @@ subtitle: 我今天准备如何发光？
 summary: 我今天准备如何发光？
 authors:
 - admin
-tags: ["反省"]
+tags: ["反省", "马窦"]
 categories: ["圣言"]
 date: "2021-06-07T00:00:00Z"
 featured: false

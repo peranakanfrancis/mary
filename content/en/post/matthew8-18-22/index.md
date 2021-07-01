@@ -4,7 +4,7 @@ subtitle: Are you called to serve the Lord?
 summary: Are you called to serve the Lord?
 authors:
 - admin
-tags: [Reflection]
+tags: ["Reflection", "Matthew"]
 categories: [Bible verse]
 date: "2021-06-28T00:00:00Z"
 featured: false

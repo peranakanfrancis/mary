@@ -4,7 +4,7 @@ subtitle: 在耶稣和财产之间，他们选择后者。 设想：假如我是
 summary: 在耶稣和财产之间，他们选择后者。 设想：假如我是他们中的一个，我会如何选择？
 authors:
 - admin
-tags: ["反省"]
+tags: ["反省", "马窦"]
 categories: ["圣言"]
 date: "2021-06-30T00:00:00Z"
 featured: false

@@ -4,7 +4,7 @@ subtitle: Who cannot be moved by the words of Jesus below to a Benedictine mysti
 summary: Who cannot be moved by the words of Jesus below to a Benedictine mystic?
 authors:
 - admin
-tags: [Reflection]
+tags: ["Reflection", "Matthew"]
 categories: [Bible verse]
 date: "2021-06-25T00:00:00Z"
 featured: false

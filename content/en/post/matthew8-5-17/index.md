@@ -4,7 +4,7 @@ subtitle: Are you willing to suffer mockery or ridicule in the practice of your 
 summary: Are you willing to suffer mockery or ridicule in the practice of your faith? And when you in need of help, do you approach the Lord Jesus with expectant faith and trust?
 authors:
 - admin
-tags: [Reflection]
+tags: ["Reflection", "Matthew"]
 categories: [Bible verse]
 date: "2021-06-26T00:00:00Z"
 featured: false

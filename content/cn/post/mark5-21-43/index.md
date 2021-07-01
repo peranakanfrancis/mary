@@ -4,7 +4,7 @@ subtitle: 生命无常，难免不遇困境，也难免面对困境时束手无�
 summary: 生命无常，难免不遇困境，也难免面对困境时束手无策；而有耶稣的参与定能让困境变成奇迹！
 authors:
 - admin
-tags: ["反省"]
+tags: ["反省", "马尔谷"]
 categories: ["圣言"]
 date: "2021-06-27T00:00:00Z"
 featured: false

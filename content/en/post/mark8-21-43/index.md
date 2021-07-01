@@ -4,7 +4,7 @@ subtitle: Your trust in Jesus is in direct proportion to your awareness of who H
 summary: Your trust in Jesus is in direct proportion to your awareness of who He is and how much He has done for you.
 authors:
 - admin
-tags: [Reflection]
+tags: ["Reflection", "Mark"]
 categories: [Bible verse]
 date: "2021-06-27T00:00:00Z"
 featured: false

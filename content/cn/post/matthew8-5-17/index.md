@@ -4,7 +4,7 @@ subtitle: 我有这样的信德吗？
 summary: 我有这样的信德吗？
 authors:
 - admin
-tags: ["反省"]
+tags: ["反省", "马窦"]
 categories: ["圣言"]
 date: "2021-06-26T00:00:00Z"
 featured: false

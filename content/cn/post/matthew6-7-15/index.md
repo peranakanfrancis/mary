@@ -4,7 +4,7 @@ subtitle: 我们今天愿意花多少时间来向阿爸父祈祷？
 summary: 我们今天愿意花多少时间来向阿爸父祈祷？
 authors:
 - admin
-tags: ["反省"]
+tags: ["反省", "马窦"]
 categories: ["圣言"]
 date: "2021-06-16T00:00:00Z"
 featured: false

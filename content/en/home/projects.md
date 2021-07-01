@@ -34,12 +34,12 @@ subtitle = ""
     tag = "Mass"
 
   [[content.filter_button]]
-    name = "Saints"
-    tag = "Saints"
+    name = "Prayers"
+    tag = "Prayers"
 
   [[content.filter_button]]
-    name = "Ministries"
-    tag = "Ministries"
+    name = "Saints"
+    tag = "Saints"
 
   [[content.filter_button]]
     name = "Fundraising"

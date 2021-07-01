@@ -4,7 +4,7 @@ subtitle: 自问：我的言行是诚实可信的吗？
 summary: 自问：我的言行是诚实可信的吗？
 authors:
 - admin
-tags: ["反省"]
+tags: ["反省", "马窦"]
 categories: ["圣言"]
 date: "2021-06-12T00:00:00Z"
 featured: false

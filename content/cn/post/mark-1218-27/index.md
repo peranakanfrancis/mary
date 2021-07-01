@@ -4,7 +4,7 @@ subtitle: 我比撒杜塞人更认识天主及天国吗？
 summary: 我比撒杜塞人更认识天主及天国吗？
 authors:
 - admin
-tags: ["反省"]
+tags: ["反省", "马尔谷"]
 categories: ["圣言"]
 date: "2021-06-02T00:00:00Z"
 featured: false
