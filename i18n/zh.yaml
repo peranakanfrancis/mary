@@ -79,7 +79,7 @@
 - id: last_updated
   translation: 最近更新于
 - id: event
-  translation: 事件
+  translation: 活动主页
 - id: location
   translation: 位置
 - id: pub_uncat
