@@ -6,7 +6,7 @@ authors:
 - admin
 tags: ["Reflection", "Matthew"]
 categories: [Bible verse]
-date: "2021-07-02T00:00:00Z"
+date: "2021-07-01T00:00:00Z"
 featured: false
 draft: false
 
