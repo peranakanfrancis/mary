@@ -22,23 +22,30 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Weekly Bulletin (20/6 - 27/6)"
+  title = "Weekly Bulletin (4/7 - 11/7)"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/1Pt2ASTTChYkOyxocOLTvXF03y-7Ud0N4/view?usp=sharing"
-  date_start = "2021-06-27"
-  date_end = "2021-07-04"
-  description = "Fr Louis calls on all catechism teachers and those who are interested to come and participate in online catechism training on Zoom."
+  certificate_url = "https://drive.google.com/file/d/10WpAOmAYeRSvvjAkczLCoDlSlztZHDch/view?usp=sharing"
+  date_start = "2021-07-04"
+  date_end = "2021-07-11"
+  description = """
+  My dear brothers and sisters in Christ, The Covid-19 pandemic has caused much hardship throughout different level of society  in particular for families and our parish has not been spared of it. In view of this, the parish is organizing some kind of assistance in the form of food items to be distributed to those families or individuals among our parishioners who are in dire need of these items. Those who are in need are requested to contact the parish office for further information.
 
+  At the same time, the parish priest is requesting for parishioners who are able, to donate  food items, or cash donations for this cause in order to assist our sisters and brothers  who are in need of assistance during this extraordinary times. Any kind of assistance is  highly appreciated. Contact the parish office for further information. In the meantime, do keep those who are in need in prayers and continue to ask the Lord Jesus Christ to protect us from harm and an end to this pandemic. Stay safe & stay healthy, God Bless !
+
+  Yours in Christ
+  
+  Fr Louis
+  """
 
 [[item]]
   organization = ""
   organization_url = ""
   title = "Weekly Bulletin (20/6 - 27/6)"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/1sILa0nw8EhYBQbcjcGU1ZOtV4w5MMcOQ/view?usp=sharing"
-  date_start = "2021-06-20"
-  date_end = "2021-06-27"
-  description = "Fr Louis and the staff would like to wish all fathers a warm, joyful an wonderful Father's day! May Go bless you and keep you in good health, peace and joy always!"
+  certificate_url = "https://drive.google.com/file/d/1Pt2ASTTChYkOyxocOLTvXF03y-7Ud0N4/view?usp=sharing"
+  date_start = "2021-06-27"
+  date_end = "2021-07-04"
+  description = "Fr Louis calls on all catechism teachers and those who are interested to come and participate in online catechism training on Zoom."
 
 
 # [[item]]
