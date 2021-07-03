@@ -1,10 +1,10 @@
 ---
-title:  马窦福音5:38-42
+title: 玛窦福音5:38-42
 subtitle: 我愿意按耶稣的话语去实行吗?
 summary: 我愿意按耶稣的话语去实行吗?
 authors:
 - admin
-tags: ["反省", "马窦"]
+tags: ["反省", "玛窦"]
 categories: ["圣言"]
 date: "2021-06-13T00:00:00Z"
 featured: false

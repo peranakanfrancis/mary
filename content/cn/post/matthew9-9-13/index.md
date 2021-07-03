@@ -1,10 +1,10 @@
 ---
-title: 马窦福音9:9-13
+title: 玛窦福音9:9-13
 subtitle: 在跟随耶稣的人生旅途中，我是否在有意识地培养像祂一样慈悲待人的精神？
 summary: 在跟随耶稣的人生旅途中，我是否在有意识地培养像祂一样慈悲待人的精神？
 authors:
 - admin
-tags: ["反省", "马窦"]
+tags: ["反省", "玛窦"]
 categories: ["圣言"]
 date: "2021-07-02T00:00:00Z"
 featured: false

@@ -1,10 +1,10 @@
 ---
-title: 马窦福音7:6, 12-14
+title: 玛窦福音7:6, 12-14
 subtitle: 今天我决定做哪一类人呢？
 summary: 今天我决定做哪一类人呢？
 authors:
 - admin
-tags: ["反省", "马窦"]
+tags: ["反省", "玛窦"]
 categories: ["圣言"]
 date: "2021-06-22T00:00:00Z"
 featured: false

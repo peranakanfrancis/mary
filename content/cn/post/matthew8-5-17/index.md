@@ -1,10 +1,10 @@
 ---
-title: 马窦福音8:5-17
+title: 玛窦福音8:5-17
 subtitle: 我有这样的信德吗？
 summary: 我有这样的信德吗？
 authors:
 - admin
-tags: ["反省", "马窦"]
+tags: ["反省", "玛窦"]
 categories: ["圣言"]
 date: "2021-06-26T00:00:00Z"
 featured: false

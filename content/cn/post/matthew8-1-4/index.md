@@ -1,10 +1,10 @@
 ---
-title:  马窦福音8:1-4
+title: 玛窦福音8:1-4
 subtitle: 我愿意培养慈悲和怜悯之心帮助他们吗？
 summary: 我愿意培养慈悲和怜悯之心帮助他们吗？
 authors:
 - admin
-tags: ["反省", "马窦"]
+tags: ["反省", "玛窦"]
 categories: ["圣言"]
 date: "2021-06-25T00:00:00Z"
 featured: false

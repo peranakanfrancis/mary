@@ -1,10 +1,10 @@
 ---
-title: 马窦福音16:13-19
+title: 玛窦福音16:13-19
 subtitle: 作为教会的一分子，我对教会的支持体现在哪里呢？
 summary: 作为教会的一分子，我对教会的支持体现在哪里呢？
 authors:
 - admin
-tags: ["反省", "马窦"]
+tags: ["反省", "玛窦"]
 categories: ["圣言"]
 date: "2021-06-29T00:00:00Z"
 featured: false
