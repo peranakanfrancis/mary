@@ -1,5 +1,5 @@
 ---
-title: Bible Verses When We're Afraid
+title: Prayer to St. Michael the Archangel - Fight Anxiety & Fear with God's words
 summary: Dear friends, fear is a common experience especially during this Pandemic. Let read these bible verses everyday and be encouraged to trust God at all times.
 tags:
 - Prayers
@@ -76,3 +76,6 @@ Dear friends, fear is a common experience especially during this Pandemic. Let r
 
 - **2 Thessalonians 3:16**
 “May the Lord of peace himself give you peace at all times and in every way. The Lord be with all of you.”
+
+### Prayer to St. Michael the Archangel
+Saint Michael the Archangel, defend us in battle. Be our protection against the wickedness and snares of the devil; May God rebuke him, we humbly pray; And do thou, O Prince of the Heavenly Host, by the power of God, thrust into hell Satan and all evil spirits who wander through the world for the ruin of souls. Amen.

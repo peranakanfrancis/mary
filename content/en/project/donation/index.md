@@ -3,7 +3,6 @@ title: Reach out to the poor
 summary: The parish priest is requesting for parishioners who are able, to donate  food items, or cash donations for this cause in order to assist our sisters and brothers who are in need of assistance during this extraordinary times.
 tags:
 - Donation
-- Fundrasing
 date: "2021-07-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
