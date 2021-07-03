@@ -1,5 +1,5 @@
 ---
-title: Bible Verses When We're Afraid!
+title: Bible Verses When We're Afraid
 summary: Dear friends, fear is a common experience especially during this Pandemic. Let read these bible verses everyday and be encouraged to trust God at all times.
 tags:
 - Prayers

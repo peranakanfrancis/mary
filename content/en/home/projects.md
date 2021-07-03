@@ -42,8 +42,8 @@ subtitle = ""
     tag = "Saints"
 
   [[content.filter_button]]
-    name = "Fundraising"
-    tag = "Fundraising"
+    name = "Donation"
+    tag = "Donation"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
