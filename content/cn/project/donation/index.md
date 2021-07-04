@@ -1,7 +1,7 @@
 ---
 title: 援助贫困家庭
 summary: 神父呼吁那些有能力者，慷慨为此事工捐赠食物或献金，以帮助需要我们帮助的弟兄姐妹。
-tags: ["慈善"]
+tags: ["乐捐"]
 date: "2021-07-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -42,8 +42,8 @@ subtitle = ""
     tag = "圣人"
 
   [[content.filter_button]]
-    name = "慈善"
-    tag = "慈善"
+    name = "乐捐"
+    tag = "乐捐"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

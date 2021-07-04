@@ -1,8 +1,7 @@
 ---
 title: 同心协力建新堂
 summary: 为什么我们需要新教堂？原有的教堂已经无法容纳日益增多的教友，弥撒主日有许多的教友只能在教堂外参与。
-tags:
-- 筹款
+tags: ["筹款","乐捐"]
 date: "2021-05-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
