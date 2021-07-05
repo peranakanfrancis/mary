@@ -1,10 +1,10 @@
 ---
-title: 马窦福音8:18-22
+title: 玛窦福音8:18-22
 subtitle: 不妨扪心自问：我如何提升这样的灵修品质，从而更好地延续基督的生命呢？
 summary: 不妨扪心自问：我如何提升这样的灵修品质，从而更好地延续基督的生命呢？
 authors:
 - admin
-tags: ["反省", "马窦"]
+tags: ["反省", "玛窦"]
 categories: ["圣言"]
 date: "2021-06-28T00:00:00Z"
 featured: false

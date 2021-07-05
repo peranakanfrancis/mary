@@ -53,7 +53,7 @@ education:
   - course: 耶稣圣心公所
     institution: 大发园
     year:
-    
+
 # Social/academia Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -68,9 +68,12 @@ social:
 - icon: google
   icon_pack: fab
   link: https://goo.gl/maps/KrdspqMCE5Ph75Qe7
-- icon: whatsapp
-  icon_pack: fab
-  link: https://wa.link/sfi0w8
+- icon: envelope-open-text
+  icon_pack: fas
+  link: mailto:hnmptt1928@hotmail.co.uk
+#- icon: whatsapp
+#  icon_pack: fab
+#  link: https://wa.link/sfi0w8
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
