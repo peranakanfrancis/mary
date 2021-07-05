@@ -53,7 +53,7 @@ projects: []
 #  image: theme-strawberry.png
 ---
 
-{{< audio src="audio/en/mark6-1-6.mp3" >}}
+{{< audio src="/audio/en/mark6-1-6.mp3" >}}
 
 ### Gospel
 > He departed from there and came to his native place, accompanied by his disciples. When the sabbath came he began to teach in the synagogue, and many who heard him were astonished. They said, "Where did this man get all this? What kind of wisdom has been given him? What mighty deeds are wrought by his hands! Is he not the carpenter, the son of Mary, and the brother of James and Joses and Judas and Simon? And are not his sisters here with us?" And they took offense at him. Jesus said to them, "A prophet is not without honor except in his native place and among his own kin and in his own house." So he was not able to perform any mighty deed there, apart from curing a few sick people by laying his hands on them. He was amazed at their lack of faith. He went around to the villages in the vicinity teaching.

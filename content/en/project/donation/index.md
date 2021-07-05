@@ -19,6 +19,10 @@ My dear brothers and sisters in Christ, The Covid-19 pandemic has caused much ha
 At the same time, the parish priest is requesting for parishioners who are able, to donate  food items, or cash donations for this cause in order to assist our sisters and brothers who are in need of assistance during this extraordinary times. Any kind of assistance is  highly appreciated. Contact the parish office for further information. In the meantime, do keep those who are in need in prayers and continue to ask the Lord Jesus Christ to protect us from harm and an end to this pandemic. Stay safe & stay healthy, God Bless !
 
 Yours in Christ,
-***Fr Louis***
+
+**Fr Louis**
+
+*Note：***You may forward the banking slip to Ms Theresa at her [WhatsApp](https://wa.link/90dpw4).*** 
+
 
 {{< figure src="/img/project/donation/caritas-en.png" >}}

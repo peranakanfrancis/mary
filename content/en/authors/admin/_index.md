@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "The Church of Holy Name of Mary"
+name: "Church of The Holy Name of Mary"
 avatar_image: "home/church4.jpg"
 # Username (this should match the folder name)
 authors:
@@ -22,7 +22,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Church of Holy Name of Mary is where anyone can be transformed by the story of Jesus. Come worship Jesus with us, you may come in as a stranger but you'll leave as family.
+bio: Church of The Holy Name of Mary is where anyone can be transformed by the story of Jesus. Come worship Jesus with us, you may come in as a stranger but you'll leave as family.
 
 # Should the user's education and interests be displayed?
 display_education: false
@@ -87,11 +87,9 @@ email: ""
 # - Visitors
 ---
 
-The Church of Holy Name of Mary has existed for more than 127 years. It was built by Fr. Michael Seet in over 3 years period with overwhelming support and cooperation from the parishioners.
+Church of The Holy Name of Mary has existed for more than 127 years. It was built by Fr. Michael Seet in over 3 years period with overwhelming support and cooperation from the parishioners.
 
-The church was based on Gothic architecture design originated from France which often features spires, pinnacles, decorative sculptures, large windows which have tracery such as rose window and window with stained glass. A characteristic of Gothic Church is its height, the verticality suggesting an aspiration to Heaven.
-
-All the main building structures were built and designed locally such as the spire, unique spiral staircase, the tracery pattern ceiling and the rose windows. The bell tower together with the spire is 90 feet high. The spire was constructed with hard wood and plank. The asbestos ceiling was painted with distemper of different colours.
+The history of the our church finds its origin from the Catholic Church of St. John the Baptist in Batu Kawan. When the early Chinese and Indian emigrants came to settle down there for agricultural purposes, the priests from the Assumption Church, Penang, followed to look after their spiritual and material needs.
 
 ### Chapels
 - [St Mary Magdalena Chapel, Permatang Tinggi](project/st-mary-magdalena-chapel)
