@@ -1,0 +1,27 @@
+<form id="whatsapp" class="wa-widget" action="60142137507" data-chat="whatsapp"></form>
+<script>
+    // WhatsAppWidget(element, { configs }, [ inputs ])
+
+    var chat = new WhatsAppWidget(document.getElementById('whatsapp'), {
+        // configs...
+        name: 'Theresa 佩佩',
+        photo: '/img/user.jpg',
+        division: 'Parish Office',
+        introduction: 'Hi, how can I help you today?'
+    }, [
+        // array of input object
+        {
+                data: 'name',
+                type: 'text',
+                required: true
+            }, {
+                data: 'email',
+                type: 'email',
+                required: false
+            }, {
+                data: 'message',
+                type: 'text',
+                required: true
+            }
+    ]);
+</script>

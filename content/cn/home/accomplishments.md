@@ -22,28 +22,22 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "每周堂讯 (7月4日 - 7月11日)"
+  title = "最新堂讯 2021年7月4日"
   url = ""
   certificate_url = "https://drive.google.com/file/d/10WpAOmAYeRSvvjAkczLCoDlSlztZHDch/view?usp=sharing"
   date_start = "2021-07-04"
   date_end = "2021-07-11"
-  description = """
-  新冠肺炎疫情在社会不同层面上造成很大的困难，特别是对家庭，同样我们的堂区也正处于这团难中。有鉴于此，我们堂区正筹备给予食物上的帮助，分发给那些需要帮助的堂区教友或家庭。如有需要帮助，请联络堂区办事处以获取更多信息。			
-
-  同时，神父呼吁那些有能力者，慷慨为此事工捐赠食物或献金，以帮助需要我们帮助的弟兄姐妹。在这非常时间，我们非常欢迎任何形式的帮助，扶持及分享，共同渡过难关。更多祥情请联络办事处。让我们继续为他人的需要代祷，并不断祈求主耶穌保护我们免于一切伤害及结束这疫情。时时保持安全，健康。天主保佑。
-
-  在主内的雷神父。
-  """
+  description = ""
 
 [[item]]
   organization = ""
   organization_url = ""
-  title = "每周堂讯 (6月27日 - 7月4日)"
+  title = "过期堂讯 2021年6月27日"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1Pt2ASTTChYkOyxocOLTvXF03y-7Ud0N4/view?usp=sharing"
   date_start = "2021-06-27"
   date_end = "2021-07-04"
-  description = " 教理老师在线培训。雷神父呼吁所有教理老师和那些 有兴趣者敬请一起来参与。"
+  description = ""
 
 #[[item]]
 #  organization = "MJD Counselling Ministry"
