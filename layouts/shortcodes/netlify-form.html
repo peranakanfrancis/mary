@@ -1,10 +1,18 @@
-<form name="Prayer Request" method="post" action="#" data-netlify="true" data-netlify-recaptcha="true">
+<form name="PrayerRequestForm" id="prayer-form" class="prayer-form" method="post" data-netlify="true" data-netlify-recaptcha="true">
+    <div class="col-md-6"></div>
+      <div class="form-group">
+        {{ if eq .Site.Language.Lang "en" }}
+        <input type="text" name="txtName" class="form-control" placeholder="Name" value="">
+        {{ else if eq .Site.Language.Lang "zh" }}
+        <input type="text" name="txtName" class="form-control" placeholder="名字" value="">
+      </div>
+        {{ end }}
     <div class="col-md-6"></div>
       <div class="form-group">
           {{ if eq .Site.Language.Lang "en" }}
-          <textarea name="prayer-request" class="form-control" placeholder="Prayer Petition Box" style="width: 100%; height: 150px;"></textarea>
+          <textarea name="txtMsg" class="form-control" placeholder="Prayer Petition Box" row="6"></textarea>
           {{ else if eq .Site.Language.Lang "zh" }}
-          <textarea name="prayer-request" class="form-control" placeholder="祈求信箱" style="width: 100%; height: 150px;"></textarea>
+          <textarea name="txtMsg" class="form-control" placeholder="祈求信箱" row="6"></textarea>
           {{ end }}
       </div>
       <div class="form-group">
