@@ -20,3 +20,6 @@ image:
 
 #- [11/7/2021 1030AM Sunday Tamil Mass ஞாயிற்றுக்கிழமை காலை நிறை (தமிழ்)](https://forms.gle/6B1JGpMWoYB7c4RK6)
 ---
+
+### No mass during MCO
+The church is closed but our parish priest only having private mass at this moment, if you have a prayer request, please submit to us [here](../prayer-request). We will update the registration form as soon as the church is allow to open for public.
