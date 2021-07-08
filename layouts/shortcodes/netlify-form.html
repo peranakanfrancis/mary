@@ -1,5 +1,4 @@
 <form name="PrayerRequestForm" id="prayer-form" class="prayer-form" method="post" data-netlify="true" data-netlify-recaptcha="true">
-<div class="g-recaptcha" data-sitekey="6LcQ0YIbAAAAALC1ryXe_SVBfB7Cpl3mLa-w3_nF"></div>
     <div class="col-md-6"></div>
       <div class="form-group">
         {{ if eq .Site.Language.Lang "en" }}
@@ -16,6 +15,7 @@
           <textarea name="txtMsg" class="form-control" placeholder="祈求信箱" row="6"></textarea>
           {{ end }}
       </div>
+      <div class="g-recaptcha" data-sitekey="6LcQ0YIbAAAAALC1ryXe_SVBfB7Cpl3mLa-w3_nF"></div>
       <div class="form-group">
         {{ if eq .Site.Language.Lang "en" }}
         <input type="submit" name="btnSubmit" class="btnSubmit" value="Send Petition">
