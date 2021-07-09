@@ -1,14 +1,6 @@
 <form name="PrayerRequestForm" id="prayer-form" class="prayer-form" method="post" data-netlify="true" data-netlify-recaptcha="true">
     <div class="col-md-6"></div>
       <div class="form-group">
-        {{ if eq .Site.Language.Lang "en" }}
-        <input type="text" name="txtName" class="form-control" placeholder="Name" value="">
-        {{ else if eq .Site.Language.Lang "zh" }}
-        <input type="text" name="txtName" class="form-control" placeholder="名字" value="">
-      </div>
-        {{ end }}
-    <div class="col-md-6"></div>
-      <div class="form-group">
           {{ if eq .Site.Language.Lang "en" }}
           <textarea name="txtMsg" class="form-control" placeholder="Prayer Petition Box" row="6"></textarea>
           {{ else if eq .Site.Language.Lang "zh" }}
