@@ -22,7 +22,7 @@ Yours in Christ,
 
 **Fr Louis**
 
-*Note：***You may forward the banking slip to Ms Theresa at her [WhatsApp](https://wa.link/90dpw4).*** 
-
+*Note：***You may forward the banking slip to Ms Theresa at her [WhatsApp](https://wa.link/90dpw4).***
 
 {{< figure src="/img/project/donation/caritas-en.png" >}}
+{{< gallery >}}

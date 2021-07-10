@@ -18,25 +18,24 @@ time_format ="3:04 PM"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Current Bulletin June 4, 2021"
+  title = "New Bulletin June 11, 2021"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/10WpAOmAYeRSvvjAkczLCoDlSlztZHDch/view?usp=sharing"
-  date_start = "2021-07-04"
-  date_end = "2021-07-11"
+  certificate_url = "https://drive.google.com/file/d/1WffHBX6aKg4HDbL9NumsXoU06f7r0ad4/view?usp=sharing"
+  date_start = "2021-07-11"
+  date_end = "2021-07-17"
   description = ""
 
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Bulletin Archive June 27, 2021"
+  title = "Bulletin Archive June 4, 2021"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/1Pt2ASTTChYkOyxocOLTvXF03y-7Ud0N4/view?usp=sharing"
-  date_start = "2021-06-27"
-  date_end = "2021-07-04"
+  certificate_url = "https://drive.google.com/file/d/10WpAOmAYeRSvvjAkczLCoDlSlztZHDch/view?usp=sharing"
+  date_start = "2021-07-04"
+  date_end = "2021-07-11"
   description = ""
 
 

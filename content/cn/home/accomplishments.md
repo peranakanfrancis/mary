@@ -22,22 +22,23 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "最新堂讯 2021年7月4日"
+  title = "最新堂讯 2021年7月11日"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1WffHBX6aKg4HDbL9NumsXoU06f7r0ad4/view?usp=sharing"
+  date_start = "2021-07-11"
+  date_end = "2021-07-17"
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "过期堂讯 2021年7月4日"
   url = ""
   certificate_url = "https://drive.google.com/file/d/10WpAOmAYeRSvvjAkczLCoDlSlztZHDch/view?usp=sharing"
   date_start = "2021-07-04"
   date_end = "2021-07-11"
   description = ""
 
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "过期堂讯 2021年6月27日"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/1Pt2ASTTChYkOyxocOLTvXF03y-7Ud0N4/view?usp=sharing"
-  date_start = "2021-06-27"
-  date_end = "2021-07-04"
-  description = ""
 
 #[[item]]
 #  organization = "MJD Counselling Ministry"
