@@ -1,5 +1,5 @@
 ---
-title: Matthew 10:34 -11:1
+title: Matthew 10:34 - 11:1
 subtitle: God, Jesus and the Holy Spirit are with us, gifting and gracing us! What more could we ask for?
 summary: God, Jesus and the Holy Spirit are with us, gifting and gracing us! What more could we ask for?
 authors:
@@ -68,3 +68,5 @@ Ask yourself: who or what reigns in your life? Today I invite you to quietly ref
 What do you wish to change in your life? What is “right” in your life? What is important in your life? Who and what are you thankful for? Thank God for the many gifts and graces you have been given! Ask God to walk with you in your struggles!
 
 God, Jesus and the Holy Spirit are with us, gifting and gracing us! What more could we ask for?
+
+{{< youtube ORmhl_SzH6Y >}}
