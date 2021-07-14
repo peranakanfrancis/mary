@@ -1,38 +1,52 @@
 ---
-title: Synthesizing Qualitative Data
-event: academia Theme Conference
-event_url: https://example.org
-location: London, United Kingdom
-summary: An example talk using academia's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+title: 启发聚会2.0
+event: 天主教线上启发聚会2.0
+event_url: https://www.facebook.com/catholic.chinese.alpha.malaysia/
+location: Zoom
+summary: 启发是一系列深入浅出，气氛轻松，针对生命的意义所设计的课程。
+abstract: "大家好！启发聚会2.0 开始接受报名啦！
+
+启发是一系列深入浅出，气氛轻松，针对生命的意义所设计的课程。
+
+启发聚会适合各年龄层参加，适合教友，更适合作为想认识天主教信仰的人的启蒙活动！
+
+参加过的人都给出很好的评价喔！欢迎大家也带上自己的家人和朋友一起参加！"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: ""
-date_end: ""
+date: "2021-09-19"
+#date_end: ""
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2021-07-14T00:00:00Z"
 
-authors: []
-tags: []
+authors: [天主教线上启发聚会2.0]
+tags: [启发聚会2.0]
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption:
+  focal_point:
 
 links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
+- icon: youtube
+  icon_pack: fab
+  name: 视频
+  url: https://youtu.be/YcxuPOMJtAY
+- icon: smile-beam
+  icon_pack: fas
+  name: 见证
+  url: https://youtu.be/Zc6h7sRRQWk
+- icon: file-download
+  icon_pack: fas
+  name: 报名表格
+  url: https://forms.gle/Gq2b8xfBGUtzmm55A
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
@@ -40,7 +54,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides:
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -51,7 +65,7 @@ projects:
 # - internal-project
 
 # Enable math on this page?
-math: true
+math: false
 
 
 # {{% alert note %}}
@@ -66,5 +80,5 @@ math: true
 
 # Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
 ---
-
-{{< slide src="https://drive.google.com/file/d/1bMOTlhwMgaUamNhObb33nvO_-VMMQp0T/view?usp=sharing">}}
+{{< gallery >}}
+{{< youtube wxTPPKPrN4U >}}
