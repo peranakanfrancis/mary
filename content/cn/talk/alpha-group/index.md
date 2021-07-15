@@ -14,8 +14,8 @@ abstract: "大家好！启发聚会2.0 开始接受报名啦！
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-09-19"
-#date_end: ""
+date: "2021-09-19T20:30:00+08:00"
+date_end: "2021-11-10T22:30:00+08:00"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -34,11 +34,15 @@ image:
 links:
 - icon: youtube
   icon_pack: fab
-  name: 视频
+  name: 视频介绍
   url: https://youtu.be/YcxuPOMJtAY
+- icon: cross
+  icon_pack: fas
+  name: 神父推荐
+  url: https://youtu.be/wxTPPKPrN4U
 - icon: smile-beam
   icon_pack: fas
-  name: 见证
+  name:  学员见证
   url: https://youtu.be/Zc6h7sRRQWk
 - icon: file-download
   icon_pack: fas
@@ -81,4 +85,3 @@ math: false
 # Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
 ---
 {{< gallery >}}
-{{< youtube wxTPPKPrN4U >}}
