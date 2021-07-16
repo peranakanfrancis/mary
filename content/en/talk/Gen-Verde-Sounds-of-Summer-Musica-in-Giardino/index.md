@@ -1,19 +1,23 @@
 ---
-title: Synthesizing Qualitative Data
-event: academia Theme Conference
-event_url: https://example.org
-location: London, United Kingdom
-summary: An example talk using academia's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+title: Gen Verde - Sounds of Summer - Musica in Giardino
+event: "🎶 New arrangements 🎶
+ 🪕 Instruments from many countries around the world
+Music 🎼  Life✨ and Rhythm!💃🏼"
+event_url: https://youtu.be/YGlqoJxT1jw
+location: Gen Verde Youtube Channel
+summary: "🎶 New arrangements 🎶
+ 🪕 Instruments from many countries around the world
+Music 🎼  Life✨ and Rhythm!💃"
+abstract: "From Christina Wang who has joined the Focolare as a Missionary in Rome. She is a youth together with her Sister who is also a Focolare Missionary in India. They are from Permating Tinggi in Penang. Can share with other youth. We are proud of two twin sisters who are full time lay missionaries in Italy and Rome. Christina is in Music Ministry based in Italy and her sister Catherine Wang is in India. Share with youth of our Diocese. - ***Bishop Sebastian***."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: ""
+date: "2021-09-19T03:00:00+08:00"
 date_end: ""
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2021-07-16T00:00:00+08:00"
 
 authors: []
 tags: []
@@ -22,15 +26,19 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption:
+  focal_point: Smart
 
 links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
-url_code: ""
+- icon: youtube
+  icon_pack: fab
+  name: Subscribe
+  url: https://www.youtube.com/channel/UCuSTi05GBlACXtCu4zEY7FQ
+- icon: clock
+  icon_pack: far
+  name: Set Reminder
+  url: "https://www.youtube.com/watch?v=YGlqoJxT1jw"
+url_code:
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -51,7 +59,7 @@ projects:
 # - internal-project
 
 # Enable math on this page?
-math: true
+math: false
 
 
 # {{% alert note %}}
@@ -67,4 +75,4 @@ math: true
 # Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
 ---
 
-{{< slide src="https://drive.google.com/file/d/1bMOTlhwMgaUamNhObb33nvO_-VMMQp0T/view?usp=sharing">}}
+{{< youtube "YGlqoJxT1jw" >}}

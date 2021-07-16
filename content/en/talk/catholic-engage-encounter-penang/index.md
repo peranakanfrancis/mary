@@ -79,5 +79,3 @@ links:
 2. Application forms can also be obtained from our Parish office or directly download [here](form/ee/CEERegistrationForm_20191212.doc).
 
 3. For registration, please contact the registration couple **Nicholas-Christine** [017-5959790](tel:+60175959790); for general inquiries, please contact the coordinating couple **Bart-Angie** [017-5900978](+60175900978).
-
-{{< figure src="/img/talk/catholic-engage-encounter-penang.jpg" >}}
