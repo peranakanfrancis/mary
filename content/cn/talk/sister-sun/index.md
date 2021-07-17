@@ -1,26 +1,22 @@
 ---
-title: Gen Verde - Sounds of Summer - Musica in Giardino
-event: "🎶 New arrangements 🎶
- 🪕 Instruments from many countries around the world
-Music 🎼  Life✨ and Rhythm!💃🏼"
-event_url: https://youtu.be/YGlqoJxT1jw
-location: Gen Verde Youtube Channel
-summary: "🎶 New arrangements 🎶
- 🪕 Instruments from many countries around the world
-Music 🎼  Life✨ and Rhythm!💃"
-abstract: "From Christina Wang who has joined the Focolare as a Missionary in Rome. She is a youth together with her Sister who is also a Focolare Missionary in India. They are from Permating Tinggi in Penang. Can share with other youth. We are proud of two twin sisters who are full time lay missionaries in Italy and Rome. Christina is in Music Ministry based in Italy and her sister Catherine Wang is in India."
+title: "《耶稣空中治愈》奇迹显明! 等你来领受 （孙修女）"
+event: "天主教直播 Catholics Go Live"
+event_url: https://fb.me/e/12MLEUQqo
+location: Youtube
+summary: "耶稣基督是我们的良医，祂不止能治愈身体上的病痛，祂更能全方位的给你身心灵医治！在这期间我们面临种种生活中的挑战，恐惧；让我们来到这位主的脚前伸手触摸祂的衣角，求祂的治愈！"
+abstract: "耶稣基督是我们的良医，祂不止能治愈身体上的病痛，祂更能全方位的给你身心灵医治！在这期间我们面临种种生活中的挑战，恐惧；让我们来到这位主的脚前伸手触摸祂的衣角，求祂的治愈！"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-09-19T03:00:00+08:00"
-date_end: ""
+date: "2021-07-24T20:00:00+08:00"
+#date_end: "2021-07-11T18:15:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-07-16T00:00:00+08:00"
+publishDate: "2021-07-17T00:00:00+08:00"
 
-authors: ["Gen Verde"]
-tags: ["Concert"]
+authors: ["天主教直播 Catholics Go Live"]
+tags: ["孙修女", "天主教直播 Catholics Go Live"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -32,13 +28,13 @@ image:
 links:
 - icon: youtube
   icon_pack: fab
-  name: Subscribe
-  url: https://www.youtube.com/channel/UCuSTi05GBlACXtCu4zEY7FQ
+  name: 订阅频道
+  url: "https://www.youtube.com/channel/UC-onuqfsbRaHmUw2uSKUXGw"
 - icon: clock
   icon_pack: far
-  name: Set Reminder
-  url: "https://www.youtube.com/watch?v=YGlqoJxT1jw"
-url_code:
+  name: 设定闹钟
+  url: "https://www.youtube.com/watch?v=nJbZQLhEyPI"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -74,5 +70,4 @@ math: false
 
 # Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
 ---
-
-{{< youtube "YGlqoJxT1jw" >}}
+{{< youtube nJbZQLhEyPI >}}
