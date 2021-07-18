@@ -22,5 +22,5 @@ image:
 
 *注：***你可以把银行收据发送到教堂办公室佩佩的 [WhatsApp](https://wa.link/90dpw4)。***
 
-{{< figure src="/img/project/donation/caritas-zh.png" >}}
+{{< figure src="/img/project/donation/caritas-zh.jpeg" >}}
 {{< gallery >}}
