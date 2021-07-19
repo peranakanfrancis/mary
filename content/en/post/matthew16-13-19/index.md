@@ -6,7 +6,7 @@ authors:
 - admin
 tags: ["Reflection", "Matthew"]
 categories: [Bible verse]
-date: "2021-06-29T00:00:00Z"
+date: "2021-06-29T00:00:00+08:00"
 featured: false
 draft: false
 
@@ -58,8 +58,6 @@ projects: []
 ### Gospel
 > When Jesus came to the region of Caesarea Philippi, he asked his disciples, “Who do people say the Son of Man is?” They replied, “Some say John the Baptist; others say Elijah; and still others, Jeremiah or one of the prophets.” “But what about you?” he asked. “Who do you say I am?” Simon Peter answered, “You are the Messiah, the Son of the living God.” Jesus replied, “Blessed are you, Simon son of Jonah, for this was not revealed to you by flesh and blood, but by my Father in heaven. And I tell you that you are Peter, and on this rock I will build my church, and the gates of Hades will not overcome it. I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.”
 
-{{< youtube tbsa86CysJw >}}
-
 ### Reflection
 Why honor Saints Peter and Paul with a Solemnity? Because the most important accomplishment of Jesus Christ in His mission on earth is the CHURCH! The Church is the Sacrament and Instrument of SALVATION for all mankind.   Scripture teaches that the Church is built on the foundation of the Apostles and Prophets. (Cf Ephesians 2: 20). Peter and Paul are joint managing directors of the institution, which is called the Church.
 
@@ -74,3 +72,5 @@ Peter and Paul were called to be friends and companions of Jesus before anything
 
 Peter and Paul are the ones who, living in the flesh, planted the Church with their blood;
 they drank the chalice of the Lord and became the friends of God.
+
+{{< youtube tbsa86CysJw >}}
