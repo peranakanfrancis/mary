@@ -1,5 +1,5 @@
 ---
-title: 耶稣圣心公所，大发园
+title: 上主慈悲公所，大发园
 summary:
 tags:
 - Chapel

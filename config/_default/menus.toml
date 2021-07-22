@@ -31,12 +31,13 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 50
 
 [[main]]
   name = "Sacraments"
   url = "sacraments"
   hasChildren = true
+  weight = 60
 
 [[main]]
   parent = "Sacraments"
@@ -74,9 +75,10 @@
   url = "sacraments/holy-orders"
 
 #[[main]]
-#  parent = "dropdown"
-#  name = "dropdown 2"
-#  url = "#!"
+#  parent = "Rental"
+#  name = "Hall"
+#  url = "project/church-hall-rental"
+#  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
