@@ -1,12 +1,12 @@
 ---
 title: 教堂礼堂租借
-summary: 圣玛丽大厅租赁政策。
+summary: 圣玛利亚礼堂及用具租金表格。
 tags:
 - 出租
 date: "2021-05-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://drive.google.com/file/d/15VK-Dqb0xlrxOm4ChzhcoGx3pd26Pzwr/view?usp=sharing"
 
 image:
   caption:
@@ -25,108 +25,94 @@ image:
 5. 批先到先得。 如果发生日期错误，将以教堂办公室的判断为准。
 
 6. 礼堂预定表格必须向教堂办公室管理员提交：
-  - 活动开始前 60 天以上的预订在收到定金、支付租赁合同总额的二分之一并签署租赁协议时视为确认。
-  - 在活动开始前 60 天之内进行的预订在支付租赁合同总额并签署租赁协议时被视为已确认。
 
-7. 使用设施的每个团体将在其使用期间承担该设施的责任时间按照本文件的要求和发布在
-设施。
+7. 赞助该活动的个人/组织应对每位在场客人的行为负责。 如果您的客人造成任何损坏或违规行为将导致您被收取维修费或赔偿。
 
-8. Individual/Organization Responsibility for Guests - The Individual/Organization sponsoring the event is responsible for the actions of each guest present. Any damage or violation as a result of your guests will result in Individual/Organization being billed for repair and/or penalized from future use of the Parish Hall.
+8. 教友不得以特别待遇租用教堂大礼堂用于工作/公司活动。
 
-9. Parishioners are not permitted to rent the parish hall for work/company functions at the
-“parishioner rates”.
+9. 私人或组织的活动必须提供您自己的，包括所有的一次性茶水杯、餐巾纸、纸盘子等。
 
-10. Private or organizational functions must furnish your own supplies, including but not
-limited to all paper goods and supplies: coffee, tea, napkins, plates, etc.
+10. 不包括视听设备。 但是，使用礼堂内的音响系统将被包含在协议中。 欲使用必须在活动开始的一个礼拜前向教堂办公室提出申请并获得批准。
 
-11. Audio/Visual Equipment: Parish Audio/Visual equipment is not included in the room
-rental agreements. However, use of the sound system integrated into the Parish Hall
-will be considered to be included in the Hall agreement. Notice of intention to use the
-sound system and/or parish audio/visual equipment must be given to the parish seven
-days prior to the function and approved by the Parish office.
+11. 教堂整个范围是禁烟区的。 任何地方都禁止吸烟。
 
-12. The entire building is Smoke Free. There is no smoking anywhere in the building.
+12. 礼堂的最大容量为四百人（40个大圆桌座位）。
 
-13. Capacity: The maximum capacity of Pollard Hall shall be four hundred people (400 - auditorium style seating).
+### 使用厨房
+1. 如果允许使用厨房设备，请确保将其用具放回原位，并按照教堂办公室清理要求中的指示进行清洁。
 
-### KITCHEN USE
-1. If permission is given to use the kitchen equipment, please see that it is returned to its proper place, clean and dry as explained in the Parish Hall Clean up requirements.
-
-2. lights, exhaust fans, stoves, should be turned off, bathrooms should be checked for running water, lights, etc.
+2. 应关闭电灯、电风扇、炉灶，检查浴室是否有关闭自来水、灯等。
 
 ### CLEAN UP AND DAMAGES
-1. The renter is responsible for any and all damages, messes, and condition of the hall and should be present at all times, especially to inspect the condition of the hall upon completion.
-2. Rental rates do not include clean up. Renters are responsible for the condition of the hall including: garbage removal, sweeping and mopping of the floor, returning tables and chairs to original places, wiping tables off, etc. All clean-up.
+1. 租户应对礼堂的损坏、混乱和状况负责，并且应时刻在场，尤其是在活动结束后后检查礼堂。
 
-3. Deposit and rental fees are due when this policy is signed and turned into the parish office. Viewing the hall and finding out about locking up the church can be arranged about a week before the event.
+2. 租户需负责：清理垃圾、清扫拖地、将桌椅归位、擦桌子等，全部打扫干净。
+
+3. 一旦签署圣玛利亚礼堂及用具租金表格，应向教堂办公室支付押金和租金。 可以在活动前一周左右安排参观礼堂并了解相关的信息。
 
 ### RENTAL FEES FOR THE PARISH HALL
-**Checks should be made out to: Church of Holy Name of Mary**
-
+**支票抬头请写: Church of Holy Name of Mary**
 
 {{< table table_class="table table-hover" thead_class="table-info" >}}
 
 | Particular     | Price (RM)    |
 | :------------- | :-------------|
-| Hall Event | 1300.00 |
-| Refundable Deposit | 400.00 |
-| An additional charges for electricity & water (if cooking is done at hall area) | 50.00 |
-| An additional charges for outdoor electricity & cleaning services | 100.00 |
-| Every cooler brought in to be charged per unit |
-| **Small** | 100.00 |
-| **Big** | 250.00 |
+| 礼堂租金 | 1300.00 |
+| 抵押金 | 400.00 |
+| 额外收费 ：如在本礼堂范围（厨房）烹飪  ：水电费 | 50.00 |
+| 额外收费 ：礼堂外另搭铁棚内的电费及清洁费 | 100.00 |
+| 额外收费 ：每台冷风机电费 |
+| **小台** | 100.00 |
+| **大台** | 250.00 |
 | | |
-| Deposit of Appliance Rental | 500.00 |
-| Big round table with stools per set | 9.00 |
-| Big round table with chairs per set | 13.00 |
-| Big round table per unit | 5.00 |
-| Square table per unit | 3.00 |
-| Chair per unit | 0.80 |
-| Stool per unit | 0.40 |
-| Cushion Chair | 3.00 |
-| Dispose banana tree | 50.00 |
-| Changing room air-cond.Charges (Two rooms) | 50.00 |
-| Extend hour（per hours） | 100.00 |
+| 用具租赁抵押金 | 500.00 |
+| 大圆桌配凳椅一套 | 9.00 |
+| 大圆桌配靠背椅一套 | 13.00 |
+| 大圆桌 | 5.00 |
+| 四方桌 | 3.00 |
+| 靠背椅 | 0.80 |
+| 凳椅 | 0.40 |
+| 古申椅 | 3.00 |
+| 移除香蕉树 | 50.00 |
+| 换衣间空调费 (两房) | 50.00 |
+| 延时（每小时） | 100.00 |
 
 {{< /table >}}
 
-The party responsible for all decoration works is required to pay RM200 as deposit before commencing
-any works: A charge of RM20 on each nail hole is imposed if no prior approval is obtained from the hall
-keeper. The hall keeper will be available on site on that day to monitor and inspect the site. If there is no damage or repair work required, the deposit of RM200 will be refunded in full. Download the rental form [here](../../../files/hall-rental.pdf)
+**另注 :**
+负责的布置公司必须先缴付 RM 200.00抵押金予礼堂负责人；若是在不被允许下钉铁钉，一根铁钉将收取 RM20.00；当天礼堂负责人将会全程在场，场地是否有损坏，由礼堂负责人检视，如果没有任何损坏，RM 200.00 抵押金将可全数拿回。[（下载）](../../../files/hall-rental.pdf)圣玛利亚礼堂及用具租金表格				
 
-### PARISH HALL CLEAN UP REQUIREMENTS
-The Individual/Organization who is renting the facility is responsible for the following clean up procedures. Failure to comply with requirements will result in forfeiture of security deposit and possibly a charge for clean up and / or refusal if the use the parish hall in the future.
+### 礼堂清洁
+租用设施的个人/组织需负责以下清理程序。 违例者将导致没收押金，并可能被征收清理费用或被拒绝将来使用礼堂的申请。
 
-General Rules:
-- All trash put in the dumpster. This includes trash from trash cans located in restroom areas used during the event. The dumpster is located outside behind Hall.
+规则：
+1. 所有垃圾都扔进垃圾箱。 这包括活动期间使用的洗手间区域垃圾桶中的垃圾。 垃圾箱位于礼堂的后面。
 
-- Any Dishes and cooking utensils that were used must be washed, dried and left neatly on counter.
+2. 任何使用过的餐具都必须清洗、擦干并整齐地放在厨具上。
 
-- Sinks must be cleaned.
+3. 水槽必须清洗。
 
-- Any Kitchen appliances and equipment that was used should be cleaned.
+4. 任何使用过的厨房用具和设备都应清洁。
 
-- Wipe down all counters and work surfaces.
+5. 擦拭所有椅子和桌子台面。
 
-- All decorations and props used must be removed immediately. The parish is not responsible for decorations, etc. left after the function.
+6. 所有使用过的装饰品和道具必须立即拆除。 教堂不负责活动后留下的装饰品等。
 
-- All tables and chairs should be folded and moved against the walls, unless instructed otherwise.
+7. 除非另有说明，否则所有桌椅都应折叠并移到墙边。
 
-- The kitchen floor should be swept and a damp mop used to clean any spots.
+8. 应清扫厨房地板，并使用湿拖把清洁任何地方。
 
-- Do not leave food in the refrigerator. Arrangements should be made prior to the event for any leftovers to be distributed. (Whether to Outreach or other organization)
+9. 除非有明确交代，否则留在礼堂的任何物品（无论是食物、餐具或装饰品）都将被处理掉。
 
-- Any item (whether it be food, dishes or decorations) left in the Parish Hall will be disposed of unless clearly marked.
+10. 礼堂供应室的库存（如餐巾、纸杯、纸盘等）仅供本教堂使用。您必须负责为其活动提供举办活动所需的物品。
 
-- The inventory in the Parish Hall supply room (such as napkins, coffee supplies, paper products, etc.) is for Parish sponsored functions only. Individual Events are responsible for supplying their event with the items necessary for hosting the event.
-
-- The Parish Hall should be left in satisfactory condition. Satisfactory condition means in the same condition in which it was found upon your entry.
+11. 礼堂应保持令人满意的状态。 令人满意的状况是指还原使用前的状态。
 
 ### GENERAL
-1. Church of The Holy Mary reserves the right to refuse to rent and/or usage of the Parish Hall to any person(s), group(s), or organization(s).
+1. 峇冬丁宜圣母圣名堂保留拒绝向任何个人、团体或组织出租或使用礼堂的权利。
 
-2. All fire and safety regulations must be strictly adhered to.
+2. 必须严格遵守所有消防和安全规定。
 
-3. I agree to and will abide by all items within the Pariah Hall Rental Policy.
+3. 我同意并将遵守礼堂租赁政策中的所有条规。
 
 {{< gallery >}}

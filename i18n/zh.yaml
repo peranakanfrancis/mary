@@ -101,7 +101,7 @@
 - id: pub_patent
   translation: 专利
 - id: open_project_site
-  translation: 访问项目网站
+  translation: 下载表格
 - id: posts
   translation: 文章
 - id: publications

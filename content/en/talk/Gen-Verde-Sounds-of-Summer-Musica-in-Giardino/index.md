@@ -12,7 +12,7 @@ abstract: "From Christina Wang who has joined the Focolare as a Missionary in Ro
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-09-19T03:00:00+08:00"
+date: "2021-07-19T03:00:00+08:00"
 date_end: ""
 all_day: false
 
