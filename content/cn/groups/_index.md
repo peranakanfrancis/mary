@@ -1,9 +1,9 @@
 ---
-title: Sacraments
+title:  本堂组织
 layout: docs  # Do not modify.
 
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: sacraments/background.jpg
+  image: groups/background.jpg
 ---
