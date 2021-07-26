@@ -21,7 +21,7 @@ weight: 3
 四月二十五日
 
 ### 地区小组执委
-1. 地区协调员: 巫春泉 James Boo Chuan Chua [04-5887172](te:045887172)                          
+1. 地区协调员: 巫春泉 James Boo Chuan Chua [04-5887172](tel:045887172)                          
 2. 区副协调员: 许秋娟 Khor Chew Kiang [012-4299188](tel:0124299188)
 3. 妇女代表: 赵金真 Gabriel Teoh Kim Chin [04-5887435](tel:045887435)
 4. 青年代表: 蔡春来 Peter Chuah Chun Lai [04-5887067](tel:045887067)  

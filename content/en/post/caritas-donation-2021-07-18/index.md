@@ -62,5 +62,6 @@ May God continue to bless us abundantly and we too generously share with one ano
 
 Praise and thanksgiving to our Lord for His guidance and thank to Father Louis on his  leadership, where brothers and sisters in Christ joining together in unity to serve the Lord under Caritas. During this period, we worked as a team joyfully to pack and distribute the  food to the needy, it brought us so much joy seeing their smiling face when they received  the goods. May all this be glory to you, our Lord!
 
-{{< canva-en >}}
 {{< gallery >}}
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fchruchofholynameofmary%2Fvideos%2F3912194798884871%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
