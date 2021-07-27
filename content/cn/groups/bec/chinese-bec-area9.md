@@ -8,10 +8,10 @@ draft: false
 menu:
   bec:
     parent: '堂区(华人)地区基信团'
-    weight: 10
+    weight: 12
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 10
+weight: 12
 ---
 
 ### 主保
