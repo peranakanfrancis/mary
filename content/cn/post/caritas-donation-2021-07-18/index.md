@@ -1,5 +1,5 @@
 ---
-title: '扶助贫苦，感恩有您'
+title: '还有一些贫困家庭急需大家的物资援助。'
 subtitle: '感谢大家不断的在金钱及物资的支持，让我们Caritas可以分发这些资源给有需要的人。 :gift_heart:'
 summary: '感谢大家不断的在金钱及物资的支持，让我们Caritas可以分发这些资源给有需要的人。 :gift_heart:'
 authors:
@@ -7,7 +7,7 @@ authors:
 tags: ["Caritas", "捐助"]
 categories: ["Caritas"]
 date: "2021-07-18T07:00:00+08:00"
-lastmod: "2021-07-18T07:00:00+08:00"
+lastmod: "2021-07-29T00:00:00+08:00"
 featured: true
 draft: false
 
@@ -53,6 +53,7 @@ projects: ["donation"]
 #  caption: Strawberry
 #  image: theme-strawberry.png
 ---
+{{< figure src="/img/project/donation/1.png" >}}
 
 感谢大家不断的在金钱及物资的支持，让我们Caritas可以分发这些资源给有需要的人。 Caritas一直致力收集有需要人士的信息，接受各种捐赠，采购和包装，并分发给因受疫情严重影响的家庭及个人。他们是我们的最小弟兄姐妹在经济上成了贫困的，以至三歺温饱都成了问题，他们来自不同背景，种族及宗教。
 

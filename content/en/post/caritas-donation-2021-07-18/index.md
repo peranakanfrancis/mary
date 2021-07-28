@@ -1,5 +1,5 @@
 ---
-title: 'Thanks for your Helping Hand'
+title: 'Urgently needed for the poor families.'
 subtitle: 'We are so grateful for such an outpouring of support we received in money and in kind to distribute to those in need during this pandemic :gift_heart:.'
 summary: 'We are so grateful for such an outpouring of support we received in money and in kind to distribute to those in need during this pandemic :gift_heart:.'
 authors:
@@ -7,7 +7,7 @@ authors:
 tags: ["Caritas", "Donation"]
 categories: ["Caritas"]
 date: "2021-07-18T07:00:00+08:00"
-lastmod: "2021-07-18T07:00:00+08:00"
+lastmod: "2021-07-29T00:00:00+08:00"
 featured: true
 draft: false
 
@@ -53,6 +53,7 @@ projects: ["donation"]
 #  caption: Strawberry
 #  image: theme-strawberry.png
 ---
+{{< figure src="/img/project/donation/2.png" >}}
 
 We are so grateful for such an outpouring of support we received in money and in kind to distribute to those in need during this pandemic. Caritas has worked on collecting information of the needy, receiving various kind of donations, purchasing and packing of goods and distributing to the family and individual greatly impacted by the pandemic. They are our little brothers and sisters whom are facing financial difficulty to get lives going, they are from all works of life, various races and religions.
 
@@ -63,5 +64,3 @@ May God continue to bless us abundantly and we too generously share with one ano
 Praise and thanksgiving to our Lord for His guidance and thank to Father Louis on his  leadership, where brothers and sisters in Christ joining together in unity to serve the Lord under Caritas. During this period, we worked as a team joyfully to pack and distribute the  food to the needy, it brought us so much joy seeing their smiling face when they received  the goods. May all this be glory to you, our Lord!
 
 {{< gallery >}}
-
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fchruchofholynameofmary%2Fvideos%2F3912194798884871%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
