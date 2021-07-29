@@ -8,9 +8,9 @@ abstract: '"12岁的萨拉·霍普金斯是家里最虔诚的一员。在一次�
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-07-29T00:00:00+08:00"
-#date_end: ""
-all_day: false
+date: "2021-08-30T00:00:00+08:00"
+#date_end: "2021-08-29T00:00:00+08:00"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-07-29T00:00:00+08:00"
@@ -25,11 +25,11 @@ image:
   caption:
   focal_point: Smart
 
-#links:
-#- icon: youtube
-#  icon_pack: fab
-#  name: Subscribe
-#  url: https://www.youtube.com/channel/UCuSTi05GBlACXtCu4zEY7FQ
+links:
+- icon: download
+  icon_pack: fas
+  name: 下载
+  url: https://ffyoutube.com/watch?v=OTuG_bSuLYM
 #- icon: clock
 #  icon_pack: far
 #  name: Set Reminder
@@ -70,3 +70,4 @@ math: false
 
 # Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
 ---
+{{< youtube aH6b6P18D34 >}}
