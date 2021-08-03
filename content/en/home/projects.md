@@ -38,12 +38,13 @@ subtitle = ""
     tag = "Prayers"
 
   [[content.filter_button]]
-    name = "Saints"
-    tag = "Saints"
+    name = "TV & Movies"
+    tag = "Video"
 
   [[content.filter_button]]
     name = "Donation"
     tag = "Donation"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

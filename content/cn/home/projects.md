@@ -38,8 +38,8 @@ subtitle = ""
     tag = "祈祷"
 
   [[content.filter_button]]
-    name = "圣人"
-    tag = "圣人"
+    name = "电视电影"
+    tag = "视频"
 
   [[content.filter_button]]
     name = "乐捐"
