@@ -91,3 +91,8 @@
   parent = "组织"
   name = "基信组"
   url = "groups/bec"
+
+  [[zh.menu.main]]
+    parent = "组织"
+    name = "神恩复兴小组"
+    url = "groups/charismatic-prayer-group"
