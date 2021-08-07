@@ -25,7 +25,7 @@ time_format ="3:04 PM"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1Y46O3tydlUQMAakfR--aEz-HVcsHFIeG/view?usp=sharing"
   date_start = "2021-08-08"
-  date_end = "2021-08-015"
+  date_end = "2021-08-15"
   description = "19th sunday of ordinary time"
 
 [[item]]
