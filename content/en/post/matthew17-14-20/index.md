@@ -77,4 +77,4 @@ Later his disciples came to Jesus and asked him why they had been unable to cast
 
 Today is a good day for us to examine our faith. How strong is our faith and belief in Jesus? Do we trust that if we have faith that we will be able to move mountains? Or is our faith weak? Today I invite you to take 10-20 minutes and examine your level of faith in God, Jesus and the Spirit. If our faith is strong, then we will be strong. If our faith is weak, most likely we will have great difficulty in life. And if our faith is weak, may we ask Jesus to help us strengthen our trust in him!
 
-{{< youtube 2TvGScZxwos >}
+{{< youtube 2TvGScZxwos >}}
