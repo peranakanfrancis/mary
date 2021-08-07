@@ -21,7 +21,27 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "**New Bulletin** August 1, 2021"
+  title = "**New Bulletin** August 8, 2021"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1Y46O3tydlUQMAakfR--aEz-HVcsHFIeG/view?usp=sharing"
+  date_start = "2021-08-08"
+  date_end = "2021-08-015"
+  description = "19th sunday of ordinary time"
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "**New ___Tamil___ Bulletin** August 8, 2021"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1cD9VgxHBvbWViuQ1vqrMPegpO9YdT3Rz/view?usp=sharing"
+  date_start = "2021-08-08"
+  date_end = "2021-08-15"
+  description = "19th sunday of ordinary time"
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "~~Archive Bulletin~~ August 1, 2021"
   url = ""
   certificate_url = "https://drive.google.com/file/d/15RdJfHjfaQaCXu5o-vtQZMrPdeSJJzxz/view?usp=sharing"
   date_start = "2021-08-01"
@@ -31,33 +51,13 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "**New ___Tamil___ Bulletin** August 1, 2021"
+  title = "~~Archive ___Tamil___ Bulletin~~ August 1, 2021"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1A0Y9aU1r_FdFASgof0osd5ftEtkbnGlM/view?usp=sharing"
   date_start = "2021-08-01"
   date_end = "2021-08-08"
   description = "18th sunday of ordinary time"
 
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "~~Archive ___Tamil___ Bulletin~~ July 25, 2021"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/1dyh1nzh_m_GBFsu07NZHTKPQcC-YM2Bf/view?usp=sharing"
-  date_start = "2021-07-25"
-  date_end = "2021-08-01"
-  description = "17th sunday of ordinary time"
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "~~Archive Bulletin~~ July 25, 2021"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/13K9Y0gTSYXja_M2d9e_-wX6tQScNET6A/view?usp=sharing"
-  date_start = "2021-07-25"
-  date_end = "2021-08-01"
-  description = "17th sunday of ordinary time"
 
 
 # [[item]]
