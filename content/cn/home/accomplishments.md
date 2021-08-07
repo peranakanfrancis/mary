@@ -22,23 +22,22 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "**最新堂讯** 2021年8月1日"
+  title = "**最新堂讯** 2021年8月8日"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1Y46O3tydlUQMAakfR--aEz-HVcsHFIeG/view?usp=sharing"
+  date_start = "2021-08-08"
+  date_end = "2021-08-15"
+  description = "常年期第十九主日"
+  
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "~~过期堂讯~~ 2021年8月1日"
   url = ""
   certificate_url = "https://drive.google.com/file/d/15RdJfHjfaQaCXu5o-vtQZMrPdeSJJzxz/view?usp=sharing"
   date_start = "2021-08-01"
   date_end = "2021-08-08"
   description = "常年期第十八主日"
-
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "~~过期堂讯~~ 2021年7月25日"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/1dyh1nzh_m_GBFsu07NZHTKPQcC-YM2Bf/view?usp=sharing"
-  date_start = "2021-07-25"
-  date_end = "2021-08-01"
-  description = "常年期第十七主日"
 
 
 #[[item]]
