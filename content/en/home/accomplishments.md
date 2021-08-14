@@ -21,7 +21,27 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "**New Bulletin** August 8, 2021"
+  title = "**New Bulletin** August 15, 2021"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1_SBnSOWEPGqJAenTl60Hy8dpST5hOOAQ/view?usp=sharing"
+  date_start = "2021-08-15"
+  date_end = "2021-08-22"
+  description = "The Assumption of Blessed Virgin Mary"
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "**New ___Tamil___ Bulletin** August 15, 2021"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1dCpj2VtCdcZQ4ouRckgP9RfQ5kfd8Ycj/view?usp=sharing"
+  date_start = "2021-08-15"
+  date_end = "2021-08-22"
+  description = "The Assumption of Blessed Virgin Mary"
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "~~Archive Bulletin~~ August 8, 2021"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1Y46O3tydlUQMAakfR--aEz-HVcsHFIeG/view?usp=sharing"
   date_start = "2021-08-08"
@@ -31,32 +51,12 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "**New ___Tamil___ Bulletin** August 8, 2021"
+  title = "~~Archive ___Tamil___ Bulletin~~ August 8, 2021"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1cD9VgxHBvbWViuQ1vqrMPegpO9YdT3Rz/view?usp=sharing"
   date_start = "2021-08-08"
   date_end = "2021-08-15"
   description = "19th sunday of ordinary time"
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "~~Archive Bulletin~~ August 1, 2021"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/15RdJfHjfaQaCXu5o-vtQZMrPdeSJJzxz/view?usp=sharing"
-  date_start = "2021-08-01"
-  date_end = "2021-08-08"
-  description = "18th sunday of ordinary time"
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "~~Archive ___Tamil___ Bulletin~~ August 1, 2021"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/1A0Y9aU1r_FdFASgof0osd5ftEtkbnGlM/view?usp=sharing"
-  date_start = "2021-08-01"
-  date_end = "2021-08-08"
-  description = "18th sunday of ordinary time"
 
 
 
