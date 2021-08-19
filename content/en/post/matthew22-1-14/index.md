@@ -94,4 +94,4 @@ Jesus has invited each of us to his “wedding feast.” He extends this invitat
 
 Each and every day Jesus invites us to his “wedding feast.” It is our choice and our decision to attend or to refuse his invitation. How will you respond to Jesus’ invitation today? Be awake and alert: It may come in an unusual manner or through an individual you may not expect. Jesus will grace us through this encounter!
 
-{{< youtube  >}}
+{{< youtube rWsC08aTTaA >}}
