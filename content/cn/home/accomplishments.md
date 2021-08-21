@@ -22,22 +22,22 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "**最新堂讯** 2021年8月15日"
+  title = "**最新堂讯** 2021年8月22日"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/13FtxNmHuKVHjVkfgJ9GvT5pHvsQagAZf/view?usp=sharing"
+  date_start = "2021-08-22"
+  date_end = "2021-08-29"
+  description = "常年期廿二主日"
+  
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "~~过期堂讯~~ 2021年8月15日"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1_SBnSOWEPGqJAenTl60Hy8dpST5hOOAQ/view?usp=sharing"
   date_start = "2021-08-15"
   date_end = "2021-08-22"
   description = "圣母蒙召升天节"
-  
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "~~过期堂讯~~ 2021年8月8日"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/1Y46O3tydlUQMAakfR--aEz-HVcsHFIeG/view?usp=sharing"
-  date_start = "2021-08-08"
-  date_end = "2021-08-15"
-  description = "常年期第十九主日"
 
 
 #[[item]]
