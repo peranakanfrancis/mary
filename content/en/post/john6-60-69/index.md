@@ -1,12 +1,12 @@
 ---
-title: 'John:6:41-51'
-subtitle: 'Today I invite you to be awake and alert. Jesus, our “bread from heaven,” may appear to us in strange or unusual ways. Or he may appear to us in the daily: disguised in a friend, an unexpected helping hand or in the quiet of the morning. Keep your eyes, ears, mind and heart open and alert. Don’t want to miss him! What a loss that would be!'
-summary: 'Today I invite you to be awake and alert. Jesus, our “bread from heaven,” may appear to us in strange or unusual ways. Or he may appear to us in the daily: disguised in a friend, an unexpected helping hand or in the quiet of the morning. Keep your eyes, ears, mind and heart open and alert. Don’t want to miss him! What a loss that would be!'
+title: 'John:6:60-69'
+subtitle: 'We all have doubts in Jesus at times.  Often these are the times we distance ourselves from Jesus.  Yet these are the times when we need to approach Him and talk with Him.  We may question Him or perhaps simply sit in His presence and allow Him to wrap us in love and light.  We are the ones who leave Him.  Jesus will never, ever leave us! '
+summary: 'We all have doubts in Jesus at times.  Often these are the times we distance ourselves from Jesus.  Yet these are the times when we need to approach Him and talk with Him.  We may question Him or perhaps simply sit in His presence and allow Him to wrap us in love and light.  We are the ones who leave Him.  Jesus will never, ever leave us! '
 authors:
 - admin
 tags: ["Reflection", "John"]
 categories: [Bible verse]
-date: "2021-08-08T00:00:00+08:00"
+date: "2021-08-22T00:00:00+08:00"
 featured: false
 draft: false
 
