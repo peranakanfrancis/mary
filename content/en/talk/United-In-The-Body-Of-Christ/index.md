@@ -3,7 +3,7 @@ title: United In The Body Of Christ
 event: "Exposition of blessed sacrament , adoration, healing prayer and followed by Eucharist"
 event_url: https://youtu.be/--10bMg7lg8
 location: Youtube Live
-summary: "Exposition of blessed sacrament , adoration, healing prayer and followed by Eucharist"
+summary: "Exposition of blessed sacrament , adoration, healing prayer and followed by Eucharist :latin_cross:"
 abstract: "Inviting All prayer group members of Penang Diocese. Let us come together as one body of Christ to pray for our Nation. ALLELUIA!"
 
 # Talk start and end times.
