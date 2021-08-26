@@ -19,25 +19,26 @@ time_format ="3:04 PM"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
 [[item]]
   organization = ""
   organization_url = ""
-  title = "**最新堂讯** 2021年8月22日"
+  title = "**最新堂讯** 2021年8月29日"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/13FtxNmHuKVHjVkfgJ9GvT5pHvsQagAZf/view?usp=sharing"
-  date_start = "2021-08-22"
-  date_end = "2021-08-29"
+  certificate_url = "https://drive.google.com/file/d/1CYFjLXWOqvWysyHuvZRO_Q3RfbVP1t1h/view?usp=sharing"
+  date_start = "2021-08-29"
+  date_end = "2021-09-05"
   description = "常年期廿二主日"
   
 [[item]]
   organization = ""
   organization_url = ""
-  title = "~~过期堂讯~~ 2021年8月15日"
+  title = "~~过期堂讯~~ 2021年8月22日"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/1_SBnSOWEPGqJAenTl60Hy8dpST5hOOAQ/view?usp=sharing"
-  date_start = "2021-08-15"
-  date_end = "2021-08-22"
-  description = "圣母蒙召升天节"
+  certificate_url = "https://drive.google.com/file/d/13FtxNmHuKVHjVkfgJ9GvT5pHvsQagAZf/view?usp=sharing"
+  date_start = "2021-08-22"
+  date_end = "2021-08-29"
+  description = "常年期二十一主日"
 
 
 #[[item]]
