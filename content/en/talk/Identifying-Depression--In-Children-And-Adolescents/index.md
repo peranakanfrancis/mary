@@ -66,3 +66,4 @@ math: false
 
 # Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
 ---
+{{< figure src="/img/talk/Identifying-Depression--In-Children-And-Adolescents.jpeg" >}}
