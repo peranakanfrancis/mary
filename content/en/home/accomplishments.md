@@ -28,7 +28,17 @@ time_format ="3:04 PM"
   date_start = "2021-08-29"
   date_end = "2021-09-05"
   description = "22nd Sunday of Ordinary Time"
-  
+ 
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "**New ___Tamil___ Bulletin** August 29, 2021"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1mBe7icA-AQQLKivudCK4BAFyI2rZ28Nj/view?usp=sharing"
+  date_start = "2021-08-29"
+  date_end = "2021-09-05"
+  description = "22nd Sunday of Ordinary Time" 
+
 [[item]]
   organization = ""
   organization_url = ""
