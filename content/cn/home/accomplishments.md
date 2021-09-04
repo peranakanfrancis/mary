@@ -23,73 +23,21 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "**最新堂讯** 2021年8月29日"
+  title = "**最新堂讯** 2021年9月5日"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1YrZiIadDQUDhIqLOjpXhh7se_X5kpAKp/view?usp=sharing"
+  date_start = "2021-09-05"
+  date_end = "2021-09-12"
+  description = "常年期二十三主日"
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "~~过期堂讯~~ 2021年8月29日"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1CYFjLXWOqvWysyHuvZRO_Q3RfbVP1t1h/view?usp=sharing"
   date_start = "2021-08-29"
   date_end = "2021-09-05"
   description = "常年期廿二主日"
-  
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "~~过期堂讯~~ 2021年8月22日"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/13FtxNmHuKVHjVkfgJ9GvT5pHvsQagAZf/view?usp=sharing"
-  date_start = "2021-08-22"
-  date_end = "2021-08-29"
-  description = "常年期二十一主日"
-
-
-#[[item]]
-#  organization = "MJD Counselling Ministry"
-#  organization_url = "https://www.facebook.com/MJDCounsellingMinistry/"
-#  title = "Emotional Regulation - Managing Stress and Anxiety"
-#  url = "https://cutt.ly/Vnelj0J"
-#  certificate_url = "https://docs.google.com/forms/d/147MPcy-v84-jXKwwSoYszHQxwy5zL3NtPAuH4NpaH0I/viewform?edit_requested=true"
-#  date_start = "2021-06-06"
-#  date_end = ""
-#  description = "MJD Counselling Ministry invites you to a webinar on **Emotional Regulation - Managing Stress and Anxiety** with Dr Valerie Jaques& Rev Joseph Heng via Zoom."
-
-
-#  [[item]]
-#    organization = ""
-#    organization_url = ""
-#    title = "Weekly Bulletin (31/5/21 - 30/5/21) "
-#    url = ""
-#    certificate_url = "#"
-#    date_start = "2021-05-31"
-#    date_end = "2021-06-06"
-#    description = "May the precious blood of our Lord Jesus Christ protect us Corona Virus. Stay Safe and stay healthy."
-
-#  [[item]]
-#    organization = ""
-#    organization_url = ""
-#    title = "Weekly Bulletin (24-30 May 2021) "
-#    url = ""
-#    certificate_url = "#"
-#    date_start = "2021-05-24"
-#    date_end = "2021-05-30"
-#    description = "May the precious blood of our Lord Jesus Christ protect us Corona Virus. Stay Safe and stay healthy."
-
-# [[item]]
-#  organization = "DataCamp"
-#  organization_url = "https://www.datacamp.com"
-#  title = "Object-Oriented Programming in R: S3 and R6 Course"
-#  url = ""
-#  certificate_url = "https://www.datacamp.com"
-#  date_start = "2017-07-01"
-#  date_end = "2017-12-21"
-#  description = ""
-
-#[[item]]
-#  organization = "RDX"
-#  organization_url = "https://www.rdx.com"
-#  title = "Object-Oriented Programming in R: S3 and R6 Course"
-#  url = ""
-#  certificate_url = "https://www.datacamp.com"
-#  date_start = "2017-07-01"
-#  date_end = "2017-12-21"
-#  description = ""
 
 +++
