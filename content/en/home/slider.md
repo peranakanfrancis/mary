@@ -42,7 +42,7 @@ height = ""
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     overlay_color = "#666"  # An HTML color value.
-    overlay_img = "stmarypt4.jpeg"  # Image path relative to your `static/img/` folder.
+    overlay_img = "stmarypt3.jpeg"  # Image path relative to your `static/img/` folder.
     overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
     # Call to action button (optional).
@@ -63,6 +63,19 @@ height = ""
   cta_icon_pack = "fas"
   cta_icon = "rss-square"
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "Herald.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "stmarypt2.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = "Memo from Rev. Fr. Augustine Wong"
+  content = "23 Sunday in Ordinary Time 5.9.21 :  Mk. 7:31-37"
+  cta_label = "Read now"
+  align = "right"
+  cta_url = "https://drive.google.com/file/d/1gKfDQm7wSah5eK1fJYaQbgkiNdFoXl0U/view?usp=sharing"
+  cta_icon_pack = "fas"
+  cta_icon = "pen"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "stmarypt1.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
 +++
