@@ -58,7 +58,7 @@ projects: []
 ### Gospel
 > 33 And they said to him, "The disciples of John fast often and offer prayers, and the disciples of the Pharisees do the same; but yours eat and drink."
 
-> 34 fast while the bridegroom is with them?
+> 34 Jesus answered them, “Can you make the wedding guests fast while the bridegroom is with them?
 
 > 35 But the days will come, and when the bridegroom is taken away from them, then they will fast in those days."
 
