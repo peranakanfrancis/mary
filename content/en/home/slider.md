@@ -37,7 +37,7 @@ height = ""
 
   [[item]]
     title = "மரியாளின் தூய பெயர் திருவிழா நவநாள்..."
-    content = "September 9 - 11, 8.30PM. நாம் ஒன்றாக பிரார்த்தனை செய்வோம் :pray:"
+    content = "செப்டம்பர் 9-11, இரவு மணி 8.30க்கு, நாம் அனைவரும் ஒன்றாக இறை வேண்டல் செய்வோம்.் :pray:"
 
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
