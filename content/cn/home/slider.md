@@ -7,7 +7,7 @@ weight = 1  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 4000
+interval = 3000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
@@ -48,10 +48,10 @@ height = ""
 
 [[item]]
   title = "黄柄隆神父的备忘录"
-  content = "常年期第二十三主日（5/9/2021）谷7:31-37"
+  content = "8/9/21星期三, 圣母圣诞"
   cta_label = "阅读灵修日记"
   align = "right"
-  cta_url = "https://drive.google.com/file/d/1gKfDQm7wSah5eK1fJYaQbgkiNdFoXl0U/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1tPsRYnbrkf5xm-iEs0yWsq8tz5ARuGaW/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "pen"
   overlay_color = "#555"  # An HTML color value.
