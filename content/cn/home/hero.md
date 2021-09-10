@@ -38,7 +38,7 @@ hero_media = "home/banner.png"
   label = "登记弥撒"
 
 [btn_alt]
-  url = "https://forms.gle/xGTmDZbM7bU5CcfWA"
+  url = "https://forms.gle/ut65PmfD8aNbBmYL7"
   label = "奉献弥撒"
 
 +++
