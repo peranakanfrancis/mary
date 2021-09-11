@@ -81,4 +81,4 @@ Today’s Gospel is an invitation to us from Jesus. He invites us to closely exa
 
 Today and every day: Be mindful! Be alert! Erosion typically begins in small and imperceptible ways. If we don’t regularly monitor our inner foundation, one day we may wake up and find ourselves with a terrible inner flood, or that we have been washed downstream!
 
-{{< youtube  >}}
+{{< youtube N4Va3DPyvAc >}}
