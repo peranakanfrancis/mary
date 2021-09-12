@@ -71,7 +71,7 @@ contact_links = [
   {icon = "facebook-f", icon_pack = "fab", name = "Facebook Group", link = "https://www.facebook.com/groups/226337511747"},
   {icon = "facebook-messenger", icon_pack = "fab", name = "Facebook Page", link = "https://www.facebook.com/messages/t/210084349040246"},
   {icon = "google", icon_pack = "fab", name = "Google Maps", link = "https://goo.gl/maps/KrdspqMCE5Ph75Qe7"},
-  # {icon = "whatsapp", icon_pack = "fab", name = "Send us WhatsApp", link = "https://wa.link/sfi0w8"},
+  {icon = "youtube", icon_pack = "fab", name = "Youtube Channel", link = "https://www.youtube.com/channel/UCjlGC8ZvBCTOYeNe98tDAnw"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
