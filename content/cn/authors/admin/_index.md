@@ -65,15 +65,15 @@ social:
 - icon: facebook-messenger
   icon_pack: fab
   link: hhttps://www.facebook.com/messages/t/210084349040246
+- icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/channel/UCjlGC8ZvBCTOYeNe98tDAnw
 - icon: google
-  icon_pack: fab
-  link: https://goo.gl/maps/KrdspqMCE5Ph75Qe7
+      icon_pack: fab
+      link: https://goo.gl/maps/KrdspqMCE5Ph75Qe7
 - icon: envelope-open-text
-  icon_pack: fas
-  link: mailto:hnmptt1928@hotmail.co.uk
-#- icon: whatsapp
-#  icon_pack: fab
-#  link: https://wa.link/sfi0w8
+      icon_pack: fas
+      link: mailto:hnmptt1928@hotmail.co.uk
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
