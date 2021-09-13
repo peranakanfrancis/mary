@@ -88,4 +88,4 @@ Jesus was amazed at the man’s deep faith.  He turned to the crowd and said: �
 
 Today ask yourself: do you have the centurion’s depth of faith in Jesus?  I suspect many of us do not.  It takes great trust and faith to believe that Jesus always hears our prayers…and answers our prayers.  However, the answer to our prayers may not be the exact answer we desired.  At times, the answer may be more than we had hoped for.  At other times, the answer may take time to come to us.  Yet, every minute of the day Jesus is at our side, helping us and gracing us; carrying us when we need to be carried.  The question for us may be: how deep is our trust in Jesus?   Today take time and reflect on that question!  Jesus does not fail us; however, it may take time for us to realize this.
 
-{{< youtube >}}
+{{< youtube wEFAn8MUkS8>}}
