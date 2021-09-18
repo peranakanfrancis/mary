@@ -19,24 +19,24 @@ time_format ="3:04 PM"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "**最新堂讯** 2021年9月19日"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1eTV4jg5nOF95MQfu5mCTokH2TdATUzwG/view?usp=sharing"
+  date_start = "2021-09-19"
+  date_end = "2021-09-26"
+  description = "常年期二十五主日"
+
 
 [[item]]
   organization = ""
   organization_url = ""
-  title = "**最新堂讯** 2021年9月12日"
+  title = "~~过期堂讯~~ 2021年9月12日"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1VfiH8GiHqgUsieqIl5xatnIboOi35_1M/view?usp=sharing"
   date_start = "2021-09-12"
   date_end = "2021-09-19"
   description = "常年期二十四主日"
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "~~过期堂讯~~ 2021年9月5日"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/1YrZiIadDQUDhIqLOjpXhh7se_X5kpAKp/view?usp=sharing"
-  date_start = "2021-09-05"
-  date_end = "2021-09-12"
-  description = "常年期二十三主日"
 +++
