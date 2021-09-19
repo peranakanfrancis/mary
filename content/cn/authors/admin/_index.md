@@ -14,7 +14,7 @@ btn:
 superuser: true
 
 # Role/position
-role: 教区教堂
+role: 天主教教堂
 
 # Organizations/Affiliations
 organizations:
