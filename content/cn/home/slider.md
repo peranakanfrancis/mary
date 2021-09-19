@@ -48,10 +48,10 @@ height = ""
 
 [[item]]
   title = "黄柄隆神父的备忘录"
-  content = "8/9/21星期三, 圣母圣诞"
+  content = "常年期第二十五主日：谷9:30-37"
   cta_label = "阅读灵修日记"
   align = "right"
-  cta_url = "https://drive.google.com/file/d/1tPsRYnbrkf5xm-iEs0yWsq8tz5ARuGaW/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1zYWtidNAbpJPMy-0MW-z2cpeJ-Ww4fVT/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "pen"
   overlay_color = "#555"  # An HTML color value.

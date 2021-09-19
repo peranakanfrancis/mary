@@ -68,10 +68,10 @@ height = ""
 
 [[item]]
   title = "Memo from Rev. Fr. Augustine Wong"
-  content = "Wednesday 8.9.21 The Birthday of the Blessed Virgin Mary"
+  content = "25th  Sunday in Ordinary Time  19.9.21 :  Mk. 9: 30-37"
   cta_label = "Read now"
   align = "right"
-  cta_url = "https://drive.google.com/file/d/1tPsRYnbrkf5xm-iEs0yWsq8tz5ARuGaW/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1zYWtidNAbpJPMy-0MW-z2cpeJ-Ww4fVT/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "pen"
   overlay_color = "#555"  # An HTML color value.
