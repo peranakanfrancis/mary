@@ -16,23 +16,23 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "圣母圣名堂主保三日敬礼"
-  content = "9月9日-11日，晚上8.30PM，我们一起来祈祷 :pray:"
+  title = "槟城天主教复活堂华文教务促进会灵修讲座 :desktop_computer:"
+  content = "周丽娜修女与大家空中有约"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "stmarypt3.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "sisterzhou.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "加入ZOOM"
-  cta_url = "https://us02web.zoom.us/j/89206544471?pwd=RWVKZW9IQ3hYNWplNkphb3F2WGZJUT09"
+  cta_url = "https://us02web.zoom.us/j/86815878676?pwd=RnpmaENyekVaWVZJUXZuRVNqTHdBQT09"
   cta_icon_pack = "fas"
   cta_icon = "video"
-  align  = "right"
+  align  = "center"
 
 [[item]]
   title = "先锋报"
