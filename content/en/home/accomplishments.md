@@ -43,7 +43,7 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = ~~Archive Bulletin~~ September 12, 2021"
+  title = "~~Archive Bulletin~~ September 12, 2021"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1VfiH8GiHqgUsieqIl5xatnIboOi35_1M/view?usp=sharing"
   date_start = "2021-09-12"
