@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Introduction To Spiritual Direction Conference (Mandarin) :desktop_computer:"
-  content = "together with Sr Theresa Chew"
+  content = "together with Sr Theresa Chew 8PM, 24.9.2021"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.

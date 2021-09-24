@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "槟城天主教复活堂华文教务促进会灵修讲座 :desktop_computer:"
-  content = "周丽娜修女与大家空中有约"
+  content = "周丽娜修女与大家空中有约 8PM, 24.9.2021"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
