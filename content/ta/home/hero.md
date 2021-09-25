@@ -18,6 +18,8 @@ text_color_light = false
 +++
 ### **வானதூதர் மரியாவுக்குத் தோன்றி, "அருள்மிகப் பெற்றவரே வாழ்க! ஆண்டவர் உம்மோடு இருக்கிறார்" என்றார்.  "லூக்கா 1:28**"
 
-Welcome to **Church of The Holy Name of Mary**. We are located short distance from Penang-Kuala Lumpur North-South Expressway in Permatang Tinggi.
+மரியாளின் தூய பெயர் தேவாலயத்திற்கு உங்களை அன்புடன் வரவேற்கினறோம்.
 
-Over 2000 families strong, our parish serves the small town in Central Seberang Perai District and the surrounding area. In addition to Daily Mass and the Sacraments, we offer all sacraments and outreach ministries.  Come explore who we are and what we have to offer to help you grow in holiness and your Catholic faith.
+நாங்கள் பினாங்கு-குவாலா லும்பூர் வடற்கு-தெற்கு நெடுச்சாலைக்கு அருகாமையில் உள்ள பெர்மாத்தாங் திங்கியில் அமைந்திருக்கின்றோம். 
+
+திடம் கொண்ட 2000 குடும்பங்களை கடந்து, எங்கள் பங்கு திருஅவை மத்திய செபெராங் பெராய்  மாவட்டத்தில் உள்ள சிறிய பட்டணத்திலும் அதன் சுற்று வட்டாரத்திலும் தன் சேவையை வழங்குகின்றது.  கூடுதலாக, தினசரி திருப்பலி மற்றும் அருடள் அடையாளத்தில், நாங்கள் அனைத்து அருள் அடையாளங்கள் மற்றும் தொலைதீர பணிகளையும் வழங்குகிறோம். உங்களின் கத்தோலிக்க நம்பிக்கையையும் நீங்கள் தூய்மையில் வளர்ந்திடவும் உங்களுக்காக நாங்கள் ஏற்பாடுச் செய்துள்ள விடயங்களை வந்துப் பாருங்கள்... 
