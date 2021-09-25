@@ -12,6 +12,12 @@
   languageCode = "zh-Hans"
   contentDir = "content/cn"
   title = "峇冬丁宜圣母圣名堂"
+
+[ta]
+  languageCode = "ta"
+  contentDir = "content/ta"
+  title =  "மரியாளின் தூய நாம தேவாலயம் பெர்மாத்தாங் திங்கி"
+
 [zh.params]
   description = "欢迎来到圣母圣名堂！ 我们的教堂坐落在巴冬丁宜，距离居林、爪义、武吉淡文南北大道不远。"
 
@@ -92,7 +98,7 @@
   name = "基信组"
   url = "groups/bec"
 
-  [[zh.menu.main]]
-    parent = "组织"
-    name = "神恩复兴小组"
-    url = "groups/charismatic-prayer-group"
+[[zh.menu.main]]
+  parent = "组织"
+  name = "神恩复兴小组"
+  url = "groups/charismatic-prayer-group"
