@@ -128,7 +128,7 @@
     url = "#contact"
     weight = 50
 
-[[zh.menu.main]]
+[[ta.menu.main]]
     name = "Sacraments"
     url = "sacraments"
     hasChildren = true
