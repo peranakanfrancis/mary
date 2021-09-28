@@ -8,15 +8,11 @@
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
+### Mandarin menu
 [zh]
   languageCode = "zh-Hans"
   contentDir = "content/cn"
   title = "峇冬丁宜圣母圣名堂"
-
-[ta]
-  languageCode = "ta"
-  contentDir = "content/ta"
-  title =  "மரியாளின் தூய நாம தேவாலயம"
 
 [zh.params]
   description = "欢迎来到圣母圣名堂！ 我们的教堂坐落在巴冬丁宜，距离居林、爪义、武吉淡文南北大道不远。"
@@ -103,84 +99,91 @@
   name = "神恩复兴小组"
   url = "groups/charismatic-prayer-group"
 
-[[ta.menu.main]]
-    name = "Main"
-    url = "#about"
-    weight = 10
+### Tamil menu
+[ta]
+  languageCode = "ta"
+  contentDir = "content/ta"
+  title =  "மரியாளின் தூய நாம தேவாலயம"
+
 
 [[ta.menu.main]]
-    name = "Posts"
-    url = "#posts"
-    weight = 20
+  name = "முகப்புப்பக்கம்"
+  url = "#about"
+  weight = 10
 
 [[ta.menu.main]]
-    name = "Featured Topics"
-    url = "#projects"
-    weight = 30
+  name = "பதிவுகள்"
+  url = "#posts"
+  weight = 20
 
 [[ta.menu.main]]
-    name = "About"
-    url = "#publications"
-    weight = 40
+  name = "அம்சங்கள்"
+  url = "#projects"
+  weight = 30
 
 [[ta.menu.main]]
-    name = "Contact"
-    url = "#contact"
-    weight = 50
+  name = "பற்றி"
+  url = "#publications"
+  weight = 40
 
 [[ta.menu.main]]
-    name = "Sacraments"
-    url = "sacraments"
-    hasChildren = true
-    weight = 60
+  name = "தொடர்பு"
+  url = "#contact"
+  weight = 50
 
 [[ta.menu.main]]
-    parent = "Sacraments"
-    name = "Baptism"
-    url = "sacraments/baptism"
+  name = "சடங்குகள்"
+  url = "sacraments"
+  hasChildren = true
+  weight = 60
 
 [[ta.menu.main]]
-    parent = "Sacraments"
-    name = "Communion"
-    url = "sacraments/communion"
+  parent = "சடங்குகள்"
+  name = "Baptism"
+  url = "sacraments/baptism"
 
 [[ta.menu.main]]
-    parent = "Sacraments"
-    name = "Confirmation"
-    url = "sacraments/confirmation"
+  parent = "சடங்குகள்"
+  name = "Communion"
+  url = "sacraments/communion"
 
 [[ta.menu.main]]
-    parent = "Sacraments"
-    name = "Matrimony"
-    url = "sacraments/matrimony"
+  parent = "சடங்குகள்"
+  name = "Confirmation"
+  url = "sacraments/confirmation"
 
 [[ta.menu.main]]
-    parent = "Sacraments"
-    name = "Reconciliation"
-    url = "sacraments/reconciliation"
+  parent = "சடங்குகள்"
+  name = "Matrimony"
+  url = "sacraments/matrimony"
 
 [[ta.menu.main]]
-    parent = "Sacraments"
-    name = "Anonitng"
-    url = "sacraments/anointing"
+  parent = "சடங்குகள்"
+  name = "Reconciliation"
+  url = "sacraments/reconciliation"
 
 [[ta.menu.main]]
-    parent = "Sacraments"
-    name = "Holy Orders"
-    url = "sacraments/holy-orders"
+  parent = "சடங்குகள்"
+  name = "Anonitng"
+  url = "sacraments/anointing"
 
 [[ta.menu.main]]
-    name = "Groups"
-    url = "groups"
-    hasChildren = true
-    weight = 70
+  parent = "சடங்குகள்"
+  name = "Holy Orders"
+  url = "sacraments/holy-orders"
 
 [[ta.menu.main]]
-    parent = "Groups"
-    name = "BEC"
-    url = "groups/bec"
+  name = "குழுக்கள்"
+  url = "groups"
+  hasChildren = true
+  weight = 70
 
 [[ta.menu.main]]
-    parent = "Groups"
-    name = "Charismatic Prayer Group"
-    url = "groups/charismatic-prayer-group"
+  parent = "குழுக்கள்"
+  name = "BEC"
+  url = "groups/bec"
+
+[[ta.menu.main]]
+  parent = "குழுக்கள்"
+  name = "Charismatic Prayer Group"
+  url = "groups/charismatic-prayer-group"
