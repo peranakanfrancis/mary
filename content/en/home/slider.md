@@ -29,12 +29,12 @@ height = ""
 
 [[item]]
   title = "Memo from Rev. Fr. Augustine Wong"
-  content = "26th Sunday in Ordinary Time 26.9.21 : Mk. 9: 38-48"
+  content = "October, the month of the Rosary"
   cta_label = "Read now"
   align = "right"
-  cta_url = "https://drive.google.com/file/d/1Q4lX5iVTQ23X3JK23qxBu9_aWa9aGGJY/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1HcTsicPX5uVJG99lsB8AEFlPtG8As0dD/view?usp=sharing"
   cta_icon_pack = "fas"
-  cta_icon = "pen"
+  cta_icon = "book-reader"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "stmarypt1.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.

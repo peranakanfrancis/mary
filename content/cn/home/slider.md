@@ -16,6 +16,19 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
+  title = "2021 青年启发(13 - 25 岁少年)"
+  content = "Zoom | 2021年10月 3日 到 12月 5日（星期日）| 下午2时30分 至 4时30分"
+  cta_label = "马上报名"
+  align = "left"
+  cta_url = "https://chatbot.page/JQmbS4"
+  cta_icon_pack = "fas"
+  cta_icon = "user-plus"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "alpha-youth.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+
+[[item]]
   title = "先锋报"
   content = "马来西亚天主教一份最具影响力的报纸"
   cta_label = "阅读电子报"
@@ -29,12 +42,12 @@ height = ""
 
 [[item]]
   title = "黄柄隆神父的备忘录"
-  content = "常年期第二十六主日谷 9:38-48"
+  content = "十月：玫瑰圣母月"
   cta_label = "阅读灵修日记"
   align = "right"
-  cta_url = "https://drive.google.com/file/d/1Q4lX5iVTQ23X3JK23qxBu9_aWa9aGGJY/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1HcTsicPX5uVJG99lsB8AEFlPtG8As0dD/view?usp=sharing"
   cta_icon_pack = "fas"
-  cta_icon = "pen"
+  cta_icon = "book-reader"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "stmarypt1.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.

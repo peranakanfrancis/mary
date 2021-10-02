@@ -39,7 +39,7 @@ height = ""
   content = "daily news source with Malaysian and Global coverage of the Catholic Churches."
   cta_label = "Read E-Newspaper"
   align = "right"
-  cta_url = "https://www.heraldmalaysia.com/home/epaper-english"
+  cta_url = "https://www.heraldmalaysia.com/home/epaper-tamil"
   cta_icon_pack = "fas"
   cta_icon = "rss-square"
   overlay_color = "#555"  # An HTML color value.
@@ -48,12 +48,12 @@ height = ""
 
 [[item]]
   title = "Memo from Rev. Fr. Augustine Wong"
-  content = "25th  Sunday in Ordinary Time  19.9.21 :  Mk. 9: 30-37"
+  content = "October, the month of the Rosary"
   cta_label = "Read now"
   align = "right"
-  cta_url = "https://drive.google.com/file/d/1zYWtidNAbpJPMy-0MW-z2cpeJ-Ww4fVT/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1HcTsicPX5uVJG99lsB8AEFlPtG8As0dD/view?usp=sharing"
   cta_icon_pack = "fas"
-  cta_icon = "pen"
+  cta_icon = "book-reader"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "stmarypt1.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
