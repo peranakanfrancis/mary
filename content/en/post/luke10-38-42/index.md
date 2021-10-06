@@ -1,7 +1,7 @@
 ---
 title: Luke 10:38-42
 subtitle: 'What takes priority in my life?  One way to answer this question might be to ask ourselves: How do I use my time?  Do I fritter it away?  Do I work 12 hours a day?  Do I spend quality time with the people I care about?  Do I make time for prayer?  Do I spend time with God, Jesus and the Holy Spirit?'
-summary:What takes priority in my life?  One way to answer this question might be to ask ourselves: How do I use my time?  Do I fritter it away?  Do I work 12 hours a day?  Do I spend quality time with the people I care about?  Do I make time for prayer?  Do I spend time with God, Jesus and the Holy Spirit?'
+summary: 'What takes priority in my life?  One way to answer this question might be to ask ourselves: How do I use my time?  Do I fritter it away?  Do I work 12 hours a day?  Do I spend quality time with the people I care about?  Do I make time for prayer?  Do I spend time with God, Jesus and the Holy Spirit?'
 authors:
 - admin
 tags: ["Reflection", "Luke"]
