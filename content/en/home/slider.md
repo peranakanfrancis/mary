@@ -18,7 +18,7 @@ height = ""
 [[item]]
   title = "Herald Malaysia"
   content = "daily news source with Malaysian and Global coverage of the Catholic Churches."
-  cta_label = "Read E-Newspaper"
+  cta_label = "Read now"
   align = "right"
   cta_url = "https://www.heraldmalaysia.com/home/epaper-english"
   cta_icon_pack = "fas"
@@ -29,10 +29,10 @@ height = ""
 
 [[item]]
   title = "Memo from Rev. Fr. Augustine Wong"
-  content = "October, the month of the Rosary"
+  content = "Thursday 7.10.21 Feast of Our Lady of the Rosary"
   cta_label = "Read now"
   align = "right"
-  cta_url = "https://drive.google.com/file/d/1HcTsicPX5uVJG99lsB8AEFlPtG8As0dD/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1QB61N9uzXk7VLM20VV2E5gOFJgQ7mEAI/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "book-reader"
   overlay_color = "#555"  # An HTML color value.

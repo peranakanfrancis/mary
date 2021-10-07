@@ -31,7 +31,7 @@ height = ""
 [[item]]
   title = "先锋报"
   content = "马来西亚天主教一份最具影响力的报纸"
-  cta_label = "阅读电子报"
+  cta_label = "马上索取"
   align = "right"
   cta_url = "https://www.heraldmalaysia.com/home/epaper-chinese"
   cta_icon_pack = "fas"
@@ -42,10 +42,10 @@ height = ""
 
 [[item]]
   title = "黄柄隆神父的备忘录"
-  content = "十月：玫瑰圣母月"
-  cta_label = "阅读灵修日记"
+  content = "7/10/2021 星期四 玫瑰圣母瞻礼"
+  cta_label = "马上阅读"
   align = "right"
-  cta_url = "https://drive.google.com/file/d/1HcTsicPX5uVJG99lsB8AEFlPtG8As0dD/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1QB61N9uzXk7VLM20VV2E5gOFJgQ7mEAI/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "book-reader"
   overlay_color = "#555"  # An HTML color value.
