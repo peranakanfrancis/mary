@@ -16,10 +16,22 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
+  title = "October Mission in Action Calender"
+  content = "flavour of the gospel."
+  cta_label = "View now"
+  align = "center"
+  cta_url = "https://drive.google.com/file/d/1SYy6HPsfIxqY0NemYDLcqxxUZfeRjtoq/view?usp=sharing"
+  cta_icon_pack = "fas"
+  cta_icon = "print"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "mothermary.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "Herald Malaysia"
   content = "daily news source with Malaysian and Global coverage of the Catholic Churches."
   cta_label = "இப்போது படிக்கவும்"
-  align = "right"
+  align = "center"
   cta_url = "https://www.heraldmalaysia.com/home/epaper-tamil"
   cta_icon_pack = "fas"
   cta_icon = "rss-square"
@@ -31,7 +43,7 @@ height = ""
   title = "Memo from அருட்பணி.அகஃத்தின் வோங்"
   content = "நமது செபமாலை அன்னையின் திருவிழா"
   cta_label = "இப்போது படிக்கவும்"
-  align = "right"
+  align = "center"
   cta_url = "https://drive.google.com/file/d/1QB61N9uzXk7VLM20VV2E5gOFJgQ7mEAI/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "book-reader"

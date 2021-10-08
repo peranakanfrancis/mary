@@ -1,7 +1,7 @@
 ---
 title: Luke 11:5-13
 subtitle: 'Jesus talks about this scenario but then moves into a passage that is very familiar: “Ask and you will receive, seek and you will find, knock and the door will be opened.” Ask yourself: do you take Jesus’s words literally?'
-summary: 'Jesus talks about this scenario but then moves into a passage that is very familiar: “Ask and you will receive, seek and you will find, knock and the door will be opened.” Ask yourself: do you take Jesus’s words literally?s'
+summary: 'Jesus talks about this scenario but then moves into a passage that is very familiar: “Ask and you will receive, seek and you will find, knock and the door will be opened.” Ask yourself: do you take Jesus’s words literally?'
 authors:
 - admin
 tags: ["Reflection", "Luke"]
