@@ -22,7 +22,17 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "**New Bulletin** October 3, 2021"
+  title = "**New Bulletin** October 10, 2021"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1_2_6aCC_t6NjuXU-11gNU6_OPg0_QZMU/view?usp=sharing"
+  date_start = "2021-10-10"
+  date_end = "2021-10-17"
+  description = "28th Sunday of Ordinary Time"
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "~~Archive Bulletin~~ October 3, 2021"
   url = ""
   certificate_url = "https://drive.google.com/file/d/16-Ortreb_TTYMq9h4I0oHhZqyCKrgvcl/view?usp=sharing"
   date_start = "2021-10-03"
@@ -32,31 +42,10 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "**New ___Tamil___ Bulletin** October 3, 2021"
+  title = "~~Archive ___Tamil___ Bulletin~~ October 3, 2021"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1pumrf2-Lxb1VfIo-22M1oprqcQhN6VBi/view?usp=sharing"
   date_start = "2021-10-03"
   date_end = "2021-10-10"
   description = "27th Sunday of Ordinary Time"
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "~~Archive Bulletin~~ September 26, 2021"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/1CFp461cy90Oo5d9CzuByqT-c3F3MznxZ/view?usp=sharing"
-  date_start = "2021-09-26"
-  date_end = "2021-10-03"
-  description = "26th Sunday of Ordinary Time"
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "~~Archive ___Tamil___ Bulletin~~ September 26, 2021"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/1CFp461cy90Oo5d9CzuByqT-c3F3MznxZ/view?usp=sharing"
-  date_start = "2021-09-26"
-  date_end = "2021-10-03"
-  description = "26th Sunday of Ordinary Time"
-
 +++
