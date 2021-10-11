@@ -32,6 +32,16 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
+  title = "**New ___Tamil___ Bulletin** October 10, 2021"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1lCzqkKJ02ZlSu0_PnxWcamwvtNKSYUQ8/view?usp=sharing"
+  date_start = "2021-10-10"
+  date_end = "2021-10-17"
+  description = "28th Sunday of Ordinary Time"
+
+[[item]]
+  organization = ""
+  organization_url = ""
   title = "~~Archive Bulletin~~ October 3, 2021"
   url = ""
   certificate_url = "https://drive.google.com/file/d/16-Ortreb_TTYMq9h4I0oHhZqyCKrgvcl/view?usp=sharing"
