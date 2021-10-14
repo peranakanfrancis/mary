@@ -6,7 +6,7 @@ authors:
 - admin
 tags: ["Reflection", "Luke"]
 categories: [Bible verse]
-date: "2021-10-12T00:00:00+08:00"
+date: "2021-10-13T00:00:00+08:00"
 featured: false
 draft: false
 
