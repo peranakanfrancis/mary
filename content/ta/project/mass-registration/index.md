@@ -13,7 +13,7 @@ image:
   caption:
   focal_point: Smart
 ---
-### Pre-registration link (Please choose as below )
+### இயங்கலை முன் பதிவு
 - 23/10/2021 6PM Saturday Evening Mass (English) - [Register here](https://docs.google.com/forms/d/e/1FAIpQLSc6ASxGfFS7SkDkqvP1OrldBxXGYgJqIkq7XTsQlzSO6MBkcg/viewform?usp=sf_link)
 
 - 24/10/2021 830AM Sunday Morning Mass (Mandarin) - [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdBgD8NrsAJIalmIx7gvgIVZl-x-qfNuvum5JnndRwbE8Zfvw/viewform?usp=sf_link)
@@ -22,13 +22,11 @@ image:
 
 
 ### Notes
-1. Open to **FULLY VACCINATED** persons (i.e. 14 days after 2nd dose 2-dose vaccine). Present MySejahtera digital cert / original vaccination card at the registration counter before the Mass.
+1. தடுப்பூசி 💉பெற்றவராக இருக்க வேண்டும்.(14நாள் பின் 2-ஆவது தடுப்பூசி பெற்றவர்-2 தடுப்பூசி பெற்று முடித்தவர்.My Sejahtera எண் முறை சான்றிதழ்/அசல் தடுப்பூசி பெற்ற விவர அட்டையை திருப்பலி பதிவின் முன் காண்பித்தால் அவசியம்.
+2. நிலையான இயக்க செயல்முறை, முதல் பதிவு செய்பவர் முதலிடம் பெறுவர்!
+3. பதிவின் இறுதிநாள்: வியாழன் 5மாலை அல்லது இருக்கை முழுமைபெற்றால்.எதாவது விவரம் அறிய புலனம் வாயிலாக  [012-446 5642](https://wa.link/c01294) வெள்ளி  5மாலைக்கு  முன் அனுப்பவும்.
 
-2. In compliance with the SOP, first come first register!  
-
-3. Closing for pre-registration: Thursday 5pm or capacity full.  Any enquiries, please WhatsApp to [014-5373838](https://wa.link/c01294) before 5pm on Friday.
-
-4. Please arrive in church at least 30 minutes before mass begins.
+4. 30நிமிடத்திற்கு முன்னதாகவே தேவாலயத்திற்கு வந்தடையவும்.
 
 ### Prayer Request
 If you have a prayer request, please submit to us [here](../prayer-request).
