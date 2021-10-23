@@ -53,10 +53,10 @@ height = ""
 
 [[item]]
   title = "Memo from Rev. Fr. Augustine Wong"
-  content = "Thursday 7.10.21 Feast of Our Lady of the Rosary"
+  content = "Mission Sunday"
   cta_label = "Read now"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1QB61N9uzXk7VLM20VV2E5gOFJgQ7mEAI/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1HEQgNUMn5nHf8V7CK9B0rXZmpMXbxI2s/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "book-reader"
   overlay_color = "#555"  # An HTML color value.

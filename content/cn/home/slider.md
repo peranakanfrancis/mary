@@ -65,10 +65,10 @@ height = ""
 
 [[item]]
   title = "黄柄隆神父的备忘录"
-  content = "7/10/2021 星期四 玫瑰圣母瞻礼"
+  content = "传教主日"
   cta_label = "马上阅读"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1QB61N9uzXk7VLM20VV2E5gOFJgQ7mEAI/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1HEQgNUMn5nHf8V7CK9B0rXZmpMXbxI2s/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "book-reader"
   overlay_color = "#555"  # An HTML color value.
