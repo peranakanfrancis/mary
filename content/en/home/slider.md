@@ -28,7 +28,7 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "October Mission in Action Calender"
+  title = "October Mission in Action Calendar"
   content = "flavour of the gospel."
   cta_label = "View now"
   align = "center"

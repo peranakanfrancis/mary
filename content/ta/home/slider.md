@@ -16,9 +16,9 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "October Mission in Action Calender"
-  content = "flavour of the gospel."
-  cta_label = "View now"
+  title = "செயல்பாட்டு நாட்காட்டியின் அக்தோபர் மறைபரப்பு"
+  content = "நற்செய்தின் சாரம்"
+  cta_label = "இப்பொழுது காணவும்"
   align = "center"
   cta_url = "https://drive.google.com/file/d/1SYy6HPsfIxqY0NemYDLcqxxUZfeRjtoq/view?usp=sharing"
   cta_icon_pack = "fas"
@@ -28,8 +28,8 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Herald Malaysia"
-  content = "daily news source with Malaysian and Global coverage of the Catholic Churches."
+  title = "மலேசியா - இறை தூதன்"
+  content = "மலேசிய மற்றும் அகில உலக கத்தோலிக்க திரு அவைகளின் தினசரி செய்தி தொகுப்பும் கண்ணோட்டமும்"
   cta_label = "இப்போது படிக்கவும்"
   align = "center"
   cta_url = "https://www.heraldmalaysia.com/home/epaper-tamil"
