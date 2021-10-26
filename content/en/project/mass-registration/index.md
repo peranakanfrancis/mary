@@ -14,12 +14,13 @@ image:
   focal_point: Smart
 ---
 ### Pre-registration link (Please choose as below )
-- 23/10/2021 6PM Saturday Evening Mass (English) - [Register here](https://docs.google.com/forms/d/e/1FAIpQLSc6ASxGfFS7SkDkqvP1OrldBxXGYgJqIkq7XTsQlzSO6MBkcg/viewform?usp=sf_link)
+- 30/10/2021 6PM Saturday Evening Mass (English) - [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdyVY8L-1ac62fJYhL2EOTXuvCe0xaR5RN32fqqyDboPEHtmg/viewform?usp=sf_link)
 
-- 24/10/2021 830AM Sunday Morning Mass (Mandarin) - [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdBgD8NrsAJIalmIx7gvgIVZl-x-qfNuvum5JnndRwbE8Zfvw/viewform?usp=sf_link)
+- 31/10/2021 830AM Sunday Mandarin Mass - [Register here](https://docs.google.com/forms/d/e/1FAIpQLSe_vQrp9iKj58O4clG4N7vutITx0Pec4sqLPKrvRUX7FAiVuQ/viewform?usp=sf_link)
 
-- 24/10/2021 1030AM Sunday Tamil Mass - [Register here](https://docs.google.com/forms/d/e/1FAIpQLScBFqIhEKIkcdT8RINdjP9e1Lg88Xs48qGCDSkDdGfwSC1XRA/viewform?usp=sf_link)
+- 31/10/2021 1030AM Sunday Tamil Mass - [Register here](https://docs.google.com/forms/d/e/1FAIpQLSf8I35ZRn6ZDoWorW36p2S9KHUHdwqWJV5fQIL0Kfg86k810Q/viewform?usp=sf_link)
 
+- 1/11/2021 2030PM Monday All Saints Day Mass (Multilingual) - [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdaKd2PHfmnGVXn2nzRIiuz7sdWwjguED_zMxz-2jYin7wQKQ/viewform?usp=sf_link)
 
 ### Notes
 1. Open to **FULLY VACCINATED** persons (i.e. 14 days after 2nd dose 2-dose vaccine). Present MySejahtera digital cert / original vaccination card at the registration counter before the Mass.
