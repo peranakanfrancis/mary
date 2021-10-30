@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Bulletin"
-subtitle = "Stay connected with your faith through reflection, prayer, good news."
+subtitle = "Get updated to our church events."
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -22,41 +22,20 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "**New Bulletin** September 19, 2021"
+  title = "**New ___Tamil___ Bulletin** October 31, 2021"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/1eTV4jg5nOF95MQfu5mCTokH2TdATUzwG/view?usp=sharing"
-  date_start = "2021-09-19"
-  date_end = "2021-09-26"
-  description = "25th Sunday of Ordinary Time"
+  certificate_url = "https://drive.google.com/file/d/1P1rjiW4-39cGMQut7a3R8eM7F2S9AFaZ/view?usp=sharing"
+  date_start = "2021-10-31"
+  date_end = "2021-11-07"
+  description = "31st Sunday of Ordinary Time"
 
 [[item]]
   organization = ""
   organization_url = ""
-  title = "**New ___Tamil___ Bulletin** September 19, 2021"
+  title = "~~Archive ___Tamil___ Bulletin~~ October 24, 2021"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/1RtKnao18CSkkpFLO4nC71osFuSTuAioa/view?usp=sharing"
-  date_start = "2021-09-19"
-  date_end = "2021-09-26"
-  description = "25th Sunday of Ordinary Time"
-
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "~~Archive Bulletin~~ September 12, 2021"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/1VfiH8GiHqgUsieqIl5xatnIboOi35_1M/view?usp=sharing"
-  date_start = "2021-09-12"
-  date_end = "2021-09-19"
-  description = "24th Sunday of Ordinary Time"
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "~~Archive ___Tamil___ Bulletin~~ September 12, 2021"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/1qywbwRuUlFzTwNZ6WNtTrXb_4bfZ7Xcf/view?usp=sharing"
-  date_start = "2021-09-12"
-  date_end = "2021-09-19"
-  description = "24th Sunday of Ordinary Time"
+  certificate_url = "https://drive.google.com/file/d/1My45aomvkoScA1oixXZFOgYyWwc-zMsv/view?usp=sharing"
+  date_start = "2021-10-24"
+  date_end = "2021-10-31"
+  description = "30th Sunday of Ordinary Time"
 +++

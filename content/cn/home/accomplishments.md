@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "堂讯"
-subtitle = "通过反思，祈祷和好消息与您的信仰保持联系。"
+subtitle = "随时得知教堂的活动"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -22,20 +22,20 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "**最新堂讯** 2021年10月24日"
+  title = "**最新堂讯** 2021年10月31日"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/1UrLfr3NqMds_pe8Yvn_SWvjC2nAAU8WI/view?usp=sharing"
-  date_start = "2021-10-24"
-  date_end = "2021-10-31"
+  certificate_url = "https://drive.google.com/file/d/1qd4eecvUpafKenTYHzq42l8K7yWaB-qz/view?usp=sharing"
+  date_start = "2021-10-31"
+  date_end = "2021-11-07"
   description = "常年期三十一主日"
 
 [[item]]
   organization = ""
   organization_url = ""
-  title = "~~过期堂讯~~ 2021年10月17日"
+  title = "~~过期堂讯~~ 2021年10月24日"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/115tzdn2N3jr4tYVtmccmd33PSzXVCreG/view?usp=sharing"
-  date_start = "2021-10-17"
-  date_end = "2021-10-24"
+  certificate_url = "https://drive.google.com/file/d/1UrLfr3NqMds_pe8Yvn_SWvjC2nAAU8WI/view?usp=sharing"
+  date_start = "2021-10-24"
+  date_end = "2021-10-31"
   description = "常年期三十主日"
 +++

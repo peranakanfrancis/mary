@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 66  # Order that this section will appear.
 
-title = "我们的教友"
-subtitle = "你是伯多祿（磐石），在這磐石上，我要建立我的教會。-【玛窦福音16:18】"
+title = "我们的相册"
+subtitle = "时常出席与我们的基督徒教友一起见面吧。"
 +++
 {{< gallery >}}

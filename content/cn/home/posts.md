@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "最近帖子"
-subtitle = "我们的日常生活充满了故事！ 天主如何利用您生活中的事件来教您和您周围的人来认识祂，以及祂是如何的召叫您也成为祂的门徒呢？"
+subtitle = "通过每日圣言反省，祈祷和好消息与主保持联系。"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

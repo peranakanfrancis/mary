@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Church Events"
-subtitle = ""
+subtitle = "We should all join in together as brother and sister in Christ."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

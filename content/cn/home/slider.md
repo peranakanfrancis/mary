@@ -64,11 +64,11 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "黄柄隆神父的备忘录"
-  content = "传教主日"
-  cta_label = "马上阅读"
+  title = "黄柄隆神父的灵修专栏"
+  content = "补充您生命的灵粮"
+  cta_label = "马上阅览"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1HEQgNUMn5nHf8V7CK9B0rXZmpMXbxI2s/view?usp=sharing"
+  cta_url = "/zh/project/spiritual-column"
   cta_icon_pack = "fas"
   cta_icon = "book-reader"
   overlay_color = "#555"  # An HTML color value.

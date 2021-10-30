@@ -27,9 +27,9 @@ tags:
 - 历史
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: 黄神父的灵修专栏
+  url: /zh/project/spiritual-column
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: ''
 # url_dataset: ''

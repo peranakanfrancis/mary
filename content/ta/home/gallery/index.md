@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 66  # Order that this section will appear.
 
 title = "Gallery"
-subtitle = "YOU ARE PETER, AND UPON THIS ROCK I WILL BUILD MY CHURCH. [MATTHEW 16:18]"
+subtitle = "Meet with our Christian brothers and sisters regularly."
 +++
 
 {{< gallery >}}

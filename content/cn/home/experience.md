@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "教区司铎, 修士及修女"
-subtitle = "因为被召的人多，被选的人少。**- 【马窦22：14】**"
+title = "神职人员"
+subtitle = "在本堂服务的神父及修女"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -54,6 +54,10 @@ date_format = "May 2006"
   description = """
   圣婴会的愿望是通过根据每个国家的需要不断发展的各种部委，让人们认识和喜爱耶稣基督。 他们的特点是与最需要帮助的人联系。 目前，圣婴会修女的工作包括儿童和青年事工； 移民人口及其子女的教育； 与囚犯及其家人合作； 教导有语言和听力障碍的儿童； 为残疾儿童和青少年提供服务。
   """
-
-
+[[experience]]
+  title = "黄柄隆神父"
+  company = "退休神父"
+  date_start = "2011-01-01"
+  date_end = "2021-03-25"
+  description = ""
 +++

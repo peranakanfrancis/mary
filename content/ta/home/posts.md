@@ -8,9 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Recent Posts"
-subtitle = """
-Our everyday lives are full of stories! How is God using the events of your life to teach you and those around you about who he is and how he is calling you to holiness?
-"""
+subtitle = "Stay connected with your faith through reflection, prayer, good news."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

@@ -27,9 +27,9 @@ tags:
 - History
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: "Fr Augustine Wong's Spiritual Column"
+  url: "/en/project/spiritual-column"
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: ''
 # url_dataset: ''

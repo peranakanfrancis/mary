@@ -52,11 +52,11 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Memo from Rev. Fr. Augustine Wong"
-  content = "Mission Sunday"
+  title = "Fr Augustine's Spiritual Column"
+  content = "The spiritual food to replenish your life"
   cta_label = "Read now"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1HEQgNUMn5nHf8V7CK9B0rXZmpMXbxI2s/view?usp=sharing"
+  cta_url = "/en/project/spiritual-column"
   cta_icon_pack = "fas"
   cta_icon = "book-reader"
   overlay_color = "#555"  # An HTML color value.
