@@ -14,7 +14,7 @@ image:
 ---
 作为一位已经为教会服务多年的神父，目前已享有退休生活，但是黄神父仍然以文字传福音，通过这个灵修专栏，把圣言传到教徒的心里面。以下是每个教会主要节日的灵粮以及反省。
 
-
+- [常年期第三十二主日 谷12:41-44](https://drive.google.com/file/d/1f97EiBb0Vibg6F5Abet6YllznNd-z-jM/view?usp=sharing)
 - [追思已亡节，星期二 2/11/2021](https://drive.google.com/file/d/15ndpq330rIyvgb2_rpjvSU3jjo3txK5f/view?usp=sharing)
 - [诸圣占礼，星期一 1/11/2021](https://drive.google.com/file/d/1rMmQVRG1Fqm7KEf9u_JKNvqnBWrG7yP3/view?usp=sharing)
 - [常年期第三十一主日 谷12:28-34](https://drive.google.com/file/d/1bmTzBthF0UJnIU0AXXCj9bVLCr84PiZC/view?usp=sharing)

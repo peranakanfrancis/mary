@@ -42,9 +42,9 @@ height = ""
 [[item]]
   title = "Fr Augustine's Spiritual Column"
   content = "The spiritual food to replenish your life"
-  cta_label = "Read now"
-  align = "மறைபரப்பு ஞாயிற்"
-  cta_url = "/en/project/spiritual-column"
+  cta_label = "மறைபரப்பு ஞாயிற"
+  align = "center"
+  cta_url = "/ta/project/spiritual-column"
   cta_icon_pack = "fas"
   cta_icon = "book-reader"
   overlay_color = "#555"  # An HTML color value.
