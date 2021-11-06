@@ -1,5 +1,5 @@
 ---
-title: Luke 14:25-33
+title: Luke 16:1-8
 subtitle: 'Some of the individuals that I have met who “color outside the lines” often are happier, freer and more peaceful.  Today I invite you in one small way to “color outside the lines.”  Then notice: How did that feel?  Often in our lives, we may be living as if we were in a straight-jacket.  And we may not even recognize that we are wearing a straight-jacket.  Today take an hour and remove your “straight-jacket.”  Enjoy the freedom!  Play!  Dance!  Be happy! '
 summary: 'Some of the individuals that I have met who “color outside the lines” often are happier, freer and more peaceful.  Today I invite you in one small way to “color outside the lines.”  Then notice: How did that feel?  Often in our lives, we may be living as if we were in a straight-jacket.  And we may not even recognize that we are wearing a straight-jacket.  Today take an hour and remove your “straight-jacket.”  Enjoy the freedom!  Play!  Dance!  Be happy! '
 authors:
