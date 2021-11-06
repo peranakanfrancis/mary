@@ -7,7 +7,7 @@ weight = 10
 widget = "hero"
 [btn]
 label = "பிரார்த்தனை கோரிக்கை"
-url = "../en/project/prayer-request"
+url = "/ta/project/prayer-request"
 [btn_alt]
 label = "திருப்பலி ஒப்புக் கொடுத்தல்"
 url = "https://forms.gle/ut65PmfD8aNbBmYL7"
