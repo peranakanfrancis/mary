@@ -2,8 +2,6 @@
 title: Mass Registration
 summary: It's a compulsory to pre-register yourself to attend for mass at church at the moment.
 tags:
-- Mass
-- Form
 date: "2021-10-17T00:00:00+08:00"
 
 # Optional external URL for project (replaces project detail page).

@@ -22,40 +22,20 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "**New Bulletin** October 31, 2021"
+  title = "**New Bulletin** November 07, 2021"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/139ZcwPaJZG_7XFbNSned5gtqJ2-uljRl/view?usp=sharing"
+  date_start = "2021-11-07"
+  date_end = "2021-11-14"
+  description = "32nd Sunday of Ordinary Time"
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "~~Archive Bulletin~~ October 31, 2021"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1qd4eecvUpafKenTYHzq42l8K7yWaB-qz/view?usp=sharing"
   date_start = "2021-10-31"
   date_end = "2021-11-07"
   description = "31st Sunday of Ordinary Time"
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "**New ___Tamil___ Bulletin** October 24, 2021"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/1qd4eecvUpafKenTYHzq42l8K7yWaB-qz/view?usp=sharing"
-  date_start = "2021-10-31"
-  date_end = "2021-11-07"
-  description = "31st Sunday of Ordinary Time"
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "~~Archive Bulletin~~ October 24, 2021"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/1UrLfr3NqMds_pe8Yvn_SWvjC2nAAU8WI/view?usp=sharing"
-  date_start = "2021-10-24"
-  date_end = "2021-10-31"
-  description = "30th Sunday of Ordinary Time"
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "~~Archive ___Tamil___ Bulletin~~ October 24, 2021"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/1My45aomvkoScA1oixXZFOgYyWwc-zMsv/view?usp=sharing"
-  date_start = "2021-10-24"
-  date_end = "2021-10-31"
-  description = "30th Sunday of Ordinary Time"
 +++

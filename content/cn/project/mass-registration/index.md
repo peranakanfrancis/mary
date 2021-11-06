@@ -2,8 +2,6 @@
 title: 线上登记弥撒
 summary: 疫情期间，每一位欲参加弥撒的人都必须预先在线上报名登记。
 tags:
-- 弥撒
-- 表格
 date: "2021-10-17T00:00:00+08:00"
 
 # Optional external URL for project (replaces project detail page).
