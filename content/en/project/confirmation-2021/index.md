@@ -24,3 +24,5 @@ One of the student shared that :
 > “Life was not easy as we faced many obstacles during the journey of preparing, as physical catechism class were postponed but thanks to the technology of today, we were able to have online classes though many times  we faced unstable internet connections. Even though we couldn’t meet face to face with our friends and teachers, the classes  were lively and exciting. We are happy and proud to be the First  batch and would like to express our utmost gratitude to our teachers for their dedication and efforts to conduct the online classes and the guidance of our Parish Priest, Fr Louis Loi,  who administered the Sacrament of Confirmation. Thank you.”
 
 **Let us keep them in our prayers.**
+
+{{< gallery >}}
