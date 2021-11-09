@@ -1,0 +1,10 @@
+<!-- for details on usage vist my site https://bit.ly/2CaakSY -->
+{{ $url := .Get "href" }}
+{{ $ga1 := .Get "ga1" }}
+{{ $ga2 := .Get "ga2" }}
+{{ $ga3 := .Get "ga3" }}
+{{ $text := .Get "text" }}
+<!-- use this for analytics.js -->
+<!-- <a onclick="ga('send', 'event', '{{ $ga1 }}', '{{ $ga2 }}', '{{ $ga3 }}');" href="{{ $url }}" target="_blank">{{ $text }}</a> -->
+<!-- use this with gtag newer tracking code  -->
+<a onclick="gtag('event', '{{ $ga1 }}', {'event_category': '{{ $ga2 }}', 'event_label': '{{ $ga3 }}'});" href="{{ $url }}" target="_blank">{{ $text }}</a>
