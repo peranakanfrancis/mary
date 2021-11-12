@@ -14,6 +14,7 @@ image:
 ---
 As a priest who has served the church for many years, he now enjoys a retirement life, but Father Augustine Wong still insists to preach the Gospel through his writing. We pray that everyone of us will be nourished by the Words of God and trust that we all can rely on Him. The following are the gospel and commentary for each Christian's festivals.
 
+- [33rd Sunday in Ordinary Time Mk 13:24-32](https://drive.google.com/file/d/1YtEW-ZhMPBAbEFHkXi1v5PxTu4G0ZgN2/view?usp=sharing)
 - [32nd Sunday in Ordinary Time Mk 12:41-44](https://drive.google.com/file/d/1f97EiBb0Vibg6F5Abet6YllznNd-z-jM/view?usp=sharing)
 - [All Souls Day, Tuesday 2/11/2021](https://drive.google.com/file/d/15ndpq330rIyvgb2_rpjvSU3jjo3txK5f/view?usp=sharing)
 - [Solemnity of All Saints, Monday 1/11/2021](https://drive.google.com/file/d/1rMmQVRG1Fqm7KEf9u_JKNvqnBWrG7yP3/view?usp=sharing)
