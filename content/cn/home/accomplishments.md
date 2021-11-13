@@ -22,20 +22,20 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "**最新堂讯** 2021年11月07日"
+  title = "**最新堂讯** 2021年11月14日"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1sSK3NVUkU7bleoX_HV8mtIEsP6MS-DXu/view?usp=sharing"
+  date_start = "2021-11-14"
+  date_end = "2021-11-21"
+  description = "常年期三十三主日"
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "~~过期堂讯~~ 2021年11月07日"
   url = ""
   certificate_url = "https://drive.google.com/file/d/139ZcwPaJZG_7XFbNSned5gtqJ2-uljRl/view?usp=sharing"
   date_start = "2021-11-07"
   date_end = "2021-11-14"
   description = "常年期三十二主日"
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "~~过期堂讯~~ 2021年10月31日"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/1qd4eecvUpafKenTYHzq42l8K7yWaB-qz/view?usp=sharing"
-  date_start = "2021-10-31"
-  date_end = "2021-11-07"
-  description = "常年期三十一主日"
 +++
