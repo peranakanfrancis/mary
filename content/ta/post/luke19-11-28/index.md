@@ -6,7 +6,7 @@ authors:
 - admin
 tags: ["இயேசுவின் திட்டமிடல", "Luke"]
 categories: [பைபிள் வசனம்]
-date: "2021-11-18T00:00:00+08:00"
+date: "2021-11-17T00:00:00+08:00"
 featured: false
 draft: false
 
