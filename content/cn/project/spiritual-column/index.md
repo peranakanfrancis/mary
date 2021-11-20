@@ -14,6 +14,9 @@ image:
 ---
 作为一位已经为教会服务多年的神父，目前已享有退休生活，但是黄神父仍然以文字传福音，通过这个灵修专栏，把圣言传到教徒的心里面。以下是每个教会主要节日的灵粮以及反省。
 
+- [天主教会礼仪年，恩典的一年](https://drive.google.com/file/d/1tcMpk0fFA5vjkliIcXRFuBshH-IgDrXk/view?usp=sharing)
+- [耶穌普世君王节 若18:33-37](https://drive.google.com/file/d/1Jp4gT-kjZTdH36npFMh2TVpTAdsgzNw7/view?usp=sharing)
+- [圣路加福音，是赞美与喜乐的福音](https://drive.google.com/file/d/18KojXm6C83zmAoCZzqAP5FdX8SUnkijb/view?usp=sharing)
 - [常年期第三十三主日 谷13:24-32](https://drive.google.com/file/d/1YtEW-ZhMPBAbEFHkXi1v5PxTu4G0ZgN2/view?usp=sharing)
 - [常年期第三十二主日 谷12:41-44](https://drive.google.com/file/d/1f97EiBb0Vibg6F5Abet6YllznNd-z-jM/view?usp=sharing)
 - [追思已亡节，星期二 2/11/2021](https://drive.google.com/file/d/15ndpq330rIyvgb2_rpjvSU3jjo3txK5f/view?usp=sharing)

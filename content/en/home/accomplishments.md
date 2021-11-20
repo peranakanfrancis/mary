@@ -22,20 +22,20 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "**New Bulletin** November 14, 2021"
+  title = "**New Bulletin** November 21, 2021"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1N_raLW5j9O4eJi_m0xi_bLvjf7BwdA4z/view?usp=sharing"
+  date_start = "2021-11-21"
+  date_end = "2021-11-28"
+  description = "Solemnity Our Lord Jesus Christ,  King of the Universe"
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "~~Archive Bulletin~~ November 14, 2021"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1sSK3NVUkU7bleoX_HV8mtIEsP6MS-DXu/view?usp=sharing"
   date_start = "2021-11-14"
   date_end = "2021-11-21"
   description = "33rd Sunday of Ordinary Time"
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "~~Archive Bulletin~~ November 07, 2021"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/139ZcwPaJZG_7XFbNSned5gtqJ2-uljRl/view?usp=sharing"
-  date_start = "2021-11-07"
-  date_end = "2021-11-14"
-  description = "32nd Sunday of Ordinary Time"
 +++
