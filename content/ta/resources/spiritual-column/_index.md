@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: Spiritual Column
-summary: Reflections on Words of God by Fr Augustine Wong
+linktitle: இறையான்மை நிறுத்தம்
+summary: அருட்தந்தை.அகத்தின் வோங் அவர்களிடமிருந்து இறைவார்த்தை சிந்தனை
 weight: 1
 
 # Page metadata.
