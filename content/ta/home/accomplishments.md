@@ -22,20 +22,20 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "**New ___Tamil___ Bulletin** November 21, 2021"
+  title = "**New ___Tamil___ Bulletin** November 28, 2021"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1JsQLbogbEQJI-Fge_cYWbXtVcLB8QgnM/view?usp=sharing"
+  date_start = "2021-11-28"
+  date_end = "2021-12-05"
+  description = "1st Sunday of Advent"
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "~~Archive ___Tamil___ Bulletin~~ November 21, 2021"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1JsQLbogbEQJI-Fge_cYWbXtVcLB8QgnM/view?usp=sharing"
   date_start = "2021-11-21"
   date_end = "2021-11-28"
   description = "Solemnity Our Lord Jesus Christ, King of the Universe"
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "~~Archive ___Tamil___ Bulletin~~ November 14, 2021"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/1LCH6J7f2ST9JpoZZ1vbI4dKVtgwkhYkT/view?usp=sharing"
-  date_start = "2021-11-14"
-  date_end = "2021-11-21"
-  description = "33rd Sunday of Ordinary Time"
 +++
