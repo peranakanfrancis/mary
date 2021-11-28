@@ -1,5 +1,5 @@
 ---
-title: 'Jesus, I Trust in You! - Saturday, November 27, 2021 | Luke 21:24-36'
+title: 'Jesus, I Trust in You! - Saturday, November 27, 2021 | Luke 21:34-36'
 subtitle: '“Jesus said to his disciples: “Beware that your hearts do not become drowsy from carousing and drunkenness and the anxieties of daily life, and that day catch you by surprise like a trap. For that day will assault everyone who lives on the face of the earth.” Luke 21:36'
 summary: 'Jesus said to his disciples: “Beware that your hearts do not become drowsy from carousing and drunkenness and the anxieties of daily life, and that day catch you by surprise like a trap. For that day will assault everyone who lives on the face of the earth.” Luke 21:36'
 authors:

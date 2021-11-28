@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: 心灵专栏
+linktitle: 灵修专栏
 summary: 黄柄隆神父的圣言反省
 weight: 1
 
