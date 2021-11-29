@@ -71,4 +71,4 @@ Reflect, today, upon your faith in the coming of Christ in the Most Holy Euchari
 
 Lord, I do believe. Help my unbelief.  Help me to see my unworthiness each time I prepare for Holy Communion.  And in that humble admission, may I also invite Your healing presence in my life.  Jesus, I trust in You.
 
-{{ youtube gJU6eM53BLE }}
+{{< youtube gJU6eM53BLE >}}
