@@ -63,7 +63,9 @@ This familiar line is taken from the faith of a Roman centurion.  He asked Jesus
 
 Jesus, of course, is quite impressed with this man’s faith and obliges him with the physical healing of his servant from a distance.  But Jesus does much more than a healing.  He also holds this man up as a model of faith for all.
 
-This beautiful statement of faith from the centurion is used within the Mass to speak of two matters of faith in regard to the Eucharist: 1) We are not worthy to receive Holy Communion and, 2) We invite Jesus anyway to come and heal our souls.
+This beautiful statement of faith from the centurion is used within the Mass to speak of two matters of faith in regard to the Eucharist:
+  1. We are not worthy to receive Holy Communion and,
+  2. We invite Jesus anyway to come and heal our souls.
 
 Advent is a time when we especially ponder the great mystery of the Incarnation.  It’s a time when we especially ponder the mystery of God coming and dwelling with us in physical form.  Though this happened over two thousand years ago, it continues to take place at each and every Mass.  And at each and every Mass we are called to express the same faith as this Roman centurion.
 
