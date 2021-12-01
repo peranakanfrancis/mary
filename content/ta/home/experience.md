@@ -57,8 +57,10 @@ date_format = "May 2006"
 
 [[experience]]
   title = "Fr Augustine Wong"
-  company = "Retired Priest"
+  company = "Spiritual Column"
+  company_url ="/en/resources/spiritual-column"
+  location = "Permatang Tinggi"
   date_start = "2011-01-01"
   date_end = "2021-03-25"
-  description = ""
+  description = "Fr Augustine Wong, who has already retired in 2021, is currently living a retired spiritual life. Although he no longer manages the church, he still devotes time to write Reflections on Gospel for us to reflect on."
 +++
