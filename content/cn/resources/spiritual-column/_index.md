@@ -1,13 +1,12 @@
 ---
 # Course title, summary, and position.
-linktitle: 灵修专栏
-summary: 黄柄隆神父的圣言反省
+linktitle: 将临期第一主日
+summary: 将临期第一主日
 weight: 1
 
 # Page metadata.
 title: 将临期第一主日
 date: "2021-11-27T00:00:00+08:00"
-lastmod: "2021-11-09T00:00:00+08:00"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
