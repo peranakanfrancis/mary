@@ -71,6 +71,4 @@ If you find that you are not as prepared for His return in glory as you’d like
 ### Prayer
 Lord, as Advent begins, help me to put my eyes on You.  Help me to open my ears to Your voice.  And help me to open my heart to Your glorious presence.  May I be attentive to You in every way You desire to come to me. Jesus, I trust in You.
 
-{{< embed-pdf url="/static/files/hall-rental.pdf" >}}
-
 {{< youtube eNr2LF-6cAM >}}
