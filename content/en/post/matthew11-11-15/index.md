@@ -55,13 +55,10 @@ projects: []
 
 {{< audio src="/audio/en/matthew11-11-15.mp3" >}}
 
-### Daily Gospel Reading
-> When he entered Capernaum, a centurion approached him and appealed to him, saying, “Lord, my servant is lying at home paralyzed, suffering dreadfully. He said to him, “I will come and cure him.” The centurion said in reply, “Lord, I am not worthy to have you enter under my roof; only say the word and my servant will be healed. For I too am a person subject to authority, with soldiers subject to me. And I say to one, ‘Go,’ and he goes; and to another, ‘Come here,’ and he comes; and to my slave, ‘Do this,’ and he does it.” When Jesus heard this, he was amazed and said to those following him, “Amen, I say to you, in no one in Israel have I found such faith. I say to you, many will come from the east and the west, and will recline with Abraham, Isaac, and Jacob at the banquet in the kingdom of heaven"
+### Gospel
+> Amen, I say to you, among those born of women there has been none greater than John the Baptist; yet the least in the kingdom of heaven is greater than he. From the days of John the Baptist until now, the kingdom of heaven suffers violence, and the violent are taking it by force. All the prophets and the law prophesied up to the time of John. And if you are willing to accept it, he is Elijah, the one who is to come. Whoever has ears ought to hear.
 
-### Scripture Quote
-“Amen, I say to you, among those born of women there has been none greater than John the Baptist; yet the least in the Kingdom of heaven is greater than he.”
-
-### Daily Reflection
+### Reflection
 As we reflected upon St. John the Baptist this past Sunday, so also we are given his witness in today’s Gospel.   John was great first and foremost because of his humility.  But Jesus also makes it clear that John’s greatness as the greatest of the Old Testament Prophets is nothing in comparison with being a member of the Kingdom of Heaven!
 
 Heaven must be our goal.  It must be the purpose of our life.  What good is it if we obtain much greatness in this world and fail to make it to Heaven?
@@ -74,10 +71,10 @@ Think about it.  What will you rejoice in for all eternity?  Will you rejoice in
 
 The charity we live here and now will radiate from our lives forever in Heaven.  Even if our charity is not seen by others, it will be seen in Heaven.  Charity is the result of a life lived fully surrendered to Christ.
 
-### Final Meditation
+### Meditation
 Reflect, today, upon the ultimate goal of getting to Heaven and look at the fact that daily acts of charity are the road to this goal.  Is this your focus in life?  If not, look at your priorities and recommit yourself to this eternal calling.
 
-### Closing Prayer
+### Prayer
 Lord, I desire to be with You forever in Heaven.  Help me to keep eternity as my ultimate focus in life.  Help me to build a glorious life in Heaven through the charity I live now.  Jesus, I trust in You.
 
 {{< youtube k6UCqSZggaI >}}
