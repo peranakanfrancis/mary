@@ -16,15 +16,15 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "செயல்பாட்டு நாட்காட்டியின் அக்தோபர் மறைபரப்பு"
-  content = "நற்செய்தின் சாரம்"
-  cta_label = "இப்பொழுது காணவும்"
+  title = "ஆன்மீக நிறுத்தம் அருட்பணி.அகஃத்தின் வோங்"
+  content = "உங்கள் வாழ்வை மறு ஊக்கம் சொய்யும் ஆன்ம உணவு"
+  cta_label = "மறைபரப்பு ஞாயிற"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1SYy6HPsfIxqY0NemYDLcqxxUZfeRjtoq/view?usp=sharing"
+  cta_url = "/ta/spiritual-column/"
   cta_icon_pack = "fas"
-  cta_icon = "print"
+  cta_icon = "book-reader"
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "mothermary.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "stmarypt1.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -37,17 +37,5 @@ height = ""
   cta_icon = "rss-square"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "stmarypt2.jpeg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "Fr Augustine's Spiritual Column"
-  content = "The spiritual food to replenish your life"
-  cta_label = "மறைபரப்பு ஞாயிற"
-  align = "center"
-  cta_url = "/ta/project/spiritual-column"
-  cta_icon_pack = "fas"
-  cta_icon = "book-reader"
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "stmarypt1.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++

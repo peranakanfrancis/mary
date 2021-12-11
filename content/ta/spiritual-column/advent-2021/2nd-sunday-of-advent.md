@@ -6,7 +6,7 @@ type: docs
 date: "2021-12-05T00:00:00+08:00"
 draft: false
 menu:
-  spiritual-column:
+  advent-2021:
     parent: திருவருகைக் கால இரண்டாம் ஞாயிறு
     weight: 1
 

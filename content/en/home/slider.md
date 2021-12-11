@@ -16,6 +16,18 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
+  title = "Fr Augustine's Spiritual Column"
+  content = "The spiritual food to replenish your life"
+  cta_label = "Read now"
+  align = "center"
+  cta_url = "/en/spiritual-column/"
+  cta_icon_pack = "fas"
+  cta_icon = "book-reader"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "stmarypt1.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = " Free and anonymous emotional support and is just a call away."
   content = "Are you having a crisis of feeling overwhelmed? You don't have to suffer in silence."
   cta_label = "Call 03-2723 7272"
@@ -25,18 +37,6 @@ height = ""
   cta_icon = "phone"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "caring.jpeg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "October Mission in Action Calendar"
-  content = "flavour of the gospel."
-  cta_label = "View now"
-  align = "center"
-  cta_url = "https://drive.google.com/file/d/1SYy6HPsfIxqY0NemYDLcqxxUZfeRjtoq/view?usp=sharing"
-  cta_icon_pack = "fas"
-  cta_icon = "print"
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "mothermary.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -50,17 +50,4 @@ height = ""
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "stmarypt2.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "Fr Augustine's Spiritual Column"
-  content = "The spiritual food to replenish your life"
-  cta_label = "Read now"
-  align = "center"
-  cta_url = "/en/resources/spiritual-column"
-  cta_icon_pack = "fas"
-  cta_icon = "book-reader"
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "stmarypt1.jpeg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
 +++

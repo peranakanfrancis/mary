@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: 将临期第一主日
-summary: 将临期第一主日
+linktitle: 将临期 2021
+summary: 将临期是圣教会提醒天主子女醒悟祈祷，积极准备迎接救主耶稣基督的恩宠时期。让我们一起跟着黄神父的灵修日记提升自己的信仰及明白天主的心意。
 weight: 1
 
 # Page metadata.
@@ -15,7 +15,7 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  spiritual-column:
+  advent-2021:
     name: 将临期第一主日
     weight: 2
 ---

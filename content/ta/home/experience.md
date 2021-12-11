@@ -58,7 +58,7 @@ date_format = "May 2006"
 [[experience]]
   title = "Fr Augustine Wong"
   company = "Spiritual Column"
-  company_url ="/en/resources/spiritual-column"
+  company_url ="/ta/spiritual-column"
   location = "Permatang Tinggi"
   date_start = "2011-01-01"
   date_end = "2021-03-25"

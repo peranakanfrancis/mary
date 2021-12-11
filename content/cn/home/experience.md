@@ -57,7 +57,7 @@ date_format = "May 2006"
 [[experience]]
   title = "黄柄隆神父"
   company = "灵修专栏"
-  company_url="/zh/resources/spiritual-column"
+  company_url="/zh/spiritual-column/"
   location = "峇冬丁宜"
   date_start = "2011-01-01"
   date_end = "2021-03-25"

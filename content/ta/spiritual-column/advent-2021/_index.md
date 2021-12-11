@@ -1,13 +1,12 @@
 ---
 # Course title, summary, and position.
-linktitle: இறையான்மை நிறுத்தம்
-summary: அருட்தந்தை.அகத்தின் வோங் அவர்களிடமிருந்து இறைவார்த்தை சிந்தனை
+linktitle: Advent 2021
+summary: Advent is a time when the holy church reminds us as the children of God to wake up and pray, and actively prepare for the grace of the Savior Jesus Christ. Come and join Fr Augustine Wong's reflections and let the Words of God change our heart.
 weight: 1
 
 # Page metadata.
 title: 1st Sunday of Advent
 date: "2021-11-27T00:00:00+08:00"
-lastmod: "2021-11-09T00:00:00+08:00"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -16,7 +15,7 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  spiritual-column:
+  advent-2021:
     name: 1st Sunday of Advent
     weight: 2
 ---

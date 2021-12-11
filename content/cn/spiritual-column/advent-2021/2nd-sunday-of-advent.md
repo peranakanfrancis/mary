@@ -6,7 +6,7 @@ type: docs
 date: "2021-12-05T00:00:00+08:00"
 draft: false
 menu:
-  spiritual-column:
+  advent-2021:
     parent: 将临期第一主日
     weight: 1
 

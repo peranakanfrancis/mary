@@ -22,20 +22,20 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "**New Bulletin** December 05, 2021"
+  title = "**New Bulletin** December 12, 2021"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1ZSTxNrLzfNYEWa_uO0Ur3xOZqOfCtI4l/view?usp=sharing"
+  date_start = "2021-12-12"
+  date_end = "2021-12-19"
+  description = "3rd Sunday of Advent"
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "~~Archive Bulletin~~ December 05, 2021"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1wmMaYbvJJ7Cz-TT66CK1H1iEnzXwdDa4/view?usp=sharing"
   date_start = "2021-12-05"
   date_end = "2021-12-12"
   description = " 2nd Sunday of Advent"
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "~~Archive Bulletin~~ November 28, 2021"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/16FNSdJ0SDJGBiDTSru03KN2OmeuIyHzq/view?usp=sharing"
-  date_start = "2021-11-28"
-  date_end = "2021-12-05"
-  description = "1st Sunday of Advent"
 +++
