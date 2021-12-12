@@ -7,7 +7,7 @@ date: "2021-12-05T00:00:00+08:00"
 draft: false
 menu:
   advent-2021:
-    parent: திருவருகைக் கால இரண்டாம் ஞாயிறு
+    parent: 1st Sunday of Advent
     weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)

@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: Advent 2021
-summary: Advent is a time when the holy church reminds us as the children of God to wake up and pray, and actively prepare for the grace of the Savior Jesus Christ. Come and join Fr Augustine Wong's reflections and let the Words of God change our heart.
+linktitle: திருவருகைக் காலம் 2021
+summary: இறைவனின் பிள்ளைகளாக, விழிப்புடனிருந்து செபிக்கவும், மீட்பராகிய இயேசு கிறித்துவின் அருளை ஆர்வமுடன் தயாரிக்க திருஅவை நம்மை அழைக்கும் காலமே திருவருகைக் காலம். அருட்பணி.தந்தை அகஃத்தின் வோங் அவர்களின் சிந்தனையும், அதன் வழி இறைவனின் வார்த்தை நம் இதயத்தை மாற்றிட வாருங்கள் ஒண்றிணைந்து பங்கெடுப்போம்.
 weight: 1
 
 # Page metadata.
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 menu:
   advent-2021:
     name: 1st Sunday of Advent
-    weight: 2
+    weight: 1
 ---
 
 ### “அவர் அவர்ைளிடம், நீங்ைள் பாகைநிைத்திலுள்ள தனிக஫஬ான ஓர் இடத்திற்குச் சென்று ெற்று
