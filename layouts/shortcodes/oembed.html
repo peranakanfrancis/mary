@@ -1,0 +1,13 @@
+{{- $oe := .Site.Params.oembed -}}
+{{- $appId := $oe.appId -}}
+{{- $clientToken := $oe.clientToken -}}
+{{- if not $oe.privacy -}}
+{{ $host := .Get 0 }}
+{{ $type := .Get 1 }}
+{{ $id := .Get 2 }}
+{{- if eq $type "page" -}}
+{{ with getJSON "https://graph.facebook.com/v11.0/oembed_" $type "?url=" $id "&show_posts=false" "&access_token=" $appId "|" $clientToken }}{{ .html | safeHTML }}{{ end }}
+{{- else -}}
+{{ with getJSON "https://graph.facebook.com/v11.0/oembed_" $type "?url=" $id "&access_token=" $appId "|" $clientToken }}{{ .html | safeHTML }}{{ end }}
+{{- end -}}
+{{- end -}}

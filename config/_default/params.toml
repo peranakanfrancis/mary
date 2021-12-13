@@ -165,3 +165,9 @@ sharing = true
     api_key = ""
     index_name = ""
     show_logo = false
+
+# Facebook Developer
+[params.oembed]
+  appId = "507390463679628"
+  clientToken = "1588b4c62ac77910e04a64bda70cd39a"
+  privacy = false
