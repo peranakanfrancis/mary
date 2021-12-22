@@ -16,6 +16,18 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
+  title = "National Flood Relief Fund"
+  content = "Together with **Caritas**, let us reach out to help the flood victims."
+  cta_label = "Donate now"
+  align = "center"
+  cta_url = "/img/slider/national-flood-relief-fund.jpeg"
+  cta_icon_pack = "fas"
+  cta_icon = "hand-holding-usd"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "slider/kl-flood-donation.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "Fr Augustine's Spiritual Column"
   content = "The spiritual food to replenish your life"
   cta_label = "Read now"

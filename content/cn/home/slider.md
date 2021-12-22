@@ -16,6 +16,18 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
+  title = "国家防洪基金"
+  content = "让我们同**Caritas**一起帮助水灾受害家庭"
+  cta_label = "我要捐款"
+  align = "center"
+  cta_url = "/img/slider/national-flood-relief-fund.jpeg"
+  cta_icon_pack = "fas"
+  cta_icon = "hand-holding-usd"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "slider/kl-flood-donation.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "黄柄隆神父的灵修专栏"
   content = "补充您生命的灵粮"
   cta_label = "马上阅览"
