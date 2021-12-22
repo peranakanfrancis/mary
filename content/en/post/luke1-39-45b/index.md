@@ -56,7 +56,7 @@ projects: []
 {{< youtube jmaqjXuwlfw >}}
 
 ### Gospel
-> During those days Mary set out and traveled to the hill country in haste to a town of Judah, where she entered the house of Zechariah and greeted Elizabeth. When Elizabeth heard Mary’s greeting, the infant leaped in her womb, and Elizabeth, filled with the holy Spirit, cried out in a loud voice and said, “Most blessed are you among women, and blessed is the fruit of your womb. And how does this happen to me, that the mother of my Lord should come to me? For at the moment the sound of your greeting reached my ears, the infant in my womb leaped for joy. Blessed are you who believed* that what was spoken to you by the Lord would be fulfilled.”
+> During those days Mary set out and traveled to the hill country in haste to a town of Judah, where she entered the house of Zechariah and greeted Elizabeth. When Elizabeth heard Mary’s greeting, the infant leaped in her womb, and Elizabeth, filled with the holy Spirit, cried out in a loud voice and said, “Most blessed are you among women, and blessed is the fruit of your womb. And how does this happen to me, that the mother of my Lord should come to me? For at the moment the sound of your greeting reached my ears, the infant in my womb leaped for joy. Blessed are you who believed that what was spoken to you by the Lord would be fulfilled.”
 
 ### Reflection:
 There is a lot to take in from this beautiful passage spoken by Elizabeth to our Blessed Mother.  First of all, we see the general tone of her greeting.  It’s one of great affection.  It’s easy to perceive the authentic joy in Elizabeth’s heart as she encounters the Mother of God and her Lord dwelling within Mother Mary’s womb.  
