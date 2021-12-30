@@ -99,6 +99,16 @@
   name = "神恩复兴小组"
   url = "groups/charismatic-prayer-group"
 
+[[zh.menu.main]]
+    name = "灵修"
+    hasChildren = true
+    weight = 80
+
+[[zh.menu.main]]
+    parent = "灵修"
+    name = "黄柄隆神父"
+    url = "spiritual-column"
+
 ### Tamil menu
 [ta]
   languageCode = "ta"

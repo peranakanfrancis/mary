@@ -1,9 +1,9 @@
 ---
-title: Spiritual Column - Reflections on Words of God by Fr Augustine Wong.
+title: Fr Augustine Wong's Spiritual Column
 layout: docs  # Do not modify.
 
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: ""
+  image: "stmarypt1.jpeg"
 ---
