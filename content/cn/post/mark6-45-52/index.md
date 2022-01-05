@@ -4,10 +4,9 @@ subtitle: '祂随即上船，来到他们中间，风就停了。'
 summary: '祂随即上船，来到他们中间，风就停了。'
 authors:
 - admin
-tags: ["反省", "马尔谷"]
-categories: ["圣言"]
-date: "2021-11-14T00:00:00+08:00"
-lastmod: "2021-11-14T00:00:00+08:00"
+tags: ["马尔谷福音"]
+categories: ["每日圣言反省"]
+date: "2022-01-05T00:00:00+08:00"
 featured: false
 draft: false
 
