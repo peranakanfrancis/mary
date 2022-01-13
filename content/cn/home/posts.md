@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "最近帖子"
+title = "福音及反省"
 subtitle = "通过每日圣言反省，祈祷和好消息与主保持联系。"
 
 [content]

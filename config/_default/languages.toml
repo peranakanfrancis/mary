@@ -23,12 +23,12 @@
   weight = 10
 
 [[zh.menu.main]]
-  name = "帖子"
+  name = "福音"
   url = "#posts"
   weight = 20
 
 [[zh.menu.main]]
-  name = "精选"
+  name = "节目"
   url = "#projects"
   weight = 30
 
