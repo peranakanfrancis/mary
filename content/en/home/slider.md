@@ -18,7 +18,7 @@ height = ""
 
 [[item]]
   title = "Fr Augustine Wong's Spiritual Column"
-  content = "Let's listen to what God has to say to you"
+  content = "Come listen to what God has to say to you"
   cta_label = "Read now"
   align = "center"
   cta_url = "/en/spiritual-column/"

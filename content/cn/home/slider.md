@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "黄柄隆神父的灵修专栏"
-  content = "来听一听天主要对你说的话"
+  content = "来，听一听天主要对你说的话"
   cta_label = "马上阅读"
   align = "center"
   cta_url = "/zh/spiritual-column"
