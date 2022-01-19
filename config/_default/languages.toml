@@ -28,7 +28,7 @@
   weight = 20
 
 [[zh.menu.main]]
-  name = "节目"
+  name = "活动"
   url = "#projects"
   weight = 30
 
