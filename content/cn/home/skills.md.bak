@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Build relationship with God"
-subtitle = "Let God changes our heart, transforms our life, makes us more like Jesus"
+title = "建新堂筹款进展"
+subtitle = "为了迎合更大的社区，由于地方的发展和临近教区的新城镇的出现，预计教会社区将进一步扩大。 ([了解详情](project/fundraising-for-new-church))"
 
 # Showcase personal skills or business features.
 #
@@ -15,26 +15,26 @@ subtitle = "Let God changes our heart, transforms our life, makes us more like J
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "praying-hands"
+  icon = "search-dollar"
   icon_pack = "fas"
-  name = "Pray for Everything"
+  name = "总估计建造价值马币900万令吉"
   parcent = "100%"
 
 [[feature]]
-  icon = "bible"
+  icon = "piggy-bank"
   icon_pack = "fas"
-  name = "Listen to Word of God Everyday"
-  parcent = "100%"  
+  name = "目前已经筹获了马币400万令吉"
+  parcent = "45%"  
 
 [[feature]]
-  icon = "people-carry"
+  icon = "hand-holding-usd"
   icon_pack = "fas"
-  name = "Service in Church, Share Gospel"
-  parcent = "100%"
+  name = "还欠缺金额马币200万令吉"
+  parcent = "25%"
 
 [[feature]]
   icon = "church"
   icon_pack = "fas"
-  name = "Sunday Mass"
-  parcent = "100%"
+  name = "槟城总教区资助马币300万令吉"
+  parcent = "30%"
 +++

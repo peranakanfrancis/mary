@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "建新堂筹款进展"
-subtitle = "为了迎合更大的社区，由于地方的发展和临近教区的新城镇的出现，预计教会社区将进一步扩大。 ([了解详情](project/fundraising-for-new-church))"
+title = "如何与天主建立一百分的关系"
+subtitle = "让天主改变我们的心，转变我们的生活态度，让我们与耶稣更相似"
 
 # Showcase personal skills or business features.
 #
@@ -15,26 +15,26 @@ subtitle = "为了迎合更大的社区，由于地方的发展和临近教区�
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "search-dollar"
+  icon = "praying-hands"
   icon_pack = "fas"
-  name = "总估计建造价值马币900万令吉"
+  name = "凡事祈祷"
   parcent = "100%"
 
 [[feature]]
-  icon = "piggy-bank"
+  icon = "bible"
   icon_pack = "fas"
-  name = "目前已经筹获了马币400万令吉"
-  parcent = "45%"  
+  name = "每天聆听圣言"
+  parcent = "100%"  
 
 [[feature]]
-  icon = "hand-holding-usd"
+  icon = "people-carry"
   icon_pack = "fas"
-  name = "还欠缺金额马币200万令吉"
-  parcent = "25%"
+  name = "在内牧林、在外福传"
+  parcent = "100%"
 
 [[feature]]
   icon = "church"
   icon_pack = "fas"
-  name = "槟城总教区资助马币300万令吉"
-  parcent = "30%"
+  name = "主日弥撒"
+  parcent = "100%"
 +++

@@ -16,6 +16,18 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
+  title = "奉献弥撒"
+  content = "现在支持Touch N Go电子钱包支付"
+  cta_label = "马上填写"
+  align = "center"
+  cta_url = "https://forms.gle/ut65PmfD8aNbBmYL7"
+  cta_icon_pack = "fas"
+  cta_icon = "book-reader"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "stmarypt5.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "黄柄隆神父的灵修专栏"
   content = "来，听一听天主要对你说的话"
   cta_label = "马上阅读"
