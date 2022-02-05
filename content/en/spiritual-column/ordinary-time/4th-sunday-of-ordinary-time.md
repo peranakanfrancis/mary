@@ -8,7 +8,7 @@ draft: false
 menu:
   ordinary-time:
     parent: 2nd Sunday of Ordinary Time
-    weight: 2
+    weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2

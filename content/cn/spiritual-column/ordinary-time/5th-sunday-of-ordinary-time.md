@@ -8,11 +8,13 @@ draft: false
 menu:
   ordinary-time:
     parent: 常年期第二主日
-    weight: 1
+    weight: 4
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 2
 ---
+
+{{< figure src="/img/spiritual-column/luke5-5.jpeg" >}}
 
 ## “但我要遵照你的话撒網。”**（路5:5）**
 

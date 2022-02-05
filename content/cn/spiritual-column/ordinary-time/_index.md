@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 menu:
   ordinary-time:
     name: 常年期第二主日
-    weight: 3
+    weight: 1
 ---
 
 ## 加纳的婚宴（若2:1-11）

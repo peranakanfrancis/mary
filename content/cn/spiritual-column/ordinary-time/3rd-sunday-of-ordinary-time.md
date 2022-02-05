@@ -8,10 +8,10 @@ draft: false
 menu:
   ordinary-time:
     parent: 常年期第二主日
-    weight: 1
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 2
 ---
 
 ## 耶穌宣讲，医治和释放的事工

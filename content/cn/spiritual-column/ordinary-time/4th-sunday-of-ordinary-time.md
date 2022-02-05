@@ -8,10 +8,10 @@ draft: false
 menu:
   ordinary-time:
     parent: 常年期第二主日
-    weight: 1
+    weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 2
 ---
 
 ## “领他到了山崖上要把他推下去。”（路4:29）要杀死他。

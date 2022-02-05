@@ -19,7 +19,7 @@ type: docs  # Do not modify.
 menu:
   ordinary-time:
     name: 2nd Sunday of Ordinary Time
-    weight: 3
+    weight: 1
 ---
 
 ## The Wedding At Cana (John 2:1-11)

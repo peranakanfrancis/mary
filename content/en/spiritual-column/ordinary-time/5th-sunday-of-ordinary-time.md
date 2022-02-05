@@ -8,11 +8,12 @@ draft: false
 menu:
   ordinary-time:
     parent: 2nd Sunday of Ordinary Time
-    weight: 2
+    weight: 4
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
 ---
+{{< figure src="/img/spiritual-column/luke5-5.jpeg" >}}
 
 ## “But if you say so, I will let the nets down again.” **(Luke 5:5)**
 
