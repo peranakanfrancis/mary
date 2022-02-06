@@ -75,12 +75,12 @@
   url = "sacraments/holy-orders"
 
 [[main]]
-  name = "Spiritual"
+  name = "Spiritual Column"
   hasChildren = true
   weight = 70
 
 [[main]]
-  parent = "Spiritual"
+  parent = "Spiritual Column"
   name = "Fr Augustine Wong"
   url = "spiritual-column"
 #[[main]]

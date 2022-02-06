@@ -100,12 +100,12 @@
   url = "groups/charismatic-prayer-group"
 
 [[zh.menu.main]]
-    name = "灵修"
+    name = "灵修专栏"
     hasChildren = true
     weight = 80
 
 [[zh.menu.main]]
-    parent = "灵修"
+    parent = "灵修专栏"
     name = "黄柄隆神父"
     url = "spiritual-column"
 
