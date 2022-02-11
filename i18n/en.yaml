@@ -117,7 +117,13 @@
   translation: Send
 
 - id: book_appointment
-  translation: Book an appointment
+  translation: 'Book an Appointment'
+
+- id: emergency
+  translation: 'Emergency Cases (funeral service / anointing): Call, SMS or Whatsapp'
+
+- id: office_hours
+  translation: 'Tuesday - Friday 10AM to 5PM, Saturday - Sunday 10AM to 1PM, Closed on Monday'
 
 # Publication/Talk details
 

@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Upcoming Events"
-subtitle = "We should all join in together as brother and sister in Christ."
+subtitle = "Let's get to know each other better and grow in faith."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

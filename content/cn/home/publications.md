@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "关于我们"
-subtitle = "圣母圣名堂是一所可以通过耶稣的故事而改变您生命的地方。 与我们一起敬拜赞美耶稣吧，您进来时可能是一个陌生人，但您离开时会是一家人。"
+subtitle = "圣母圣名堂是一所百年老教堂，欢迎你一起来参与我们的感恩祭弥撒。"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

@@ -6,6 +6,6 @@ active = true  # Activate this widget? true/false
 weight = 66  # Order that this section will appear.
 
 title = "我们的相册"
-subtitle = "时常出席与我们的基督徒教友一起见面吧。"
+subtitle = "回顾一下美好的回忆"
 +++
 {{< gallery >}}

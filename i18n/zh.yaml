@@ -68,6 +68,10 @@
   translation: 发送
 - id: book_appointment
   translation: 网上预约
+- id: emergency
+  translation: '紧急事件 (殡葬服务 / 病人傅油): 请拨电、信息或Whatsapp'
+- id: office_hours
+  translation: '二至五 10AM - 5PM， 六、日 10AM - 1PM， 周一休息'
 - id: abstract
   translation: 前言
 - id: publication

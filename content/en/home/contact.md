@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Contact us"
-subtitle = "He who receives you receives Me, and he who receives Me receives Him who sent Me. **- [Matthew 10: 40]**."
+subtitle = "Our parish office is ready to serve you anytime."
 
 # Automatically link email and phone?
 autolink = true
