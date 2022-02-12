@@ -19,23 +19,24 @@ time_format ="3:04 PM"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
 [[item]]
   organization = ""
   organization_url = ""
   title = "**New Bulletin**"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/1ak1BBiwdYMN4y5TgG2am0jYomivx-H_2/view?usp=sharing"
-  date_start = "2022-02-06"
-  date_end = "2022-02-13"
-  description = "5th Sunday of Ordinary Time"
+  certificate_url = "https://drive.google.com/file/d/1x0PhgNiaO6FhAZLhote2gOg0MAJgJTjw/view?usp=sharing"
+  date_start = "2022-02-13"
+  date_end = "2022-02-20"
+  description = "6th Sunday of Ordinary Time"
 
 [[item]]
   organization = ""
   organization_url = ""
   title = "~~Archive Bulletin~~"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/12VVgM7fbsDkqeFeINzFefkiWftCiAkSJ/view?usp=sharing"
-  date_start = "2022-01-30"
-  date_end = "2022-02-06"
-  description = "4th Sunday of Ordinary Time"
+  certificate_url = "https://drive.google.com/file/d/1ak1BBiwdYMN4y5TgG2am0jYomivx-H_2/view?usp=sharing"
+  date_start = "2022-02-06"
+  date_end = "2022-02-13"
+  description = "5th Sunday of Ordinary Time"
 +++
