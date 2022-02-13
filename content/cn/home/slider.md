@@ -16,6 +16,18 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
+  title = "弥撒时间表"
+  content = "获取我们教堂的最新通告"
+  cta_label = "马上下载"
+  align = "center"
+  cta_url = "https://drive.google.com/file/d/1x0PhgNiaO6FhAZLhote2gOg0MAJgJTjw/view?usp=sharing"
+  cta_icon_pack = "fas"
+  cta_icon = "cloud-arrow-down"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "stmarypt7.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "奉献弥撒"
   content = "现在支持Touch N Go电子钱包支付"
   cta_label = "马上填写"

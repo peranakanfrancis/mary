@@ -17,6 +17,18 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
+  title = "Timetable for Mass"
+  content = "Get update for our church's latest announcements"
+  cta_label = "Download Now"
+  align = "center"
+  cta_url = "https://drive.google.com/file/d/1x0PhgNiaO6FhAZLhote2gOg0MAJgJTjw/view?usp=sharing"
+  cta_icon_pack = "fas"
+  cta_icon = "cloud-arrow-down"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "stmarypt7.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "Mass Offering"
   content = "Now accept Touch N Go E-wallet Payment"
   cta_label = "Submit now"

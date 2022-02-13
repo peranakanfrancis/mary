@@ -4,7 +4,7 @@ subtitle: '「他们要攻击你，却不能得胜你，因为有我与你同在
 summary: '「他们要攻击你，却不能得胜你，因为有我与你同在，协助你。」（耶1:19）'
 authors:
 - admin
-tags: ["耶肋米亚 1"]
+tags: ["耶肋米亚"]
 categories: ["每日圣言反省"]
 date: "2022-01-30T00:00:00+08:00"
 featured: false
