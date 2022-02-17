@@ -29,9 +29,21 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
+  title = "Brick Donation Campaign"
+  content = "Are you willing to donate brick for our new church building fund?"
+  cta_label = "WhatsApp Pei Pei now"
+  align = "center"
+  cta_url = "https://wa.link/q8z6sv"
+  cta_icon_pack = "fas"
+  cta_icon = "whatsapp"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "slider/brick.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "Mass Offering"
   content = "Now accept Touch N Go E-wallet Payment"
-  cta_label = "Submit now"
+  cta_label = "Submit online"
   align = "center"
   cta_url = "https://forms.gle/ut65PmfD8aNbBmYL7"
   cta_icon_pack = "fas"

@@ -28,9 +28,21 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
+  title = "奉砖建堂"
+  content = "你愿意乐捐砖块，以帮助我们教会筹款建新教堂吗？"
+  cta_label = "请 WhatsApp 佩佩"
+  align = "center"
+  cta_url = "https://wa.link/q8z6sv"
+  cta_icon_pack = "fas"
+  cta_icon = "whatsapp"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "slider/brick.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "奉献弥撒"
   content = "现在支持Touch N Go电子钱包支付"
-  cta_label = "马上填写"
+  cta_label = "线上奉献"
   align = "center"
   cta_url = "https://forms.gle/ut65PmfD8aNbBmYL7"
   cta_icon_pack = "fas"
@@ -56,7 +68,7 @@ height = ""
   content = "您是否感觉心理已无力承受?您不必独自承受请致电 Shalom 关怀热线."
   cta_label = "请致电03-2723 7272"
   align = "center"
-  cta_url = "callto:+60327237272"
+  cta_url = ""
   cta_icon_pack = "fas"
   cta_icon = "phone"
   overlay_color = "#555"  # An HTML color value.
