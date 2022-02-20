@@ -13,7 +13,7 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
 ---
-{{< figure src="/img/spiritual-column/mark8-21-22.jpeg" >}}
+{{< figure src="/img/spiritual-column/mark18-21-22.jpeg" >}}
 
 # Do yourself  A Favour
 
