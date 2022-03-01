@@ -5,8 +5,8 @@ newsletter_signup = "https://tinyletter.com/churchofholymary"
 microsoft_clarity = ""
 
 # Color theme.
-#   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
-color_theme = "forest"
+#   Choose from `default`, `ocean`, `forest(Green - Ordinary Time)`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry (Purple - Lent)`.
+color_theme = "strawberry"
 # Enable users to switch between day and night mode?
 day_night = true
 
