@@ -6,7 +6,7 @@ authors:
 - admin
 tags: ["Luke"]
 categories: ["Daily Reflection"]
-date: "2022-01-06T00:00:00+08:00"
+date: "2022-03-06T00:00:00+08:00"
 featured: false
 draft: false
 
@@ -15,7 +15,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   caption:
-  focal_point: "Center"
+  focal_point: "Top"
   preview_only: false
 
 # Projects (optional).
