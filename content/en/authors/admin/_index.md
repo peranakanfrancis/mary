@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Church of The Holy Name of Mary"
+name: "About us"
 avatar_image: "home/church4.jpg"
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ btn:
 superuser: true
 
 # Role/position
-role: Parish church
+role: Church of The Holy Name of Mary
 
 # Organizations/Affiliations
 organizations:

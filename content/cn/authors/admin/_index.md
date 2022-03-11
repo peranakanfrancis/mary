@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "圣母圣名堂"
+name: "关于我们"
 avatar_image: "home/church4.jpg"
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ btn:
 superuser: true
 
 # Role/position
-role: 天主教教堂
+role: 圣母圣名堂
 
 # Organizations/Affiliations
 organizations:
