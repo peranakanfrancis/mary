@@ -7,7 +7,7 @@ weight = 1  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 3000
+interval = 4000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
@@ -29,6 +29,18 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
+  title = "Question for the Youth"
+  content = "If you could ask God one question, what would it be?"
+  cta_label = "Comment now"
+  align = "center"
+  cta_url = "https://forms.gle/Tq5JqzDXojKaRrCa6"
+  cta_icon_pack = "fas"
+  cta_icon = "comment-pen"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "slider/church.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "Brick Donation Campaign"
   content = "Are you willing to donate brick for our new church building fund?"
   cta_label = "WhatsApp Pei Pei now"
@@ -38,18 +50,6 @@ height = ""
   cta_icon = "whatsapp"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "slider/brick.jpeg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "Mass Offering"
-  content = "Now accept Touch N Go E-wallet Payment"
-  cta_label = "Submit online"
-  align = "center"
-  cta_url = "https://forms.gle/ut65PmfD8aNbBmYL7"
-  cta_icon_pack = "fas"
-  cta_icon = "book-reader"
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "stmarypt5.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]

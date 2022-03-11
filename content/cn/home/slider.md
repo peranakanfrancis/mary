@@ -7,7 +7,7 @@ weight = 1  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 3000
+interval = 4000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
@@ -28,6 +28,18 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
+  title = "青年朋友们"
+  content = "如果你能问天主一个问题，你最想问祂什么？"
+  cta_label = "马上回答"
+  align = "center"
+  cta_url = "https://forms.gle/Tq5JqzDXojKaRrCa6"
+  cta_icon_pack = "fas"
+  cta_icon = "comment-pen"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "slider/church.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "奉砖建堂"
   content = "你愿意乐捐砖块，以帮助我们教会筹款建新教堂吗？"
   cta_label = "请 WhatsApp 佩佩"
@@ -37,18 +49,6 @@ height = ""
   cta_icon = "whatsapp"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "slider/brick.jpeg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "奉献弥撒"
-  content = "现在支持Touch N Go电子钱包支付"
-  cta_label = "线上奉献"
-  align = "center"
-  cta_url = "https://forms.gle/ut65PmfD8aNbBmYL7"
-  cta_icon_pack = "fas"
-  cta_icon = "book-reader"
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "stmarypt5.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
