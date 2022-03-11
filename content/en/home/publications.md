@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "About us"
-subtitle = "We welcome you to join us for Thanksgiving Mass and know Jesus together."
+title = "Publications"
+subtitle = "Our church has more than a hundred years of history. You may read some of stories here."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

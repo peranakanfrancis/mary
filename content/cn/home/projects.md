@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "节目及活动"
-subtitle = ""
+title = "天主教资料库"
+subtitle = "我们精选了一些能够帮助你灵修增长的资源"
 
 [content]
   # Page type to display. E.g. project.

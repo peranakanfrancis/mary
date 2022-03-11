@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "福音及反省"
-subtitle = "通过每日圣言反省，祈祷和好消息与主保持联系。"
+title = "读经及福音"
+subtitle = "通过每日圣言反省，祈祷和耶稣的福音与天主保持联系。"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

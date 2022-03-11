@@ -4,24 +4,34 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "About"
   url = "#about"
   weight = 10
 
 [[main]]
-  name = "Gospel"
-  url = "#posts"
+  name = "Bulletins"
+  url = "#accomplishments"
   weight = 20
 
 [[main]]
-  name = "Activities"
-  url = "#projects"
+  name = "Reflections"
+  url = "#posts"
   weight = 30
 
 [[main]]
-  name = "About"
-  url = "#publications"
+  name = "Resources"
+  url = "#projects"
   weight = 40
+
+[[main]]
+  name = "Events"
+  url  = "#talks"
+  weight = 50
+
+[[main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 50
 
 #[[main]]
 #  name = "Courses"
@@ -31,48 +41,48 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 50
-
-[[main]]
-  name = "Sacraments"
-  url = "sacraments"
-  hasChildren = true
   weight = 60
 
-[[main]]
-  parent = "Sacraments"
-  name = "Baptism"
-  url = "sacraments/baptism"
+#[[main]]
+#  name = "Sacraments"
+#  url = "sacraments"
+#  hasChildren = true
+#  weight = 70
 
-[[main]]
-  parent = "Sacraments"
-  name = "Communion"
-  url = "sacraments/communion"
+#[[main]]
+#  parent = "Sacraments"
+#  name = "Baptism"
+#  url = "sacraments/baptism"
 
-[[main]]
-  parent = "Sacraments"
-  name = "Confirmation"
-  url = "sacraments/confirmation"
+#[[main]]
+#  parent = "Sacraments"
+#  name = "Communion"
+#  url = "sacraments/communion"
 
-[[main]]
-  parent = "Sacraments"
-  name = "Matrimony"
-  url = "sacraments/matrimony"
+#[[main]]
+#  parent = "Sacraments"
+#  name = "Confirmation"
+#  url = "sacraments/confirmation"
 
-[[main]]
-  parent = "Sacraments"
-  name = "Reconciliation"
-  url = "sacraments/reconciliation"
+#[[main]]
+#  parent = "Sacraments"
+#  name = "Matrimony"
+#  url = "sacraments/matrimony"
 
-[[main]]
-  parent = "Sacraments"
-  name = "Anointing"
-  url = "sacraments/anointing"
+#[[main]]
+#  parent = "Sacraments"
+#  name = "Reconciliation"
+#  url = "sacraments/reconciliation"
 
-[[main]]
-  parent = "Sacraments"
-  name = "Holy Orders"
-  url = "sacraments/holy-orders"
+#[[main]]
+#  parent = "Sacraments"
+#  name = "Anointing"
+#  url = "sacraments/anointing"
+
+#[[main]]
+#  parent = "Sacraments"
+#  name = "Holy Orders"
+#  url = "sacraments/holy-orders"
 
 [[main]]
   name = "Spiritual"

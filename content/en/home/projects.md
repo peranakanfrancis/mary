@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Activities & Events"
-subtitle = ""
+title = "Catholic Resources Hub"
+subtitle = "A handpicked of good resources from around the world to help you gain faith in your spiritual life."
 
 [content]
   # Page type to display. E.g. project.

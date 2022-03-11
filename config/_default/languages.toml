@@ -18,70 +18,80 @@
   description = "欢迎来到圣母圣名堂！ 我们的教堂坐落在巴冬丁宜，距离居林、爪义、武吉淡文南北大道不远。"
 
 [[zh.menu.main]]
-  name = "首页"
+  name = "关于"
   url = "#about"
   weight = 10
 
 [[zh.menu.main]]
-  name = "福音"
-  url = "#posts"
+  name = "堂讯"
+  url = "#accomplishments"
   weight = 20
 
 [[zh.menu.main]]
-  name = "活动"
-  url = "#projects"
+  name = "反省"
+  url = "#posts"
   weight = 30
 
 [[zh.menu.main]]
-  name = "关于"
-  url = "#publications"
+  name = "天主教资料"
+  url = "#projects"
   weight = 40
+
+[[zh.menu.main]]
+  name = "活动"
+  url = "#talks"
+  weight = 50
+
+[[zh.menu.main]]
+  name = "刊物"
+  url = "#publications"
+  weight = 60
 
 [[zh.menu.main]]
   name = "联络"
   url = "#contact"
-  weight = 50
+  weight = 90
 
-[[zh.menu.main]]
-  name = "圣事"
-  url = "sacraments"
-  hasChildren = true
-  weight = 60
+#[[zh.menu.main]]
+#  name = "圣事"
+#  url = "sacraments"
+#  hasChildren = true
+#  weight = 70
 
-[[zh.menu.main]]
-  parent = "圣事"
-  name = "领洗圣事"
-  url = "sacraments/baptism"
+#[[zh.menu.main]]
+#  parent = "圣事"
+#  name = "领洗圣事"
+#  url = "sacraments/baptism"
 
-[[zh.menu.main]]
-  parent = "圣事"
-  name = "圣体圣事"
-  url = "sacraments/communion"
+#[[zh.menu.main]]
+#  parent = "圣事"
+#  name = "圣体圣事"
+#  url = "sacraments/communion"
 
-[[zh.menu.main]]
-  parent = "圣事"
-  name = "坚振圣事"
-  url = "sacraments/confirmation"
+#[[zh.menu.main]]
+#  parent = "圣事"
+#  name = "坚振圣事"
+#  url = "sacraments/confirmation"
 
-[[zh.menu.main]]
-  parent = "圣事"
-  name = "婚姻圣事"
-  url = "sacraments/matrimony"
+#[[zh.menu.main]]
+#  parent = "圣事"
+#  name = "婚姻圣事"
+#  url = "sacraments/matrimony"
 
-[[zh.menu.main]]
-  parent = "圣事"
-  name = "和好圣事"
-  url = "sacraments/reconciliation"
+#[[zh.menu.main]]
+#  parent = "圣事"
+#  name = "和好圣事"
+#  url = "sacraments/reconciliation"
 
-[[zh.menu.main]]
-  parent = "圣事"
-  name = "病人傅油"
-  url = "sacraments/anointing"
+#[[zh.menu.main]]
+#  parent = "圣事"
+#  name = "病人傅油"
+#  url = "sacraments/anointing"
 
-[[zh.menu.main]]
-  parent = "圣事"
-  name = "圣秩圣事"
-  url = "sacraments/holy-orders"
+#[[zh.menu.main]]
+#  parent = "圣事"
+#  name = "圣秩圣事"
+#  url = "sacraments/holy-orders"
 
 [[zh.menu.main]]
   name = "组织"

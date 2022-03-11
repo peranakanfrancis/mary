@@ -52,8 +52,8 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "黄柄隆神父的灵修专栏"
-  content = "来，听一听天主要对你说的话"
+  title = "灵修专栏"
+  content = "一起来读一读退休黄神父所写的圣言反省"
   cta_label = "马上阅读"
   align = "center"
   cta_url = "/zh/spiritual-column"

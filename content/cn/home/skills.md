@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "如何与天主建立一百分的关系"
+title = "与天主建立关系"
 subtitle = "让天主改变我们的心，转变我们的生活态度，让我们与耶稣更相似"
 
 # Showcase personal skills or business features.

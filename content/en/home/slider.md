@@ -53,8 +53,8 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Fr Augustine Wong's Spiritual Column"
-  content = "Come listen to what God has to say to you"
+  title = "Spiritual Column"
+  content = "Come and grow our spiritual life together with reflection written by retired priest Fr Augustine Wong"
   cta_label = "Read now"
   align = "center"
   cta_url = "/en/spiritual-column/"
