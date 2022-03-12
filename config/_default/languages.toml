@@ -28,7 +28,7 @@
   weight = 20
 
 [[zh.menu.main]]
-  name = "反省"
+  name = "圣言反省"
   url = "#posts"
   weight = 30
 
