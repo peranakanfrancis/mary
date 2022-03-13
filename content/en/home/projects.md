@@ -26,7 +26,7 @@ subtitle = "A handpicked of good resources from around the world to help you gai
     tag = "*"
 
   [[content.filter_button]]
-    name = "Sacraments"
+    name = "Question about Faith"
     tag = "Sacraments"
 
   [[content.filter_button]]

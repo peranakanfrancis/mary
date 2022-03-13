@@ -26,7 +26,7 @@ subtitle = "我们精选了一些能够帮助你灵修增长的资源"
     tag = "*"
 
   [[content.filter_button]]
-    name = "教会圣事"
+    name = "信仰问题"
     tag = "教会圣事"
 
   [[content.filter_button]]
