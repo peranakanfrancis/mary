@@ -45,6 +45,9 @@ subtitle = "A handpicked of good resources from around the world to help you gai
     name = "Donation"
     tag = "Donation"
 
+  [[content.filter_button]]
+    name = "Job Vacancy"
+    tag = "Vacancy"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

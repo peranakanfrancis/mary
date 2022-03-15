@@ -45,6 +45,10 @@ subtitle = "我们精选了一些能够帮助你灵修增长的资源"
     name = "乐捐"
     tag = "乐捐"
 
+  [[content.filter_button]]
+    name = "工作空缺"
+    tag = "征聘"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
