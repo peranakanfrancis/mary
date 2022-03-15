@@ -17,6 +17,18 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
+  title = "Notice"
+  content = "Parish office is closed till 18/3. Any urgent issue and administration please contact Theresa Peih Peih at 014-5373838"
+  cta_label = "WhatsApp Now"
+  align = "center"
+  cta_url = "https://wa.link/0khuby"
+  cta_icon_pack = "fas"
+  cta_icon = "whatsapp"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "slider/office.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "Timetable for Mass"
   content = "Get update for our church's latest announcements"
   cta_label = "Download Now"
@@ -35,15 +47,15 @@ height = ""
   align = "center"
   cta_url = "https://forms.gle/Tq5JqzDXojKaRrCa6"
   cta_icon_pack = "fas"
-  cta_icon = "comment-pen"
+  cta_icon = "feather"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "slider/church.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Brick Donation Campaign"
-  content = "Are you willing to donate brick for our new church building fund?"
-  cta_label = "WhatsApp Pei Pei now"
+  content = "We are raising fund for new church buidling. Please contact Theresa Peih Peih at 014-5373838 for donation"
+  cta_label = "WhatsApp Now"
   align = "center"
   cta_url = "https://wa.link/q8z6sv"
   cta_icon_pack = "fas"
@@ -69,7 +81,7 @@ height = ""
   content = "Are you having a crisis of feeling overwhelmed? You don't have to suffer in silence."
   cta_label = "Call 03-2723 7272"
   align = "center"
-  cta_url = "callto:+60327237272"
+  cta_url = "tel:+60327237272"
   cta_icon_pack = "fas"
   cta_icon = "phone"
   overlay_color = "#555"  # An HTML color value.

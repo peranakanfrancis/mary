@@ -16,6 +16,18 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
+  title = "通告"
+  content = "圣堂办事处暂时关闭至3月18日。如有任何紧急事项，请联络蔡佩佩姐妹（014-5373838）"
+  cta_label = "WhatsApp 佩佩"
+  align = "center"
+  cta_url = "https://wa.link/0khuby"
+  cta_icon_pack = "fas"
+  cta_icon = "whatsapp"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "slider/office.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "弥撒时间表"
   content = "获取我们教堂的最新通告"
   cta_label = "马上下载"
@@ -34,15 +46,15 @@ height = ""
   align = "center"
   cta_url = "https://forms.gle/Tq5JqzDXojKaRrCa6"
   cta_icon_pack = "fas"
-  cta_icon = "comment-pen"
+  cta_icon = "feather"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "slider/church.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "奉砖建堂"
-  content = "你愿意乐捐砖块，以帮助我们教会筹款建新教堂吗？"
-  cta_label = "请 WhatsApp 佩佩"
+  content = "我们正在为建新教堂筹款，如果你要乐捐砖块，请联络蔡佩佩姐妹询问"
+  cta_label = "WhatsApp 佩佩"
   align = "center"
   cta_url = "https://wa.link/q8z6sv"
   cta_icon_pack = "fas"
