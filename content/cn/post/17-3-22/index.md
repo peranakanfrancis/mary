@@ -15,7 +15,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   caption:
-  focal_point: "Right"
+  focal_point: "Center"
   preview_only: false
 
 # Projects (optional).
