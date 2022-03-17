@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: NewBEC
-summary: Newbec is published by The Archdiocesan Pastoral Institute (KL), this material will help us grow in faith and enhance our spiritual life.
+linktitle: 基信团月省
+summary: 教友鼓励阅读基信团月省，帮助我们自己在家反省和祈祷。
 weight: 1
 
 # Page metadata.
-title: '3rd Sunday of Lent'
+title: '基信团月省(2020年3月)'
 date: "2022-03-20T00:00:00+08:00"
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
@@ -15,9 +15,11 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  newbec:
-    name: 3rd Sunday of Lent
+  becreflection:
+    name: 2020年3月
     weight: 1
 ---
 
-{{< figure src="/files/newbec/NEWBEC_March22_Eng_Wk3.png" >}}
+{{< figure src="/files/becreflection/becreflectionmar2022m-0.png" >}}
+
+{{< figure src="/files/becreflection/becreflectionmar2022m-1.png" >}}

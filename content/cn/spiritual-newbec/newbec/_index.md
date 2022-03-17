@@ -6,7 +6,7 @@ weight: 1
 
 # Page metadata.
 title: '四旬期第三主日'
-date: "2022-03-17T00:00:00+08:00"
+date: "2022-03-20T00:00:00+08:00"
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -20,4 +20,4 @@ menu:
     weight: 1
 ---
 
-{{< adobe-pdf url="https://www.stignatiuspj.org/wp-content/uploads/2022/03/newbec20marm.pdf" filename="newbec20marm.pdf" >}}
+{{< figure src="/files/newbec/NEWBEC_March22_Chi_Wk3.png" >}}
