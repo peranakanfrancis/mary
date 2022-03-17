@@ -38,7 +38,11 @@ subtitle = "我们精选了一些能够帮助你灵修增长的资源"
     tag = "祈祷"
 
   [[content.filter_button]]
-    name = "电视电影"
+    name = "新闻"
+    tag = "新闻"
+
+  [[content.filter_button]]
+    name = "娱乐"
     tag = "视频"
 
   [[content.filter_button]]
@@ -46,7 +50,7 @@ subtitle = "我们精选了一些能够帮助你灵修增长的资源"
     tag = "乐捐"
 
   [[content.filter_button]]
-    name = "工作空缺"
+    name = "工作招聘"
     tag = "征聘"
 
 [design]

@@ -119,6 +119,11 @@
     name = "黄柄隆神父"
     url = "spiritual-column"
 
+[[zh.menu.main]]
+    parent ="灵修"
+    name = "NewBEC"
+    url = "spiritual-newbec"
+    
 ### Tamil menu
 [ta]
   languageCode = "ta"

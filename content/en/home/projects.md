@@ -26,7 +26,7 @@ subtitle = "A handpicked of good resources from around the world to help you gai
     tag = "*"
 
   [[content.filter_button]]
-    name = "Question about Faith"
+    name = "Questions about Faith"
     tag = "Sacraments"
 
   [[content.filter_button]]
@@ -38,15 +38,19 @@ subtitle = "A handpicked of good resources from around the world to help you gai
     tag = "Prayers"
 
   [[content.filter_button]]
-    name = "TV & Movies"
+    name = "News"
+    tag = "Newspaper"
+
+  [[content.filter_button]]
+    name = "Entertainments"
     tag = "Video"
 
   [[content.filter_button]]
-    name = "Donation"
+    name = "Donations"
     tag = "Donation"
 
   [[content.filter_button]]
-    name = "Job Vacancy"
+    name = "Job Vacancies"
     tag = "Vacancy"
 
 [design]
