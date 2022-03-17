@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: NewBEC
+linktitle: NewBEC Reflection
 summary: NewBEC Reflection is for us to read, reflect & pray at home.
 weight: 1
 
