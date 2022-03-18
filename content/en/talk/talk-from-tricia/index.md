@@ -28,7 +28,7 @@ links:
 - icon: file-user
   icon_pack: fas
   name: 'About Tricia'
-  url: '/img/talk/talk-from-tricia.pdf'
+  url: 'https://drive.google.com/file/d/113JBNMmT-pCJcs9ViLNBsB7v9z5sUWDX/view?usp=sharing'
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
