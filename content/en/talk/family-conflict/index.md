@@ -1,20 +1,20 @@
 ---
-title: 'Talk and Formation for "Spiritual Accompaniment" & "Pastoral care on depression"'
-event: 'Seminar (English)'
+title: 'Seminar for "Family Conflict" in Tamil'
+event: 'Seminar'
 event_url:
-location: 'Church of The Holy Name of Mary Permatang Tinggi (St Mary Hall)'
-summary: "There will be a special talk and formation during this Lent. A missionary name Tricia from US will be conducting this weekend talk and on Monday she will be offering one to one counselling."
-abstract: "There will be a special talk and formation during this Lent. A missionary name Tricia from US will be conducting this weekend talk and on Monday she will be offering one to one counselling."
+location: 'St Anthony Church Nibong Tebal'
+summary: "There will be talk about “Family Conflict” by Dr David. Good for Ee (Engaged Encounter) couple and parents to attend."
+abstract: "There will be talk about “Family Conflict” by Dr David. Good for Ee (Engaged Encounter) couple and parents to attend."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-03-26T20:00:00+08:00"
-date_end: "2022-03-26T22:00:00+08:00"
+date: "2022-03-27T11:00:00+08:00"
+date_end: "2022-03-27T13:00:00+08:00"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-03-18T00:00:00Z"
+publishDate: "2022-03-18T00:00:00+08:00"
 
-authors: ["Tricia"]
+authors: ["Dr David"]
 tags: ["Seminar"]
 
 # Is this a featured talk? (true/false)
@@ -24,11 +24,11 @@ image:
   caption:
   focal_point:
 
-links:
-- icon: user
-  icon_pack: fas
-  name: 'About Tricia'
-  url: 'https://drive.google.com/file/d/113JBNMmT-pCJcs9ViLNBsB7v9z5sUWDX/view?usp=sharing'
+#links:
+#- icon: file-user
+#  icon_pack: fas
+#  name: 'About Tricia'
+#  url: 'https://drive.google.com/file/d/113JBNMmT-pCJcs9ViLNBsB7v9z5sUWDX/view?usp=sharing'
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
@@ -65,14 +65,3 @@ math: false
 
 # Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
 ---
-
-Topic as below:
-1. Spiritual Accompaniment  
-2. Pastoral care on depression.
-
-- 26th (Sat) 8pm in English
-- 27th (Sun) 7pm in Mandarin
-- 28th (Mon) 10am one to one counselling.
-- Venue : St Mary Hall
-
-Don't miss out on this rare opportunity。

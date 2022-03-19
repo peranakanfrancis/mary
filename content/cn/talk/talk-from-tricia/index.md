@@ -25,9 +25,9 @@ image:
   focal_point:
 
 links:
-- icon: file-user
+- icon: user
   icon_pack: fas
-  name: 关于Tricia
+  name: 关于 Tricia
   url: 'https://drive.google.com/file/d/113JBNMmT-pCJcs9ViLNBsB7v9z5sUWDX/view?usp=sharing'
 #url_code: ""
 #url_pdf: ""

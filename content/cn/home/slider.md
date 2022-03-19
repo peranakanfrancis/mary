@@ -16,23 +16,11 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "通告"
-  content = "圣堂办事处暂时关闭至3月18日。如有任何紧急事项，请联络蔡佩佩姐妹（014-5373838）"
-  cta_label = "WhatsApp 佩佩"
-  align = "center"
-  cta_url = "https://wa.link/0khuby"
-  cta_icon_pack = "fas"
-  cta_icon = "whatsapp"
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "slider/office.jpeg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
   title = "弥撒时间表"
   content = "获取我们教堂的最新通告"
   cta_label = "马上下载"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1fqH9zWQfeBJoMDb45HfJh32_6feBv7OY/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1ae1r7tSm03WBwupFL-zFTtsTvQKYohn-/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.
