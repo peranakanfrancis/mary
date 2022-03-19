@@ -14,7 +14,7 @@ menu:
 weight: 2
 ---
 
-{{< figure src="/img/spiritual-column/3rd-sundayy-of-lent.jpeg" >}}
+{{< figure src="/img/spiritual-column/3rd-sunday-of-lent.jpeg" >}}
 
 ## 悔改的礼物
 > “这称为我名下的百姓，如果谦逊祈祷，寻求我的面，远离自己的惡行，我必從天上俯听，寬恕他们的罪过，使他们的土地生產。”（编下7:14）
