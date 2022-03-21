@@ -1,7 +1,7 @@
 ---
 title: '"灵修陪伴"和"抑郁症的牧灵关怀"的讲座和培育'
 event: '讲座(华语)'
-event_url:
+event_url: 'https://fb.me/e/2iUol00UW'
 location: '峇冬丁宜圣母圣名堂(圣玛利亚大礼堂）'
 summary: "在这四旬期里将有一个特别的讲座和培育。来自一位美国的传教士Tricia将在周未进行讲座，及在隔天星期一她将提供一对一的咨询。"
 abstract: "在这四旬期里将有一个特别的讲座和培育。来自一位美国的传教士Tricia将在周未进行讲座，及在隔天星期一她将提供一对一的咨询。"
@@ -25,6 +25,11 @@ image:
   focal_point:
 
 links:
+- icon: hand
+  icon_pack: fas
+  name: 我要出席
+  url: 'https://fb.me/e/2iUol00UW'
+
 - icon: user
   icon_pack: fas
   name: 关于 Tricia

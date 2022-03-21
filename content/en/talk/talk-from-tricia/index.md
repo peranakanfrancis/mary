@@ -1,7 +1,7 @@
 ---
 title: 'Talk and Formation for "Spiritual Accompaniment" & "Pastoral care on depression"'
 event: 'Seminar (English)'
-event_url:
+event_url: 'https://fb.me/e/1nXZ4rRV7'
 location: 'Church of The Holy Name of Mary Permatang Tinggi (St Mary Hall)'
 summary: "There will be a special talk and formation during this Lent. A missionary name Tricia from US will be conducting this weekend talk and on Monday she will be offering one to one counselling."
 abstract: "There will be a special talk and formation during this Lent. A missionary name Tricia from US will be conducting this weekend talk and on Monday she will be offering one to one counselling."
@@ -25,10 +25,15 @@ image:
   focal_point:
 
 links:
+- icon: hand
+  icon_pack: fas
+  name: Going
+  url: 'https://fb.me/e/1nXZ4rRV7'
 - icon: user
   icon_pack: fas
   name: 'About Tricia'
   url: 'https://drive.google.com/file/d/113JBNMmT-pCJcs9ViLNBsB7v9z5sUWDX/view?usp=sharing'
+
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
