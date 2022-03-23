@@ -1,5 +1,5 @@
 ---
-title: 天主教直播 Catholics Go Live
+title: 天主教直播 Catholics Go Live (YouTube)
 summary: "天主教直播是一个平台，让华文天主教徒分享信仰，质询的平台。我们也欢迎有建议的你，参与并贡献。若你愿意，欢迎联系我们。谢谢！
 
 欢迎通过面子书联络我们。记得帮忙订阅我们的Youtube 频道，感恩天主保佑！"
