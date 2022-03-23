@@ -27,7 +27,7 @@ subtitle = "A handpicked of good resources from around the world to help you gai
 
   [[content.filter_button]]
     name = "Questions about Faith"
-    tag = "Sacraments"
+    tag = "Faith"
 
   [[content.filter_button]]
     name = "Mass"
