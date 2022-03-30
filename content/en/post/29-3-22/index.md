@@ -1,5 +1,5 @@
 ---
-title: ' | John 5:1-16'
+title: 'Paralyzed by Sin | John 5:1-16'
 subtitle: 'Jesus said to him, “Rise, take up your mat, and walk.”  Immediately the man became well, took up his mat, and walked.  John 5:8–9'
 summary: 'Jesus said to him, “Rise, take up your mat, and walk.”  Immediately the man became well, took up his mat, and walked.  John 5:8–9'
 authors:
@@ -56,7 +56,7 @@ projects: []
 {{< youtube A60Fg6gAkKg >}}
 
 ### :love_letter: Gospel
-> After this, there was a feast of the Jews, and Jesus went up to Jerusalem. Now there is in Jerusalem at the Sheep [Gate] a pool called in Hebrew Bethesda, with five porticoes. In these lay a large number of ill, blind, lame, and crippled. 
+> After this, there was a feast of the Jews, and Jesus went up to Jerusalem. Now there is in Jerusalem at the Sheep [Gate] a pool called in Hebrew Bethesda, with five porticoes. In these lay a large number of ill, blind, lame, and crippled.
 
 > One man was there who had been ill for thirty-eight years. When Jesus saw him lying there and knew that he had been ill for a long time, he said to him, “Do you want to be well?” The sick man answered him, “Sir, I have no one to put me into the pool when the water is stirred up; while I am on my way, someone else gets down there before me.” Jesus said to him, “Rise, take up your mat, and walk.” Immediately the man became well, took up his mat, and walked.
 
