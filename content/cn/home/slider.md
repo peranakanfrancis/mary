@@ -20,7 +20,7 @@ height = ""
   content = "获取我们教堂的最新通告"
   cta_label = "马上下载"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1ae1r7tSm03WBwupFL-zFTtsTvQKYohn-/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1AzQm45_qMeIRVk7AwXhmaks335gEeTB0/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.
@@ -73,29 +73,5 @@ height = ""
   cta_icon = "phone"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "caring.jpeg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "先锋报"
-  content = "马来西亚天主教一份最具影响力的报纸"
-  cta_label = "马上索取"
-  align = "center"
-  cta_url = "https://www.heraldmalaysia.com/home/epaper-chinese"
-  cta_icon_pack = "fas"
-  cta_icon = "rss-square"
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "stmarypt2.jpeg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "国家防洪基金"
-  content = "让我们同**Caritas**一起帮助水灾受害家庭"
-  cta_label = "我要捐款"
-  align = "center"
-  cta_url = "/img/slider/national-flood-relief-fund.jpeg"
-  cta_icon_pack = "fas"
-  cta_icon = "hand-holding-usd"
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "slider/kl-flood-donation.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++

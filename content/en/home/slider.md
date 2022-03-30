@@ -21,7 +21,7 @@ height = ""
   content = "Get update for our church's latest announcements"
   cta_label = "Download Now"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1ae1r7tSm03WBwupFL-zFTtsTvQKYohn-/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1NSPIdTXDsEf1wZR6L_9Mv-SIwCYpgCv_/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.
@@ -74,28 +74,5 @@ height = ""
   cta_icon = "phone"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "caring.jpeg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "Herald Malaysia"
-  content = "daily news source with Malaysian and Global coverage of the Catholic Churches."
-  cta_label = "Read now"
-  align = "center"
-  cta_url = "https://www.heraldmalaysia.com/home/epaper-english"
-  cta_icon_pack = "fas"
-  cta_icon = "rss-square"
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "stmarypt2.jpeg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-[[item]]
-  title = "National Flood Relief Fund"
-  content = "Together with **Caritas**, let us reach out to help the flood victims."
-  cta_label = "Donate now"
-  align = "center"
-  cta_url = "/img/slider/national-flood-relief-fund.jpeg"
-  cta_icon_pack = "fas"
-  cta_icon = "hand-holding-usd"
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "slider/kl-flood-donation.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
