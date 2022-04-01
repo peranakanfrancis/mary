@@ -5,7 +5,7 @@ summary: BEC Reflection is for us to read, reflect & pray at home.
 weight: 1
 
 # Page metadata.
-title: 'BEC Reflection (March 2020)'
+title: 'BEC Reflection (March 2022)'
 date: "2022-03-17T00:00:00+08:00"
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
@@ -16,7 +16,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   becreflection:
-    name: March 2020
+    name: March 2022
     weight: 1
 ---
 
