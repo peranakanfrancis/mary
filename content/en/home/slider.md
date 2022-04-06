@@ -21,35 +21,11 @@ height = ""
   content = "Get update for our church's latest announcements"
   cta_label = "Download Now"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1NSPIdTXDsEf1wZR6L_9Mv-SIwCYpgCv_/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1jHpKaV08E1hQETandEm8Mme09EX4O2vA/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "stmarypt7.jpeg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "Question for the Youth"
-  content = "If you could ask God one question, what would it be?"
-  cta_label = "Comment now"
-  align = "center"
-  cta_url = "https://forms.gle/Tq5JqzDXojKaRrCa6"
-  cta_icon_pack = "fas"
-  cta_icon = "feather"
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "slider/church.jpeg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "Brick Donation Campaign"
-  content = "We are raising fund for new church buidling. Please contact Theresa Peih Peih at 014-5373838 for donation"
-  cta_label = "WhatsApp Now"
-  align = "center"
-  cta_url = "https://wa.link/q8z6sv"
-  cta_icon_pack = "fas"
-  cta_icon = "whatsapp"
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "slider/brick.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
