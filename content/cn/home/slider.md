@@ -20,7 +20,7 @@ height = ""
   content = "获取我们教堂的最新通告"
   cta_label = "马上下载"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1ZSb_n9nrmdrnfYAjnWzujCQFLXClx1j0/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1S250NzhvnK9yS7F4yaEgB6ubEx3-Bqq_/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.
