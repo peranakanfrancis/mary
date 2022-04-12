@@ -4,7 +4,8 @@
   },
   "scripts": {
     "build": "hugo --minify --gc",
-    "serve": "hugo serve --cleanDestinationDir --gc"
+    "serve": "hugo serve --cleanDestinationDir --gc -F",
+    "cleanup": "find . -name '.DS_Store' -type f -delete"
   },
   "devDependencies": {
     "netlify-plugin-image-optim": "^0.4.0"

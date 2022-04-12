@@ -4,7 +4,7 @@ subtitle: 'Mary took a liter of costly perfumed oil made from genuine aromatic n
 summary: 'Mary took a liter of costly perfumed oil made from genuine aromatic nard and anointed the feet of Jesus and dried them with her hair; the house was filled with the fragrance of the oil.  John 12:3'
 authors:
 - admin
-tags: ["Luke"]
+tags: ["John"]
 categories: ["Daily Reflection"]
 date: "2022-04-11T00:00:00+08:00"
 featured: false
