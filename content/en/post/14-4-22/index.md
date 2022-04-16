@@ -1,5 +1,5 @@
 ---
-title: 'Humility of Service, Nourished by the Eucharist | John 33:1-15'
+title: 'Humility of Service, Nourished by the Eucharist | John 13:1-15'
 subtitle: '“This is my body that is for you. Do this in remembrance of me.”  1 Cor. 11:24'
 summary: '“This is my body that is for you. Do this in remembrance of me.”  1 Cor. 11:24'
 authors:

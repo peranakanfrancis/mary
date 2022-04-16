@@ -21,11 +21,23 @@ height = ""
   content = "Get update for our church's latest announcements"
   cta_label = "Download Now"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1h5YK3qqD4fgXrixnP97ueyb8jqLlVdBu/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1k1ygoyVsArWP3_5oJ-WUw0LPnTK3ZTfs/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "stmarypt7.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = "Donation for New Church Building"
+  content = "Join us to build new church for the next generation. God will loves your generosity."
+  cta_label = "Donate Now"
+  align = "center"
+  cta_url = "/en/project/donation-form"
+  cta_icon_pack = "fas"
+  cta_icon = "hand-holding-dollar"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "slider/crowded.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]

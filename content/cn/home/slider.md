@@ -20,11 +20,23 @@ height = ""
   content = "获取我们教堂的最新通告"
   cta_label = "马上下载"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1S250NzhvnK9yS7F4yaEgB6ubEx3-Bqq_/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1aesT9IO3GTvnIZ3qO2j_h2lUBe6PCXyH/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "stmarypt7.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = "建新堂线上捐献"
+  content = "欢迎大家慷慨乐捐，帮助我们建一座新教堂，好让我们的下一代有机会来教堂学耶稣的道理"
+  cta_label = "马上乐捐"
+  align = "center"
+  cta_url = "/zh/project/donation-form/"
+  cta_icon_pack = "fas"
+  cta_icon = "hand-holding-dollar"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "slider/crowded.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
