@@ -50,16 +50,4 @@ height = ""
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "stmarypt1.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "免费及匿名的情绪支援"
-  content = "您是否感觉心理已无力承受?您不必独自承受请致电 Shalom 关怀热线."
-  cta_label = "请致电03-2723 7272"
-  align = "center"
-  cta_url = ""
-  cta_icon_pack = "fas"
-  cta_icon = "phone"
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "caring.jpeg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++

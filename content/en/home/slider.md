@@ -51,16 +51,4 @@ height = ""
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "stmarypt1.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = " Free and anonymous emotional support and is just a call away."
-  content = "Are you having a crisis of feeling overwhelmed? You don't have to suffer in silence."
-  cta_label = "Call 03-2723 7272"
-  align = "center"
-  cta_url = "tel:+60327237272"
-  cta_icon_pack = "fas"
-  cta_icon = "phone"
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "caring.jpeg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
