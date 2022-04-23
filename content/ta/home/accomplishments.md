@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Bulletin"
-subtitle = "Get updated to our church events."
+title = "Bulletins"
+subtitle = "Get updated to our church events"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,23 +19,24 @@ time_format ="3:04 PM"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "**New Tamil Bulletin**"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/1mPGBWvf9pFxKs3bhsGOXL3k3L_B0oGt4/view?usp=sharing"
-  date_start = "2022-02-13"
-  date_end = "2022-02-20"
-  description = "6th Sunday of Ordinary Time"
 
 [[item]]
   organization = ""
   organization_url = ""
-  title = "~~Archive Tamil Bulletin~~"
+  title = "**புதியச் செய்தித் தாள்**"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/1pbSZcEOg0zcKtS_C-QbDdCrLz6S_gUgx/view?usp=sharing"
-  date_start = "2022-01-30"
-  date_end = "2022-02-06"
-  description = "4th Sunday of Ordinary Time"
+  certificate_url = "https://drive.google.com/file/d/1AqC3kcbQ2RTOlBXxZmMc1in_IVB3ilO8/view?usp=sharing"
+  date_start = "2022-04-24"
+  date_end = "2022-05-01"
+  description = "இறை இரக்க ஞாயிறு"
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "~~கடந்த செய்தித் தாள்~~"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1k1ygoyVsArWP3_5oJ-WUw0LPnTK3ZTfs/view?usp=sharing"
+  date_start = "2022-04-17"
+  date_end = "2022-04-24"
+  description = "உயிர்ப்பின் ஞாயிறு"
 +++
