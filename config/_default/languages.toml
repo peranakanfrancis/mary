@@ -123,12 +123,12 @@
     parent ="灵修"
     name = "NewBEC"
     url = "spiritual-newbec"
-    
+
 ### Tamil menu
 [ta]
   languageCode = "ta"
   contentDir = "content/ta"
-  title =  "HNM Permatang Tinggi"
+  title =  "மரியாளின் தூய பெயர் தேவாலயம்"
 
 
 [[ta.menu.main]]
