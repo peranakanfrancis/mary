@@ -56,7 +56,7 @@ projects: []
 {{< youtube I8jo2_M-Y_0 >}}
 
 ### :love_letter: Gospel
-> He said to them, “Go into the whole world and proclaim the gospel to every creature. Whoever believes and is baptized will be saved; whoever does not believe will be condemned. These signs will accompany those who believe: in my name they will drive out demons, they will speak new languages. They will pick up serpents [with their hands], and if they drink any deadly thing, it will not harm them. They will lay hands on the sick, and they will recover.”j
+> He said to them, “Go into the whole world and proclaim the gospel to every creature. Whoever believes and is baptized will be saved; whoever does not believe will be condemned. These signs will accompany those who believe: in my name they will drive out demons, they will speak new languages. They will pick up serpents [with their hands], and if they drink any deadly thing, it will not harm them. They will lay hands on the sick, and they will recover.”
 
 > So then the Lord Jesus, after he spoke to them, was taken up into heaven and took his seat at the right hand of God. But they went forth and preached everywhere, while the Lord worked with them and confirmed the word through accompanying signs.
 
