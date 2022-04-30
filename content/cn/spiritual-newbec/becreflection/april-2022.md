@@ -1,6 +1,6 @@
 ---
-title: '基信团月省(2020年4月)'
-linktitle: '2020年4月'
+title: '基信团月省(2022年4月)'
+linktitle: '2022年4月'
 toc: false
 type: docs
 date: "2022-04-03T00:00:00+08:00"
