@@ -28,6 +28,18 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
+  title = "教宗5月祈祷意向"
+  content = "请为年轻人的信仰祈祷"
+  cta_label = "阅读全文"
+  align = "center"
+  cta_url = "https://www.vaticannews.va/zh/pope/news/2022-05/pope-francis-2022-prayer-intent-may-faith-filled-young-people.html"
+  cta_icon_pack = "fas"
+  cta_icon = "glasses"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "slider/pope.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "建新堂线上捐献"
   content = "欢迎大家慷慨乐捐，帮助我们建一座新教堂，好让我们的下一代有机会来教堂学耶稣的道理"
   cta_label = "马上乐捐"

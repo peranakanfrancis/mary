@@ -29,6 +29,18 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
+  title = "Pope’s May prayer intention"
+  content = "to pray for young Catholics to be courageous in their response to God’s call."
+  cta_label = "Full Article"
+  align = "center"
+  cta_url = "https://www.vaticannews.va/en/pope/news/2022-05/pope-francis-may-2022-prayer-intention-young-people.html"
+  cta_icon_pack = "fas"
+  cta_icon = "glasses"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "slider/pope.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "Donation for New Church Building"
   content = "Join us to build new church for the next generation. God will loves your generosity."
   cta_label = "Donate Now"
