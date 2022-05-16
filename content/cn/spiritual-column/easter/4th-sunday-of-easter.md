@@ -3,7 +3,7 @@ title: '复活期第四主日 (若10:27-30)'
 linktitle: '复活期第四主日'
 toc: true
 type: docs
-date: "2022-05-01T00:00:00+08:00"
+date: "2022-05-08T00:00:00+08:00"
 draft: false
 menu:
   easter:
