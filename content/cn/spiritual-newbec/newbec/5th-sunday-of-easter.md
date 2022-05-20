@@ -8,7 +8,7 @@ draft:
 menu:
   newbec:
     parent: 复活主日
-    weight: 8
+    weight: 9
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
