@@ -21,7 +21,7 @@ height = ""
   content = "நமது தல அவையின் புதிய நிரல்களைப் பெற்றிடுங்கள்"
   cta_label = "இப்பொழுதே பதிவிறக்குங்கள்"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1IdgA1yXUzrTvPhzmwGHbffOIrcc4qMfU/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1w4UNe3IvX8OJZvCgZZYTQ1rEG9r1pSu8/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.
