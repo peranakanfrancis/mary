@@ -21,7 +21,7 @@ height = ""
   content = "Get update for our church's latest announcements"
   cta_label = "Download Now"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1VxJLn1A2SwR-7eQr1PIkznVhmiRbKJHb/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1VNR_F-Xx-psi2b3KNdb4QjsIHYDECi29/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.
