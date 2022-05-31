@@ -56,9 +56,7 @@ projects: []
 {{< youtube HEb8ZXfbfZI >}}
 
 ### :love_letter: Gospel
-> “I pray not only for them, but also for those who will believe in me through their word, so that they may all be one, as you, Father, are in me and I in you, that they also may be in us, that the world may believe that you sent me. And I have given them the glory you gave me, so that they may be one, as we are one, I in them and you in me, that they may be brought to perfection as one, that the world may know that you sent me, and that you loved them even as you loved me.
-
-> Father, they are your gift to me. I wish that where I am they also may be with me, that they may see my glory that you gave me, because you loved me before the foundation of the world. Righteous Father, the world also does not know you, but I know you, and they know that you sent me. I made known to them your name and I will make it known, that the love with which you loved me may be in them and I in them.”
+> His disciples said, “Now you are talking plainly, and not in any figure of speech. Now we realize that you know everything and that you do not need to have anyone question you. Because of this we believe that you came from God.” Jesus answered them, “Do you believe now? Behold, the hour is coming and has arrived when each of you will be scattered* to his own home and you will leave me alone. But I am not alone, because the Father is with me. I have told you this so that you might have peace in me. In the world you will have trouble, but take courage, I have conquered the world.”
 
 ### :speech_balloon: Reflection
 Have you come to believe in Jesus?  How deep is that faith?  And why do you believe?  Are you ready and willing to hold on to that faith no matter what comes your way?  Are you ready to follow Him even if it’s difficult and unpopular?  Are you ready to suffer as a result of your faith?  These are important questions.  They are questions that we must answer both when it’s easy to be a Christian as well as when it’s hard.  
