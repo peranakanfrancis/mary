@@ -6,7 +6,7 @@ authors:
 - admin
 tags: ["若望福音"]
 categories: ["每日圣言反省"]
-date: "2022-06-02T00:00:00+08:00"
+date: "2022-06-03T00:00:00+08:00"
 featured: false
 draft: false
 

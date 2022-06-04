@@ -17,11 +17,11 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "Timetable for Mass"
-  content = "Get update for our church's latest announcements"
+  title = "Pentecost Sunday"
+  content = "Get this week church's bulletin"
   cta_label = "Download Now"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1VNR_F-Xx-psi2b3KNdb4QjsIHYDECi29/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1sNgE7kHPm0TKcsUdXM5Q4reMnK3qpLYP/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.
