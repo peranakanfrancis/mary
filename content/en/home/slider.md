@@ -17,11 +17,11 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "Pentecost Sunday"
+  title = "Trinity Sunday"
   content = "Get this week church's bulletin"
   cta_label = "Download Now"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1sNgE7kHPm0TKcsUdXM5Q4reMnK3qpLYP/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1Et1PHhap66_r2cezP6JGmLL-El5H1DMg/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.
@@ -29,11 +29,11 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Pope’s May prayer intention"
-  content = "to pray for young Catholics to be courageous in their response to God’s call."
+  title = "Pope’s June Prayer Intention"
+  content = "pray for families around the world"
   cta_label = "Full Article"
   align = "center"
-  cta_url = "https://www.vaticannews.va/en/pope/news/2022-05/pope-francis-may-2022-prayer-intention-young-people.html"
+  cta_url = "https://www.vaticannews.va/en/pope/news/2022-06/pope-francis-june-prayer-intention-families-world-meeting.html"
   cta_icon_pack = "fas"
   cta_icon = "glasses"
   overlay_color = "#555"  # An HTML color value.

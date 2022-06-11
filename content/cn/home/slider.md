@@ -16,11 +16,11 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "圣神降临"
+  title = "天主圣三日"
   content = "获取这个礼拜的堂讯"
   cta_label = "马上下载"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/16dV-Z2Y3GIpz9iyTeGGyMvw_SzLlP7OK/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/19dX_1FlPI_U84VNFe9A__2oy73a18y_8/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.
@@ -28,11 +28,11 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "教宗5月祈祷意向"
-  content = "请为年轻人的信仰祈祷"
+  title = "教宗六月祈祷意向"
+  content = "请为家庭祈祷"
   cta_label = "阅读全文"
   align = "center"
-  cta_url = "https://www.vaticannews.va/zh/pope/news/2022-05/pope-francis-2022-prayer-intent-may-faith-filled-young-people.html"
+  cta_url = "https://www.vaticannews.va/zh/pope/news/2022-06/pope-francis-june-prayer-intention-families-world-meeting.html"
   cta_icon_pack = "fas"
   cta_icon = "glasses"
   overlay_color = "#555"  # An HTML color value.
