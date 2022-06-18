@@ -17,11 +17,11 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "மூவொரு இறைவன் ஞாயிறு (பங்கு மண்டபம்)"
+  title = "மகிறித்துவின் திருஉடல், திருஇரத்தம் விழா"
   content = "நமது தல அவையின் புதிய நிரல்களைப் பெற்றிடுங்கள்"
   cta_label = "இப்பொழுதே பதிவிறக்குங்கள்"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1VbfxRA33MAqghs6ntGB7SX9jr2yozDrd/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/12IDQe9K1HxzcvHTs7vwkMRQPS8szw-0l/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.
