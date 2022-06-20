@@ -4,7 +4,7 @@ subtitle: '“Take it; this is my body.” Then he took a cup, gave thanks, and 
 summary: '“Take it; this is my body.” Then he took a cup, gave thanks, and gave it to them, and they all drank from it. He said to them, “This is my blood of the covenant, which will be shed for many.”'
 authors:
 - admin
-tags: ["Matthew"]
+tags: ["Luke"]
 categories: ["Daily Reflection"]
 date: "2022-06-20T00:00:00+08:00"
 featured: false
