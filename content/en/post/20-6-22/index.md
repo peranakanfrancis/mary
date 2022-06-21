@@ -56,7 +56,7 @@ projects: []
 {{< youtube Bsi7COtxui8 >}}
 
 ### :love_letter: Gospel
-> a “Stop judging, that you may not be judged. For as you judge, so will you be judged, and the measure with which you measure will be measured out to you. Why do you notice the splinter in your brother’s eye, but do not perceive the wooden beam in your own eye? How can you say to your brother, ‘Let me remove that splinter from your eye,’ while the wooden beam is in your eye? You hypocrite, remove the wooden beam from your eye first; then you will see clearly to remove the splinter from your brother’s eye.
+> “Stop judging, that you may not be judged. For as you judge, so will you be judged, and the measure with which you measure will be measured out to you. Why do you notice the splinter in your brother’s eye, but do not perceive the wooden beam in your own eye? How can you say to your brother, ‘Let me remove that splinter from your eye,’ while the wooden beam is in your eye? You hypocrite, remove the wooden beam from your eye first; then you will see clearly to remove the splinter from your brother’s eye.
 
 ### :speech_balloon: Reflection
 Being judgmental can be a difficult thing to shake.  Once someone falls into the habit of regularly thinking and speaking in a harsh and critical way, it’s very difficult for them to change.  In fact, once someone starts down the road of being critical and judgmental, chances are that they will continue down that road becoming more critical and more judgmental.
