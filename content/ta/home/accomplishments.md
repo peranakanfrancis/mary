@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Bulletins"
+title = "செய்தித் தாள்"
 subtitle = "Get updated to our church events"
 
 # Date format
@@ -25,18 +25,18 @@ time_format ="3:04 PM"
   organization_url = ""
   title = "**புதியச் செய்தித் தாள்**"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/12IDQe9K1HxzcvHTs7vwkMRQPS8szw-0l/view?usp=sharing"
-  date_start = "2022-06-19"
-  date_end = "2022-06-26"
-  description = "கிறித்துவின் திருஉடல், திருஇரத்தம் விழா"
+  certificate_url = "https://drive.google.com/file/d/17ez2MWefvWPqD1ryIPPzEtAksIa9wkWz/view?usp=sharing"
+  date_start = "2022-06-26"
+  date_end = "2022-07-03"
+  description = "பொதுக்காலத்தின் 13-ம் ஞாயிறு"
 
 [[item]]
   organization = ""
   organization_url = ""
   title = "~~கடந்த செய்தித் தாள்~~"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/1VbfxRA33MAqghs6ntGB7SX9jr2yozDrd/view?usp=sharing"
-  date_start = "2022-06-12"
-  date_end = "2022-06-19"
-  description = "மூவொரு இறைவன் ஞாயிறு (பங்கு மண்டபம்)ு"
+  certificate_url = "https://drive.google.com/file/d/12IDQe9K1HxzcvHTs7vwkMRQPS8szw-0l/view?usp=sharing"
+  date_start = "2022-06-19"
+  date_end = "2022-06-26"
+  description = "கிறித்துவின் திருஉடல், திருஇரத்தம் விழா"
 +++

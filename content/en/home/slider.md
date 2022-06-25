@@ -17,11 +17,11 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "Corpus Christi"
+  title = "13th Sunday of Ordinary Time"
   content = "Get this week church's bulletin"
   cta_label = "Download Now"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1jKPV8LtiK0HxVMbQZVpAp0JpCMiFgz74/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1XIto6B6RQbdC1RmVNrBtmcMKXBhsv5zQ/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.
