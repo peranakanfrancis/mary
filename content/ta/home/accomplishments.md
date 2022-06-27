@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "செய்தித் தாள்"
-subtitle = "Get updated to our church events"
+subtitle = "நம் பங்கு நிகழ்வுகளை உடனுக்குடன் அறிந்திடுங்கள்"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
