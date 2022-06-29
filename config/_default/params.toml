@@ -55,6 +55,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "hnmpt1928@hotmail.co.uk"
 phone = "+6045887799"
+whatsapp = "+60123480316"
 address = "Jalan Besar, Permatang Tinggi, 14000 Bukit Mertajam, Pulau Pinang  ([Google Maps](https://goo.gl/maps/KrdspqMCE5Ph75Qe7))"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
@@ -64,7 +65,7 @@ office_hours = """Tuesday - Friday 10AM to 5PM, <br>
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
-emergency = "+6016-537 3838"
+emergency = "+60123480316"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
