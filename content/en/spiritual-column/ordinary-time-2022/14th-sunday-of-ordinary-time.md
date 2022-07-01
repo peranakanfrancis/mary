@@ -18,7 +18,7 @@ weight: 2
 
 :gb: __English__
 ## Jesus sends out his Disciples.
-> “The Lord now chose seventy-two other disciples and sent them ahead in pairs to all the towns and places he planned to visit.” (Luke 10:1)
+> “The Lord now chose seventy-two other disciples and sent them ahead in pairs to all the towns and places he planned to visit.” (Luke 10:1) To spread the good news of Jesus that they have heard and experienced.
 
 ### Gospel
 1. After this the Lord appointed seventy-two others whom he sent ahead of him in pairs to every town and place he intended to visit.
@@ -35,8 +35,6 @@ weight: 2
 12. I tell you, it will be more tolerable for Sodom on that day than for that town.
 
 ### Reflection
-To spread the good news of Jesus that they have heard and experienced.
-
 As disciples of the Lord Jesus, we too are sent out to spread the good news of Jesus that we have heard and experienced.  But we cannot give what we have not got. So be with the Lord Jesus, listen, watch and learn from Him. In reading the Scriptures.  Then we will have much to give to those to whom we are sent.
 
 ___Fr. Augustine Wong___
