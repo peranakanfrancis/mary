@@ -94,11 +94,11 @@
   name = "Fr Augustine Wong"
   url = "spiritual-column"
 
-[[main]]
-  parent ="Spiritual"
-  name = "NewBEC"
-  url= "spiritual-newbec"
-  
+#[[main]]
+#  parent ="Spiritual"
+#  name = "NewBEC"
+#  url= "spiritual-newbec"
+
 #[[main]]
 #  parent = "Rental"
 #  name = "Hall"
