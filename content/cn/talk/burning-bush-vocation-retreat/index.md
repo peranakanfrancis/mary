@@ -1,6 +1,6 @@
 ---
 title: '在寻找吗？来看看吧！'
-event: '圣召避静 (四语)'
+event: '圣召避静 (英语讲课及各自语言分组讨论)'
 event_url: 'https://docs.google.com/forms/d/e/1FAIpQLScG7XQ0kjxdMtZ_Hhx8aLOL76ZavANeI77Maj7seoQXQFHsEQ/viewform'
 location: 'Stella Maris Retreat Centre, Penang'
 summary: "你是否觉觉得自己有想当神父、修女、修士的念头呢？这或许是来自天主的召叫，给自己和天主一个机会，来参与这次的避静分辨一下吧。开放给20-35岁单身男女。"

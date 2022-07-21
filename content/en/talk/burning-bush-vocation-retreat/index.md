@@ -1,6 +1,6 @@
 ---
-title: 'Burning Bush - A Vocation Retreat'
-event: 'Retreat (Multi-Languages)'
+title: 'Searching? Come Discover!'
+event: 'Burning Bush Vocation Retreat (English & Breakout Group in Own Mother Tongue)'
 event_url: 'https://docs.google.com/forms/d/e/1FAIpQLScG7XQ0kjxdMtZ_Hhx8aLOL76ZavANeI77Maj7seoQXQFHsEQ/viewform'
 location: 'Stella Maris Retreat Centre, Penang'
 summary: "Do you have a calling for priesthood or religious life? Give yourself and God a chance, you are welcome to join us for discern. Open for both male and female between 20-35 years old."
