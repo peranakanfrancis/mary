@@ -20,7 +20,7 @@ height = ""
   content = "获取这个礼拜的堂讯"
   cta_label = "马上下载"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1apwnSJV6CVdRcT59LgTHBf3IjeHfZ8JY/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1iwHgav0Lflod1F4P3dmqOOrMmVWO588r/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.
@@ -28,11 +28,11 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "教宗六月祈祷意向"
-  content = "请为家庭祈祷"
-  cta_label = "阅读全文"
+  title = "教宗八月祈祷意向"
+  content = "我们为中小企业祈祷； 在经济和社会危机中，愿他们找到继续经营和服务社区的方法。"
+  cta_label = ""
   align = "center"
-  cta_url = "https://www.vaticannews.va/zh/pope/news/2022-06/pope-francis-june-prayer-intention-families-world-meeting.html"
+  cta_url = ""
   cta_icon_pack = "fas"
   cta_icon = "glasses"
   overlay_color = "#555"  # An HTML color value.
