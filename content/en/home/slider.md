@@ -17,11 +17,11 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "18th Sunday of Ordinary Time"
+  title = "19th Sunday of Ordinary Time"
   content = "Get this week church's bulletin"
   cta_label = "Download Now"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1BRVHk7nbreAWZQHPy-eq-KeiOLHOkBat/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1yWqwaCcVWng1pCUJq0toJokHGHWXjy6d/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.
@@ -29,7 +29,7 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Pope’s Auguest Prayer Intention"
+  title = "Pope’s August Prayer Intention"
   content = "We pray for small and medium sized businesses; in the midst of economic and social crisis, may they find ways to continue operating, and serving their communities."
   cta_label = ""
   align = "center"
