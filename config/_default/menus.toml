@@ -3,30 +3,30 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-#[[main]]
-#  name = "About"
-#  url = "#about"
-#  weight = 10
+[[main]]
+  name = "About"
+  url = "#about"
+  weight = 10
 
 [[main]]
   name = "Bulletins"
   url = "#accomplishments"
   weight = 20
 
-[[main]]
-  name = "Reflections"
-  url = "#posts"
-  weight = 30
+#[[main]]
+#  name = "Reflections"
+#  url = "#posts"
+#  weight = 30
 
 [[main]]
   name = "Resources"
   url = "#projects"
-  weight = 40
+  weight = 60
 
 [[main]]
   name = "Events"
   url  = "#talks"
-  weight = 50
+  weight = 40
 
 [[main]]
   name = "Publications"
@@ -41,7 +41,7 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 #[[main]]
 #  name = "Sacraments"
@@ -85,14 +85,15 @@
 #  url = "sacraments/holy-orders"
 
 [[main]]
-  name = "Spiritual"
-  hasChildren = true
-  weight = 70
-
-[[main]]
-  parent = "Spiritual"
-  name = "Fr Augustine Wong"
+  name = "Spiritual Column"
   url = "spiritual-column"
+  weight = 30
+
+#[[main]]
+#  name = "Ministry"
+#  hasChildren = true
+#  url = ""
+#  weight = 70
 
 #[[main]]
 #  parent ="Spiritual"

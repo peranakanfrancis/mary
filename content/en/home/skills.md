@@ -17,24 +17,24 @@ subtitle = "Let God changes our heart, transforms our life, makes us more like J
 [[feature]]
   icon = "praying-hands"
   icon_pack = "fas"
-  name = "Pray for Everything"
-  parcent = "100%"
+  name = "Pray"
+#  parcent = "100%"
 
 [[feature]]
   icon = "bible"
   icon_pack = "fas"
-  name = "Listen to Word of God Everyday"
-  parcent = "100%"  
-
-[[feature]]
-  icon = "people-carry"
-  icon_pack = "fas"
-  name = "Service in Church, Share Gospel"
-  parcent = "100%"
+  name = "Words of God"
+#  parcent = "100%"  
 
 [[feature]]
   icon = "church"
   icon_pack = "fas"
-  name = "Sunday Mass"
-  parcent = "100%"
+  name = "Mass"
+#  parcent = "100%"
+
+[[feature]]
+  icon = "people-carry"
+  icon_pack = "fas"
+  name = "Serve"
+#  parcent = "100%"
 +++

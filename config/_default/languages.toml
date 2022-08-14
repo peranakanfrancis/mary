@@ -27,15 +27,15 @@
   url = "#accomplishments"
   weight = 20
 
-[[zh.menu.main]]
-  name = "圣言反省"
-  url = "#posts"
-  weight = 30
+#[[zh.menu.main]]
+#  name = "圣言反省"
+#  url = "#posts"
+#  weight = 30
 
 [[zh.menu.main]]
   name = "天主教资料"
   url = "#projects"
-  weight = 40
+  weight = 70
 
 [[zh.menu.main]]
   name = "活动"
@@ -50,7 +50,7 @@
 [[zh.menu.main]]
   name = "联络"
   url = "#contact"
-  weight = 90
+  weight = 80
 
 #[[zh.menu.main]]
 #  name = "圣事"
@@ -97,7 +97,7 @@
   name = "组织"
   url = "groups"
   hasChildren = true
-  weight = 70
+  weight = 40
 
 [[zh.menu.main]]
   parent = "组织"
@@ -110,14 +110,9 @@
   url = "groups/charismatic-prayer-group"
 
 [[zh.menu.main]]
-    name = "灵修"
-    hasChildren = true
-    weight = 80
-
-[[zh.menu.main]]
-    parent = "灵修"
-    name = "黄柄隆神父"
+    name = "灵修专栏"
     url = "spiritual-column"
+    weight = 30
 
 #[[zh.menu.main]]
 #    parent ="灵修"
