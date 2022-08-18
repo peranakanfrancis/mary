@@ -1,6 +1,6 @@
 ---
-title: '20th Sunday in Ordinary Time'
-linktitle: 20th Sunday in Ordinary Time
+title: 'The Assumption of the Blessed Virgin Mary'
+linktitle: The Assumption of the Blessed Virgin Mary
 toc: true
 type: docs
 date: "2022-08-14T00:00:00+08:00"
@@ -17,8 +17,7 @@ weight: 2
 {{< figure src="/img/spiritual-column/assumption-of-mary.jpeg" >}}
 
 :gb: __English__
-##  The Assumption of the Blessed Virgin Mary
-### The fulfillment of Life in God
+## The fulfillment of Life in God
 
 > “Then I witnessed in heaven an event of great significance. I saw a woman clothed with the sun, with the moon beneath her feet, and a crown of twelve stars on her head.” (Revelation 12:1)
 
@@ -37,8 +36,7 @@ ___Fr. Augustine Wong___
 ---
 
 :malaysia: __Bahasa Melayu__
-# Hari Minggu Biasa Ke-20
-### Pengangkatan ke Syurga Perawan Maria yang Diberkati
+## Pengangkatan ke Syurga Perawan Maria yang Diberkati
 #### Pemenuhan Kehidupan dalam Tuhan
 
 > “Kemudian saya menyaksikan di syurga suatu peristiwa yang sangat penting. Aku melihat seorang perempuan berpakaian matahari, dengan bulan di bawah kakinya, dan sebuah mahkota dari dua belas bintang di atas kepalanya.” (Wahyu 12:1)

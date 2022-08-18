@@ -1,6 +1,6 @@
 ---
-title: '常年期第二十主日'
-linktitle: 常年期第二十主日
+title: '圣母蒙召升天节'
+linktitle: 圣母蒙召升天节
 toc: true
 type: docs
 date: "2022-08-14T00:00:00+08:00"
@@ -16,8 +16,7 @@ weight: 2
 
 {{< figure src="/img/spiritual-column/assumption-of-mary.jpeg" >}}
 
-## 圣母蒙召升天节
-### 在天主内成就圆满的生命
+## 在天主内成就圆满的生命
 
 > “那時，天上出現了一个人大異兆：有一个女人，身披太阳，脚踏月亮，头戴十二颗星的榮冠。”（默12:1）
 
