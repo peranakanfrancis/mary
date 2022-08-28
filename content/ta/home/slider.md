@@ -17,11 +17,11 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "பொதுக்காலத்தின் 21-ம் ஞாயிறு"
+  title = "பொதுக்காலத்தின் 22-ம் ஞாயிறு"
   content = "நமது தல அவையின் புதிய நிரல்களைப் பெற்றிடுங்கள்"
   cta_label = "இப்பொழுதே பதிவிறக்குங்கள்"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1Z-IMnnRyqS5xPvyHaPziC1R91Vr78qAz/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1SzwdTbA00Pfx1MHG9iZfeoXy9XOZhdIu/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.

@@ -85,7 +85,7 @@
 #  url = "sacraments/holy-orders"
 
 [[main]]
-  name = "Spiritual Column"
+  name = "Spiritual"
   url = "spiritual-column"
   weight = 30
 
