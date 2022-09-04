@@ -17,11 +17,11 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "22nd Sunday of Ordinary Time"
+  title = "23rd Sunday of Ordinary Time"
   content = "Get this week church's bulletin"
   cta_label = "Download Now"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1IISBkJRg8OY9m_EDoPoHvLdU7hd8-8sA/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1niGc0SR3qM06hQSXvhnfsBs7zmFYGE65/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.
@@ -29,11 +29,11 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Pope’s August Prayer Intention"
-  content = "We pray for small and medium sized businesses; in the midst of economic and social crisis, may they find ways to continue operating, and serving their communities."
-  cta_label = ""
+  title = "Pope’s September Prayer Intention"
+  content = "For abolition of the death penalty"
+  cta_label = "Pray Now"
   align = "center"
-  cta_url = ""
+  cta_url = "https://www.vaticannews.va/en/pope/news/2022-08/pope-s-september-prayer-intention-for-an-end-to-death-penalty.html"
   cta_icon_pack = "fas"
   cta_icon = "glasses"
   overlay_color = "#555"  # An HTML color value.
@@ -57,7 +57,7 @@ height = ""
   content = "Come and grow our spiritual life together with reflection written by retired priest Fr Augustine Wong"
   cta_label = "Read now"
   align = "center"
-  cta_url = "/en/spiritual-column/ordinary-time-2022/22nd-sunday-of-ordinary-time/"
+  cta_url = "/en/spiritual-column/ordinary-time-2022/23rd-sunday-of-ordinary-time/"
   cta_icon_pack = "fas"
   cta_icon = "book-reader"
   overlay_color = "#555"  # An HTML color value.
