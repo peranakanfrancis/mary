@@ -131,31 +131,37 @@
   url = "#about"
   weight = 10
 
+#[[ta.menu.main]]
+#  name = "பதிவுகள்"
+#  url = "#posts"
+#  weight = 20
+
 [[ta.menu.main]]
-  name = "பதிவுகள்"
-  url = "#posts"
-  weight = 20
+  name = "ஆன்ம கோடு"
+  url = "spiritual-column"
+  weight = 30
 
 [[ta.menu.main]]
   name = "அம்சங்கள்"
   url = "#projects"
-  weight = 30
+  weight = 40
 
 [[ta.menu.main]]
   name = "பற்றி"
   url = "#publications"
-  weight = 40
+  weight = 50
 
 [[ta.menu.main]]
   name = "தொடர்பு"
   url = "#contact"
-  weight = 50
+  weight = 60
 
 [[ta.menu.main]]
   name = "சடங்குகள்"
   url = "sacraments"
   hasChildren = true
-  weight = 60
+  weight = 70
+
 
 [[ta.menu.main]]
   parent = "சடங்குகள்"
@@ -196,7 +202,7 @@
   name = "குழுக்கள்"
   url = "groups"
   hasChildren = true
-  weight = 70
+  weight = 80
 
 [[ta.menu.main]]
   parent = "குழுக்கள்"

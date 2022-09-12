@@ -1,6 +1,6 @@
 ---
-title: '常年期第二十四主日'
-linktitle: 常年期第二十四主日
+title: '圣母圣名节'
+linktitle: 圣母圣名节
 toc: true
 type: docs
 date: "2022-09-04T00:00:00+08:00"

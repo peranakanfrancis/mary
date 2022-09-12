@@ -1,6 +1,6 @@
 ---
-title: '24th Sunday in Ordinary Time'
-linktitle: 24th Sunday in Ordinary Time
+title: 'Feast of The Most Holy Name of Mary'
+linktitle: Feast of The Most Holy Name of Mary
 toc: true
 type: docs
 date: "2022-09-11T00:00:00+08:00"

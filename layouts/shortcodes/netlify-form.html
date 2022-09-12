@@ -9,8 +9,8 @@
           <label id="contact-form-name-label" for="contact-form-name" class="form-label">名字</label>
           <input type="text" name="name" id="contact-form-name" aria-labelledby="contact-form-name-label" placeholder="我的名字" class="form-input" />
           <textarea name="txtMsg" class="form-control" placeholder="我的祷告" row="6"></textarea>
-          {{ else if eq .Site.Language.Lang "ta" }}<label id="contact-form-name-label" for="contact-form-name" class="form-label"></label>
-          <input type="text" name="name" id="contact-form-name" aria-labelledby="contact-form-name-label" class="form-input" />
+          {{ else if eq .Site.Language.Lang "ta" }}<label id="contact-form-name-label" for="contact-form-name" class="form-label">பெயர்</label>
+          <input type="text" name="name" id="contact-form-name" aria-labelledby="contact-form-name-label" placeholder="என் பெயர்" class="form-input" />
           <textarea name="txtMsg" class="form-control" placeholder="பிரார்த்தனை மனு பெட்டி" row="6"></textarea>
           {{ end }}
       </div>
