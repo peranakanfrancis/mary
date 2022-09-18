@@ -52,7 +52,7 @@ date_format = "May 2006"
   date_start = "2020-01-01"
   date_end = ""
   description = """
-  The IJS Sisters desire is to make Jesus Christ known and loved through a variety of ministries which continue to evolve according to the needs in each country. Their particular focus is to reach out to those who are most in need. At present IJS Sisters involvements include ministry to children and young people; support of migrants and the education of their children; working with prisoners and their families; teaching children with speech and hearing disabilities; providing riding for disabled children and young people.
+  The IJ Sisters desire is to make Jesus Christ known and loved through a variety of ministries which continue to evolve according to the needs in each country. Their particular focus is to reach out to those who are most in need. At present IJS Sisters involvements include ministry to children and young people; support of migrants and the education of their children; working with prisoners and their families; teaching children with speech and hearing disabilities; providing riding for disabled children and young people.
   """
 
 [[experience]]

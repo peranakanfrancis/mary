@@ -3,7 +3,7 @@ title: '圣母圣名节'
 linktitle: 圣母圣名节
 toc: true
 type: docs
-date: "2022-09-04T00:00:00+08:00"
+date: "2022-09-11T00:00:00+08:00"
 draft:
 menu:
   ordinary-time-2022:

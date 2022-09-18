@@ -17,11 +17,11 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "24th Sunday of Ordinary Time"
+  title = "25th Sunday of Ordinary Time"
   content = "Get this week church's bulletin"
   cta_label = "Download Now"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1fFuWEsekij_SlSxQOhvbp2OFIl6Kn5-e/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1qge7WS6GeUb3JRjei7_XkPhFfgKJ395w/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.
@@ -57,7 +57,7 @@ height = ""
   content = "Come and grow our spiritual life together with reflection written by retired priest Fr Augustine Wong"
   cta_label = "Read now"
   align = "center"
-  cta_url = "/en/spiritual-column/ordinary-time-2022/feast-of-the-most-holy-name-of-mary/"
+  cta_url = "/en/spiritual-column/ordinary-time-2022/25th-sunday-of-ordinary-time/"
   cta_icon_pack = "fas"
   cta_icon = "book-reader"
   overlay_color = "#555"  # An HTML color value.
