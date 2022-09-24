@@ -21,7 +21,7 @@ height = ""
   content = "Get this week church's bulletin"
   cta_label = "Download Now"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1qge7WS6GeUb3JRjei7_XkPhFfgKJ395w/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1tWuB4Tk6_-f_NAJuBDq6vwCrR4dd0dEO/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.

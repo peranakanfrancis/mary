@@ -16,11 +16,11 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "常年期第二十五主日"
+  title = "常年期第二十六主日"
   content = "获取这个礼拜的堂讯"
   cta_label = "马上下载"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1njuYv2d4JtqZ6bFpYrxp865NFAajkdya/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1zI7F2hWE4X6bGVw1FPWbMlwBYz0HDW0m/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.
