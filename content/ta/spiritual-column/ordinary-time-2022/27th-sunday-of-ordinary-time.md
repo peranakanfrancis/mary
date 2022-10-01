@@ -16,7 +16,6 @@ weight: 2
 
 {{< figure src="/img/spiritual-column/luke17-5-10.jpeg" >}}
 
-:gb: __English__
 ## உலகிலே சிறந்த வல்லமை நம்பிக்கையே
 
 ### நற்செய்தி
