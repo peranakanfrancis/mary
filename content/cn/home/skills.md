@@ -17,24 +17,24 @@ subtitle = "让天主改变我们的心，转变我们的生活态度，让我�
 [[feature]]
   icon = "praying-hands"
   icon_pack = "fas"
-  name = "祈祷"
+  name = "每日祈祷"
 #  parcent = "100%"
 
 [[feature]]
   icon = "bible"
   icon_pack = "fas"
-  name = "圣言"
+  name = "阅读圣经"
 #  parcent = "100%"  
 
 [[feature]]
   icon = "church"
   icon_pack = "fas"
-  name = "弥撒"
+  name = "主日弥撒"
 #  parcent = "100%"
 
 [[feature]]
   icon = "people-carry"
   icon_pack = "fas"
-  name = "服务"
+  name = "服务及牧灵"
 #  parcent = "100%"
 +++

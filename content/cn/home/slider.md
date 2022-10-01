@@ -16,11 +16,11 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "常年期第二十六主日"
+  title = "常年期第二十七主日"
   content = "获取这个礼拜的堂讯"
   cta_label = "马上下载"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1zI7F2hWE4X6bGVw1FPWbMlwBYz0HDW0m/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1B_KtHcxbF9kPtzCSwLMYzdHTyB6AVjKC/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.
@@ -28,11 +28,11 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "教宗九月祈祷意向"
-  content = "请为废除死刑祈祷"
+  title = "教宗十月祈祷意向"
+  content = "请为为福传门徒祈祷"
   cta_label = "马上祈祷"
   align = "center"
-  cta_url = "https://www.vaticannews.va/zh/pope/news/2022-08/pope-august-prayer-intention-september-abolition-death-penalty.html"
+  cta_url = "https://www.vaticannews.va/zh/pope/news/2021-09/pope-francis-october-prayer-intention-missionary-disciples.html"
   cta_icon_pack = "fas"
   cta_icon = "glasses"
   overlay_color = "#555"  # An HTML color value.
@@ -56,7 +56,7 @@ height = ""
   content = "一起来读一读退休黄神父所写的圣言反省"
   cta_label = "马上阅读"
   align = "center"
-  cta_url = "/zh/spiritual-column/ordinary-time-2022/26th-sunday-of-ordinary-time/"
+  cta_url = "/zh/spiritual-column/ordinary-time-2022/27th-sunday-of-ordinary-time/"
   cta_icon_pack = "fas"
   cta_icon = "book-reader"
   overlay_color = "#555"  # An HTML color value.

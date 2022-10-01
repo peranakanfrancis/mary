@@ -44,7 +44,11 @@ hero_media = "home/banner.png"
 +++
 ## And coming to her, he said, "Hail, favored one! The Lord is with you." **- Luke 1:28**
 
-Welcome to **Church of The Holy Name of Mary**. We are located short distance from Penang-Kuala Lumpur North-South Expressway in Permatang Tinggi.
+Welcome to **Church of The Holy Name of Mary Permatang Tinggi**. Please come to join us at our church to celebrate mass together. [Our Location](https://goo.gl/maps/KrdspqMCE5Ph75Qe7).
 
-
-Over 2000 families strong, our parish serves the small town in Central Seberang Perai District and the surrounding area. In addition to Daily Mass and the Sacraments, we offer all sacraments and outreach ministries.  Come explore who we are and what we have to offer to help you grow in holiness and your Catholic faith.
+- **Sunday Mandarin Mass** 8.30am
+- **Sunday Tamil Mass** 10.30am
+- **Saturday Novena & Sunset English Mass** 5.30pm
+- **Tuesday - Friday Daily Mass** 7pm
+- **Sunday Bahasa Malaysia Mass** 4pm *(only on third Sunday every month at [St Joseph Chapel, Juru](https://goo.gl/maps/7MYpwFbJVaFvSCni7))*
+- *No Mass on Monday*

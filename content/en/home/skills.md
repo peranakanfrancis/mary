@@ -23,7 +23,7 @@ subtitle = "Let God changes our heart, transforms our life, makes us more like J
 [[feature]]
   icon = "bible"
   icon_pack = "fas"
-  name = "Words of God"
+  name = "Bible"
 #  parcent = "100%"  
 
 [[feature]]
