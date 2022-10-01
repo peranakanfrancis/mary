@@ -44,7 +44,7 @@ hero_media = "home/banner.png"
 +++
 ## And coming to her, he said, "Hail, favored one! The Lord is with you." **- Luke 1:28**
 
-Welcome to **Church of The Holy Name of Mary Permatang Tinggi**. Please come to join us at our church to celebrate mass together. [Our Location](https://goo.gl/maps/KrdspqMCE5Ph75Qe7).
+Welcome to **Church of The Holy Name of Mary Permatang Tinggi**. Please come to celebrate mass together with us. [Our Location](https://goo.gl/maps/KrdspqMCE5Ph75Qe7).
 
 - **Sunday Mandarin Mass** 8.30am
 - **Sunday Tamil Mass** 10.30am
