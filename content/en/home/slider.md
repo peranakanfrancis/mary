@@ -17,11 +17,11 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "27th Sunday of Ordinary Time"
+  title = "28th Sunday of Ordinary Time"
   content = "Get this week church's bulletin"
   cta_label = "Download Now"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1qB1HlkuJ79EkrOyVewIvYm3dAFhN869Z/view?usp=sharing"
+  cta_url = "https://drive.google.com/file/d/1qb0Mo27XQjowrdH4aRs6mRB9XP61FDbh/view?usp=sharing"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.
@@ -30,10 +30,10 @@ height = ""
 
 [[item]]
   title = "Pope’s October Prayer Intention"
-  content = "May all Christians be missionary disciples"
+  content = "A Church that walks together"
   cta_label = "Pray Now"
   align = "center"
-  cta_url = "https://www.vaticannews.va/en/pope/news/2021-09/pope-francis-october-prayer-intention-missionary-disciples.html"
+  cta_url = "https://www.vaticannews.va/en/pope/news/2022-10/pope-francis-prayer-intention-october-church-open-to-everyone.html"
   cta_icon_pack = "fas"
   cta_icon = "glasses"
   overlay_color = "#555"  # An HTML color value.
@@ -57,7 +57,7 @@ height = ""
   content = "Come and grow our spiritual life together with reflection written by retired priest Fr Augustine Wong"
   cta_label = "Read now"
   align = "center"
-  cta_url = "/en/spiritual-column/ordinary-time-2022/27th-sunday-of-ordinary-time/"
+  cta_url = "/en/spiritual-column/ordinary-time-2022/28th-sunday-of-ordinary-time/"
   cta_icon_pack = "fas"
   cta_icon = "book-reader"
   overlay_color = "#555"  # An HTML color value.

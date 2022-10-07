@@ -23,7 +23,7 @@ subtitle = "让天主改变我们的心，转变我们的生活态度，让我�
 [[feature]]
   icon = "bible"
   icon_pack = "fas"
-  name = "阅读圣经"
+  name = "[阅读圣经](https://chinese-bible.morningstarinfosys.com/"
 #  parcent = "100%"  
 
 [[feature]]
