@@ -36,7 +36,7 @@ subtitle = "Our church has more than a hundred years of history. You may read so
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 3
 
 [design.background]
   # Apply a background color, gradient, or image.

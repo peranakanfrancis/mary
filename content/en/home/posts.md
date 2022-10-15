@@ -48,8 +48,8 @@ subtitle = "Stay connected with your faith through reflection, prayer, good news
   # color = "navy"
 
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  gradient_start = "#f3e7e9"
+  gradient_end = "#e3eeff"
 
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.

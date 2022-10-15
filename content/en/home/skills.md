@@ -18,23 +18,27 @@ subtitle = "Let God changes our heart, transforms our life, makes us more like J
   icon = "praying-hands"
   icon_pack = "fas"
   name = "Pray"
+  description = "[spiritual column](/en/spiritual-column)"
 #  parcent = "100%"
 
 [[feature]]
   icon = "bible"
   icon_pack = "fas"
-  name = "[Bible](https://morningstarinfosys.com/)"
+  name = "Word of God"
+  description = "[read bible](https://morningstarinfosys.com)"
 #  parcent = "100%"  
 
 [[feature]]
   icon = "church"
   icon_pack = "fas"
   name = "Mass"
+  description = "[download bulletin](#accomplishments)"
 #  parcent = "100%"
 
 [[feature]]
   icon = "people-carry"
   icon_pack = "fas"
-  name = "Serve"
+  name = "Mission"
+  description = "[join a group](#)"
 #  parcent = "100%"
 +++

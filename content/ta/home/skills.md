@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Progress of Fundraising for New Church"
-subtitle = "To cater for an even larger community that is expected to expand further due to the housing developments and the new township that is emerging in area close to the parish. ([Read more](project/fundraising-for-new-church))"
+title = "Build relationship with God"
+subtitle = "Let God changes our heart, transforms our life, makes us more like Jesus"
 
 # Showcase personal skills or business features.
 #
@@ -15,27 +15,30 @@ subtitle = "To cater for an even larger community that is expected to expand fur
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "search-dollar"
+  icon = "praying-hands"
   icon_pack = "fas"
-  name = "Total Estimated RM9 million"
-  parcent = "100%"
+  name = "Pray"
+  description = "[spiritual column](/ta/spiritual-column)"
+#  parcent = "100%"
 
 [[feature]]
-  icon = "piggy-bank"
+  icon = "bible"
   icon_pack = "fas"
-  name = "Raised more than RM4 million"
-  parcent = "45%"  
-
-[[feature]]
-  icon = "hand-holding-usd"
-  icon_pack = "fas"
-  name = "Amount needed RM2 million"
-  parcent = "25%"
+  name = "Word of God"
+  description = "[read bible](https://bible.catholicgallery.org/ecu-tamil)"
+#  parcent = "100%"  
 
 [[feature]]
   icon = "church"
   icon_pack = "fas"
-  name = "Funded from Penang Diocesan RM3 million"
-  parcent = "30%"
+  name = "Mass"
+  description = "[download bulletin](#accomplishments)"
+#  parcent = "100%"
 
+[[feature]]
+  icon = "people-carry"
+  icon_pack = "fas"
+  name = "Mission"
+  description = "[join a group](#)"
+#  parcent = "100%"
 +++

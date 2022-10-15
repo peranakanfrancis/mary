@@ -17,11 +17,11 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "28th Sunday of Ordinary Time"
+  title = "29th Sunday of Ordinary Time"
   content = "Get this week church's bulletin"
   cta_label = "Download Now"
   align = "center"
-  cta_url = "https://drive.google.com/file/d/1qb0Mo27XQjowrdH4aRs6mRB9XP61FDbh/view?usp=sharing"
+  cta_url = "#accomplishments"
   cta_icon_pack = "fas"
   cta_icon = "cloud-arrow-down"
   overlay_color = "#555"  # An HTML color value.
@@ -57,7 +57,7 @@ height = ""
   content = "Come and grow our spiritual life together with reflection written by retired priest Fr Augustine Wong"
   cta_label = "Read now"
   align = "center"
-  cta_url = "/en/spiritual-column/ordinary-time-2022/28th-sunday-of-ordinary-time/"
+  cta_url = "/en/spiritual-column/ordinary-time-2022/29th-sunday-of-ordinary-time/"
   cta_icon_pack = "fas"
   cta_icon = "book-reader"
   overlay_color = "#555"  # An HTML color value.

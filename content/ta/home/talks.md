@@ -15,7 +15,7 @@ subtitle = "We should all join in together as brother and sister in Christ."
   page_type = "talk"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 3
 
   # Choose how many pages you would like to offset by
   offset = 0
@@ -50,8 +50,8 @@ subtitle = "We should all join in together as brother and sister in Christ."
   # color = "navy"
 
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  gradient_start = "#fff1eb"
+  gradient_end = "#ace0f9"
 
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.

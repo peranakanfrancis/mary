@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "活动"
+title = "教堂活动"
 subtitle = "邀请身边的兄弟姐妹们一起来参与吧！"
 
 [content]
@@ -15,7 +15,7 @@ subtitle = "邀请身边的兄弟姐妹们一起来参与吧！"
   page_type = "talk"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 3
 
   # Choose how many pages you would like to offset by
   offset = 0
@@ -50,8 +50,8 @@ subtitle = "邀请身边的兄弟姐妹们一起来参与吧！"
   # color = "navy"
 
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  gradient_start = "#fff1eb"
+  gradient_end = "#ace0f9"
 
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.

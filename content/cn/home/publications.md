@@ -36,7 +36,7 @@ subtitle = "圣母圣名堂是一所百年老教堂，这里记载了一些过�
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 3
 
 [design.background]
   # Apply a background color, gradient, or image.

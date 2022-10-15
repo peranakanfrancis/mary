@@ -15,7 +15,7 @@ subtitle = "Let's get to know each other better and grow in faith."
   page_type = "talk"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 6
 
   # Choose how many pages you would like to offset by
   offset = 0
@@ -50,12 +50,12 @@ subtitle = "Let's get to know each other better and grow in faith."
   # color = "navy"
 
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  gradient_start = "#fff1eb"
+  gradient_end = "#ace0f9"
 
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  #image = "background.jpg"  # Name of image in `static/img/`.
+  #image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  

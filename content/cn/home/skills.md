@@ -17,24 +17,29 @@ subtitle = "让天主改变我们的心，转变我们的生活态度，让我�
 [[feature]]
   icon = "praying-hands"
   icon_pack = "fas"
-  name = "每日祈祷"
+  name = "祈祷"
+  description = "[灵修专栏](/zh/spiritual-column/)"
 #  parcent = "100%"
 
 [[feature]]
   icon = "bible"
   icon_pack = "fas"
-  name = "[阅读圣经](https://chinese-bible.morningstarinfosys.com/"
+  name = "圣言"
+  description = "[阅读圣经](https://chinese-bible.morningstarinfosys.com)"
 #  parcent = "100%"  
 
 [[feature]]
   icon = "church"
   icon_pack = "fas"
-  name = "主日弥撒"
+  name = "弥撒"
+  description = "[下载堂讯](#accomplishments)"
+
 #  parcent = "100%"
 
 [[feature]]
   icon = "people-carry"
   icon_pack = "fas"
-  name = "服务及牧灵"
+  name = "服务"
+  description = "[教堂组织](#)"
 #  parcent = "100%"
 +++

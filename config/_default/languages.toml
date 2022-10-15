@@ -198,18 +198,18 @@
   name = "Holy Orders"
   url = "sacraments/holy-orders"
 
-[[ta.menu.main]]
-  name = "குழுக்கள்"
-  url = "groups"
-  hasChildren = true
-  weight = 80
+#[[ta.menu.main]]
+#  name = "குழுக்கள்"
+#  url = "groups"
+#  hasChildren = true
+#  weight = 80
 
-[[ta.menu.main]]
-  parent = "குழுக்கள்"
-  name = "BEC"
-  url = "groups/bec"
+#[[ta.menu.main]]
+#  parent = "குழுக்கள்"
+#  name = "BEC"
+#  url = "groups/bec"
 
-[[ta.menu.main]]
-  parent = "குழுக்கள்"
-  name = "Charismatic Prayer Group"
-  url = "groups/charismatic-prayer-group"
+#[[ta.menu.main]]
+#  parent = "குழுக்கள்"
+#  name = "Charismatic Prayer Group"
+#  url = "groups/charismatic-prayer-group"
