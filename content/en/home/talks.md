@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Events"
-subtitle = "Let's get to know each other better and grow in faith."
+subtitle = "Find a purpose for your life, join our formation program to understand Chritian faith."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

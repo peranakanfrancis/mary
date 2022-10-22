@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Build relationship with God"
-subtitle = "Let God changes our heart, transforms our life, makes us more like Jesus"
+title = "How to live a Christian life"
+subtitle = "**You must love your neighbour as yourself. - Matthew 22:39**"
 
 # Showcase personal skills or business features.
 #
@@ -18,7 +18,7 @@ subtitle = "Let God changes our heart, transforms our life, makes us more like J
   icon = "praying-hands"
   icon_pack = "fas"
   name = "Pray"
-  description = "[spiritual column](/en/spiritual-column)"
+  description = "[spiritual column](#posts)"
 #  parcent = "100%"
 
 [[feature]]
@@ -39,6 +39,6 @@ subtitle = "Let God changes our heart, transforms our life, makes us more like J
   icon = "people-carry"
   icon_pack = "fas"
   name = "Mission"
-  description = "[join a group](#)"
+  description = "[find a ministry](#projects)"
 #  parcent = "100%"
 +++

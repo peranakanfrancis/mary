@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "பொதுக்காலத்தின் 29-ம் ஞாயிறு"
+  title = "பொதுக்காலத்தின் 30-ம் ஞாயிறு"
   content = "நமது தல அவையின் புதிய நிரல்களைப் பெற்றிடுங்கள்"
   cta_label = "இப்பொழுதே பதிவிறக்குங்கள்"
   align = "center"
@@ -45,7 +45,7 @@ height = ""
   content = "ஒய்வுப் பெற்ற அருட்பணி.தந்தை.அகஃத்தின் வோங் அவர்களுடன் வாருங்கள் வந்து அவர் தம் சிந்தனையுடன் உங்கள் ஆன்ம வாழ்வை வளப்படுத்திக் கொள்ளுங்கள்."
   cta_label = "இப்பொழுதே வாசியுங்கள்"
   align = "center"
-  cta_url = "/ta/spiritual-column/ordinary-time-2022/29th-sunday-of-ordinary-time/"
+  cta_url = "#posts"
   cta_icon_pack = "fas"
   cta_icon = "book-reader"
   overlay_color = "#555"  # An HTML color value.

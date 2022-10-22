@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "天主教资料库"
-subtitle = "我们精选了一些能够帮助你灵修增长的资源"
+title = "组织及团体"
+subtitle = "在这里，你可以寻找一个适合你的团体，然后在教会内服务。**因为我们众人在基督内，也都是一个身体，彼此之间，每个都是肢体**。- 罗12:5"
 
 [content]
   # Page type to display. E.g. project.
@@ -26,32 +26,50 @@ subtitle = "我们精选了一些能够帮助你灵修增长的资源"
     tag = "*"
 
   [[content.filter_button]]
-    name = "信仰问题"
-    tag = "信仰"
+    name = "礼仪组"
+    tag = "礼仪组"
 
   [[content.filter_button]]
-    name = "弥撒"
-    tag = "弥撒"
+    name = "祈祷组"
+    tag = "祈祷组"
 
   [[content.filter_button]]
-    name = "祈祷"
-    tag = "祈祷"
+    name = "教理组"
+    tag = "教理组"
 
   [[content.filter_button]]
-    name = "新闻"
-    tag = "新闻"
+    name = "经济组"
+    tag = "经济组"
 
   [[content.filter_button]]
-    name = "娱乐"
-    tag = "视频"
+    name = "妇女组"
+    tag = "妇女组"
 
   [[content.filter_button]]
-    name = "乐捐"
-    tag = "乐捐"
+    name = "青年团"
+    tag = "青年团"
 
   [[content.filter_button]]
-    name = "工作招聘"
-    tag = "征聘"
+    name = "神恩复兴小组"
+    tag = "神恩复兴小组"
+
+  [[content.filter_button]]
+    name = "坟场小组"
+    tag = "坟场小组"
+
+  [[content.filter_button]]
+    name = "普世博爱运动"
+    tag = "普世博爱运动"
+
+  [[content.filter_button]]
+    name = "明爱"
+    tag = "明爱"
+
+  [[content.filter_button]]
+    name = "基信组"
+    tag = "基信组"
+
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -64,7 +82,7 @@ subtitle = "我们精选了一些能够帮助你灵修增长的资源"
   view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.

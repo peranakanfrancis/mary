@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 66  # Order that this section will appear.
 
-title = "Album"
-subtitle = "Sharing our moments."
+title = "Synod"
+subtitle = "Communion, Participation, Mission - For a synodal church."
 +++
 
 {{< gallery >}}

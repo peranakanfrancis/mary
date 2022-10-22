@@ -4,34 +4,39 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "About"
-  url = "#about"
+  name = "Mass Schedule"
+  url = "#hero"
   weight = 10
 
+#[[main]]
+#  name = "About"
+#  url = "#about"
+#  weight = 20
+
 [[main]]
-  name = "Bulletins"
+  name = "Bulletin"
   url = "#accomplishments"
   weight = 20
 
-#[[main]]
-#  name = "Reflections"
-#  url = "#posts"
-#  weight = 30
+[[main]]
+  name = "Spriritual"
+  url = "#posts"
+  weight = 30
 
 [[main]]
-  name = "Resources"
+  name = "Ministry"
   url = "#projects"
-  weight = 60
+  weight = 40
 
 [[main]]
   name = "Events"
   url  = "#talks"
-  weight = 40
+  weight = 50
 
 [[main]]
-  name = "Publications"
+  name = "News"
   url = "#publications"
-  weight = 50
+  weight = 60
 
 #[[main]]
 #  name = "Courses"
@@ -43,16 +48,20 @@
   url = "#contact"
   weight = 70
 
-#[[main]]
-#  name = "Sacraments"
-#  url = "sacraments"
-#  hasChildren = true
-#  weight = 70
+[[main]]
+  name = "More"
+  hasChildren = true
+  weight = 80
 
-#[[main]]
-#  parent = "Sacraments"
-#  name = "Baptism"
-#  url = "sacraments/baptism"
+[[main]]
+  parent = "More"
+  name = "Achieve Spriritual Column"
+  url = "spiritual-column"
+
+[[main]]
+  parent = "More"
+  name = "7 Sacrements"
+  url = "sacraments"
 
 #[[main]]
 #  parent = "Sacraments"
@@ -83,11 +92,6 @@
 #  parent = "Sacraments"
 #  name = "Holy Orders"
 #  url = "sacraments/holy-orders"
-
-[[main]]
-  name = "Spiritual"
-  url = "spiritual-column"
-  weight = 30
 
 #[[main]]
 #  name = "Ministry"

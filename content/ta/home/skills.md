@@ -25,7 +25,7 @@ subtitle = "Let God changes our heart, transforms our life, makes us more like J
   icon = "bible"
   icon_pack = "fas"
   name = "Word of God"
-  description = "[read bible](https://bible.catholicgallery.org/ecu-tamil)"
+  description = "[read bible](https://www.tamil.biblewordings.com)"
 #  parcent = "100%"  
 
 [[feature]]

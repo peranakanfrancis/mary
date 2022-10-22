@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "刊物"
-subtitle = "圣母圣名堂是一所百年老教堂，这里记载了一些过去及现在发生的大事纪。"
+title = "新闻"
+subtitle = "这里记载着关于教堂的历史及过去的故事"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

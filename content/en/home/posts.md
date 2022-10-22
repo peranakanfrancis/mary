@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Reading & Gospel"
-subtitle = "Stay connected with your faith through reflection, prayer, good news."
+title = "Spiritual Column"
+subtitle = "Fr Augustine Wong is helping us to understand our faith to Jesus."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 66  # Order that this section will appear.
 
-title = "相册"
-subtitle = "回顾一下美好的回忆"
+title = "同道偕行"
+subtitle = "共融、参与、使命 - 来体现共识性的教会"
 +++
 {{< gallery >}}

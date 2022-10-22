@@ -18,45 +18,60 @@
   description = "欢迎来到圣母圣名堂！ 我们的教堂坐落在巴冬丁宜，距离居林、爪义、武吉淡文南北大道不远。"
 
 [[zh.menu.main]]
+  name = "弥撒时间表"
+  url = "#hero"
+  weight = 10
+
+[[zh.menu.main]]
   name = "关于"
   url = "#about"
-  weight = 10
+  weight = 20
 
 [[zh.menu.main]]
   name = "堂讯"
   url = "#accomplishments"
-  weight = 20
-
-#[[zh.menu.main]]
-#  name = "圣言反省"
-#  url = "#posts"
-#  weight = 30
+  weight = 30
 
 [[zh.menu.main]]
-  name = "天主教资料"
+  name = "灵修专栏"
+  url = "#posts"
+  weight = 40
+
+[[zh.menu.main]]
+  name = "组织及团体"
   url = "#projects"
-  weight = 70
-
-[[zh.menu.main]]
-  name = "活动"
-  url = "#talks"
   weight = 50
 
 [[zh.menu.main]]
-  name = "刊物"
-  url = "#publications"
+  name = "最新活动"
+  url = "#talks"
   weight = 60
+
+[[zh.menu.main]]
+  name = "新闻"
+  url = "#publications"
+  weight = 70
 
 [[zh.menu.main]]
   name = "联络"
   url = "#contact"
   weight = 80
 
-#[[zh.menu.main]]
-#  name = "圣事"
-#  url = "sacraments"
-#  hasChildren = true
-#  weight = 70
+[[zh.menu.main]]
+  name = "更多"
+  url = "#about"
+  hasChildren = true
+  weight = 90
+
+[[zh.menu.main]]
+  parent = "更多"
+  name = "过去灵修写作"
+  url = "spiritual-column"
+
+[[zh.menu.main]]
+  parent = "更多"
+  name = "七件圣事"
+  url = "sacraments"
 
 #[[zh.menu.main]]
 #  parent = "圣事"
@@ -93,26 +108,26 @@
 #  name = "圣秩圣事"
 #  url = "sacraments/holy-orders"
 
-[[zh.menu.main]]
-  name = "组织"
-  url = "groups"
-  hasChildren = true
-  weight = 40
+#[[zh.menu.main]]
+#  name = "组织"
+#  url = "groups"
+#  hasChildren = true
+#  weight = 40
 
-[[zh.menu.main]]
-  parent = "组织"
-  name = "基信组"
-  url = "groups/bec"
+#[[zh.menu.main]]
+#  parent = "组织"
+#  name = "基信组"
+#  url = "groups/bec"
 
-[[zh.menu.main]]
-  parent = "组织"
-  name = "神恩复兴小组"
-  url = "groups/charismatic-prayer-group"
+#[[zh.menu.main]]
+#  parent = "组织"
+#  name = "神恩复兴小组"
+#  url = "groups/charismatic-prayer-group"
 
-[[zh.menu.main]]
-    name = "灵修专栏"
-    url = "spiritual-column"
-    weight = 30
+#[[zh.menu.main]]
+#    name = "灵修专栏"
+#    url = "spiritual-column"
+#    weight = 30
 
 #[[zh.menu.main]]
 #    parent ="灵修"

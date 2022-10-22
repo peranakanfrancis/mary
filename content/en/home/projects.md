@@ -5,8 +5,11 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Catholic Resources Hub"
-subtitle = "A handpicked of good resources from around the world to help you gain faith in your spiritual life."
+title = "Ministry & Groups"
+subtitle = """A church is alive through it's communities. Join a ministry to serve and grow together. 
+
+**though there are so many of us, make up one body in Christ, and as different parts we are all joined to one another. - Romans 12:5**
+"""
 
 [content]
   # Page type to display. E.g. project.
@@ -26,32 +29,48 @@ subtitle = "A handpicked of good resources from around the world to help you gai
     tag = "*"
 
   [[content.filter_button]]
-    name = "Questions about Faith"
-    tag = "Faith"
+    name = "Liturgical Ministries"
+    tag = "Liturgical Ministries"
 
   [[content.filter_button]]
-    name = "Mass"
-    tag = "Mass"
+    name = "Prayer"
+    tag = "Prayer"
 
   [[content.filter_button]]
-    name = "Prayers"
-    tag = "Prayers"
+    name = "Catechist"
+    tag = "catechist"
 
   [[content.filter_button]]
-    name = "News"
-    tag = "Newspaper"
+    name = "Economic"
+    tag = "Economic"
 
   [[content.filter_button]]
-    name = "Entertainments"
-    tag = "Video"
+    name = "Women Fellowship"
+    tag = "Women Fellowship"
 
   [[content.filter_button]]
-    name = "Donations"
-    tag = "Donation"
+    name = "Youth"
+    tag = "Youth"
 
   [[content.filter_button]]
-    name = "Job Vacancies"
-    tag = "Vacancy"
+    name = "Charismatic"
+    tag = "Charismatic"
+
+  [[content.filter_button]]
+    name = "Cementry"
+    tag = "Cementry"
+
+  [[content.filter_button]]
+    name = "Focolare Movement"
+    tag = "Focolare Movement"
+
+  [[content.filter_button]]
+    name = "Caritas"
+    tag = "Caritas"
+  
+    [[content.filter_button]]
+    name = "BEC"
+    tag = "BEC"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

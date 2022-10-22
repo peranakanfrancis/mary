@@ -16,8 +16,8 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "常年期第二十九主日"
-  content = "获取这个礼拜的堂讯"
+  title = "最新堂讯"
+  content = "这个礼拜教堂的活动时间表都在这里"
   cta_label = "马上下载"
   align = "center"
   cta_url = "#accomplishments"
@@ -56,7 +56,7 @@ height = ""
   content = "一起来读一读退休黄神父所写的圣言反省"
   cta_label = "马上阅读"
   align = "center"
-  cta_url = "/zh/spiritual-column/ordinary-time-2022/29th-sunday-of-ordinary-time/"
+  cta_url = "#posts"
   cta_icon_pack = "fas"
   cta_icon = "book-reader"
   overlay_color = "#555"  # An HTML color value.

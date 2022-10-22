@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "与天主建立关系"
-subtitle = "让天主改变我们的心，转变我们的生活态度，让我们与耶稣更相似"
+title = "基督徒的生活手册"
+subtitle = "你当爱你的近人如你自己 - 玛22:39"
 
 # Showcase personal skills or business features.
 #
@@ -18,7 +18,7 @@ subtitle = "让天主改变我们的心，转变我们的生活态度，让我�
   icon = "praying-hands"
   icon_pack = "fas"
   name = "祈祷"
-  description = "[灵修专栏](/zh/spiritual-column/)"
+  description = "[灵修专栏](#posts)"
 #  parcent = "100%"
 
 [[feature]]
@@ -40,6 +40,6 @@ subtitle = "让天主改变我们的心，转变我们的生活态度，让我�
   icon = "people-carry"
   icon_pack = "fas"
   name = "服务"
-  description = "[教堂组织](#)"
+  description = "[参与团体](#projects)"
 #  parcent = "100%"
 +++

@@ -17,8 +17,8 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "29th Sunday of Ordinary Time"
-  content = "Get this week church's bulletin"
+  title = "Bulletin"
+  content = "Get the updated mass schedule and activity updates here."
   cta_label = "Download Now"
   align = "center"
   cta_url = "#accomplishments"
@@ -57,7 +57,7 @@ height = ""
   content = "Come and grow our spiritual life together with reflection written by retired priest Fr Augustine Wong"
   cta_label = "Read now"
   align = "center"
-  cta_url = "/en/spiritual-column/ordinary-time-2022/29th-sunday-of-ordinary-time/"
+  cta_url = "#posts"
   cta_icon_pack = "fas"
   cta_icon = "book-reader"
   overlay_color = "#555"  # An HTML color value.

@@ -42,13 +42,18 @@ hero_media = "home/banner.png"
   label = "Mass Offering"
 
 +++
-## And coming to her, he said, "Hail, favored one! The Lord is with you." **- Luke 1:28**
+## He went in and said to her, "Rejoice, you who enjoy God's favor! The Lord is with you." - Luke 1:28
 
-Welcome to **Church of The Holy Name of Mary Permatang Tinggi**. Please come to celebrate mass together with us. [Our Location](https://goo.gl/maps/KrdspqMCE5Ph75Qe7).
+Welcome to **Church of The Holy Name of Mary Permatang Tinggi**. Come join us to celebrate mass together. [Our Location](https://goo.gl/maps/KrdspqMCE5Ph75Qe7).
 
-- **Sunday Mandarin Mass** 8.30am
-- **Sunday Tamil Mass** 10.30am
-- **Saturday Novena & Sunset English Mass** 5.30pm
+### Saturday
+- **Novena** 5.30pm
+- **English Mass** 6pm
+### Sunday
+- **Mandarin Mass** 8.30am
+- **Tamil Mass** 10.30am
+- **Bahasa Malaysia Mass** 4pm *(only on third Sunday every month at [St Joseph Chapel, Juru](https://goo.gl/maps/7MYpwFbJVaFvSCni7))*
+### Weekdays
 - **Tuesday - Friday Daily Mass** 7pm
-- **Sunday Bahasa Malaysia Mass** 4pm *(only on third Sunday every month at [St Joseph Chapel, Juru](https://goo.gl/maps/7MYpwFbJVaFvSCni7))*
+### Closed
 - *No Mass on Monday*

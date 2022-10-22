@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Bulletins"
-subtitle = "Get updated to our church events"
+title = "Bulletin"
+subtitle = "Get the updated mass schedule and activity updates here."
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -25,18 +25,18 @@ time_format ="3:04 PM"
   organization_url = ""
   title = "**New Bulletin**"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/1MhryDkPIktMkh-dcWXh7_0xuonD05Eel/view?usp=sharing"
-  date_start = "2022-10-16"
-  date_end = "2022-10-23"
-  description = "29th Sunday of Ordinary Time"
+  certificate_url = "https://drive.google.com/file/d/1OngXIOTrhg5o5qkIoO3KR28u9q38Vfke/view?usp=sharing"
+  date_start = "2022-10-23"
+  date_end = "2022-10-30"
+  description = "30th Sunday of Ordinary Time"
 
 [[item]]
   organization = ""
   organization_url = ""
   title = "~~Past Bulletin~~"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/1qb0Mo27XQjowrdH4aRs6mRB9XP61FDbh/view?usp=sharing"
-  date_start = "2022-10-09"
-  date_end = "2022-10-16"
-  description = "28th Sunday of Ordinary Time"
+  certificate_url = "https://drive.google.com/file/d/1MhryDkPIktMkh-dcWXh7_0xuonD05Eel/view?usp=sharing"
+  date_start = "2022-10-16"
+  date_end = "2022-10-23"
+  description = "29th Sunday of Ordinary Time"
 +++

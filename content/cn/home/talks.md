@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "教堂活动"
-subtitle = "邀请身边的兄弟姐妹们一起来参与吧！"
+title = "最新活动"
+subtitle = "让你的生活更精彩，来报名教堂的信仰培训吧！"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
