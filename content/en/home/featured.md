@@ -11,7 +11,7 @@ draft = true # false it if you want a featured section
 
 title = "Our Story"
 subtitle = """
-The Church of Holy Name of Mary is where anyone can be transformed by the story of Jesus. Come worship Jesus with us, you may come in as a stranger but you’ll leave as family.
+Church of The Holy Name of Mary is a Catholic church.  
 """
 
 [content]
