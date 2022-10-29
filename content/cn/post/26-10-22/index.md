@@ -4,7 +4,7 @@ subtitle: '世界传教节（若1:35-42）'
 summary: '「世界传教节（若1:35-42）'
 authors:
 - admin
-tags: ["福音"]
+tags: ["若望福音"]
 categories: ["圣言反省"]
 date: "2022-10-26T00:00:00+08:00"
 featured: false
