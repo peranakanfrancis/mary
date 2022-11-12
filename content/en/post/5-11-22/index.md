@@ -1,5 +1,5 @@
 ---
-title: '2nd Sunday in Ordinary Time'
+title: '32nd Sunday in Ordinary Time'
 subtitle: 'THE POWER OF LAUGHTER'
 summary: 'THE POWER OF LAUGHTER'
 authors:
