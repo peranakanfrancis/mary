@@ -64,12 +64,12 @@ Today John the Baptist introduces to us Jesus, “He will baptize you with the H
 Baptized with the Holy Spirit you will be equipped with Gifts/Abilities (Isaiah 11:2). To enjoy “A rich and satisfying Life.” (John 10:10).
 
 THE GIFTS / ABILITIES ARE:
-1. WISDOM: The ability to use your knowledge and experience to make good decision and judgement.
-2. UNDERSTANDING/INSIGHT: The ability to have a clear and deep understanding of a complicated problem or situation.
-3. COUNSEL: The ability to counsel yourself into making a right judgement and decision.
-4. MIGHT: To be brave and courageous.
-5. KNOWLEDGE: Understanding of information obtained by experience or study.
-6. FEAR OF THE LORD: Confidences in God, whose providence surrounds and provides for our needs. Confidence in God, banish all fear from the Heart. “Even when I walk through the Darkest Valley, I will not be afraid, for You are close beside me. Your Rod and Your Staff protect and comfort me.” (Psalm 23:4).
+1. **WISDOM**: The ability to use your knowledge and experience to make good decision and judgement.
+2. **UNDERSTANDING/INSIGHT**: The ability to have a clear and deep understanding of a complicated problem or situation.
+3. **COUNSEL**: The ability to counsel yourself into making a right judgement and decision.
+4. **MIGHT**: To be brave and courageous.
+5. **KNOWLEDGE**: Understanding of information obtained by experience or study.
+6. **FEAR OF THE LORD**: Confidences in God, whose providence surrounds and provides for our needs. Confidence in God, banish all fear from the Heart. “Even when I walk through the Darkest Valley, I will not be afraid, for You are close beside me. Your Rod and Your Staff protect and comfort me.” (Psalm 23:4).
 
 “This is why I remind you to Fan into Flames the Spiritual Gift God gave you when I laid my hands on you. For God has not given us a Spirit of Fear and Timidity, but of Power, Love and Self Discipline.” (2 Timothy 1:6-7).
 
