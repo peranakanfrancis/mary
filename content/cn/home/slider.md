@@ -28,11 +28,11 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "教宗十一月祈祷意向"
-  content = "请为受苦的儿童祈祷"
+  title = "教宗十二月祈祷意向"
+  content = "请为志工组织祈祷"
   cta_label = "马上祈祷"
   align = "center"
-  cta_url = "https://www.vaticannews.va/zh/pope/news/2022-10/pope-november-prayer-intention-children-who-suffer.html"
+  cta_url = "https://www.vaticannews.va/zh/pope/news/2022-12/pope-december-prayer-intention-for-volunteer-organizations.html"
   cta_icon_pack = "fas"
   cta_icon = "glasses"
   overlay_color = "#555"  # An HTML color value.
