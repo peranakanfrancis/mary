@@ -6,7 +6,7 @@ authors:
 - admin
 tags: ["Proverbs"]
 categories: ["Bible Reflection"]
-date: "2022-11-05T00:00:00+08:00"
+date: "2022-12-05T00:00:00+08:00"
 featured: false
 draft: false
 
