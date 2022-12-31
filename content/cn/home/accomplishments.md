@@ -22,10 +22,10 @@ time_format ="3:04 PM"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "**圣诞节**"
+  title = "**天主之母节**"
   url = ""
   certificate_url = "https://drive.google.com/file/d/1x7xXxAeH4itwE_l7bz0OONnnVWPRRxj1/view?usp=sharing"
-  date_start = "2022-12-25"
-  date_end = "2023-01-01"
+  date_start = "2023-01-01"
+  date_end = "2023-01-08"
   description = "最新堂讯"
 +++
