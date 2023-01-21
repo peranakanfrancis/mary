@@ -29,11 +29,11 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Pope’s December Prayer Intention"
-  content = "For volunteer organizations"
+  title = "Pope’s January Prayer Intention"
+  content = "For educators"
   cta_label = "Pray Now"
   align = "center"
-  cta_url = "vaticannews.va/en/pope/news/2022-12/pope-december-prayer-intention-for-volunteer-organizations.html"
+  cta_url = "https://www.vaticannews.va/en/pope/news/2023-01/pope-francis-january-prayer-intention-for-educators.html"
   cta_icon_pack = "fas"
   cta_icon = "glasses"
   overlay_color = "#555"  # An HTML color value.

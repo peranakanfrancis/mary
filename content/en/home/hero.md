@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Welcome to Church of The Holy Name of Mary Permatang Tinggi"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "home/banner.png"
+hero_media = "home/banner2.jpeg"
 
 [design.background]
   # Apply a background color, gradient, or image.

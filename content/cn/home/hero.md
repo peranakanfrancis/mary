@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "欢迎来到峇冬丁宜圣母圣名堂"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "home/banner.png"
+hero_media = "home/banner2.jpeg"
 
 [design.background]
   # Apply a background color, gradient, or image.

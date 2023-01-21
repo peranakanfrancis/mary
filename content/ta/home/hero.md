@@ -1,7 +1,7 @@
 +++
 active = true
 headless = true
-hero_media = "home/banner.png"
+hero_media = "home/banner2.jpeg"
 title = "Welcome to Church of The Holy Name of Mary Permatang Tinggi"
 weight = 10
 widget = "hero"
