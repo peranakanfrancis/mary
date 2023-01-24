@@ -42,18 +42,16 @@ hero_media = "home/banner2.jpeg"
   label = "Mass Offering"
 
 +++
-## He went in and said to her, "Rejoice, you who enjoy God's favor! The Lord is with you." - Luke 1:28
-
 Welcome to **Church of The Holy Name of Mary Permatang Tinggi**. Come join us to celebrate mass together. [Our Location](https://goo.gl/maps/KrdspqMCE5Ph75Qe7).
 
-### Saturday
-- **Novena** 5.30pm
-- **English Mass** 6pm
-### Sunday
+### Saturday: **Novena & English Mass** 5.30pm
+### Sunday:
 - **Mandarin Mass** 8.30am
 - **Tamil Mass** 10.30am
 - **Bahasa Malaysia Mass** 4pm *(only on third Sunday every month at [St Joseph Chapel, Juru](https://goo.gl/maps/7MYpwFbJVaFvSCni7))*
-### Weekdays
-- **Tuesday - Friday Daily Mass** 7pm
-### Closed
-- *No Mass on Monday*
+### Weekdays:
+- **Tue, Wed & Fri Daily Mass** 7pm
+- **Thu Daily Mass** 8pm [St Mary Magdalena Chapel, Permatang Tinggi](https://goo.gl/maps/aXhaphtsp1jxXSkYA)
+#### Eucharist Adoration at St Mary Magdalena Chapel, Permatang Tinggi
+- **Tue - Sun** 8am - 6pm 
+##### Closed *(No Mass on Monday)*
