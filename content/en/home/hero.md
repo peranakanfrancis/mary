@@ -54,4 +54,5 @@ Welcome to **Church of The Holy Name of Mary Permatang Tinggi**. Come join us to
 - **Bahasa Malaysia Mass** 4pm *(only on the third Sunday of every month at [St Joseph Chapel, Juru](https://goo.gl/maps/7MYpwFbJVaFvSCni7))*
 
 #### Eucharist Adoration at [St Mary Magdalena Chapel, Permatang Tinggi](https://goo.gl/maps/aXhaphtsp1jxXSkYA)
-- **Tue - Sun** 8am - 6pm
+- **Tue - Sun:** 8am - 6pm
+- **Mon & Public Holiday:** Closed
