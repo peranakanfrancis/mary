@@ -29,11 +29,11 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Pope’s February prayer intention"
-  content = "For parishes to be open communities"
+  title = "Pope’s March prayer intention"
+  content = "For victims of abuse"
   cta_label = "Pray Now"
   align = "center"
-  cta_url = "https://www.vaticannews.va/en/pope/news/2023-01/pope-february-prayer-intention-for-parishes.html"
+  cta_url = "https://www.vaticannews.va/en/pope/news/2023-03/pope-s-march-prayer-intention-for-victims-of-abuse.html"
   cta_icon_pack = "fas"
   cta_icon = "glasses"
   overlay_color = "#555"  # An HTML color value.
