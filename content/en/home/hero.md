@@ -42,6 +42,7 @@ hero_media = "home/banner2.jpeg"
   label = "Mass Offering"
 
 +++
+### Journey together as a community of prayer
 Welcome to **Church of The Holy Name of Mary Permatang Tinggi**. Come join us to celebrate mass together. [Our Location](https://goo.gl/maps/KrdspqMCE5Ph75Qe7).
 
 ##### Mon: No Mass

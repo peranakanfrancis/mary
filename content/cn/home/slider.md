@@ -40,15 +40,15 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "建新堂线上捐献"
-  content = "欢迎大家慷慨乐捐，帮助我们建一座新教堂，好让我们的下一代有机会来教堂学耶稣的道理"
-  cta_label = "马上乐捐"
+  title = "三月主题"
+  content = "祈祷改变一切"
+  cta_label = ""
   align = "center"
-  cta_url = "/zh/project/donation-form/"
+  cta_url = ""
   cta_icon_pack = "fas"
-  cta_icon = "hand-holding-dollar"
+  cta_icon = "hands-praying"
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "slider/crowded.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "home/march.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]

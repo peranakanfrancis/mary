@@ -53,6 +53,18 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
+  title = "Theme for March"
+  content = "Prayer Changes Everything"
+  cta_label = ""
+  align = ""
+  cta_url = ""
+  cta_icon_pack = "fas"
+  cta_icon = "hands-praying"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "home/march.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "Spiritual Column"
   content = "Come and grow our spiritual life together with reflection written by retired priest Fr Augustine Wong"
   cta_label = "Read now"

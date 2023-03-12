@@ -42,6 +42,7 @@ hero_media = "home/banner2.jpeg"
   label = "奉献弥撒"
 
 +++
+### 并肩同行的一个祈祷团体
 欢迎大家前来我们的教堂参与弥撒，一起朝拜天主。[地图](https://goo.gl/maps/KrdspqMCE5Ph75Qe7)。
 
 ### 弥撒时间表
