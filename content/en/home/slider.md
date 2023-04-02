@@ -29,11 +29,23 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Pope’s March prayer intention"
-  content = "For victims of abuse"
+  title = "JOURNEY TOGETHER AS A COMMUNITY OF PRAYER"
+  content = "April Theme: Lord, Teach Us How to Pray"
+  cta_label = ""
+  align = ""
+  cta_url = ""
+  cta_icon_pack = "fas"
+  cta_icon = "hands-praying"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "stmarypt3.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = "Pope’s April Prayer Intention"
+  content = "For a nonviolent culture"
   cta_label = "Pray Now"
   align = "center"
-  cta_url = "https://www.vaticannews.va/en/pope/news/2023-03/pope-s-march-prayer-intention-for-victims-of-abuse.html"
+  cta_url = "https://www.vaticannews.va/en/pope/news/2023-03/pope-francis-april-prayer-intention-nonviolent-culture.html"
   cta_icon_pack = "fas"
   cta_icon = "glasses"
   overlay_color = "#555"  # An HTML color value.
@@ -50,18 +62,6 @@ height = ""
   cta_icon = "hand-holding-dollar"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "slider/crowded.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "Theme for March"
-  content = "Prayer Changes Everything"
-  cta_label = ""
-  align = ""
-  cta_url = ""
-  cta_icon_pack = "fas"
-  cta_icon = "hands-praying"
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "home/march.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]

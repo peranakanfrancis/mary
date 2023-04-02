@@ -16,6 +16,20 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 
+
+[[item]]
+  title = "ஒரு செப சமூகமாய் ஒன்றாக பயணித்தல்"
+  content = "ஏப்ரல்: ஆண்டவரே, எப்படி செபிப்பது என்று எங்களுக்கு கற்று தாரும்."
+  cta_label = ""
+  align = "center"
+  cta_url = ""
+  cta_icon_pack = "fas"
+  cta_icon = "hands-praying"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "home/april.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+
 [[item]]
   title = "பொதுக்காலத்தின் 30-ம் ஞாயிறு"
   content = "நமது தல அவையின் புதிய நிரல்களைப் பெற்றிடுங்கள்"
@@ -38,29 +52,5 @@ height = ""
   cta_icon = "hand-holding-dollar"
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "slider/crowded.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "மார்ச்சு"
-  content = "செபம் அனைத்தையும் மாற்றும்"
-  cta_label = ""
-  align = "center"
-  cta_url = ""
-  cta_icon_pack = "fas"
-  cta_icon = "hands-praying"
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "home/march.jpeg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "ஆன்ம கோடு"
-  content = "ஒய்வுப் பெற்ற அருட்பணி.தந்தை.அகஃத்தின் வோங் அவர்களுடன் வாருங்கள் வந்து அவர் தம் சிந்தனையுடன் உங்கள் ஆன்ம வாழ்வை வளப்படுத்திக் கொள்ளுங்கள்."
-  cta_label = "இப்பொழுதே வாசியுங்கள்"
-  align = "center"
-  cta_url = "#posts"
-  cta_icon_pack = "fas"
-  cta_icon = "book-reader"
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "stmarypt1.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
