@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Welcome to Church of The Holy Name of Mary Permatang Tinggi"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "home/banner2.jpeg"
+hero_media = "home/banner.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -42,7 +42,6 @@ hero_media = "home/banner2.jpeg"
   label = "Mass Offering"
 
 +++
-### Journey together as a community of prayer
 Welcome to **Church of The Holy Name of Mary Permatang Tinggi**. Come join us to celebrate mass together. [Our Location](https://goo.gl/maps/KrdspqMCE5Ph75Qe7).
 
 ##### Mon: No Mass

@@ -17,20 +17,8 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "Bulletin"
-  content = "Get the updated mass schedule and activity updates here."
-  cta_label = "Download Now"
-  align = "center"
-  cta_url = "#accomplishments"
-  cta_icon_pack = "fas"
-  cta_icon = "cloud-arrow-down"
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "stmarypt7.jpeg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
   title = "JOURNEY TOGETHER AS A COMMUNITY OF PRAYER"
-  content = "April Theme: Lord, Teach Us How to Pray"
+  content = "May: Holy Spirit Our Helper"
   cta_label = ""
   align = ""
   cta_url = ""
@@ -41,11 +29,11 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Pope’s April Prayer Intention"
-  content = "For a nonviolent culture"
+  title = "Pope’s May Prayer Intention"
+  content = "For ecclesial movements and groups"
   cta_label = "Pray Now"
   align = "center"
-  cta_url = "https://www.vaticannews.va/en/pope/news/2023-03/pope-francis-april-prayer-intention-nonviolent-culture.html"
+  cta_url = "https://www.vaticannews.va/en/pope/news/2023-05/pope-s-may-prayer-intention-for-ecclesial-movements-and-groups.html"
   cta_icon_pack = "fas"
   cta_icon = "glasses"
   overlay_color = "#555"  # An HTML color value.

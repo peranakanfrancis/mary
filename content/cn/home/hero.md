@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "欢迎来到峇冬丁宜圣母圣名堂"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "home/banner2.jpeg"
+hero_media = "home/banner.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -42,7 +42,6 @@ hero_media = "home/banner2.jpeg"
   label = "奉献弥撒"
 
 +++
-### 并肩同行的一个祈祷团体
 欢迎大家前来我们的教堂参与弥撒，一起朝拜天主。[地图](https://goo.gl/maps/KrdspqMCE5Ph75Qe7)。
 
 ### 弥撒时间表

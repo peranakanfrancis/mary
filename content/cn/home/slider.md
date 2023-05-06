@@ -16,22 +16,10 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "最新堂讯"
-  content = "这个礼拜教堂的活动时间表都在这里"
-  cta_label = "马上下载"
-  align = "center"
-  cta_url = "#accomplishments"
-  cta_icon_pack = "fas"
-  cta_icon = "cloud-arrow-down"
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "stmarypt7.jpeg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
   title = "并肩同行的一个祈祷团体"
-  content = "四月主题: 主，请教导我们如何祈祷"
+  content = "五月 : 天主神圣我们的扶助者"
   cta_label = ""
-  align = "center"
+  align = "right"
   cta_url = ""
   cta_icon_pack = "fas"
   cta_icon = "hands-praying"
@@ -40,11 +28,11 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "教宗2023年4月祈祷意向"
-  content = "为非暴力文化祈祷"
+  title = "教宗2023年5月祈祷意向"
+  content = "为教会运动与团体祈祷"
   cta_label = "马上祈祷"
   align = "center"
-  cta_url = "https://www.vaticannews.va/zh/pope/news/2023-03/pope-francis-april-prayer-intention-nonviolent-culture.html"
+  cta_url = "https://www.vaticannews.va/zh/pope/news/2023-05/pope-francis-may-prayer-intefor-ecclesial-movements-groups.html"
   cta_icon_pack = "fas"
   cta_icon = "glasses"
   overlay_color = "#555"  # An HTML color value.
