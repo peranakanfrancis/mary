@@ -19,9 +19,9 @@ date_format = "May 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "REV FR LOUIS LOI"
-  company = "Parish Priest"
+  company = "Diocese of Penang"
   company_url = ""
-  location = "Permatang Tinggi"
+  location = ""
   date_start = "2021-03-25"
   date_end = ""
   description = """
@@ -45,10 +45,10 @@ date_format = "May 2006"
   """
 
 [[experience]]
-  title = "SISTER ELIZABATH"
-  company = "Infant Jesus Sister"
-  company_url = "https://www.infantjesussisters.org/malaysia"
-  location = "Melaka"
+  title = "SISTER JESSICA"
+  company = "Little Sister of The Poor"
+  company_url = ""
+  location = ""
   date_start = "2020-01-01"
   date_end = ""
   description = """
@@ -56,10 +56,23 @@ date_format = "May 2006"
   """
 
 [[experience]]
+  title = "SISTER ELIZABATH"
+  company = "Infant Jesus Sister"
+  company_url = ""
+  location = ""
+  date_start = "2020-01-01"
+  date_end = ""
+  description = """
+  The Little Sisters of the Poor are an international congregation of Roman Catholic women religious founded in 1839 by St Jeanne Jugan. Together with a diverse network of collaborators, they serve the elderly poor in over 30 countries around the world.
+
+  Continuing the work of St Jeanne Jugan, their MISSION is to offer the neediest elderly of every race and religion a home where they will be welcomed as Christ, cared for as family and accompanied with dignity until God calls them to himself.
+  """
+
+[[experience]]
   title = "Fr Augustine Wong"
-  company = "Spiritual Column"
-  company_url ="/ta/spiritual-column"
-  location = "Permatang Tinggi"
+  company = "Diocese of Penang"
+  company_url =""
+  location = ""
   date_start = "2011-01-01"
   date_end = "2021-03-25"
   description = "Fr Augustine Wong, who has already retired in 2021, is currently living a retired spiritual life. Although he no longer manages the church, he still devotes time to write Reflections on Gospel for us to reflect on."
