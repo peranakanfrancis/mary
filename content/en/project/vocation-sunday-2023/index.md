@@ -14,4 +14,4 @@ image:
 ---
 
 {{< youtube 4cqCEMoDA8c >}}
-{{< figure src="/img/project/vocation-sunday-2023-english.png" >}}
+{{< figure src="/img/project/general-vocation-camp.jpg" >}}

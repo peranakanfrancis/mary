@@ -19,7 +19,7 @@ height = ""
 
 [[item]]
   title = "ஒரு செப சமூகமாய் ஒன்றாக பயணித்தல்"
-  content = "ஏப்ரல்: ஆண்டவரே, எப்படி செபிப்பது என்று எங்களுக்கு கற்று தாரும்."
+  content = "மே: தூய ஆவி, நம் துணைாளர்."
   cta_label = ""
   align = "center"
   cta_url = ""
@@ -29,6 +29,17 @@ height = ""
   overlay_img = "stmarypt3.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
+[[item]]
+  title = "Pope’s June Prayer Intention"
+  content = "சித்ரவதைகளை நிறுத்தி, மனித மாண்பை உயர்த்திப் பிடிக்க வேண்டும்"
+  cta_label = "Pray Now"
+  align = "center"
+  cta_url = "https://www.vaticannews.va/ta/pope/news/2023-05/stop-horror-torture-pope-june-prayer-intention.html"
+  cta_icon_pack = "fas"
+  cta_icon = "glasses"
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "slider/pope.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "பொதுக்காலத்தின் 30-ம் ஞாயிறு"

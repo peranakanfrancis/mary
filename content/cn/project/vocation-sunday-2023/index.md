@@ -12,4 +12,4 @@ image:
   focal_point: "Top"
 ---
 {{< youtube RvTti9WnN1g >}}
-{{< figure src="/img/project/vocation-sunday-2023-mandarin.png" >}}
+{{< figure src="/img/project/general-vocation-camp.jpg" >}}

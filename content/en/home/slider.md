@@ -18,7 +18,7 @@ height = ""
 
 [[item]]
   title = "JOURNEY TOGETHER AS A COMMUNITY OF PRAYER"
-  content = "May: Holy Spirit Our Helper"
+  content = "June: Conversation with God"
   cta_label = ""
   align = ""
   cta_url = ""
@@ -29,11 +29,11 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Pope’s May Prayer Intention"
-  content = "For ecclesial movements and groups"
+  title = "Pope’s June Prayer Intention"
+  content = "For an abolition of torture"
   cta_label = "Pray Now"
   align = "center"
-  cta_url = "https://www.vaticannews.va/en/pope/news/2023-05/pope-s-may-prayer-intention-for-ecclesial-movements-and-groups.html"
+  cta_url = "https://www.vaticannews.va/en/pope/news/2023-05/pope-june-prayer-intention-for-an-abolition-of-torture.html"
   cta_icon_pack = "fas"
   cta_icon = "glasses"
   overlay_color = "#555"  # An HTML color value.
