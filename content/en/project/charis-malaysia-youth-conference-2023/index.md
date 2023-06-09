@@ -11,13 +11,15 @@ image:
   caption:
   focal_point: 
 ---
+Date: 29 June 2023 – 2 July 2023
 
-- Date: 29 June 2023 – 2 July 2023
-- Venue: Minor Basilica of St. Anne, Penang
-- Recommended age: 18 to 35
+Venue: Minor Basilica of St. Anne, Penang
 
-- Register: https://forms.gle/6aiEXgbDbZJAefqG9 
-- Registration deadline : 15 June 2023
+Recommended age: 18 to 35
+
+Register: https://forms.gle/6aiEXgbDbZJAefqG9 
+
+Registration deadline : 15 June 2023
 
 > “We do not travel the path to holiness by ourselves, … but together, …loved and made holy by the Lord Jesus Christ.” ~ Pope Francis.
 
