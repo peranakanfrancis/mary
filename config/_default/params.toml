@@ -6,7 +6,7 @@ microsoft_clarity = ""
 
 # Color theme.
 #   Choose from `default(White - Easter)`, `ocean`, `forest(Green - Ordinary Time)`, `dark`, `apogee`, `1950s`, `coffee`, `rose (Red)`, `strawberry (Purple - Lent)`.
-color_theme = "rose"
+color_theme = "forest"
 # Enable users to switch between day and night mode?
 day_night = true
 
