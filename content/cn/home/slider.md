@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "并肩同行的一个祈祷团体"
-  content = "六月 : 与主倾谈"
+  content = "七月 : 不要挂虑，只在一切事上祈祷"
   cta_label = ""
   align = "right"
   cta_url = ""
@@ -28,11 +28,11 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "教宗2023年6月祈祷意向"
-  content = "为废除酷刑祈祷"
+  title = "教宗2023年7月祈祷意向"
+  content = "为感恩圣事生活祈祷"
   cta_label = "马上祈祷"
   align = "center"
-  cta_url = "https://www.vaticannews.va/zh/pope/news/2023-05/pope-june-prayer-intention-for-an-abolition-of-torture.html"
+  cta_url = "https://www.vaticannews.va/zh/pope/news/2023-07/pope-francis-videomessa-prayer-intention-month-july-eucharistic.html"
   cta_icon_pack = "fas"
   cta_icon = "glasses"
   overlay_color = "#555"  # An HTML color value.
