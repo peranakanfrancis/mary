@@ -29,11 +29,11 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Pope’s July Prayer Intention"
-  content = "For a Eucharistic life"
+  title = "Pope’s August Prayer Intention"
+  content = "For World Youth Day in Lisbon"
   cta_label = "Pray Now"
   align = "center"
-  cta_url = "https://www.vaticannews.va/en/pope/news/2023-07/pope-francis-videomessa-prayer-intention-month-july-eucharistic.html"
+  cta_url = "https://www.vaticannews.va/en/pope/news/2023-07/pope-francis-august-prayer-intention-world-youth-day-2023-lisbon.html"
   cta_icon_pack = "fas"
   cta_icon = "glasses"
   overlay_color = "#555"  # An HTML color value.
