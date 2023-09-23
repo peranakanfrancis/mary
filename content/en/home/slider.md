@@ -18,7 +18,7 @@ height = ""
 
 [[item]]
   title = "JOURNEY TOGETHER AS A COMMUNITY OF PRAYER"
-  content = "July: Worry nothing, pray for everything"
+  content = "Sep: Praying With A Listening Heart"
   cta_label = ""
   align = ""
   cta_url = ""
@@ -29,11 +29,11 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Pope’s August Prayer Intention"
-  content = "For World Youth Day in Lisbon"
+  title = "Pope’s September Prayer Intention"
+  content = "For people living on the margins"
   cta_label = "Pray Now"
   align = "center"
-  cta_url = "https://www.vaticannews.va/en/pope/news/2023-07/pope-francis-august-prayer-intention-world-youth-day-2023-lisbon.html"
+  cta_url = "https://www.vaticannews.va/en/pope/news/2023-08/pope-francis-september-prayer-intention-marginalization.html"
   cta_icon_pack = "fas"
   cta_icon = "glasses"
   overlay_color = "#555"  # An HTML color value.

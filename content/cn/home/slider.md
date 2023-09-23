@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "并肩同行的一个祈祷团体"
-  content = "七月 : 不要挂虑，只在一切事上祈祷"
+  content = "九月 : 以聆听的心祈祷"
   cta_label = ""
   align = "right"
   cta_url = ""
