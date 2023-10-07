@@ -18,7 +18,7 @@ height = ""
 
 [[item]]
   title = "JOURNEY TOGETHER AS A COMMUNITY OF PRAYER"
-  content = "Sep: Praying With A Listening Heart"
+  content = "Oct: Pray with Mother Mary"
   cta_label = ""
   align = ""
   cta_url = ""
@@ -30,10 +30,10 @@ height = ""
 
 [[item]]
   title = "Pope’s September Prayer Intention"
-  content = "For people living on the margins"
+  content = "For the Synod"
   cta_label = "Pray Now"
   align = "center"
-  cta_url = "https://www.vaticannews.va/en/pope/news/2023-08/pope-francis-september-prayer-intention-marginalization.html"
+  cta_url = "https://www.vaticannews.va/en/pope/news/2023-09/pope-francis-prayer-intention-september-for-the-synod.html"
   cta_icon_pack = "fas"
   cta_icon = "glasses"
   overlay_color = "#555"  # An HTML color value.

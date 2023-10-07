@@ -19,7 +19,7 @@ height = ""
 
 [[item]]
   title = "ஒரு செப சமூகமாய் ஒன்றாக பயணித்தல்"
-  content = "செப்டம்பர் - செவிமடுக்கும் உள்ளத்துடன் மன்றாடுங்கள்"
+  content = "அக்தோபர் - மரியாவுடன் மன்றாடுங்கள்"
   cta_label = ""
   align = "center"
   cta_url = ""
@@ -31,10 +31,10 @@ height = ""
 
 [[item]]
   title = "Pope’s July Prayer Intention"
-  content = "திருப்பலியை வாழ்வில் மையமாகக்கொண்டுச் செயல்பட"
+  content = "திருத்தந்தையின் அக்டோபர் மாத செபக்கருத்து"
   cta_label = "Pray Now"
   align = "center"
-  cta_url = "https://www.vaticannews.va/ta/pope/news/2023-07/popes-message-for-the-month-of-july-eucharistic-life.html"
+  cta_url = "https://www.vaticannews.va/ta/pope/news/2023-09/october-prayer-intension.html"
   cta_icon_pack = "fas"
   cta_icon = "glasses"
   overlay_color = "#555"  # An HTML color value.
