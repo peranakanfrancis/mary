@@ -1,6 +1,6 @@
 ---
 title: '28th Sunday in Ordinary Time'
-subtitle: 'TThe Visitation of Holy Mary, Mother of God'
+subtitle: 'The Visitation of Holy Mary, Mother of God'
 summary: 'The Visitation of Holy Mary, Mother of God'
 authors:
 - admin
