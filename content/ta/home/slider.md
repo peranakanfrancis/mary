@@ -31,7 +31,8 @@ height = ""
 
 [[item]]
   title = "Pope’s July Prayer Intention"
-  content = "திருத்தந்தையின் அக்டோபர் மாத செபக்கருத்து"
+  content = "சமுதாயத்திலுள்ள மற்ற எல்லோருடனும் மாற்றுத்திறனாளிகளையும் ஒன்றிணைக்கும் விதமாக அவர்களை ஊக்குவிக்கும் திட்டங்களும் முன்முயற்சிகளும் தேவைப்படுகின்றன : திருத்தந்தை பிரான்சிஸ்
+"
   cta_label = "Pray Now"
   align = "center"
   cta_url = "https://www.vaticannews.va/ta/pope/news/2023-09/october-prayer-intension.html"
