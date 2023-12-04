@@ -29,11 +29,11 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "டிசம்பர் மாதத்திற்கான திருத்தந்தையின் செபக் கருத்து"
-  content = "குறைபாடுகள் உள்ளவர்களுக்கு"
+  title = "Pope’s December prayer intention"
+  content = "For people with disabilities"
   cta_label = "Pray Now"
   align = "center"
-  cta_url = "https://www.vaticannews.va/ta/pope/news/2023-11/pope-intention-december-2023.html"
+  cta_url = "https://www.vaticannews.va/en/pope/news/2023-11/pope-francis-december-prayer-intention-people-disabilities.html"
   cta_icon_pack = "fas"
   cta_icon = "glasses"
   overlay_color = "#555"  # An HTML color value.

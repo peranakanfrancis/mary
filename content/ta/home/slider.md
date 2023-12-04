@@ -30,12 +30,11 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Pope’s July Prayer Intention"
-  content = "சமுதாயத்திலுள்ள மற்ற எல்லோருடனும் மாற்றுத்திறனாளிகளையும் ஒன்றிணைக்கும் விதமாக அவர்களை ஊக்குவிக்கும் திட்டங்களும் முன்முயற்சிகளும் தேவைப்படுகின்றன : திருத்தந்தை பிரான்சிஸ்
-"
+  title = "டிசம்பர் மாதத்திற்கான திருத்தந்தையின் செபக் கருத்து"
+  content = "குறைபாடுகள் உள்ளவர்களுக்கு"
   cta_label = "Pray Now"
   align = "center"
-  cta_url = "https://www.vaticannews.va/ta/pope/news/2023-09/october-prayer-intension.html"
+  cta_url = "https://www.vaticannews.va/ta/pope/news/2023-11/pope-intention-december-2023.html"
   cta_icon_pack = "fas"
   cta_icon = "glasses"
   overlay_color = "#555"  # An HTML color value.
