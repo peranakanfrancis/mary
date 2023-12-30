@@ -17,15 +17,15 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "JOURNEY TOGETHER AS A COMMUNITY OF PRAYER"
-  content = "Dec : He Listens To Us"
+  title = "THEME OF YEAR 2024:"
+  content = "Your Word Is A Lamp for My Feet, A Light on My Path. (Psalm 119:105)"
   cta_label = ""
   align = ""
   cta_url = ""
   cta_icon_pack = "fas"
   cta_icon = "hands-praying"
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "stmarypt3.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "bible_lamp.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]

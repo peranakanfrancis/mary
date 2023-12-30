@@ -16,15 +16,15 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "并肩同行的一个祈祷团体"
-  content = "十二月 : 祂聆听我们"
+  title = "2024年主题："
+  content = "你的言语是我步履前的灵灯，是我路途上的光明（咏 119：105）"
   cta_label = ""
-  align = "right"
+  align = ""
   cta_url = ""
   cta_icon_pack = "fas"
   cta_icon = "hands-praying"
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "stmarypt3.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "bible_lamp.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
